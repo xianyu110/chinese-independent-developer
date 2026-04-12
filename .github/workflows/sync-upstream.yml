@@ -1,0 +1,47 @@
+name: Sync Upstream
+
+on:
+  schedule:
+    # 每天北京时间 10:00 检查一次（UTC 02:00）
+    - cron: '0 2 * * *'
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream and sync
+        run: |
+          git remote add upstream https://github.com/1c7/chinese-independent-developer.git
+          git fetch upstream
+
+          UPSTREAM_DEFAULT="upstream/master"
+          LOCAL_DEFAULT="master"
+
+          # 检查是否有新的提交需要同步
+          LOCAL_SHA=$(git rev-parse $LOCAL_DEFAULT)
+          UPSTREAM_SHA=$(git rev-parse $UPSTREAM_DEFAULT)
+
+          if [ "$LOCAL_SHA" = "$UPSTREAM_SHA" ]; then
+            echo "Already up to date."
+            exit 0
+          fi
+
+          echo "New commits found. Merging..."
+          git merge $UPSTREAM_DEFAULT --no-edit
+
+          git push origin $LOCAL_DEFAULT
