@@ -44,4 +44,8 @@ jobs:
           echo "New commits found. Merging..."
           git merge $UPSTREAM_DEFAULT --no-edit
 
-          git push origin $LOCAL_DEFAULT
+      - name: Regenerate projects.json
+        run: python3 .github/scripts/generate_projects_json.py
+
+      - name: Push changes
+        run: git push origin $LOCAL_DEFAULT
