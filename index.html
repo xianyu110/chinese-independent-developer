@@ -166,6 +166,79 @@ h1 {
   outline: none;
   box-shadow: inset var(--pixel) var(--pixel) 0 0 rgba(65,255,122,0.1);
 }
+.latest-panel {
+  max-width: 900px;
+  margin: 0 auto 20px;
+  padding: 18px 20px;
+  background: linear-gradient(135deg, rgba(65,255,122,0.12), rgba(127,219,255,0.08) 55%, rgba(255,121,198,0.08));
+}
+.latest-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-start;
+  margin-bottom: 14px;
+}
+.latest-title {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 12px;
+  color: var(--green);
+  margin-bottom: 8px;
+}
+.latest-date {
+  color: var(--yellow);
+  font-size: 15px;
+}
+.latest-hint {
+  color: var(--text2);
+  font-size: 13px;
+}
+.latest-count {
+  flex-shrink: 0;
+  color: var(--cyan);
+  font-family: 'Press Start 2P', monospace;
+  font-size: 11px;
+  padding-top: 2px;
+}
+.latest-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+}
+.latest-item {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  background: rgba(26,25,50,0.85);
+  border: 2px solid rgba(65,255,122,0.35);
+  padding: 12px 14px;
+  transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+}
+.latest-item:hover {
+  transform: translateY(-2px);
+  border-color: var(--green);
+  box-shadow: 0 4px 0 rgba(65,255,122,0.2);
+}
+.latest-item-name {
+  color: var(--text);
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+.latest-item-meta {
+  color: var(--cyan);
+  font-size: 13px;
+  margin-bottom: 6px;
+}
+.latest-item-desc {
+  color: var(--text2);
+  font-size: 13px;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 .search-wrap input:focus {
   border-color: var(--yellow);
   box-shadow: inset var(--pixel) var(--pixel) 0 0 rgba(255,205,117,0.1), 0 0 12px rgba(255,205,117,0.2);
@@ -449,6 +522,8 @@ footer a:hover { color: var(--green); }
   .project-list { grid-template-columns: 1fr; }
   .stats-bar { gap: 8px; }
   .stat-item { padding: 8px 12px; }
+  .latest-head { flex-direction: column; }
+  .latest-list { grid-template-columns: 1fr; }
   .controls { flex-direction: column; }
   .search-wrap { min-width: 100%; }
   h1 { letter-spacing: 2px; }
@@ -489,6 +564,18 @@ footer a:hover { color: var(--green); }
     <span class="stat-label">开发者</span>
   </div>
 </div>
+
+<section class="latest-panel pixel-border" id="latestPanel" style="display:none;">
+  <div class="latest-head">
+    <div>
+      <div class="latest-title">LATEST DROP</div>
+      <div class="latest-date" id="latestDate">最新收录：加载中...</div>
+      <div class="latest-hint" id="latestHint">README 更新后，这里会优先显示最近收录的项目</div>
+    </div>
+    <div class="latest-count" id="latestCount">-- ITEMS</div>
+  </div>
+  <div class="latest-list" id="latestList"></div>
+</section>
 
 <div class="controls">
   <div class="search-wrap">
@@ -566,6 +653,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     allProjects = await resp.json();
     document.getElementById('loadingScreen').style.display = 'none';
     updateStats();
+    renderLatestShowcase();
     buildCategoryButtons();
     applyFilters();
   } catch (e) {
@@ -658,6 +746,53 @@ function buildCategoryButtons() {
     });
     container.appendChild(btn);
   });
+}
+
+function renderLatestShowcase() {
+  const panel = document.getElementById('latestPanel');
+  const latestList = document.getElementById('latestList');
+  if (!allProjects.length) {
+    panel.style.display = 'none';
+    return;
+  }
+
+  const latestDate = allProjects[0].date;
+  const latestProjects = allProjects.filter(p => p.date === latestDate).slice(0, 6);
+
+  document.getElementById('latestDate').textContent = '最新收录：' + latestDate;
+  document.getElementById('latestHint').textContent = '当前批次共 ' + allProjects.filter(p => p.date === latestDate).length + ' 个项目，优先展示前 6 个';
+  document.getElementById('latestCount').textContent = String(latestProjects.length).padStart(2, '0') + ' ITEMS';
+
+  latestList.innerHTML = '';
+  const frag = document.createDocumentFragment();
+
+  latestProjects.forEach(project => {
+    const item = document.createElement('a');
+    item.className = 'latest-item';
+    item.href = project.url;
+    item.target = '_blank';
+    item.rel = 'noopener noreferrer';
+
+    const name = document.createElement('div');
+    name.className = 'latest-item-name';
+    name.textContent = project.name;
+    item.appendChild(name);
+
+    const meta = document.createElement('div');
+    meta.className = 'latest-item-meta';
+    meta.textContent = project.author ? ('@ ' + project.author) : '新收录项目';
+    item.appendChild(meta);
+
+    const desc = document.createElement('div');
+    desc.className = 'latest-item-desc';
+    desc.textContent = project.description || '暂无描述';
+    item.appendChild(desc);
+
+    frag.appendChild(item);
+  });
+
+  latestList.appendChild(frag);
+  panel.style.display = 'block';
 }
 
 function applyFilters() {
