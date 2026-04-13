@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      LOCAL_DEFAULT: master
+      UPSTREAM_DEFAULT: upstream/master
 
     steps:
       - name: Checkout
@@ -29,9 +32,6 @@ jobs:
           git remote add upstream https://github.com/1c7/chinese-independent-developer.git
           git fetch upstream
 
-          UPSTREAM_DEFAULT="upstream/master"
-          LOCAL_DEFAULT="master"
-
           # 检查是否有新的提交需要同步
           LOCAL_SHA=$(git rev-parse $LOCAL_DEFAULT)
           UPSTREAM_SHA=$(git rev-parse $UPSTREAM_DEFAULT)
@@ -47,5 +47,15 @@ jobs:
       - name: Regenerate projects.json
         run: python3 .github/scripts/generate_projects_json.py
 
+      - name: Commit generated data
+        run: |
+          if git diff --quiet -- projects.json; then
+            echo "projects.json is up to date."
+            exit 0
+          fi
+
+          git add projects.json
+          git commit -m "chore: refresh projects data"
+
       - name: Push changes
-        run: git push origin $LOCAL_DEFAULT
+        run: git push origin HEAD:$LOCAL_DEFAULT
