@@ -521,6 +521,7 @@ footer a:hover { color: var(--green); }
 
 <footer>
   <p style="margin-top:8px;">用 <span class="pixel-heart">&#9829;</span> 和像素构建</p>
+  <p style="margin-top:8px;color:rgba(167,169,190,0.5);font-size:12px;" id="lastUpdate">最后更新：加载中...</p>
 </footer>
 
 <button class="back-top" id="backTop" title="回到顶部">&#9650;</button>
@@ -833,6 +834,11 @@ function updateStats() {
   animateNumber('stat-dev', dev);
   animateNumber('stat-off', off);
   animateNumber('stat-authors', authors);
+
+  const latestDate = allProjects.length > 0 ? allProjects[0].date : '';
+  if (latestDate) {
+    document.getElementById('lastUpdate').textContent = '最后更新：' + latestDate;
+  }
 }
 
 function animateNumber(id, target) {
