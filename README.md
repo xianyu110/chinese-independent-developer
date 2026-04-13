@@ -12,6 +12,9 @@
 所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 <br/>
 （入选标准：必须是网站或App，不能是开发者工具或论坛型网站）
 
+**写好介绍语很重要**：❌ `AI 视频生成工具` → ✅ `无需剪辑经验，3 步生成竖屏短视频`<br/>
+👉 [如何写好一句话产品介绍](./CONTRIBUTING.md)
+
 **2. 项目有 3 种状态**
 
 | 开发中 | 已上线 | 已关闭或缺乏维护 |
@@ -19,6 +22,23 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+
+### 2026 年 4 月 12 号添加
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [Before After Photo Maker](https://beforeafterphotomaker.site/)：在线前后对比图、视频、GIF动图制作，支持多种对比布局（并排展示、交互式滑块对比、分割视图、垂直堆叠）
+
+#### garfi99 - [Github](https://github.com/garfi99)
+* :white_check_mark: [有名](https://nomai.data-ext.com)：用 AI 取好名字的网站，找到独特、易于品牌化的名称
+
+#### kerryhank - [Github](https://github.com/kerryhank)
+* :white_check_mark: [KK Investing](https://kkinvesting.io)：多语言加密货币教育平台，提供交易所注册教程、加密卡评测、DeFi 借贷指南
+
+#### bytevirts - [Github](https://github.com/bytevirts)
+* :white_check_mark: [toolsclaw.com](https://toolsclaw.com)：AI 工具目录，精选 AI 图像生成、视频创作、效率应用和 SaaS 解决方案
+
+#### vorojar - [Github](https://github.com/vorojar)
+* :white_check_mark: [MD Preview](https://github.com/vorojar/md-preview)：Rust 写的超轻量 Markdown 预览工具，替代 Electron 方案
 
 ### 2026 年 4 月 11 号添加
 
