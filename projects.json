@@ -1,5 +1,45 @@
 [
   {
+    "name": "egos",
+    "url": "https://egosapp.com",
+    "status": "online",
+    "description": "零配置mini-NAS，个人设备文件传输和分享",
+    "author": "河池",
+    "authorGithub": "https://github.com/superbogy",
+    "date": "2026 年 4 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "热点智读",
+    "url": "https://ainsight.aiext.co",
+    "status": "online",
+    "description": "不止看热点，更是懂逻辑；2分钟，看趋势，见未来",
+    "author": "anyfly8",
+    "authorGithub": "https://github.com/anyfly8",
+    "date": "2026 年 4 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Qwen Image",
+    "url": "https://imagebyqwen.com/",
+    "status": "online",
+    "description": "AI 图像生成",
+    "author": "zhaomario1",
+    "authorGithub": "https://github.com/zhaomario1",
+    "date": "2026 年 4 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "thesis_paper",
+    "url": "https://github.com/dong2019/thesis_paper",
+    "status": "online",
+    "description": "学位论文审查工具，调用大模型审查语言、参考文献、图表等问题",
+    "author": "dong2019",
+    "authorGithub": "https://github.com/dong2019",
+    "date": "2026 年 4 月 13 号添加",
+    "category": "main"
+  },
+  {
     "name": "Before After Photo Maker",
     "url": "https://beforeafterphotomaker.site/",
     "status": "online",
