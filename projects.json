@@ -1,5 +1,15 @@
 [
   {
+    "name": "草灰笔记",
+    "url": "https://github.com/stardust1900/ashes_note",
+    "status": "online",
+    "description": "基于Flutter开发的跨平台笔记应用，专注于笔记管理功能。同时还是一款epub阅读器，可以将读书笔记以markdown格式直接导出到笔记管理中。",
+    "author": "王一舠(南京)",
+    "authorGithub": "https://github.com/stardust1900",
+    "date": "2026 年 4 月 14 号添加",
+    "category": "main"
+  },
+  {
     "name": "egos",
     "url": "https://egosapp.com",
     "status": "online",
