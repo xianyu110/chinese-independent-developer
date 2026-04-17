@@ -24,19 +24,66 @@
 ## 3. 项目列表
 
 
-### 2026 年 4 月 15 号添加
+### 2026 年 4 月 16 号添加
+
+#### Sun(山东) -
+* :white_check_mark: [IndieCN](https://indiecn.app)：中文独立开发者简讯，每周精选 20~30 张核心资讯卡片
+
+#### Ivanvolt(WH)
+* :white_check_mark: [Epochal](https://epochal.app)：解决 AI 视频生成不一致和流程割裂问题的一站式创作工具。
+
+#### WRCoding - [Github](https://github.com/WRCoding), [X](https://x.com/seazon000)
+* :white_check_mark: [imgpilot](https://imgpilot.app/)：对话生图，与以往的 prompt 生图不同，能够像聊天一样多轮迭代，逐步打磨出理想画面，支持上传参考图编辑或将 prompt 生成好的图片继续迭代，同时持续更新 prompts 库
+
+#### labflying - [Github](https://github.com/labflying)
+* :white_check_mark: [SongFromShort](https://songfromshort.org)：识别 YouTube Shorts 视频中播放的歌曲的网站
+
+#### businesszh - [Github](https://github.com/businesszh)
+* :white_check_mark: [gptimage2.art](https://gptimage2.art/)：基于浏览器的图像生成、编辑、放大与视觉转换一体化工作流，适用于快速创意生产、轻量实验和便捷访问常用工具。
+
+#### eileendai0505-boop - [Github](https://github.com/eileendai0505-boop)
+* :white_check_mark: [Best HEIC to PNG Converter](https://heictopng.org/)：将苹果 HEIC 格式图片转换为 PNG 格式，解决兼容性问题
+
+#### hebrewbear - [Github](https://github.com/hebrewbear)
+* :white_check_mark: [Seedance 2.0](https://seedances.app/)：AI 视频生成，支持原生音频和 2K 分辨率，通过先进的多模态输入将创意转化为电影级现实。
+
+#### xinhuokeji - [Github](https://github.com/xinhuokeji)
+* :white_check_mark: [audjust.ai](https://audjust.ai/)：智能音频编辑与 AI 音乐生成工具，帮助处理音频文件（智能缩短歌曲、延长音频、寻找完美无缝循环）并从文字描述、歌词或图片生成完整音乐轨道。支持多种风格，内置 MIDI 编辑器、音轨分离、Lo-fi 转换等专业工具。
+
+####  MaynorAI (深圳) AI快讯助手
+* :white_check_mark: [AI快讯助手](https://nav.chatgpt-plus.top/)：每日 AI 资讯，实时更新
+
+#### Chaoc2624 - [Github](https://github.com/Chaoc2624)
+* :white_check_mark: [Frame.Extractor](https://frame-extractor.app)：多样化隐私安全的 Web 提取视频帧工具
+
+#### Gierry - [Github](https://github.com/Gierry)
+* :white_check_mark: [SpokenType](https://spokentype.com)：AI 智能语音协作工具，支持实时翻译、语音转文字、口语优化、上下文理解与智能回复、个性化词典及多语言切换
+
+#### Frankenjoy123 - [Github](https://github.com/Frankenjoy123)
+* :white_check_mark: [imagepromptify.com](https://imagepromptify.com)：图片转描述提示工具
+
+#### hebrewbear - [Github](https://github.com/hebrewbear)
+* :white_check_mark: [LTX 2 AI Video Generator](https://ltxvideo.org/)：AI 视频生成器，可将创意提示即时转换为高质量视频
+
+#### hebrewbear - [Github](https://github.com/hebrewbear)
+* :white_check_mark: [Grok Video](https://grokvideo.pro/)：将想象转化为视频的 AI 视频生成网站
 
 #### Listing诊断器团队 - [GitHub](https://github.com/yifanyifan897645)
 * :white_check_mark: [Listing诊断器](https://yifanyifan897645.github.io/listing-analyzer/)：免费在线跨境电商 Listing 质量分析工具，支持亚马逊/速卖通/Shopify，检测标题长度、关键词密度、卖点结构，给出优化建议。纯浏览器端处理，无需注册，数据不上传。
 
+#### Joey - [Github](https://github.com/Frankenjoy123)
+* :white_check_mark: [ImagePromptify](https://imagepromptify.com/)：最好用的图片转描述提示工具
+
+#### largepuma - [Github](https://github.com/largepuma)
+* :white_check_mark: [思畅 AI](https://sichang.xyz/)：私密、无审查、本地优先的中文AI对话
 
 ### 2026 年 4 月 14 号添加
 
 #### 王一舠(南京) - [Github](https://github.com/stardust1900), [博客](https://wangxuan.me)
-* :white_check_mark: [草灰笔记](https://github.com/stardust1900/ashes_note)：基于Flutter开发的跨平台笔记应用，专注于笔记管理功能。同时还是一款epub阅读器，可以将读书笔记以markdown格式直接导出到笔记管理中。
+* :white_check_mark: [草灰笔记](https://github.com/stardust1900/ashes_note)：笔记应用，专注于笔记管理功能。同时还是一款epub阅读器，可以将读书笔记以markdown格式直接导出到笔记管理中 (基于Flutter开发, 跨平台)
 
 #### 河池 - [Github](https://github.com/superbogy), [博客](https://docs.egosapp.com/blog)
-* :white_check_mark: [egos](https://egosapp.com)：零配置mini-NAS，个人设备文件传输和分享
+* :white_check_mark: [egos](https://egosapp.com)：零配置 mini-NAS，个人设备文件传输和分享
 
 #### anyfly8 - [Github](https://github.com/anyfly8)
 * :white_check_mark: [热点智读](https://ainsight.aiext.co)：不止看热点，更是懂逻辑；2分钟，看趋势，见未来
