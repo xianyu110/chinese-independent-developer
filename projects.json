@@ -1,5 +1,25 @@
 [
   {
+    "name": "AI 对撞机",
+    "url": "https://null-object-0000.github.io/ai-clash/",
+    "status": "online",
+    "description": "大模型同屏比拼 Chrome 插件，内置裁判自动归纳终极答案",
+    "author": "null-object-0000 (上海)",
+    "authorGithub": "https://github.com/null-object-0000/ai-clash",
+    "date": "2026 年 4 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Wan AI",
+    "url": "https://wanai.dev/",
+    "status": "online",
+    "description": "AI 视频生成器，可将文本或图像转换为视频",
+    "author": "zongguowu",
+    "authorGithub": "https://github.com/zongguowu",
+    "date": "2026 年 4 月 17 号添加",
+    "category": "main"
+  },
+  {
     "name": "IndieCN",
     "url": "https://indiecn.app",
     "status": "online",
