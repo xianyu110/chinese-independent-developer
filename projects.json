@@ -1,5 +1,15 @@
 [
   {
+    "name": "GPTIMG2 AI",
+    "url": "https://gptimg2.ai",
+    "status": "online",
+    "description": "面向真实创作流程的 AI 图像与视频生成平台，支持产品视觉、海报素材、图内文字生成、参考图修订，以及从静态图延展到视频工作流。",
+    "author": "erickkkyt",
+    "authorGithub": "https://github.com/erickkkyt",
+    "date": "2026 年 4 月 18 号添加",
+    "category": "main"
+  },
+  {
     "name": "AI 对撞机",
     "url": "https://null-object-0000.github.io/ai-clash/",
     "status": "online",
