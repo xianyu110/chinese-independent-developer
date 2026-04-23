@@ -1,5 +1,55 @@
 [
   {
+    "name": "HTML 版 PPT",
+    "url": "https://ppt.metatool.chat/",
+    "status": "online",
+    "description": "多 Agent 协作架构，大纲专家负责搭建逻辑骨架，主题专家负责打磨视觉风格，设计师负责把每一页渲染成精致的 HTML 代码。",
+    "author": "weipengfei",
+    "authorGithub": "",
+    "date": "2026 年 4 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Square Face Generator",
+    "url": "https://squareface.me/",
+    "status": "online",
+    "description": "免费在线生成方形可爱头像，200+ 选项，实时预览，纯浏览器运行，无需注册，比 Flash 版快 10 倍。",
+    "author": "fishisnow",
+    "authorGithub": "https://github.com/fishisnow",
+    "date": "2026 年 4 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Pdf To MD Converter",
+    "url": "http://mdpdf.net/",
+    "status": "online",
+    "description": "一款免费的 PDF 转 Markdown 在线转换工具, 快速且精准地把 PDF 文件转换成简洁的 Markdown 格式。",
+    "author": "fishisnow",
+    "authorGithub": "https://github.com/fishisnow",
+    "date": "2026 年 4 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Stock Scope",
+    "url": "https://invest.fishisnow.xyz/",
+    "status": "online",
+    "description": "在一个平台中，快速看清投资机会、市场宽度、今日强势榜单。",
+    "author": "fishisnow",
+    "authorGithub": "https://github.com/fishisnow",
+    "date": "2026 年 4 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Basevolt",
+    "url": "https://basevolt.app",
+    "status": "online",
+    "description": "本地优先的 AI 数据库管理客户端。连接数据库，一键生成 Notion 风格的管理后台，承包你所有 Vibe Coding 项目的 CRUD。",
+    "author": "kiddyu",
+    "authorGithub": "https://github.com/kiddyuchina",
+    "date": "2026 年 4 月 22 号添加",
+    "category": "main"
+  },
+  {
     "name": "PlayByFingering",
     "url": "https://www.playbyfingering.com",
     "status": "online",
