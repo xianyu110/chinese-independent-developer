@@ -23,7 +23,19 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 23 号添加
+
+#### anyfly8 - [Github](https://github.com/anyfly8)
+* :white_check_mark: [xinsight智创汇](https://www.aiext.co/)：发现机会、跟踪变化，提供一站式情报决策支持
+
 ### 2026 年 4 月 22 号添加
+
+#### Qiuner - [Github](https://github.com/Qiuner)
+* :white_check_mark: [ai-application-roadmap](https://qiuner.github.io/ai-application-roadmap/zh/)：追踪 AI 应用工程演进的双语路线图，记录 MCP、Function Calling、Multi-agent 等技术的落地时间线、是否被吸收/过时/换名词
+* :white_check_mark: [claude-nexus](https://chromewebstore.google.com/detail/claude-nexus/mjlaeohblnaalakaflnchcmpoojjejka)：Claude.ai 增强插件，支持对话文件夹管理、时间线导航、Prompt 库和对话导出
+
+#### bytevirts - [Github](https://github.com/bytevirts)
+* :white_check_mark: [AI Image Editor](https://ai-image-editor.io)：在线 AI 修图与图片生成工具，支持抠图、消除、放大、风格化和基于提示词的图片编辑，并提供 [ChatGPT Image 2](https://ai-image-editor.io/chatgpt-image-2) 免费体验
 
 #### weipengfei
 * :white_check_mark: [HTML 版 PPT](https://ppt.metatool.chat/)：多 Agent 协作架构，大纲专家负责搭建逻辑骨架，主题专家负责打磨视觉风格，设计师负责把每一页渲染成精致的 HTML 代码。
