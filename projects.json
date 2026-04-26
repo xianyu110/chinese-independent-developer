@@ -1,5 +1,65 @@
 [
   {
+    "name": "gptimager.com",
+    "url": "https://gptimager.com",
+    "status": "online",
+    "description": "输入一句提示词，10 秒生成可商用的营销海报、电商产品图和品牌视觉",
+    "author": "yowang",
+    "authorGithub": "https://github.com/yowang",
+    "date": "2026 年 4 月 25 号添加",
+    "category": "main"
+  },
+  {
+    "name": "patches game",
+    "url": "https://playpatches.today/",
+    "status": "online",
+    "description": "每日逻辑谜题游戏",
+    "author": "hwlvipone",
+    "authorGithub": "https://github.com/hwlvipone",
+    "date": "2026 年 4 月 25 号添加",
+    "category": "game"
+  },
+  {
+    "name": "ListPitch",
+    "url": "https://listpitch.com",
+    "status": "online",
+    "description": "导航站快速收录产品，帮助独立开发者推广业务",
+    "author": "BC",
+    "authorGithub": "https://github.com/cwingho",
+    "date": "2026 年 4 月 24 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Floaty",
+    "url": "https://floatytool.com/",
+    "status": "online",
+    "description": "在 macOS 上实现窗口置顶，让任意应用始终保持在最上层",
+    "author": "fayecat",
+    "authorGithub": "https://github.com/fayecat",
+    "date": "2026 年 4 月 24 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Cloaky",
+    "url": "https://apps.apple.com/app/id6761397324",
+    "status": "online",
+    "description": "通过在屏幕上添加可调节的遮罩来隐藏敏感信息，适用于办公、演示或公共环境中的隐私保护",
+    "author": "fayecat",
+    "authorGithub": "https://github.com/fayecat",
+    "date": "2026 年 4 月 24 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Free Way",
+    "url": "https://github.com/GoDiao/Free-Way",
+    "status": "online",
+    "description": "收纳全球 API Provider 免费额度，支持 Anthropic/OpenAI API格式的通用网关",
+    "author": "GoDiao",
+    "authorGithub": "https://github.com/GoDiao",
+    "date": "2026 年 4 月 24 号添加",
+    "category": "main"
+  },
+  {
     "name": "xinsight智创汇",
     "url": "https://www.aiext.co/",
     "status": "online",
