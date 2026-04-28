@@ -1,5 +1,125 @@
 [
   {
+    "name": "Schulte Table",
+    "url": "https://schulte-table.org/",
+    "status": "online",
+    "description": "舒尔特方格训练工具，用于训练注意力、视觉扫描能力和阅读速度。",
+    "author": "pandaupup(广州)",
+    "authorGithub": "https://github.com/pandaupup",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Focus Game",
+    "url": "https://focus-game.org/",
+    "status": "online",
+    "description": "包含多种专注力与认知测试的小工具集合，通过短时练习提升注意力、反应速度和大脑处理能力。",
+    "author": "pandaupup(广州)",
+    "authorGithub": "https://github.com/pandaupup",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Chrome插件VidGet",
+    "url": "https://100apps.dev/2026/04/26/5-%e5%88%86%e9%92%9f%e8%a3%85%e5%a5%bd%e5%97%85%e5%97%85-vidget-%e5%90%ab-youtube.html",
+    "status": "online",
+    "description": "一键嗅探下载网页视频 — YouTube / Bilibili / iyf.tv",
+    "author": "刀刀",
+    "authorGithub": "https://github.com/sfss5362",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Create Fillable PDFs",
+    "url": "https://createfillablepdfs.com/",
+    "status": "online",
+    "description": "PDF 表单生成器，支持从零开始或上传现有PDF，添加交互式文本框、复选框和签名，通过拖放字段和自定义属性创建可填写的PDF文档。",
+    "author": "jankarong",
+    "authorGithub": "https://github.com/jankarong",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "GPT Image 2",
+    "url": "https://gptimg-2.org/",
+    "status": "online",
+    "description": "AI 图片生成网站，输入画面描述，选择结果，将日常想法转为真实图片、产品照片、海报、头像、广告图和社媒配图。",
+    "author": "tancky",
+    "authorGithub": "https://github.com/tancky777",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "WithoutAD",
+    "url": "https://withoutad.com/?locale=zh-CN",
+    "status": "online",
+    "description": "面向孩子的学习与益智游戏平台，通过游戏化方式帮助孩子掌握知识，涵盖背单词、成语接龙、口算练习、函数曲线、凑24等学习工具，以及数独、推箱子、俄罗斯方块等经典益智游戏，全站无广告、无付费门槛",
+    "author": "dexterdeng",
+    "authorGithub": "https://github.com/dexterdeng",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "GPT Image 2",
+    "url": "https://gptimage2.design",
+    "status": "online",
+    "description": "AI 图片生成器，支持文生图、图生图、4K 图片、图中文字生成与 Prompt 示例库，适合制作产品图、海报、广告图和社媒配图",
+    "author": "lumian2015",
+    "authorGithub": "https://github.com/lumian2015",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SENTHUB",
+    "url": "https://senthub.vercel.app",
+    "status": "online",
+    "description": "Markdown 转 PDF 工具，纯前端、无需上传，支持实时编辑与预览、原生中文排版、一键导出 PDF、暗色模式，开源免费",
+    "author": "daxia-dong",
+    "authorGithub": "https://github.com/daxia-dong",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "FreeGPT2",
+    "url": "https://freegpt2.com",
+    "status": "online",
+    "description": "GPT Image 2 生成器网站，即时创建 AI 图像，无需登录",
+    "author": "Epochal - [主站点](https://epochal.app/)",
+    "authorGithub": "",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "GPU性能测试",
+    "url": "https://volumeshaderpro.org",
+    "status": "online",
+    "description": "通过实时毒蘑菇渲染测试持续压测 GPU，在浏览器中直接输出 FPS、帧时间等性能指标",
+    "author": "pandaupup(广州)",
+    "authorGithub": "https://github.com/pandaupup",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PhotoRestore.ai",
+    "url": "https://photorestore.ai",
+    "status": "online",
+    "description": "AI 照片修复工具，支持老照片修复、划痕去除、黑白照片上色与图像增强，上传即可自动修复，无需注册",
+    "author": "futurearrived",
+    "authorGithub": "https://github.com/futurearrived",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "kite-desktop",
+    "url": "https://github.com/eryajf/kite-desktop",
+    "status": "online",
+    "description": "基于 Wails v3 打造的桌面端 K8S 多集群管理工具，支持 Mac 与 Windows 平台",
+    "author": "eryajf(杭州)",
+    "authorGithub": "https://github.com/eryajf",
+    "date": "2026 年 4 月 25 号添加",
+    "category": "main"
+  },
+  {
     "name": "gptimager.com",
     "url": "https://gptimager.com",
     "status": "online",
@@ -12290,6 +12410,16 @@
     "category": "programmer"
   },
   {
+    "name": "Low Code",
+    "url": "https://www.npmjs.com/package/lc-vue3",
+    "status": "online",
+    "description": "基于 Vue 3 的可配置低代码表单设计器与渲染器。 - [更多介绍](http://lc.hancel.org/)",
+    "author": "Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)",
+    "authorGithub": "",
+    "date": "2024 年 7 月 17 号添加",
+    "category": "programmer"
+  },
+  {
     "name": "Server酱",
     "url": "http://sc.ftqq.com",
     "status": "online",
@@ -14321,8 +14451,8 @@
   },
   {
     "name": "Rare计划",
-    "url": "https://rare.genouka.rr.nu/",
-    "status": "offline",
+    "url": "https://rare.genouka.top/",
+    "status": "online",
     "description": "发布了一系列使智能手表更好用、更易用、更实用的程序。例如 RareBox 可以让手表用户在手表上更便捷地安装程序。适用于普通用户和开发者，主要面向普通用户。",
     "author": "GenOuka(湖南)",
     "authorGithub": "https://github.com/GenOuka",
@@ -16966,6 +17096,16 @@
     "description": "多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等",
     "author": "Banny(杭州)",
     "authorGithub": "https://github.com/hellobanny",
+    "date": "2024 年 7 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "成长日记",
+    "url": "https://github.com/imlinhanchao/growth-diary",
+    "status": "online",
+    "description": "一个用于记录孩子从出生到现在的成长日记应用，基于 Flutter 开发的跨平台 App。 - [更多介绍](https://github.com/imlinhanchao/growth-diary)",
+    "author": "Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)",
+    "authorGithub": "",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   },
