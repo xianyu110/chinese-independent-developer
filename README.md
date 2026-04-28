@@ -23,7 +23,43 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 28 号添加
+
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Schulte Table](https://schulte-table.org/)：舒尔特方格训练工具，用于训练注意力、视觉扫描能力和阅读速度。
+* :white_check_mark: [Focus Game](https://focus-game.org/)：包含多种专注力与认知测试的小工具集合，通过短时练习提升注意力、反应速度和大脑处理能力。
+
+#### 刀刀 - [Github](https://github.com/sfss5362)
+* :white_check_mark: [Chrome插件VidGet](https://100apps.dev/2026/04/26/5-%e5%88%86%e9%92%9f%e8%a3%85%e5%a5%bd%e5%97%85%e5%97%85-vidget-%e5%90%ab-youtube.html)：一键嗅探下载网页视频 — YouTube / Bilibili / iyf.tv
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [Create Fillable PDFs](https://createfillablepdfs.com/)：PDF 表单生成器，支持从零开始或上传现有PDF，添加交互式文本框、复选框和签名，通过拖放字段和自定义属性创建可填写的PDF文档。
+
+#### tancky - [Github](https://github.com/tancky777)
+* :white_check_mark: [GPT Image 2](https://gptimg-2.org/)：AI 图片生成网站，输入画面描述，选择结果，将日常想法转为真实图片、产品照片、海报、头像、广告图和社媒配图。
+
+#### dexterdeng - [Github](https://github.com/dexterdeng)
+* :white_check_mark: [WithoutAD](https://withoutad.com/?locale=zh-CN)：面向孩子的学习与益智游戏平台，通过游戏化方式帮助孩子掌握知识，涵盖背单词、成语接龙、口算练习、函数曲线、凑24等学习工具，以及数独、推箱子、俄罗斯方块等经典益智游戏，全站无广告、无付费门槛
+
+#### lumian2015 - [Github](https://github.com/lumian2015)
+* :white_check_mark: [GPT Image 2](https://gptimage2.design)：AI 图片生成器，支持文生图、图生图、4K 图片、图中文字生成与 Prompt 示例库，适合制作产品图、海报、广告图和社媒配图
+
+#### daxia-dong - [Github](https://github.com/daxia-dong)
+* :white_check_mark: [SENTHUB](https://senthub.vercel.app)：Markdown 转 PDF 工具，纯前端、无需上传，支持实时编辑与预览、原生中文排版、一键导出 PDF、暗色模式，开源免费
+
+#### Epochal - [主站点](https://epochal.app/)
+* :white_check_mark: [FreeGPT2](https://freegpt2.com)：GPT Image 2 生成器网站，即时创建 AI 图像，无需登录
+
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [GPU性能测试](https://volumeshaderpro.org)：通过实时毒蘑菇渲染测试持续压测 GPU，在浏览器中直接输出 FPS、帧时间等性能指标
+
+#### futurearrived - [Github](https://github.com/futurearrived)
+* :white_check_mark: [PhotoRestore.ai](https://photorestore.ai)：AI 照片修复工具，支持老照片修复、划痕去除、黑白照片上色与图像增强，上传即可自动修复，无需注册
+
 ### 2026 年 4 月 25 号添加
+
+#### eryajf(杭州) - [Github](https://github.com/eryajf), [博客](https://wiki.eryajf.net)
+* :white_check_mark: [kite-desktop](https://github.com/eryajf/kite-desktop)：基于 Wails v3 打造的桌面端 K8S 多集群管理工具，支持 Mac 与 Windows 平台
 
 #### yowang - [Github](https://github.com/yowang)
 * :white_check_mark: [gptimager.com](https://gptimager.com)：输入一句提示词，10 秒生成可商用的营销海报、电商产品图和品牌视觉
@@ -4144,7 +4180,7 @@
 ### 2023年12月29号添加
 ---
 #### GenOuka(湖南) - [Github](https://github.com/GenOuka)
-* :x: [Rare计划](https://rare.genouka.rr.nu/)：发布了一系列使智能手表更好用、更易用、更实用的程序。例如 RareBox 可以让手表用户在手表上更便捷地安装程序。适用于普通用户和开发者，主要面向普通用户。
+* :white_check_mark: [Rare计划](https://rare.genouka.top/)：发布了一系列使智能手表更好用、更易用、更实用的程序。例如 RareBox 可以让手表用户在手表上更便捷地安装程序。适用于普通用户和开发者，主要面向普通用户。
 
 #### ThinkStu(上海) - [Github](https://github.com/Bistutu)
 * :white_check_mark: [流畅阅读](https://github.com/Bistutu/FluentRead)：浏览器油猴插件，基于上下文语境的人工智能翻译引擎，为部分网站提供精准翻译，让所有人都能够拥有基于母语般的阅读体验。
@@ -5209,6 +5245,8 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
 
 #### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+
+* :white_check_mark: [成长日记](https://github.com/imlinhanchao/growth-diary)：一个用于记录孩子从出生到现在的成长日记应用，基于 Flutter 开发的跨平台 App。 - [更多介绍](https://github.com/imlinhanchao/growth-diary)
 * :white_check_mark: [摸鱼竞技大厅](https://room.adventext.fun/)：休闲游戏竞技大厅，支持多人在线联机游戏，包含多种休闲桌游与棋牌游戏。另外包含完整二次开发接口，可以快速开发出任意多人在线回合制游戏。 - [更多介绍](https://tiaoom.com/)
 * :white_check_mark: [WJU Puzzle](https://wju.adventext.fun/)：WJU 字母解密游戏，通过 5 种操作规则，解出 WJU 字母序列。 - [更多介绍](https://github.com/imlinhanchao/wju)
 * :white_check_mark: [Adventext & 千屿引擎](https://adventext.fun/)：文字冒险游戏引擎，包含用来创作文字冒险游戏的在线编辑器以及运行游戏的引擎，你可以在这里创作文字冒险游戏，调试运行。然后推送给世界上的任何玩家游玩！ - [更多介绍](https://github.com/imlinhanchao/adventext)
