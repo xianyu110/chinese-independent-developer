@@ -1,5 +1,35 @@
 [
   {
+    "name": "ZOOOP",
+    "url": "https://zooop.ai/",
+    "status": "online",
+    "description": "AI 原生创作平台，支持在浏览器端无限画布上生成图像、视频和音频，提供去背景、高清化等专项任务及即用型 AI 模板，支持发布模板赚取积分，并具备团队共享积分模式。",
+    "author": "yuhoayu-arch",
+    "authorGithub": "https://github.com/yuhoayu-arch",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Scanned.to",
+    "url": "https://scanned.to",
+    "status": "online",
+    "description": "AI 驱动的 OCR 文档识别与翻译平台，将扫描 PDF/图片转为可编辑 Word/Text，保留原始排版，支持 50+ 语言翻译",
+    "author": "michael0127",
+    "authorGithub": "https://github.com/michael0127",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Spacebar Clicker Game",
+    "url": "https://spacebarclickergame.org/",
+    "status": "online",
+    "description": "在线空格键点击测试工具，通过限时点击统计CPS（每秒点击次数），用于测试手速与反应速度",
+    "author": "pandaupup (广州)",
+    "authorGithub": "https://github.com/pandaupup",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
     "name": "Schulte Table",
     "url": "https://schulte-table.org/",
     "status": "online",
@@ -104,6 +134,16 @@
     "url": "https://photorestore.ai",
     "status": "online",
     "description": "AI 照片修复工具，支持老照片修复、划痕去除、黑白照片上色与图像增强，上传即可自动修复，无需注册",
+    "author": "futurearrived",
+    "authorGithub": "https://github.com/futurearrived",
+    "date": "2026 年 4 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "FigureGPT",
+    "url": "https://figuregpt.ai",
+    "status": "online",
+    "description": "粘贴论文文字，AI 自动生成可发表的科学图表，支持柱状图、折线图、散点图、流程图和架构图，导出 PNG/SVG/PDF",
     "author": "futurearrived",
     "authorGithub": "https://github.com/futurearrived",
     "date": "2026 年 4 月 28 号添加",
