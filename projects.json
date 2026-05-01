@@ -1,5 +1,65 @@
 [
   {
+    "name": "Scrapilot",
+    "url": "https://scrapilot.cc",
+    "status": "online",
+    "description": "AI 爬虫插件，零代码采集任意网页数据，运行在真实浏览器中，天然抗反爬，支持定时自动化工作流",
+    "author": "weird94",
+    "authorGithub": "https://github.com/weird94",
+    "date": "2026 年 4 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "小红书图片、视频、Live图下载 - 去水印免费下载",
+    "url": "https://rednote-downloader.online/zh",
+    "status": "online",
+    "description": "小红书视频下载工具，支持下载视频和图片，保持原画质，无水印，无需安装",
+    "author": "zhugezifang",
+    "authorGithub": "https://github.com/zhugezifang",
+    "date": "2026 年 4 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "小红书去水印视频 下载器",
+    "url": "https://www.xhs-download.org/zh",
+    "status": "online",
+    "description": "小红书去水印视频下载器，可保存小红书视频，高质量无水印，无需注册，适用于所有设备",
+    "author": "zhugezifang",
+    "authorGithub": "https://github.com/zhugezifang",
+    "date": "2026 年 4 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "小红书去水印工具 - 免费下载无水印小红书视频和图片",
+    "url": "https://rednotevideodownload.org/zh",
+    "status": "online",
+    "description": "小红书去水印下载器，一键去除水印下载视频和图片，保持高清画质，无需注册",
+    "author": "zhugezifang",
+    "authorGithub": "https://github.com/zhugezifang",
+    "date": "2026 年 4 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Moono AI 帮你写歌",
+    "url": "https://music.stockai.trade",
+    "status": "online",
+    "description": "AI 音乐生成器",
+    "author": "yvonuk - [推特](https://x.com/mcwangcn)",
+    "authorGithub": "",
+    "date": "2026 年 4 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "apkgo",
+    "url": "https://github.com/KevinGong2013/apkgo",
+    "status": "online",
+    "description": "Android APK 多渠道分发 CLI，一条命令并发上传到华为 / 小米 / OPPO / vivo / 荣耀 / 应用宝 / Google Play / Samsung / 蒲公英 / fir.im 等 10+ 应用市场，支持 Web GUI、Go 库调用与上传前后 Shell Hook",
+    "author": "KevinGong2013(上海)",
+    "authorGithub": "https://github.com/KevinGong2013",
+    "date": "2026 年 4 月 30 号添加",
+    "category": "programmer"
+  },
+  {
     "name": "ZOOOP",
     "url": "https://zooop.ai/",
     "status": "online",
