@@ -1,5 +1,15 @@
 [
   {
+    "name": "aihaibao-AI海报",
+    "url": "https://aihaibao.org/",
+    "status": "online",
+    "description": "小店铺的海报也能高大上！店铺主图、详情长图不用再一张张抠：上传实拍 + 卖点，一键出多套上架图；还想对齐竞品？粘贴链接复刻风格，几分钟批量出同款调性素材",
+    "author": "my19940202(上海)",
+    "authorGithub": "https://github.com/my19940202",
+    "date": "2026 年 5 月 03 号添加",
+    "category": "main"
+  },
+  {
     "name": "Scrapilot",
     "url": "https://scrapilot.cc",
     "status": "online",
