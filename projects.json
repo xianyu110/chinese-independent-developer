@@ -1,12 +1,32 @@
 [
   {
+    "name": "GPT Image 2",
+    "url": "https://gptimg2.io/zh",
+    "status": "online",
+    "description": "由 OpenAI 最先进图像模型支持的一站式图像生成与编辑工具",
+    "author": "nanobanana-co",
+    "authorGithub": "https://github.com/nanobanana-co",
+    "date": "2026 年 5 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ScanRead.ai",
+    "url": "https://scanread.ai",
+    "status": "online",
+    "description": "OCR 文字提取工具，支持 100+ 语言，可从图片、PDF、截图和手写文档中提取文字",
+    "author": "ScanRead Team",
+    "authorGithub": "",
+    "date": "2026 年 5 月 3 号添加",
+    "category": "main"
+  },
+  {
     "name": "aihaibao-AI海报",
     "url": "https://aihaibao.org/",
     "status": "online",
     "description": "小店铺的海报也能高大上！店铺主图、详情长图不用再一张张抠：上传实拍 + 卖点，一键出多套上架图；还想对齐竞品？粘贴链接复刻风格，几分钟批量出同款调性素材",
     "author": "my19940202(上海)",
     "authorGithub": "https://github.com/my19940202",
-    "date": "2026 年 5 月 03 号添加",
+    "date": "2026 年 5 月 3 号添加",
     "category": "main"
   },
   {
