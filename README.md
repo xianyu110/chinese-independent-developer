@@ -25,6 +25,12 @@
 
 ### 2026 年 5 月 4 号添加
 
+#### retryu - [Github](https://github.com/retryu)
+* :white_check_mark: [RecentFollowed](https://recentfollowed.net)：匿名查看任何 Instagram 账号最近关注的人，按性别分类（Women / Men / Others），无需登录
+
+#### peacefullmind - [Github](https://github.com/peacefullmind)
+* :white_check_mark: [imagesv2.ai](https://imagesv2.ai/)：AI 视觉工具箱，提供透明 PNG 生成、SVG 图标制作、海报转 PSD、文章配图、微信聊天截图、推文截图、抖音/TikTok 直播间模拟、LinkedIn 商务头像、个人风格卡、360° 全景图等任务型工具。
+
 #### sitecheck - [Github](https://github.com/mymickey/sitecheck)
 * :white_check_mark: [SiteCheck](https://sitecheck.top)：SiteCheck 是一个灵感来源于 https://ipcheck.ing 的 MacOS 桌面端软件 官网是 sitecheck.top，我一直是 ipcheck.ing 的忠实用户，平时只要切换代理、排查线路或者看 DNS 出口，第一反应就是先打开它看一眼。也正因为用得足够久，我才慢慢有了自己做一个同类小工具的想法。SiteCheck 就是在这个基础上做出来的，一个更轻一点、专门常驻 macOS menubar 的本地 app，把我最常用的几件事单独拎出来：看连通性、看 DNS 测试、顺手看一下当前公网 IP。不是想替代 ipcheck.ing，而是想把我自己每天真会反复点开的那部分体验，做成一个更直接的小工具。另外需要致敬阿禅给我们带来这么好用的工具
 
