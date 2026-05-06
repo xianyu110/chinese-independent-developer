@@ -1,5 +1,25 @@
 [
   {
+    "name": "RecentFollowed",
+    "url": "https://recentfollowed.net",
+    "status": "online",
+    "description": "匿名查看任何 Instagram 账号最近关注的人，按性别分类（Women / Men / Others），无需登录",
+    "author": "retryu",
+    "authorGithub": "https://github.com/retryu",
+    "date": "2026 年 5 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "imagesv2.ai",
+    "url": "https://imagesv2.ai/",
+    "status": "online",
+    "description": "AI 视觉工具箱，提供透明 PNG 生成、SVG 图标制作、海报转 PSD、文章配图、微信聊天截图、推文截图、抖音/TikTok 直播间模拟、LinkedIn 商务头像、个人风格卡、360° 全景图等任务型工具。",
+    "author": "peacefullmind",
+    "authorGithub": "https://github.com/peacefullmind",
+    "date": "2026 年 5 月 4 号添加",
+    "category": "main"
+  },
+  {
     "name": "SiteCheck",
     "url": "https://sitecheck.top",
     "status": "online",
