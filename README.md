@@ -23,6 +23,31 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 7 号添加
+
+#### suncoliner - [Github](https://github.com/suncoliner)
+* :white_check_mark: [GPT Image 2](https://gptimage2.dev)：AI 图片生成工具，支持快速生成高质量图片，适合用于设计灵感、内容创作、社交媒体配图等场景。
+
+#### Eason(Winnipeg) - [Github](https://github.com/diroverflow)
+* :white_check_mark: [My Lover Online](https://my-lover.online/)：AI 虚拟伴侣平台，上传照片即可"复活"已故或离别的亲人、恋人、宠物，AI 会学习你们的共同记忆，越聊越像本人，还支持语音通话和生成合照。
+
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+* :white_check_mark: [图片转链接工具](https://share-text.org/zh/image-to-url)：把本地图片快速转换成可分享的直链，面向真实使用场景设计，适合需要上传图片、获取 URL，并粘贴到网页、Markdown、工单系统、知识库或聊天工具中的用户。
+
+#### hooosberg - [Github](https://github.com/hooosberg)
+* :white_check_mark: [Rushi 如是](https://apps.apple.com/us/app/rushi-sutra-mala-meditation/id6766074713)：免费、无广告、全离线的 iOS 佛教工具，金刚经·心经·佛珠·抄经四合一，经文文本以 CC0 开源，独立开发者用 Codex AI 写的第一款 iOS App - [开源地址](https://github.com/hooosberg/Rushi)
+
+#### BHznJNs - [Github](https://github.com/BHznJNs), [博客](https://bhznjns.github.io/)
+* :white_check_mark: [Dais](https://github.com/Dais-Project/Dais)：桌面 AI Agent 客户端/工作台，为非技术用户提供专业 Agent 工作流体验，Claude Cowork 的开源替代
+
+#### michael0127 - [Github](https://github.com/michael0127)
+* :white_check_mark: [Voqusa](https://www.voqusa.com)：将 TikTok/YouTube/Instagram 视频即时转为文字稿，支持 7 大平台 14 种语言
+
+### 2026 年 5 月 6 号添加
+#### TNT-Likely - [Github](https://github.com/TNT-Likely)
+* :white_check_mark: [BeeCount 蜜蜂记账](https://beecount-website.pages.dev)：开源跨平台记账 App（Android/iOS/Web），主打数据自主与隐私优先 —— 支持自建 BeeCount Cloud / iCloud / Supabase / WebDAV / S3 多端同步，离线可用，可选 AI 识别账单图片自动记账，无广告无订阅 - [Github](https://github.com/TNT-Likely/BeeCount)
+
+
 ### 2026 年 5 月 4 号添加
 
 #### retryu - [Github](https://github.com/retryu)
