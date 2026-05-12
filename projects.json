@@ -1,5 +1,25 @@
 [
   {
+    "name": "AdMorph",
+    "url": "https://ad-morph.com/",
+    "status": "online",
+    "description": "Generate & Test Winning Ad Variations for Your Product",
+    "author": "hwlvipone",
+    "authorGithub": "https://github.com/hwlvipone",
+    "date": "2026 年 5 月 11 号添加",
+    "category": "main"
+  },
+  {
+    "name": "旧日代码：遗物整理师",
+    "url": "https://store.steampowered.com/app/4643810",
+    "status": "online",
+    "description": "没有画面（其实也有😄）的赛博废土 RPG。用带有视觉动效的“HD文字”和纯代码实时合成的 MIDI 配乐和 AI 本地模型生成的语音，还原 15 万字硬科幻小说的沉浸式探索与遗物修复体验。预计6 月放出 Demo。",
+    "author": "zengzizhao",
+    "authorGithub": "https://github.com/zengzizhao",
+    "date": "2026 年 5 月 11 号添加",
+    "category": "main"
+  },
+  {
     "name": "ChatGPT Image2",
     "url": "https://www.gptimages2.net",
     "status": "online",
