@@ -23,6 +23,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 11 号添加
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [AdMorph](https://ad-morph.com/)：Generate & Test Winning Ad Variations for Your Product
+
+#### zengzizhao - [Github](https://github.com/zengzizhao)
+* :white_check_mark: [旧日代码：遗物整理师](https://store.steampowered.com/app/4643810)：没有画面（其实也有😄）的赛博废土 RPG。用带有视觉动效的“HD文字”和纯代码实时合成的 MIDI 配乐和 AI 本地模型生成的语音，还原 15 万字硬科幻小说的沉浸式探索与遗物修复体验。预计6 月放出 Demo。
+
 
 ### 2026 年 5 月 9 号添加
 
