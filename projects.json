@@ -1,5 +1,65 @@
 [
   {
+    "name": "超能文献（Suppr）",
+    "url": "http://suppr.wilddata.cn/",
+    "status": "online",
+    "description": "医学文献检索工具，支持中文自然语言搜索PubMed、AI文档翻译、25分钟生成文献综述 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/920)",
+    "author": "zjg678",
+    "authorGithub": "https://github.com/zjg678",
+    "date": "2026 年 5 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Kooky",
+    "url": "https://github.com/iAmCorey/kooky",
+    "status": "online",
+    "description": "专为 AI coding 设计的 terminal，支持一键启动 Claude Code/Codex 等各种 agent，Vertical tabs + split pane，多 Workspace 管理+分屏并行，Agent 状态展示，Git 分支/变化，Node/Python/Proxy 等各环境展示以及一键切换，本地运行，无云服务和功能，基于 libghostty GPU 渲染，丝滑使用",
+    "author": "Corey Chiu(深圳)",
+    "authorGithub": "https://github.com/iamcorey",
+    "date": "2026 年 5 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "EazySend",
+    "url": "https://eazysend.app/download.html",
+    "status": "online",
+    "description": "跨平台文件传输，支持 Android/iOS/Win/Mac/Linux",
+    "author": "刀刀",
+    "authorGithub": "https://github.com/sfss5362",
+    "date": "2026 年 5 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "在线云朵识别",
+    "url": "https://whatisthiscloud.org/zh",
+    "status": "online",
+    "description": "上传天空照片，用 AI 即时完成云识别与云分类，了解积云、层云、卷云等常见云型及典型天气、出现高度与形成过程，适合学生、摄影爱好者与天气科普学习。",
+    "author": "zhugezifang",
+    "authorGithub": "https://github.com/zhugezifang",
+    "date": "2026 年 5 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "全屏守门员",
+    "url": "https://chromewebstore.google.com/detail/screen-break-keeper/mnmaobcpbjhbheefbgkomgflmgphbfne",
+    "status": "online",
+    "description": "浏览器休息提醒插件，全屏沉浸式宠物互动定时提醒休息可自定义视频图片，免费无广告、无注册、零AI",
+    "author": "风逝",
+    "authorGithub": "",
+    "date": "2026 年 5 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ChatCrystal",
+    "url": "https://github.com/ZengLiangYi/ChatCrystal",
+    "status": "online",
+    "description": "AI 对话知识提炼工具，导入 Claude Code/Cursor/Codex/Trae/Copilot 对话，自动生成结构化笔记，支持语义搜索和知识图谱",
+    "author": "ZengLiangYi",
+    "authorGithub": "",
+    "date": "2026 年 5 月 12 号添加",
+    "category": "main"
+  },
+  {
     "name": "AdMorph",
     "url": "https://ad-morph.com/",
     "status": "online",
