@@ -23,6 +23,30 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 15 号添加
+
+#### zjg678 - [Github](https://github.com/zjg678)
+* :white_check_mark: [超能文献（Suppr）](http://suppr.wilddata.cn/)：医学文献检索工具，支持中文自然语言搜索PubMed、AI文档翻译、25分钟生成文献综述 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/920)
+
+### 2026 年 5 月 14 号添加
+
+#### Corey Chiu(深圳) - [Github](https://github.com/iamcorey), [博客](https://coreychiu.com)
+* :white_check_mark: [Kooky](https://github.com/iAmCorey/kooky)：专为 AI coding 设计的 terminal，支持一键启动 Claude Code/Codex 等各种 agent，Vertical tabs + split pane，多 Workspace 管理+分屏并行，Agent 状态展示，Git 分支/变化，Node/Python/Proxy 等各环境展示以及一键切换，本地运行，无云服务和功能，基于 libghostty GPU 渲染，丝滑使用
+
+#### 刀刀 - [Github](https://github.com/sfss5362)
+* :white_check_mark: [EazySend](https://eazysend.app/download.html)：跨平台文件传输，支持 Android/iOS/Win/Mac/Linux
+
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+* :white_check_mark: [在线云朵识别](https://whatisthiscloud.org/zh)：上传天空照片，用 AI 即时完成云识别与云分类，了解积云、层云、卷云等常见云型及典型天气、出现高度与形成过程，适合学生、摄影爱好者与天气科普学习。
+
+#### 风逝
+* :white_check_mark: [全屏守门员](https://chromewebstore.google.com/detail/screen-break-keeper/mnmaobcpbjhbheefbgkomgflmgphbfne)：浏览器休息提醒插件，全屏沉浸式宠物互动定时提醒休息可自定义视频图片，免费无广告、无注册、零AI
+
+### 2026 年 5 月 12 号添加
+
+#### ZengLiangYi
+* :white_check_mark: [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal)：AI 对话知识提炼工具，导入 Claude Code/Cursor/Codex/Trae/Copilot 对话，自动生成结构化笔记，支持语义搜索和知识图谱
+
 ### 2026 年 5 月 11 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
