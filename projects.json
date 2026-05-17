@@ -1,5 +1,65 @@
 [
   {
+    "name": "AI工具大全",
+    "url": "https://ai.fly63.com",
+    "status": "online",
+    "description": "AI 工具导航站，收集和整理常用 AI 工具",
+    "author": "fly63(成都) - [博客](https://web.fly63.com)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Kindle Highlights Exporter",
+    "url": "https://xueboyang1985.github.io/kindle-exporter/",
+    "status": "online",
+    "description": "Kindle 标注导出为Markdown/CSV/JSON，浏览器本地处理，无需上传",
+    "author": "xueboyang1985",
+    "authorGithub": "https://github.com/xueboyang1985",
+    "date": "2026 年 5 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Subtitle Converter",
+    "url": "https://xueboyang1985.github.io/subtitle-converter/",
+    "status": "online",
+    "description": "字幕格式转换(SRT/VTT/ASS)，支持导出为TXT/MD/CSV/JSON",
+    "author": "xueboyang1985",
+    "authorGithub": "https://github.com/xueboyang1985",
+    "date": "2026 年 5 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "WhatsApp Chat Formatter",
+    "url": "https://xueboyang1985.github.io/whatsapp-chat-formatter/",
+    "status": "online",
+    "description": "WhatsApp 聊天记录格式化为 Markdown/HTML/CSV/JSON",
+    "author": "xueboyang1985",
+    "authorGithub": "https://github.com/xueboyang1985",
+    "date": "2026 年 5 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Fancy Font Generator",
+    "url": "https://cursivegeneratorai.com/",
+    "status": "online",
+    "description": "在线花体字体生成工具，输入文字即可生成多种精美字体样式，支持一键复制，适合用于社交昵称、个人简介、签名和装饰文本，无需注册即可使用。",
+    "author": "peter",
+    "authorGithub": "https://github.com/peter1234503",
+    "date": "2026 年 5 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "GPT Image 2 AI",
+    "url": "https://gptimage2app.com/",
+    "status": "online",
+    "description": "AI 图像与视频创作平台",
+    "author": "Poge(广州)",
+    "authorGithub": "https://github.com/coderWenzi",
+    "date": "2026 年 5 月 15 号添加",
+    "category": "main"
+  },
+  {
     "name": "超能文献（Suppr）",
     "url": "http://suppr.wilddata.cn/",
     "status": "online",
