@@ -23,7 +23,23 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 17 号添加
+
+#### fly63(成都) - [博客](https://web.fly63.com)
+* :white_check_mark: [AI工具大全](https://ai.fly63.com)：AI 工具导航站，收集和整理常用 AI 工具
+
+#### xueboyang1985 - [Github](https://github.com/xueboyang1985)
+* :white_check_mark: [Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/)：Kindle 标注导出为Markdown/CSV/JSON，浏览器本地处理，无需上传
+* :white_check_mark: [Subtitle Converter](https://xueboyang1985.github.io/subtitle-converter/)：字幕格式转换(SRT/VTT/ASS)，支持导出为TXT/MD/CSV/JSON
+* :white_check_mark: [WhatsApp Chat Formatter](https://xueboyang1985.github.io/whatsapp-chat-formatter/)：WhatsApp 聊天记录格式化为 Markdown/HTML/CSV/JSON
+
+#### peter - [Github](https://github.com/peter1234503)
+* :white_check_mark:  [Fancy Font Generator](https://cursivegeneratorai.com/)：在线花体字体生成工具，输入文字即可生成多种精美字体样式，支持一键复制，适合用于社交昵称、个人简介、签名和装饰文本，无需注册即可使用。
+
 ### 2026 年 5 月 15 号添加
+
+#### Poge(广州) - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [GPT Image 2 AI](https://gptimage2app.com/)：AI 图像与视频创作平台
 
 #### zjg678 - [Github](https://github.com/zjg678)
 * :white_check_mark: [超能文献（Suppr）](http://suppr.wilddata.cn/)：医学文献检索工具，支持中文自然语言搜索PubMed、AI文档翻译、25分钟生成文献综述 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/920)
