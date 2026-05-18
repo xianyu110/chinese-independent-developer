@@ -23,7 +23,29 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 18 号添加
+
+#### worminone - [Github](https://github.com/worminone)
+* :white_check_mark: [Where Is This Place](https://whereisthisplace.app)：基于人工智能的定位查找应用，能够从照片、截图和旅行图片中识别出地点，上传图片即可利用AI图像识别技术发现所在国家、城市、地标、旅游景点或确切位置
+
+#### worminone - [Github](https://github.com/worminone)
+* :white_check_mark: [WhatsMyName App](https://whatsmynameapp.app/)：在 700 多个社交媒体平台、游戏网站、论坛和网站上查找用户名，搜索社交资料并检查账户可用性。
+
+#### godfengliang - [Github](https://github.com/godfengliang)
+* :white_check_mark: [Leakscope](https://leakscope.surge.sh/)：浏览器指纹检测工具，单 HTML 文件，零依赖，可离线使用
+* :white_check_mark: [Pixelsqueeze](https://pixelsqueeze.surge.sh/)：图片压缩工具，支持精确尺寸，单HTML文件，零依赖，可离线使用
+* :white_check_mark: [Envguard](https://envguard.surge.sh/)：代码秘密扫描工具，单HTML文件，零依赖，支持离线使用
+* :white_check_mark: [Envguard Repo](https://github.com/godfengliang/envguard)：项目仓库，包含Gist链接
+* :white_check_mark: [Screencap Studio](https://screencap-studio.surge.sh/)：截图注释工具，单个 HTML 文件，零依赖，可离线使用
+* :white_check_mark: [Billcraft](https://github.com/godfengliang/billcraft)：单 HTML 文件的发票生成工具，零依赖，支持离线使用
+
 ### 2026 年 5 月 17 号添加
+
+#### lucy(上海)
+* :white_check_mark: [Nano Banana Pro](https://nanobananagen.org)：编辑并精修图像，由先进模型驱动，兼顾稳定的人物一致性和更强的编辑控制力
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [Color Palette Hub](https://colorpalettehub.com/)：在线调色板百科全书，收录数千种命名颜色和数百个精选调色板，提供完整技术参数（Hex、RGB、CMYK、HSL）及颜色文化与历史含义，支持按名称或Hex值搜索、按情绪分类浏览，另有渐变库和色彩转换工具
 
 #### fly63(成都) - [博客](https://web.fly63.com)
 * :white_check_mark: [AI工具大全](https://ai.fly63.com)：AI 工具导航站，收集和整理常用 AI 工具
