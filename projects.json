@@ -1,5 +1,25 @@
 [
   {
+    "name": "憩连",
+    "url": "https://www.qliann.com",
+    "status": "online",
+    "description": "项目整理工具，按「空间→项目→时刻→事件→子事件」结构管理事件、文件和讨论，可按时间、主题或重要性灵活排列",
+    "author": "Paul Peng（深圳）",
+    "authorGithub": "",
+    "date": "2026 年 5 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Z3r0",
+    "url": "https://z3r0.fans/",
+    "status": "online",
+    "description": "基于多Agent协同的红队协作平台，内置安全领域专家团队和可控沙盒环境，自动化完成情报、渗透、逆向等工作",
+    "author": "yv1ing(合肥)",
+    "authorGithub": "https://github.com/yv1ing",
+    "date": "2026 年 5 月 19 号添加",
+    "category": "main"
+  },
+  {
     "name": "Where Is This Place",
     "url": "https://whereisthisplace.app",
     "status": "online",
