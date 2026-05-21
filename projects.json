@@ -1,5 +1,15 @@
 [
   {
+    "name": "Suno Funnel",
+    "url": "https://2569658930.github.io/tan/",
+    "status": "online",
+    "description": "AI 音乐翻唱/Remix 提示词一键生成工具，选艺人+填想法+选风格 → 3 秒生成 Suno prompt，内置汽水音乐上传过审攻略、100 条精选 Prompt 模板、15 位艺人风格参数库。零依赖，开箱即用，网页版/命令行双模式。",
+    "author": "2569658930(东莞)",
+    "authorGithub": "https://github.com/2569658930",
+    "date": "2026 年 5 月 20 号添加",
+    "category": "main"
+  },
+  {
     "name": "憩连",
     "url": "https://www.qliann.com",
     "status": "online",
