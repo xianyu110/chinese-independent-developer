@@ -1,5 +1,55 @@
 [
   {
+    "name": "MeTool",
+    "url": "https://metool.online",
+    "status": "online",
+    "description": "纯前端在线工具箱，86+ 工具覆盖图片、视频、3D、文档、开发等六大分类，全程浏览器本地处理，文件不上传、无需注册",
+    "author": "morvanzhou",
+    "authorGithub": "",
+    "date": "2026 年 5 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "isCompress",
+    "url": "https://www.iscompress.com/",
+    "status": "online",
+    "description": "隐私安全的在线图片压缩工具，完全在浏览器本地处理，支持批量压缩与ZIP打包下载",
+    "author": "SnowPeakMa - [GitHub](https://github.com/SnowPeakMa)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Floaty",
+    "url": "https://www.floatytool.com/",
+    "status": "online",
+    "description": "让 Mac 任意窗口一键置顶悬浮，专注看视频、写代码、对照文档时无需频繁切换窗口",
+    "author": "fayecat - [GitHub](https://github.com/fayecat)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Cloaky",
+    "url": "https://www.cloakyapp.com/",
+    "status": "online",
+    "description": "在 Mac 上创建遮挡层，遮住指定区域或敏感内容，适合录屏、演示、线下办公等隐私场景",
+    "author": "fayecat - [GitHub](https://github.com/fayecat)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Remindy",
+    "url": "https://remindytool.com/",
+    "status": "online",
+    "description": "Mac 上的 Spotlight 风格极简提醒工具，键盘优先，输入自然语言快速创建提醒与待办事项",
+    "author": "fayecat - [GitHub](https://github.com/fayecat)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 20 号添加",
+    "category": "main"
+  },
+  {
     "name": "Suno Funnel",
     "url": "https://2569658930.github.io/tan/",
     "status": "online",
