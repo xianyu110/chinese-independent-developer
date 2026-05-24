@@ -1,5 +1,15 @@
 [
   {
+    "name": "Gemini Omni",
+    "url": "https://omni-gemini.ai/",
+    "status": "online",
+    "description": "AI 视频生成工具，支持文本/图片/对话生成带原生同步音效的 4K 电影级短视频，提供多模态参考、角色一致性锁定和对话式编辑",
+    "author": "HaMuh - [GitHub](https://github.com/HarryMuh)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 23 号添加",
+    "category": "main"
+  },
+  {
     "name": "MeTool",
     "url": "https://metool.online",
     "status": "online",
