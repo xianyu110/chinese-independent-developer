@@ -1,5 +1,15 @@
 [
   {
+    "name": "novel-helper",
+    "url": "https://github.com/XFSeven7/novel-helper",
+    "status": "online",
+    "description": "网文小说助手，适合长篇连载作者，想自己掌控稿件与设定文件的写作者，希望用 AI 辅助校对与分析、但不想把书稿交给云平台的人。",
+    "author": "XFSeven7",
+    "authorGithub": "https://github.com/XFSeven7",
+    "date": "2026 年 5 月 24 号添加",
+    "category": "main"
+  },
+  {
     "name": "Gemini Omni",
     "url": "https://omni-gemini.ai/",
     "status": "online",
@@ -7,6 +17,36 @@
     "author": "HaMuh - [GitHub](https://github.com/HarryMuh)",
     "authorGithub": "",
     "date": "2026 年 5 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "随机头像",
+    "url": "https://appgallery.huawei.com/app/detail?id=com.xing.suijitouxiang",
+    "status": "online",
+    "description": "鸿蒙App，支持鸿蒙5.0以上系统，一键生成风格多样的搞怪头像，支持下载",
+    "author": "asui(泉州)",
+    "authorGithub": "https://github.com/xingxingc",
+    "date": "2026 年 5 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Toon Tone",
+    "url": "https://toon-tone.cc",
+    "status": "online",
+    "description": "浏览器里的动画角色颜色猜测游戏，玩家使用 HSB 滑块还原目标颜色，每轮显示色相、饱和度、亮度偏差得分，支持手机微调、种子分享和排行榜",
+    "author": "ouy35521-beep",
+    "authorGithub": "https://github.com/ouy35521-beep",
+    "date": "2026 年 5 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Doctordle",
+    "url": "https://doctordle.icu",
+    "status": "online",
+    "description": "每日医学诊断游戏，包含线索揭示、病例档案及临床推理练习功能，适用于美国医学考试（USMLE）备考与分散式复习",
+    "author": "wosuxiongmao",
+    "authorGithub": "https://github.com/wosuxiongmao",
+    "date": "2026 年 5 月 22 号添加",
     "category": "main"
   },
   {
