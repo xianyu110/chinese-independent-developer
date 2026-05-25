@@ -23,12 +23,26 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 24 号添加
+
+#### XFSeven7 - [Github](https://github.com/XFSeven7)
+* :white_check_mark: [novel-helper](https://github.com/XFSeven7/novel-helper)：网文小说助手，适合长篇连载作者，想自己掌控稿件与设定文件的写作者，希望用 AI 辅助校对与分析、但不想把书稿交给云平台的人。
+
 ### 2026 年 5 月 23 号添加
 
 #### HaMuh - [GitHub](https://github.com/HarryMuh)
 * :white_check_mark: [Gemini Omni](https://omni-gemini.ai/)：AI 视频生成工具，支持文本/图片/对话生成带原生同步音效的 4K 电影级短视频，提供多模态参考、角色一致性锁定和对话式编辑
 
 ### 2026 年 5 月 22 号添加
+
+#### asui(泉州) - [Github](https://github.com/xingxingc),
+* :white_check_mark: [随机头像](https://appgallery.huawei.com/app/detail?id=com.xing.suijitouxiang)：鸿蒙App，支持鸿蒙5.0以上系统，一键生成风格多样的搞怪头像，支持下载
+
+#### ouy35521-beep - [Github](https://github.com/ouy35521-beep)
+* :white_check_mark: [Toon Tone](https://toon-tone.cc)：浏览器里的动画角色颜色猜测游戏，玩家使用 HSB 滑块还原目标颜色，每轮显示色相、饱和度、亮度偏差得分，支持手机微调、种子分享和排行榜
+
+#### wosuxiongmao - [Github](https://github.com/wosuxiongmao)
+* :white_check_mark: [Doctordle](https://doctordle.icu)：每日医学诊断游戏，包含线索揭示、病例档案及临床推理练习功能，适用于美国医学考试（USMLE）备考与分散式复习
 
 #### morvanzhou
 * :white_check_mark: [MeTool](https://metool.online)：纯前端在线工具箱，86+ 工具覆盖图片、视频、3D、文档、开发等六大分类，全程浏览器本地处理，文件不上传、无需注册
