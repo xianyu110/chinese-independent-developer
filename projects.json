@@ -820,16 +820,6 @@
     "category": "main"
   },
   {
-    "name": "FigureGPT",
-    "url": "https://figuregpt.ai",
-    "status": "online",
-    "description": "粘贴论文文字，AI 自动生成可发表的科学图表，支持柱状图、折线图、散点图、流程图和架构图，导出 PNG/SVG/PDF",
-    "author": "futurearrived",
-    "authorGithub": "https://github.com/futurearrived",
-    "date": "2026 年 4 月 28 号添加",
-    "category": "main"
-  },
-  {
     "name": "kite-desktop",
     "url": "https://github.com/eryajf/kite-desktop",
     "status": "online",
