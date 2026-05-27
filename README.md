@@ -23,6 +23,24 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 26 号添加
+
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+* :white_check_mark: [免费在线pdf工具](https://www.pdf24tools.online/zh/)：在线 PDF 工具，支持合并、分割、压缩、转换和编辑
+* :white_check_mark: [免费在线工具箱](https://www.10015tools.online/zh)：提供 1000+ 在线工具，包括开发人员工具、代码格式化、压缩、加密、解密、下载链接转换、JSON 格式化、正则测试、favicon 在线制作、字帖工具、中文简繁体转换、迅雷下载链接转换、进制转换、二维码、照片压缩、PDF 合并
+
+#### ysykzheng(武汉)
+* :white_check_mark: [FormCrab.com](https://formcrab.com/)：获取私密链接，隐藏邮箱并正常接收消息，避免垃圾邮件
+
+### 2026 年 5 月 25 号添加
+
+#### Leochens - [Github](https://github.com/Leochens)
+* :white_check_mark: [MuseUI](https://muse.guantou.site/)：开源的纯浏览器运行的 AI 画布式图片工作台，可生成 UI 原型、文章封面、信息图、Logo、贴纸、社交媒体配图
+
+#### Shawn(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
+* :white_check_mark: [AITrustList](https://aitrustlist.com/)：AI工具目录导航网站，收录AI工具并对网站做流量排名
+* :white_check_mark: [Needoh Fun](https://needoh.fun/)：Needoh 评测指南，以及 Needoh 和其他高端指尖玩具的最新产品资讯，缓解压力，享受乐趣
+
 ### 2026 年 5 月 24 号添加
 
 #### XFSeven7 - [Github](https://github.com/XFSeven7)
