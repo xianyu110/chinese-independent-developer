@@ -1,5 +1,65 @@
 [
   {
+    "name": "免费在线pdf工具",
+    "url": "https://www.pdf24tools.online/zh/",
+    "status": "online",
+    "description": "在线 PDF 工具，支持合并、分割、压缩、转换和编辑",
+    "author": "zhugezifang",
+    "authorGithub": "https://github.com/zhugezifang",
+    "date": "2026 年 5 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "免费在线工具箱",
+    "url": "https://www.10015tools.online/zh",
+    "status": "online",
+    "description": "提供 1000+ 在线工具，包括开发人员工具、代码格式化、压缩、加密、解密、下载链接转换、JSON 格式化、正则测试、favicon 在线制作、字帖工具、中文简繁体转换、迅雷下载链接转换、进制转换、二维码、照片压缩、PDF 合并",
+    "author": "zhugezifang",
+    "authorGithub": "https://github.com/zhugezifang",
+    "date": "2026 年 5 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "FormCrab.com",
+    "url": "https://formcrab.com/",
+    "status": "online",
+    "description": "获取私密链接，隐藏邮箱并正常接收消息，避免垃圾邮件",
+    "author": "ysykzheng(武汉)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "MuseUI",
+    "url": "https://muse.guantou.site/",
+    "status": "online",
+    "description": "开源的纯浏览器运行的 AI 画布式图片工作台，可生成 UI 原型、文章封面、信息图、Logo、贴纸、社交媒体配图",
+    "author": "Leochens",
+    "authorGithub": "https://github.com/Leochens",
+    "date": "2026 年 5 月 25 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AITrustList",
+    "url": "https://aitrustlist.com/",
+    "status": "online",
+    "description": "AI工具目录导航网站，收录AI工具并对网站做流量排名",
+    "author": "Shawn(北京)",
+    "authorGithub": "https://github.com/ShawnHacks",
+    "date": "2026 年 5 月 25 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Needoh Fun",
+    "url": "https://needoh.fun/",
+    "status": "online",
+    "description": "Needoh 评测指南，以及 Needoh 和其他高端指尖玩具的最新产品资讯，缓解压力，享受乐趣",
+    "author": "Shawn(北京)",
+    "authorGithub": "https://github.com/ShawnHacks",
+    "date": "2026 年 5 月 25 号添加",
+    "category": "main"
+  },
+  {
     "name": "novel-helper",
     "url": "https://github.com/XFSeven7/novel-helper",
     "status": "online",
