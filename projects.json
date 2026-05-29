@@ -1,5 +1,65 @@
 [
   {
+    "name": "banana video",
+    "url": "https://bananavideo.ai/zh",
+    "status": "online",
+    "description": "AI 视频与图像生成平台，集成 Veo 3.1、Nano Banana 2、GPT Image 2 和 Seedance 2.0 模型，支持文生图、图像编辑到电影级视频生成的全流程创作",
+    "author": "nanobanana-co",
+    "authorGithub": "https://github.com/nanobanana-co",
+    "date": "2026 年 5 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "babel.town",
+    "url": "https://babel.town",
+    "status": "online",
+    "description": "公共聊天室，其他用户的发言会自动翻译成你使用的语言，实现无障碍交流",
+    "author": "yvonuk - [推特](https://x.com/mcwangcn)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "htmltourl",
+    "url": "https://htmltourl.com/",
+    "status": "online",
+    "description": "专为 AI 编程设计的快速上线工具，粘贴 HTML 代码即可一键生成在线访问链接",
+    "author": "benny(佛山)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Launchumo",
+    "url": "https://launchumo.com/",
+    "status": "online",
+    "description": "专注于独立开发者 AI SaaS 产品的导航站，帮助用户快速发现实用的 AI 工具，也帮助 AI SaaS 创业者和独立开发者获得更多曝光，通过更清晰、更聚焦的产品收录方式，让用户不用在杂乱的信息中筛选就能找到值得尝试的新 AI 产品。",
+    "author": "vampirewy",
+    "authorGithub": "https://github.com/vampirewy",
+    "date": "2026 年 5 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "notepad link",
+    "url": "https://notepadlink.online/",
+    "status": "online",
+    "description": "在线记事本，支持创建文本，通过链接和二维码方式进行分享",
+    "author": "zhugezifang",
+    "authorGithub": "https://github.com/zhugezifang",
+    "date": "2026 年 5 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "GEO Wiki",
+    "url": "https://geo.wiki/",
+    "status": "online",
+    "description": "面向 AI 搜索时代的百科全书",
+    "author": "羊上上",
+    "authorGithub": "https://github.com/yangbishang",
+    "date": "2026 年 5 月 28 号添加",
+    "category": "main"
+  },
+  {
     "name": "免费在线pdf工具",
     "url": "https://www.pdf24tools.online/zh/",
     "status": "online",
