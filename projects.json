@@ -1,5 +1,45 @@
 [
   {
+    "name": "ZOOOP",
+    "url": "https://zooop.ai/",
+    "status": "online",
+    "description": "AI 原生创作平台，支持在浏览器端无限画布上生成图像、视频和音频，提供去背景、高清化等专项工具及即用型 AI 模板，支持发布模板赚取积分，并具备团队共享积分模式。",
+    "author": "yuhoayu-arch",
+    "authorGithub": "https://github.com/yuhoayu-arch",
+    "date": "2026 年 5 月 29 号添加",
+    "category": "main"
+  },
+  {
+    "name": "World Holidays",
+    "url": "https://worldholidays.me/",
+    "status": "online",
+    "description": "出海团队一站式查看全球200多个国家的法定假期",
+    "author": "weijunext",
+    "authorGithub": "https://github.com/weijunext",
+    "date": "2026 年 5 月 29 号添加",
+    "category": "main"
+  },
+  {
+    "name": "StarVeil AI - 星河入梦",
+    "url": "https://starveilai.com/",
+    "status": "online",
+    "description": "使用AI生成连续漫画的网站",
+    "author": "Kajian(佛山)",
+    "authorGithub": "https://github.com/gdfsdjj145",
+    "date": "2026 年 5 月 29 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Zilivo AI",
+    "url": "https://zilivo.io",
+    "status": "online",
+    "description": "AI 图片和视频创作平台",
+    "author": "tonik(杭州)",
+    "authorGithub": "",
+    "date": "2026 年 5 月 29 号添加",
+    "category": "main"
+  },
+  {
     "name": "banana video",
     "url": "https://bananavideo.ai/zh",
     "status": "online",
