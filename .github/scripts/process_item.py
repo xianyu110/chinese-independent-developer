@@ -49,7 +49,7 @@ def get_ai_project_line(raw_text):
 要求：
 1. 识别文本中的所有产品/项目（可能有多个）
 2. 每个项目占一行
-3. 在文字的开头，去掉"一款、一个、完全免费、高效、简洁、强大、快速、好用、安全"等营销废话
+3. 在文字的开头，去掉"一款、一个、高效、简洁、强大、快速、好用、安全"等营销废话；如果"免费"是该产品的核心特征（如作者明确强调免费），则保留"免费"这个词
 4. 严禁使用加粗格式（不要使用 **）
 5. 将产品名称从文字的后面提升到最前面
 6. 每行格式：* :white_check_mark: [项目名](网址)：用途描述
@@ -250,6 +250,8 @@ def main():
         user_mentions = " ".join([f"@{u}" for u in users])
         reply_body = f"{user_mentions} 感谢提交，已添加！\n\n PR 链接：{pr.html_url}"
         parent.create_comment(reply_body)
+        if parent.number != ISSUE_NUMBER:
+            parent.edit(state='closed')
 
     print(f"\n✅ 已在 {len(replies)} 个 Issue 中标记并回复")
 
