@@ -23,6 +23,29 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 1 号添加
+
+#### 刀刀 - [Github](https://github.com/sfss5362)
+* :white_check_mark: [DropLink 传送门](https://idroplink.com/)：选文件秒变链接，对方任意浏览器零安装下载
+
+#### lumian2015 - [Github](https://github.com/lumian2015)
+* :white_check_mark: [PaperCheck](https://aiturnitinchecker.com)：论文提交前自查工具，提供 Turnitin 查重 + AI 写作检测报告，帮助学生在正式提交前发现问题
+* :white_check_mark: [AIFlowMusic](https://aiflowmusic.com)：AI 音乐生成网站
+
+#### mertenhindsman-source - [Github](https://github.com/mertenhindsman-source)
+* :white_check_mark: [mbti types](https://www.typesmbti.com/)：16 型人格免费测试、认知功能详解、类型对比分析
+
+### 2026 年 5 月 30 号添加
+
+#### Jankaaa Rong - [Github](https://github.com/jankarong)
+* :white_check_mark: [RoomDecorFinds](https://roomdecorfinds.com/)：家居装饰参考和房间规划网站，提供风格指南、配色参考、房间灵感和实用尺寸/布局工具
+
+#### huangy7 - [Github](https://github.com/huangy7)
+* :white_check_mark: [MeowOut](https://meow.huangy.top/)：macOS 原生菜单栏健康应用，通过系统级活跃度监测与灵动的像素宠物，引导用户规律休息、补水及正念呼吸
+
+#### azt1112 - [Github](https://github.com/azt1112)
+* :white_check_mark: [Gemini Omni](https://omniflashai.video/)：AI 视频生成工具，支持文本/图片/对话生成带原生同步音效的 4K 电影级短视频，提供多模态参考、角色一致性锁定和对话式编辑，通过自然对话即可完全控制物理规律、角色和环境。
+
 ### 2026 年 5 月 29 号添加
 
 #### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
