@@ -1,5 +1,15 @@
 [
   {
+    "name": "ch3 music editor",
+    "url": "https://ch3graph.com",
+    "status": "online",
+    "description": "文本驱动的音乐编辑器，注重交互体验",
+    "author": "ch3coohlink",
+    "authorGithub": "https://github.com/ch3coohlink",
+    "date": "2026 年 6 月 2 号添加",
+    "category": "main"
+  },
+  {
     "name": "DropLink 传送门",
     "url": "https://idroplink.com/",
     "status": "online",
