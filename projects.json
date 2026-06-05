@@ -1,5 +1,45 @@
 [
   {
+    "name": "Pilipala",
+    "url": "https://pilipala.app/",
+    "status": "online",
+    "description": "音乐播放器，支持本地音频，直连网盘，WebDAV等音源。支持iOS，Android，MacOS，Windows，Linux平台，自定义歌单，离线优先，多端同步。",
+    "author": "Cheng ",
+    "authorGithub": "",
+    "date": "2026 年 6 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "YiceKit",
+    "url": "https://yicekit.com/",
+    "status": "online",
+    "description": "AI 工具导航与在线工具箱，按写作、绘画、视频、编程、办公、营销和 SEO 等场景整理 AI 工具，也提供 SEO 标题检查、Meta Description 检查、Slug 生成器和 robots.txt 生成器等可直接使用的小工具。",
+    "author": "YiceKit",
+    "authorGithub": "https://github.com/Yice-AI",
+    "date": "2026 年 6 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "拼豆图纸生成器",
+    "url": "https://pindou.amz-tools.xyz/",
+    "status": "online",
+    "description": "上传图片，秒变拼豆图纸",
+    "author": "bad-superman",
+    "authorGithub": "https://github.com/bad-superman",
+    "date": "2026 年 6 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Curlo",
+    "url": "https://curlo.ahrisy.com",
+    "status": "online",
+    "description": "纯本地 AI 驱动的 Mac 端音频管理与搜索 App，支持语义搜索、相似音频搜索、元数据搜索与编辑、UCS 分类与标签与本地 API",
+    "author": "Ahrisy",
+    "authorGithub": "https://github.com/Ahrisya",
+    "date": "2026 年 6 月 3 号添加",
+    "category": "main"
+  },
+  {
     "name": "ch3 music editor",
     "url": "https://ch3graph.com",
     "status": "online",
