@@ -23,7 +23,51 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 6 号添加
+
+#### EveryReach - [Github](https://github.com/Zhangfengmo)
+* :white_check_mark: [2AI Tools](https://2ai.tools/)：AI 工具导航与发现平台，按需求搜索和对比 AI 工具，支持按免费/免费增值/付费/开源筛选，提供工作流推荐和每日 AI 资讯，可社区提交新工具
+
+#### shadycheer - [Github](https://github.com/shadycheer)
+* :white_check_mark: [MusiCard](https://musi-card-two.vercel.app)：音乐分享卡生成工具，Spotify / Apple Music 链接转高清图卡，自动拉歌词可选词嵌入，专为国内聊天场景设计
+
+### 2026 年 6 月 5 号添加
+
+#### carl4carter - [Github](https://github.com/carl4carter)
+* :white_check_mark: [PropertyPhotoVideo](https://propertyphotovideo.com)：将房产照片转换为惊艳视频
+
+#### z1991817 - [Github](https://github.com/z1991817)
+* :white_check_mark: [moyuHot](https://moyuhot.com/)：热搜聚合与新闻阅读平台，支持微博、知乎、B站、抖音、GitHub Trending、V2EX 等实时热榜
+* :white_check_mark: [moyuHot](https://github.com/z1991817/moyuhot)：热搜聚合与新闻阅读平台（GitHub 项目）
+
+#### zeweihan - [Github](https://github.com/zeweihan)
+* :white_check_mark: [AI Workdeck](https://github.com/zeweihan/aiworkdeck)：面向法律和文档密集型工作流的 AI 原生 IDE 工作空间
+
+#### nanos(杭州) - [Github](https://github.com/cabbagehao)
+* :white_check_mark: [恋するへびべあ診断](https://kumatype-shindan.xyz/)：20问日语熊系恋爱类型诊断，提供16种结果、相性对比和MBTI差异说明。
+
+#### 独行录 - [Github](https://github.com/yzlee)
+* :white_check_mark: [独行录](https://opcmenu.com)：一人公司的「大众点评」与交流网络，已收录上千个一人公司（OPC）主理人和他们的产品，可浏览发现、点评打分，主理人之间还能关注、私信、组队
+
+#### kbmjj123 
+* :white_check_mark: [BulkPicTools](https://bulkpictools.com)：免费浏览器端图片批量处理工具，支持**工具链串联**（压缩→转格式→裁剪一次完成，无需重复上传），本地 AI 去背景/人脸模糊（WebGPU，无需 API Key），支持 200+ 张图片批量处理，文件不上传服务器。
+
+#### 馒头饭 - [Github](https://github.com/mantoufan)
+* :white_check_mark: [cv.cm](https://cv.cm)：免费在线剪贴板，无需注册，粘贴文本/图片/文件秒生成超短链接分享，内置 AI 视频与图像生成（Seedance 2.0）
+
 ### 2026 年 6 月 4 号添加
+
+#### imsg - [Github](https://github.com/imsg)
+* :white_check_mark: [AIGPTImage](https://aigptimage.org)：基于 GPT Image 2 的私有、生产级 AI 图像工作室
+* :white_check_mark: [AI Raphael](https://airaphael.org)：支持 Nano Banana Pro 和 GPT Image 2 图像模型的 AI 图像生成与编辑工作台
+
+#### willard-yuan - [Github](https://github.com/willard-yuan)
+* :white_check_mark: [ScrollShot](https://apps.apple.com/cn/app/scrollshot-%E6%BB%9A%E5%8A%A8%E6%88%AA%E5%9B%BE-%E6%8B%BC%E6%8E%A5%E9%95%BF%E5%9B%BE/id6760192003)：通过录屏自动生成像素级完美超长图的滚动截图工具
+* :white_check_mark: [scrollshot.work](https://scrollshot.work/zh)：ScrollShot 官方网站
+
+#### Incense(普吉岛) - [Github](https://github.com/IncenseHou)
+* :white_check_mark: [ChronosTimetable](https://chronostimetable.cloud/)：面向国际教育行业的分析型 Timetable 管理系统
+* :white_check_mark: [Smart Match AI](https://www.smartmatchai.online/)：自定义条件和精度来匹配两列不同的数据，更加自由的 Excel lookup/vlookup
 
 #### Cheng 
 * :white_check_mark: [Pilipala](https://pilipala.app/)：音乐播放器，支持本地音频，直连网盘，WebDAV等音源。支持iOS，Android，MacOS，Windows，Linux平台，自定义歌单，离线优先，多端同步。
