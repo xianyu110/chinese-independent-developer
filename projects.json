@@ -1,5 +1,45 @@
 [
   {
+    "name": "Hobbit",
+    "url": "https://hobbit.football",
+    "status": "online",
+    "description": "青少年足球教练 AI 智能体。核心目标是培养小球员的\"球商\"。教案设计、战术图绘制、球队管理、球员肖像卡、海报、比赛报告一站搞定。免费起步，聊天免费，支持 8 种语言",
+    "author": "Osgilias - [X](https://x.com/HobbitSoccer)",
+    "authorGithub": "",
+    "date": "2026 年 6 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "顔文字館",
+    "url": "https://www.kaomojikan.com/",
+    "status": "online",
+    "description": "日文颜文字复制站，特色是会跟随鼠标、眨眼、按分类切换表情的「看板娘」吉祥物，整体风格就像在逛一家精致的日式小店，轻松又好玩；1700+ 颜文字按心情分类，一键复制（(=^･ω･^=) (｡♥‿♥｡) 这类），数据集 MIT 开源",
+    "author": "Kai",
+    "authorGithub": "https://github.com/kaomojikan",
+    "date": "2026 年 6 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AIInLink",
+    "url": "https://aiinlink.com",
+    "status": "online",
+    "description": "AI 工具、SaaS 产品和独立开发者项目发现目录，收录适合创作者、开发者和团队使用的 AI 产品，支持分类浏览、工具详情、收藏、评论和提交入口。",
+    "author": "jankarong(温哥华) - [GitHub](https://github.com/jankarong)",
+    "authorGithub": "",
+    "date": "2026 年 6 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "microNeo",
+    "url": "https://github.com/sollawen/microNeo",
+    "status": "online",
+    "description": "终端 Markdown 编辑器，同窗口渲染+编辑，打开 .md 文件即看到排版效果，点击即可编辑，无需分屏。fork 自 Micro，Go 单二进制，一行命令安装",
+    "author": "sollawen",
+    "authorGithub": "https://github.com/sollawen",
+    "date": "2026 年 6 月 8 号添加",
+    "category": "programmer"
+  },
+  {
     "name": "Hello Kitty Coloring Pages",
     "url": "https://hellokittycoloringpages.com/",
     "status": "online",
