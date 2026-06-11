@@ -1,5 +1,45 @@
 [
   {
+    "name": "FlowPrompter",
+    "url": "https://flowprompter.app/",
+    "status": "online",
+    "description": "屏幕共享和录屏时不可见的透明提词器，支持自定义字体、滚动速度、镜像翻转，适合直播、视频录制和在线演讲",
+    "author": "Yansoul",
+    "authorGithub": "https://github.com/Yansoul",
+    "date": "2026 年 6 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SnapVee Studio",
+    "url": "https://snapvee.com/",
+    "status": "online",
+    "description": "社媒创作工具，支持 50+ 社媒平台内容获取、字幕、视频内容总结、生图、生视频等",
+    "author": "江辰(杭州)",
+    "authorGithub": "https://github.com/xuya227939",
+    "date": "2026 年 6 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "vocal range test",
+    "url": "https://vocalrangetest.org",
+    "status": "online",
+    "description": "可视化的音乐网站，提供音域测试、音准测试、音感测试、音色测试等，具有音乐氛围的工具网站",
+    "author": "xmm(杭州)",
+    "authorGithub": "https://github.com/xmm852003204",
+    "date": "2026 年 6 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "just talk english",
+    "url": "https://talk.babel.town",
+    "status": "online",
+    "description": "完全免费的实时 AI 语音聊天服务，无需登录，无广告，可随时打断",
+    "author": "yvonuk - [推特](https://x.com/mcwangcn)",
+    "authorGithub": "",
+    "date": "2026 年 6 月 10 号添加",
+    "category": "main"
+  },
+  {
     "name": "InkOS",
     "url": "https://github.com/Narcooo/inkos",
     "status": "online",
