@@ -23,7 +23,22 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 16 号添加
+
+#### Leo(广州) - [Github](https://github.com/huangyoudong30-lab)
+* :white_check_mark: [Pokecut](https://www.pokecut.com/)：在线免费使用的 AI 图像编辑/生成器
+
+#### Iven Wang(天津) - [Github](https://github.com/IVENWG), [博客](https://chartmini.com/blog)
+* :white_check_mark: [ChartMini](https://chartmini.com)：面向交易者的 K 线复盘、纸上交易和刻意练习工具，帮助用户在真实历史行情中训练交易判断。 - [更多介绍](https://chartmini.com)
+
+#### Tom - [GitHub](https://github.com/ykphdzz)
+* :white_check_mark: [TarotYet](https://tarotyet.com/)：免费 AI 塔罗牌占卜平台。提供情境感知的 Yes/No 塔罗占卜和深度爱情塔罗解读，帮助做出清晰可行的决策
+#### Vin - [Github](https://github.com/vinxu)
+* :white_check_mark: [CastReader](https://castreader.com)：把网页、Kindle、微信读书、PDF 读给你听,还能边读边讲解,支持 40+ 语言(Chrome 插件)
 ### 2026 年 6 月 15 号添加
+
+#### Lessur(广州) - [Github](https://github.com/lessurlx)
+* :white_check_mark: [StoryIntoVideo](https://storyintovideo.com/)：AI 故事转视频 | 小说一键生成短剧视频
 
 #### Jixer(成都) - [Github](https://github.com/jixer666), [博客](https://vuepress.jixer.top/)
 * :white_check_mark: [Omni](http://omni.jixer.top)：专属于个人的知识库，支持Notion风格富文本编辑器，无限制创建文档
