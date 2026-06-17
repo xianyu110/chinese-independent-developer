@@ -1,5 +1,55 @@
 [
   {
+    "name": "Pokecut",
+    "url": "https://www.pokecut.com/",
+    "status": "online",
+    "description": "在线免费使用的 AI 图像编辑/生成器",
+    "author": "Leo(广州)",
+    "authorGithub": "https://github.com/huangyoudong30-lab",
+    "date": "2026 年 6 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ChartMini",
+    "url": "https://chartmini.com",
+    "status": "online",
+    "description": "面向交易者的 K 线复盘、纸上交易和刻意练习工具，帮助用户在真实历史行情中训练交易判断。 - [更多介绍](https://chartmini.com)",
+    "author": "Iven Wang(天津)",
+    "authorGithub": "https://github.com/IVENWG",
+    "date": "2026 年 6 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "TarotYet",
+    "url": "https://tarotyet.com/",
+    "status": "online",
+    "description": "免费 AI 塔罗牌占卜平台。提供情境感知的 Yes/No 塔罗占卜和深度爱情塔罗解读，帮助做出清晰可行的决策",
+    "author": "Tom - [GitHub](https://github.com/ykphdzz)",
+    "authorGithub": "",
+    "date": "2026 年 6 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "CastReader",
+    "url": "https://castreader.com",
+    "status": "online",
+    "description": "把网页、Kindle、微信读书、PDF 读给你听,还能边读边讲解,支持 40+ 语言(Chrome 插件)",
+    "author": "Vin",
+    "authorGithub": "https://github.com/vinxu",
+    "date": "2026 年 6 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "StoryIntoVideo",
+    "url": "https://storyintovideo.com/",
+    "status": "online",
+    "description": "AI 故事转视频 | 小说一键生成短剧视频",
+    "author": "Lessur(广州)",
+    "authorGithub": "https://github.com/lessurlx",
+    "date": "2026 年 6 月 15 号添加",
+    "category": "main"
+  },
+  {
     "name": "Omni",
     "url": "http://omni.jixer.top",
     "status": "online",
