@@ -2,6 +2,40 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 5 号添加
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [DoodleGuesser](https://doodleguesser.com/)：免费在线画图猜词派对游戏，创建房间分享链接与朋友即时畅玩，实时画图猜词，自动计分轮换，无需下载注册
+
+### 2026 年 7 月 4 号添加
+
+#### Felix - [Github](https://github.com/greek-zzf)
+* :white_check_mark: [Songless](https://songless.pro)：浏览器音乐猜歌游戏，听歌曲开头片段猜歌名或歌手，支持每日挑战、无限模式和主题歌单，无需安装即可游玩
+
+### 2026 年 7 月 1 号添加
+
+#### ItChinaw(南京) - [Github](https://github.com/ItChinaw)
+* :white_check_mark: [Steamm](https://steamm.net)：游戏账号租赁，为用户提供热门 3A、联机与双人游戏的在线租号
+
+### 2026 年 6 月 30 号添加
+
+#### meetqy - [Github](https://github.com/meetqy)
+* :white_check_mark: [ToonTone](https://toontone.im)：在线动漫猜颜色小游戏
+
+### 2026 年 6 月 25 号添加
+
+#### Wang Hongbo
+* :white_check_mark: [Witchspire](https://witchspire.org)：暗黑幻想 roguelite 游戏，动态法术系统+契约系统，Steam 6月10日 EA 上线 - [更多介绍](https://witchspire.org/about)
+* :white_check_mark: [Cursemark Builds](https://cursemark.org)：Cursemark 游戏 Build 数据库，50+ 法术组合+社群评分+符文指南，完全免费无需注册
+
+### 2026 年 6 月 18 号添加
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [poople game](https://poople-game.com/)：字母拼字游戏，逐个添加字母直到拼出目标单词
+
+#### Harries - [Github](https://github.com/Harries)
+* :white_check_mark: [StonkRider](https://stonkrider.fun/)：将真实股票和加密货币 K 线图变成越野摩托赛道的网页游戏，选择股票代码（TSLA、GME、BTC-USD 等）驾车冲刺
+
 ### 2026 年 4 月 25 号添加
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [patches game](https://playpatches.today/)：每日逻辑谜题游戏
