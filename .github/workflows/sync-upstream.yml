@@ -75,8 +75,24 @@ jobs:
             fi
           }
 
-          echo "New upstream commits found. Merging..."
-          if ! git merge "$UPSTREAM_DEFAULT" --no-edit -X theirs; then
+          keep_fork_workflows() {
+            echo "Keeping fork-owned workflow files unchanged."
+            while IFS= read -r path; do
+              [ -n "$path" ] || continue
+              restore_path_from_head "$path"
+            done < <(git diff --name-only --cached -- .github/workflows)
+
+            while IFS= read -r path; do
+              [ -n "$path" ] || continue
+              restore_path_from_head "$path"
+            done < <(git diff --name-only -- .github/workflows)
+          }
+
+          echo "New upstream commits found. Merging without committing first..."
+          merge_status=0
+          git merge "$UPSTREAM_DEFAULT" --no-edit --no-commit -X theirs || merge_status=$?
+
+          if [ "$merge_status" -ne 0 ]; then
             echo "Merge conflicts found. Resolving known fork-owned files with local versions."
 
             for path in               .github/scripts/generate_projects_json.py               CNAME               index.html               projects.json               _config.yml
@@ -102,19 +118,17 @@ jobs:
               git diff --name-only --diff-filter=U
               exit 1
             fi
-
-            git commit --no-edit
           fi
 
-          echo "Keeping fork-owned workflow files unchanged."
-          while IFS= read -r path; do
-            [ -n "$path" ] || continue
-            restore_path_from_head "$path"
-          done < <(git diff --name-only HEAD -- .github/workflows)
+          keep_fork_workflows
 
-          if ! git diff --quiet --cached; then
-            git commit -m "chore: keep fork workflow files during upstream sync"
+          if git diff --cached --quiet; then
+            echo "No upstream changes to commit after applying fork-owned exclusions."
+            git merge --abort 2>/dev/null || true
+            exit 0
           fi
+
+          git commit --no-edit
 
       - name: Regenerate projects.json
         run: python3 .github/scripts/generate_projects_json.py
