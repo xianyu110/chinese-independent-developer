@@ -29,20 +29,65 @@ jobs:
 
       - name: Add upstream and sync
         run: |
-          git remote add upstream https://github.com/1c7/chinese-independent-developer.git
+          set -euo pipefail
+
+          git checkout -B "$LOCAL_DEFAULT" "origin/$LOCAL_DEFAULT"
+          git remote add upstream https://github.com/1c7/chinese-independent-developer.git 2>/dev/null || true
+          git remote set-url upstream https://github.com/1c7/chinese-independent-developer.git
           git fetch upstream
 
-          # 检查是否有新的提交需要同步
-          LOCAL_SHA=$(git rev-parse $LOCAL_DEFAULT)
-          UPSTREAM_SHA=$(git rev-parse $UPSTREAM_DEFAULT)
+          LOCAL_SHA=$(git rev-parse HEAD)
+          UPSTREAM_SHA=$(git rev-parse "$UPSTREAM_DEFAULT")
 
           if [ "$LOCAL_SHA" = "$UPSTREAM_SHA" ]; then
             echo "Already up to date."
             exit 0
           fi
 
-          echo "New commits found. Merging..."
-          git merge $UPSTREAM_DEFAULT --no-edit
+          if git merge-base --is-ancestor "$UPSTREAM_DEFAULT" HEAD; then
+            echo "Local branch already contains upstream."
+            exit 0
+          fi
+
+          resolve_conflict() {
+            path="$1"
+            side="$2"
+
+            if ! git ls-files -u -- "$path" | grep -q .; then
+              return 0
+            fi
+
+            echo "Resolving $path with $side version"
+            if git checkout "--$side" -- "$path" 2>/dev/null; then
+              git add "$path"
+            else
+              git rm -f --ignore-unmatch "$path"
+            fi
+          }
+
+          echo "New upstream commits found. Merging..."
+          if ! git merge "$UPSTREAM_DEFAULT" --no-edit -X theirs; then
+            echo "Merge conflicts found. Resolving known fork-owned files with local versions."
+
+            for path in               .github/scripts/generate_projects_json.py               .github/workflows/sync-upstream.yml               .github/workflows/process_list.yml               CNAME               index.html               projects.json               _config.yml
+            do
+              resolve_conflict "$path" ours
+            done
+
+            echo "Resolving remaining conflicts with upstream versions."
+            while IFS= read -r path; do
+              [ -n "$path" ] || continue
+              resolve_conflict "$path" theirs
+            done < <(git diff --name-only --diff-filter=U)
+
+            if [ -n "$(git diff --name-only --diff-filter=U)" ]; then
+              echo "Unresolved conflicts remain:"
+              git diff --name-only --diff-filter=U
+              exit 1
+            fi
+
+            git commit --no-edit
+          fi
 
       - name: Regenerate projects.json
         run: python3 .github/scripts/generate_projects_json.py
