@@ -24,6 +24,15 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 8 号添加
+
+#### axuan(广州)
+* :white_check_mark: [PicText - 图片文字编辑器](https://imagetexteditor.net/)：AI 驱动的图片文本编辑器，检测并替换照片、截图和产品图中的文本，同时保留原始布局和字体
+* :white_check_mark: [Musefy - AI 音乐制作](https://music-generator.net)：将提示词转化为 AI 歌曲、歌词和背景音乐
+
+#### xbaicai0
+* :white_check_mark: [Seedance 2.5](https://seedance25ai.im)：字节跳动推出的 AI 视频生成器，输入提示词生成原生 4K 画质、时长达 30 秒的视频，支持最多 50 个参考输入，免费使用
+
 ### 2026 年 7 月 7 号添加
 
 #### xianyu110 - [Github](https://github.com/xianyu110)
