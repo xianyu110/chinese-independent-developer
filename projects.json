@@ -1,5 +1,45 @@
 [
   {
+    "name": "OkkMax",
+    "url": "https://www.okkmax.com/",
+    "status": "online",
+    "description": "AI API 中转站评测与监测工具，聚合模型纯度、在线率、延迟、价格、用户点评和福利活动 - [更多介绍](https://github.com/fanbidog/okkmax-web)",
+    "author": "fanbidog",
+    "authorGithub": "https://github.com/fanbidog",
+    "date": "2026 年 7 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "MusicAura AI",
+    "url": "https://musicaura.ai",
+    "status": "online",
+    "description": "AI 音乐生成器，把情绪、场景、歌词或文字提示变成原创歌曲和背景音乐，支持试听和下载",
+    "author": "zhouwan9001",
+    "authorGithub": "",
+    "date": "2026 年 7 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "CraftMusic AI",
+    "url": "https://craftmusic.ai/",
+    "status": "online",
+    "description": "AI 音乐和歌词生成器，从提示词、歌词想法或项目需求生成歌曲与纯音乐，支持风格控制、草稿比较和下载",
+    "author": "alexyuetmout",
+    "authorGithub": "https://github.com/alexyuetmout",
+    "date": "2026 年 7 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "BGChanger - AI 视频背景移除与换脸",
+    "url": "https://bgchanger.video",
+    "status": "online",
+    "description": "在浏览器中一键替换或移除视频背景，支持高精度 AI 换脸与基础视频剪辑，无需安装客户端与绿幕。",
+    "author": "andytu8866(深圳) - Github",
+    "authorGithub": "",
+    "date": "2026 年 7 月 8 号添加",
+    "category": "main"
+  },
+  {
     "name": "PicText - 图片文字编辑器",
     "url": "https://imagetexteditor.net/",
     "status": "online",
@@ -13233,7 +13273,7 @@
     "name": "FunClip",
     "url": "https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary",
     "status": "online",
-    "description": "全自动视频剪辑工具(开源免费)：自动精确语音识别、自由选段裁剪、自动生成字幕 - [更多介绍](https://github.com/alibaba-damo-academy)",
+    "description": "全自动视频剪辑工具(开源免费)：自动精确语音识别、自由选段裁剪、自动生成字幕 - [更多介绍](https://github.com/modelscope/FunClip)",
     "author": "R1ckShi",
     "authorGithub": "https://github.com/R1ckShi",
     "date": "2024 年 7 月 10 号添加",
