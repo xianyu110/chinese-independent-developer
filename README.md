@@ -26,6 +26,18 @@
 
 ### 2026 年 7 月 8 号添加
 
+#### fanbidog - [Github](https://github.com/fanbidog)
+* :white_check_mark: [OkkMax](https://www.okkmax.com/)：AI API 中转站评测与监测工具，聚合模型纯度、在线率、延迟、价格、用户点评和福利活动 - [更多介绍](https://github.com/fanbidog/okkmax-web)
+
+#### zhouwan9001
+* :white_check_mark: [MusicAura AI](https://musicaura.ai)：AI 音乐生成器，把情绪、场景、歌词或文字提示变成原创歌曲和背景音乐，支持试听和下载
+
+#### alexyuetmout - [Github](https://github.com/alexyuetmout)
+* :white_check_mark: [CraftMusic AI](https://craftmusic.ai/)：AI 音乐和歌词生成器，从提示词、歌词想法或项目需求生成歌曲与纯音乐，支持风格控制、草稿比较和下载
+
+#### andytu8866(深圳) - Github
+* :white_check_mark:  [BGChanger - AI 视频背景移除与换脸](https://bgchanger.video)：在浏览器中一键替换或移除视频背景，支持高精度 AI 换脸与基础视频剪辑，无需安装客户端与绿幕。
+
 #### axuan(广州)
 * :white_check_mark: [PicText - 图片文字编辑器](https://imagetexteditor.net/)：AI 驱动的图片文本编辑器，检测并替换照片、截图和产品图中的文本，同时保留原始布局和字体
 * :white_check_mark: [Musefy - AI 音乐制作](https://music-generator.net)：将提示词转化为 AI 歌曲、歌词和背景音乐
@@ -4494,7 +4506,7 @@
 * :white_check_mark: [SubRenamer](https://github.com/qwqcode/SubRenamer)：字幕文件批量改名工具
 
 #### R1ckShi - [Github](https://github.com/R1ckShi) 
-* :white_check_mark: [FunClip](https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary)：全自动视频剪辑工具(开源免费)：自动精确语音识别、自由选段裁剪、自动生成字幕 - [更多介绍](https://github.com/alibaba-damo-academy)
+* :white_check_mark: [FunClip](https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary)：全自动视频剪辑工具(开源免费)：自动精确语音识别、自由选段裁剪、自动生成字幕 - [更多介绍](https://github.com/modelscope/FunClip)
 
 #### 7small7(成都) - [GitHub](https://github.com/7small7)
 * :white_check_mark: [兔兔答题](https://www.tutudati.com)：在线考试答题系统，可用于微信考试、付费考试、社会调查问卷、明星知识问答、员工培训考核、模拟自测、企业面试、试题库等多种场景。支持一键导入、智能判卷、试后分析、不限终端等功能。
