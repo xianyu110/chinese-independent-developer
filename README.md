@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 9 号添加
+
+#### haibo.chen - [Github](https://github.com/duiniuluantanqin/MediaInsightHub/)
+* :white_check_mark: [MediaInsight](https://www.mediainsight360.com/)：在线媒体格式解析工具，支持 MP4、MKV、AVI 等格式和 H264、H265、AAC 等编解码分析 - [更多介绍](https://github.com/duiniuluantanqin/MediaInsightHub/blob/main/README_zh.md)
+
+#### JeremyGDM
+* :white_check_mark: [Image Clipboard](https://www.imageclipboard.xyz/)：免费网页工具，搜索、保存和复制 Discord emoji / sticker 图片链接，支持 JSON 导入导出和多语言
+
 ### 2026 年 7 月 8 号添加
 
 #### fanbidog - [Github](https://github.com/fanbidog)
