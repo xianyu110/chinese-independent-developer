@@ -1,5 +1,25 @@
 [
   {
+    "name": "GeoMock",
+    "url": "https://geomock.com/zh",
+    "status": "online",
+    "description": "全球地址生成器，覆盖美国免税州等 40+ 国家，生成地址、姓名、电话和邮箱，支持复制分享和浏览器本地保存，免费使用",
+    "author": "kasslly",
+    "authorGithub": "https://github.com/kasslly",
+    "date": "2026 年 7 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI 信息差",
+    "url": "https://news.maynorai.asia/",
+    "status": "online",
+    "description": "AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流和深度评测",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 7 月 10 号添加",
+    "category": "main"
+  },
+  {
     "name": "MediaInsight",
     "url": "https://www.mediainsight360.com/",
     "status": "online",
