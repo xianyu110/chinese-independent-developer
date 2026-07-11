@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 10 号添加
+
+#### kasslly - [Github](https://github.com/kasslly)
+* :white_check_mark: [GeoMock](https://geomock.com/zh)：全球地址生成器，覆盖美国免税州等 40+ 国家，生成地址、姓名、电话和邮箱，支持复制分享和浏览器本地保存，免费使用
+
+#### xianyu110 - [Github](https://github.com/xianyu110)
+* :white_check_mark: [AI 信息差](https://news.maynorai.asia/)：AI 产品解读站，聚焦模型横测、AI 图片生成 SaaS、提示词工作流和深度评测
+
 ### 2026 年 7 月 9 号添加
 
 #### haibo.chen - [Github](https://github.com/duiniuluantanqin/MediaInsightHub/)
