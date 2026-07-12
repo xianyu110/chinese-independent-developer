@@ -1,5 +1,35 @@
 [
   {
+    "name": "Vivify 实时视频换脸",
+    "url": "https://vivify.video/zh/realtime-face-swap",
+    "status": "online",
+    "description": "AI 实时视频换脸，支持一键换脸、变装和风格重绘",
+    "author": "cabbagehao",
+    "authorGithub": "https://github.com/vivifyvideo/vivify",
+    "date": "2026 年 7 月 11 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Dramily",
+    "url": "https://dramily.com",
+    "status": "online",
+    "description": "一站式真人短剧生成工厂",
+    "author": "lvning",
+    "authorGithub": "",
+    "date": "2026 年 7 月 11 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI YouTube Transcript",
+    "url": "https://aiyoutubetranscript.com/",
+    "status": "online",
+    "description": "无需注册的 YouTube 转录工具，可搜索 transcript、跳转时间戳，并导出 TXT、SRT、VTT",
+    "author": "ethanjamescolez",
+    "authorGithub": "https://github.com/ethanjamescolez",
+    "date": "2026 年 7 月 11 号添加",
+    "category": "main"
+  },
+  {
     "name": "GeoMock",
     "url": "https://geomock.com/zh",
     "status": "online",
