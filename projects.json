@@ -1,5 +1,15 @@
 [
   {
+    "name": "upload",
+    "url": "https://upload.one",
+    "status": "online",
+    "description": "跨 AI 的长期记忆层，让 ChatGPT、Claude、Codex、Hermes、OpenClaw、WorkBuddy 等共用同一份记忆，换工具换设备都接着上次继续，注册即用免装插件",
+    "author": "Banlon",
+    "authorGithub": "https://github.com/Banlon",
+    "date": "2026 年 7 月 12 号添加",
+    "category": "main"
+  },
+  {
     "name": "Vivify 实时视频换脸",
     "url": "https://vivify.video/zh/realtime-face-swap",
     "status": "online",
