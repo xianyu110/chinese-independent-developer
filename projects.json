@@ -1,5 +1,125 @@
 [
   {
+    "name": "Atomi",
+    "url": "https://atomi.chat",
+    "status": "online",
+    "description": "AI 工具与数字服务的验证交易市场——沙箱执行，回执为凭，验后放款。",
+    "author": "",
+    "authorGithub": "",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ieltssh",
+    "url": "https://ieltssh.com/",
+    "status": "online",
+    "description": "基于 AI 的雅思口语素材库，定制个人专属素材",
+    "author": "gtn1024",
+    "authorGithub": "https://github.com/gtn1024",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "MarkIt",
+    "url": "https://chromewebstore.google.com/detail/markit-%E7%BD%91%E9%A1%B5%E6%A0%87%E6%B3%A8%E4%B8%8E%E5%8F%8D%E9%A6%88%EF%BC%8C%E8%AE%A9-ai-%E5%B0%91%E7%8C%9C%E4%B8%80%E7%82%B9/dndiinkkhpmdipaffabjkaagoogjlome",
+    "status": "online",
+    "description": "在网页上圈选元素、截图并写需求，生成含页面位置、元素信息和验收标准的结构化反馈",
+    "author": "pasca520",
+    "authorGithub": "",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "小野AI",
+    "url": "https://xiaoye.io/",
+    "status": "online",
+    "description": "开源多模态 AI 内容创作平台，支持 Gemini、Seedream、Seedance 和 Veo 等模型生成图片与视频，并提供电商图片批量生成和提示词优化 - [更多介绍](https://github.com/capybara-zy/xiaoye-ai)",
+    "author": "capybara-zy",
+    "authorGithub": "https://github.com/capybara-zy",
+    "date": "2026 年 7 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "MeshRefinery",
+    "url": "https://meshrefinery.com/",
+    "status": "online",
+    "description": "在浏览器中修复、转换和优化 3D 文件，免费使用，文件不离开本地设备",
+    "author": "yaowei",
+    "authorGithub": "https://github.com/lumian2015",
+    "date": "2026 年 7 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "野果子",
+    "url": "https://www.yeguozi.com",
+    "status": "online",
+    "description": "电影家居美学灵感库，从精选剧照提取墙面软装配色参考，支持按色彩浏览和配色长图分享，覆盖 87 部电影 4400+ 张截图 - [更多介绍](https://github.com/yeguozi/yeguozi)",
+    "author": "yeguozi",
+    "authorGithub": "https://github.com/yeguozi",
+    "date": "2026 年 7 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "独立淘金地图",
+    "url": "https://berich.aichi.food",
+    "status": "online",
+    "description": "面向小白的赚钱路子汇总，整合一个人也能做的独立创收机会",
+    "author": "HankGuo",
+    "authorGithub": "https://github.com/HankGuo",
+    "date": "2026 年 7 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "卡网大全 · CardNav",
+    "url": "https://cardnav.xyz",
+    "status": "online",
+    "description": "一站式 AI 大模型账号购买导航，聚合中转站、卡网、官方订阅比价、模型排行、使用指南和实用工具 - [更多介绍](https://github.com/charleslee8266/cardnav-web)",
+    "author": "charles",
+    "authorGithub": "https://github.com/charleslee8266",
+    "date": "2026 年 7 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Listlift",
+    "url": "https://listlift.dev",
+    "status": "online",
+    "description": "面向 Etsy 卖家的内容引擎，将自有商品 Listing 转成符合卖家口吻、可审核编辑的 Pinterest 与 Instagram 内容",
+    "author": "xsf0221(深圳)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "璞奇",
+    "url": "https://www.zendong.com.cn",
+    "status": "online",
+    "description": "将书本、B 站、得到等学习内容生成练习，帮助掌握新知，支持 App、Chrome 插件和 Agent Skill - [更多介绍](https://mp.weixin.qq.com/s/HRRpKg2oAt_toZNTpY-foA)",
+    "author": "evertrain(杭州)",
+    "authorGithub": "https://github.com/evertrain",
+    "date": "2026 年 7 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Markra",
+    "url": "https://editor.markra.app/",
+    "status": "online",
+    "description": "本地优先的开源所见即所得 Markdown 编辑器，支持 Web、macOS、Windows 和 Linux，AI 修改可预览后应用 - [更多介绍](https://github.com/markrahq/markra/blob/main/README.zh-CN.md)",
+    "author": "MuRong",
+    "authorGithub": "https://github.com/murongg",
+    "date": "2026 年 7 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SaaSCity",
+    "url": "https://saascity.io",
+    "status": "online",
+    "description": "免费提交 SaaS 产品，每个产品会变成等距城市地图上的一栋建筑，24 小时内人工审核上线，付费版附带 dofollow 外链",
+    "author": "ghosty(海外)",
+    "authorGithub": "https://github.com/n1-ghosty",
+    "date": "2026 年 7 月 13 号添加",
+    "category": "main"
+  },
+  {
     "name": "upload",
     "url": "https://upload.one",
     "status": "online",
@@ -16010,9 +16130,19 @@
     "category": "main"
   },
   {
+    "name": "2Camera 双摄相机 (iOS)",
+    "url": "https://apps.apple.com/cn/app/id1584095090",
+    "status": "online",
+    "description": "前后双摄相机，双份故事，双倍精彩",
+    "author": "自力6XStudio（深圳）",
+    "authorGithub": "https://github.com/hzlzh",
+    "date": "2024 年 7 月 10 号添加",
+    "category": "main"
+  },
+  {
     "name": "锁屏启动 (iOS)",
-    "url": "https://LockLauncher.app",
-    "status": "offline",
+    "url": "https://apps.apple.com/cn/app/id1636719674",
+    "status": "online",
     "description": "丰富小组件、灵动岛网速/天气/步数等",
     "author": "自力6XStudio（深圳）",
     "authorGithub": "https://github.com/hzlzh",
@@ -16124,6 +16254,16 @@
     "url": "https://hzlzh.app/i/qr/wordlex.jpg",
     "status": "online",
     "description": "Wordle 游戏的练习工具",
+    "author": "自力6XStudio（深圳）",
+    "authorGithub": "https://github.com/hzlzh",
+    "date": "2024 年 7 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Patreon Batch Downloader (Chrome扩展)",
+    "url": "https://chromewebstore.google.com/detail/patreon-batch-downloader/mpdbndgiplhpkognodlmmjampheficlo",
+    "status": "online",
+    "description": "批量下载Patreon帖子和附件",
     "author": "自力6XStudio（深圳）",
     "authorGithub": "https://github.com/hzlzh",
     "date": "2024 年 7 月 10 号添加",
