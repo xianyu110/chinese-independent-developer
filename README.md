@@ -24,6 +24,45 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 14 号添加
+
+* :white_check_mark: [Atomi](https://atomi.chat)：AI 工具与数字服务的验证交易市场——沙箱执行，回执为凭，验后放款。
+
+#### gtn1024 - [Github](https://github.com/gtn1024)
+* :white_check_mark: [ieltssh](https://ieltssh.com/)：基于 AI 的雅思口语素材库，定制个人专属素材
+
+#### pasca520
+* :white_check_mark: [MarkIt](https://chromewebstore.google.com/detail/markit-%E7%BD%91%E9%A1%B5%E6%A0%87%E6%B3%A8%E4%B8%8E%E5%8F%8D%E9%A6%88%EF%BC%8C%E8%AE%A9-ai-%E5%B0%91%E7%8C%9C%E4%B8%80%E7%82%B9/dndiinkkhpmdipaffabjkaagoogjlome)：在网页上圈选元素、截图并写需求，生成含页面位置、元素信息和验收标准的结构化反馈
+
+### 2026 年 7 月 13 号添加
+
+#### capybara-zy - [Github](https://github.com/capybara-zy)
+* :white_check_mark: [小野AI](https://xiaoye.io/)：开源多模态 AI 内容创作平台，支持 Gemini、Seedream、Seedance 和 Veo 等模型生成图片与视频，并提供电商图片批量生成和提示词优化 - [更多介绍](https://github.com/capybara-zy/xiaoye-ai)
+
+#### yaowei - [Github](https://github.com/lumian2015)
+* :white_check_mark: [MeshRefinery](https://meshrefinery.com/)：在浏览器中修复、转换和优化 3D 文件，免费使用，文件不离开本地设备
+
+#### yeguozi - [Github](https://github.com/yeguozi)
+* :white_check_mark: [野果子](https://www.yeguozi.com)：电影家居美学灵感库，从精选剧照提取墙面软装配色参考，支持按色彩浏览和配色长图分享，覆盖 87 部电影 4400+ 张截图 - [更多介绍](https://github.com/yeguozi/yeguozi)
+
+#### HankGuo - [Github](https://github.com/HankGuo)
+* :white_check_mark: [独立淘金地图](https://berich.aichi.food)：面向小白的赚钱路子汇总，整合一个人也能做的独立创收机会
+
+#### charles - [Github](https://github.com/charleslee8266)
+* :white_check_mark: [卡网大全 · CardNav](https://cardnav.xyz)：一站式 AI 大模型账号购买导航，聚合中转站、卡网、官方订阅比价、模型排行、使用指南和实用工具 - [更多介绍](https://github.com/charleslee8266/cardnav-web)
+
+#### xsf0221(深圳)
+* :white_check_mark: [Listlift](https://listlift.dev)：面向 Etsy 卖家的内容引擎，将自有商品 Listing 转成符合卖家口吻、可审核编辑的 Pinterest 与 Instagram 内容
+
+#### evertrain(杭州) - [Github](https://github.com/evertrain)
+* :white_check_mark: [璞奇](https://www.zendong.com.cn)：将书本、B 站、得到等学习内容生成练习，帮助掌握新知，支持 App、Chrome 插件和 Agent Skill - [更多介绍](https://mp.weixin.qq.com/s/HRRpKg2oAt_toZNTpY-foA)
+
+#### MuRong - [Github](https://github.com/murongg)
+* :white_check_mark: [Markra](https://editor.markra.app/)：本地优先的开源所见即所得 Markdown 编辑器，支持 Web、macOS、Windows 和 Linux，AI 修改可预览后应用 - [更多介绍](https://github.com/markrahq/markra/blob/main/README.zh-CN.md)
+
+#### ghosty(海外) - [Github](https://github.com/n1-ghosty)
+* :white_check_mark: [SaaSCity](https://saascity.io)：免费提交 SaaS 产品，每个产品会变成等距城市地图上的一栋建筑，24 小时内人工审核上线，付费版附带 dofollow 外链
+
 ### 2026 年 7 月 12 号添加
 
 #### Banlon - [Github](https://github.com/Banlon)
@@ -5547,7 +5586,8 @@
 ### 2022年6月6号添加
 ---
 #### 自力6XStudio（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://x.com/hzlzh)
-* :x: [锁屏启动 (iOS)](https://LockLauncher.app)：丰富小组件、灵动岛网速/天气/步数等
+* :white_check_mark: [2Camera 双摄相机 (iOS)](https://apps.apple.com/cn/app/id1584095090)：前后双摄相机，双份故事，双倍精彩
+* :white_check_mark: [锁屏启动 (iOS)](https://apps.apple.com/cn/app/id1636719674)：丰富小组件、灵动岛网速/天气/步数等
 * :white_check_mark: [MenubarX (macOS)](https://MenubarX.app)：强大的 Mac 菜单栏浏览器，把网页添加到菜单栏上，像原生 App 一样即开即用
 * :white_check_mark: [DockX (macOS)](https://dockx.app/)：在程序坞显示任意状态，如：网速、CPU、时钟等
 * :white_check_mark: [钢琴小组件 (iOS)](https://6x.studio/piano-widget/)：无需启动，随时弹奏
@@ -5559,6 +5599,7 @@
 * :white_check_mark: [红点杀手 (微信小游戏)](https://hzlzh.app/i/qr/redkiller.jpg)：创意弹幕躲避游戏
 * :white_check_mark: [有幻觉 (微信小游戏)](https://hzlzh.app/i/qr/youhuanjue.jpg)：创意视觉错觉游戏
 * :white_check_mark: [WordleX (微信小程序)](https://hzlzh.app/i/qr/wordlex.jpg)：Wordle 游戏的练习工具
+* :white_check_mark: [Patreon Batch Downloader (Chrome扩展)](https://chromewebstore.google.com/detail/patreon-batch-downloader/mpdbndgiplhpkognodlmmjampheficlo)：批量下载Patreon帖子和附件
 * :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/id888749139)
 
 ### 2022年6月5号添加
