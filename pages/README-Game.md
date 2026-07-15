@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 15 号添加
+
+#### EloLin - [Github](https://github.com/DevEloLin)
+* :white_check_mark: [EloGames](https://games.elolin.com)：即开即玩的网页小游戏平台，打开就玩、无需下载或注册；主打自研《Lifeverse》——一个能在不同平行宇宙里反复「重开人生」的模拟器，随机抽取天赋与出身、经历迥异的人生轨迹，看你能活出怎样的一生
+
 ### 2026 年 7 月 9 号添加
 
 #### jankarong - [Github](https://github.com/jankarong)
@@ -33,6 +38,11 @@
 * :white_check_mark: [Witchspire](https://witchspire.org)：暗黑幻想 roguelite 游戏，动态法术系统+契约系统，Steam 6月10日 EA 上线 - [更多介绍](https://witchspire.org/about)
 * :white_check_mark: [Cursemark Builds](https://cursemark.org)：Cursemark 游戏 Build 数据库，50+ 法术组合+社群评分+符文指南，完全免费无需注册
 
+### 2026 年 6 月 22 号添加
+
+#### pandaupup - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Focus Game](https://focus-game.org/)：专注力训练小游戏集合，包含 Schulte Table、Stroop Test、Reaction Time Test 等浏览器训练工具
+
 ### 2026 年 6 月 18 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
@@ -41,9 +51,45 @@
 #### Harries - [Github](https://github.com/Harries)
 * :white_check_mark: [StonkRider](https://stonkrider.fun/)：将真实股票和加密货币 K 线图变成越野摩托赛道的网页游戏，选择股票代码（TSLA、GME、BTC-USD 等）驾车冲刺
 
+### 2026 年 6 月 13 号添加
+
+#### qqxufo - [Github](https://github.com/qqxufo)
+* :white_check_mark: [stonkrider](https://stonkrider.win/zh)：把股市、加密货币K线变成跑道的脑洞赛车游戏
+
+### 2026 年 5 月 22 号添加
+
+#### ouy35521-beep - [Github](https://github.com/ouy35521-beep)
+* :white_check_mark: [Toon Tone](https://toon-tone.cc)：浏览器里的动画角色颜色猜测游戏，玩家使用 HSB 滑块还原目标颜色，每轮显示色相、饱和度、亮度偏差得分，支持手机微调、种子分享和排行榜
+
+#### wosuxiongmao - [Github](https://github.com/wosuxiongmao)
+* :white_check_mark: [Doctordle](https://doctordle.icu)：每日医学诊断游戏，包含线索揭示、病例档案及临床推理练习功能，适用于美国医学考试（USMLE）备考与分散式复习
+
+### 2026 年 5 月 11 号添加
+
+#### zengzizhao - [Github](https://github.com/zengzizhao)
+* :white_check_mark: [旧日代码：遗物整理师](https://store.steampowered.com/app/4643810)：没有画面（其实也有😄）的赛博废土 RPG。用带有视觉动效的“HD文字”和纯代码实时合成的 MIDI 配乐和 AI 本地模型生成的语音，还原 15 万字硬科幻小说的沉浸式探索与遗物修复体验。预计6 月放出 Demo。
+
+### 2026 年 4 月 28 号添加
+
+#### pandaupup (广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Spacebar Clicker Game](https://spacebarclickergame.org/)：在线空格键点击测试工具，通过限时点击统计CPS（每秒点击次数），用于测试手速与反应速度
+
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Focus Game](https://focus-game.org/)：包含多种专注力与认知测试的小工具集合，通过短时练习提升注意力、反应速度和大脑处理能力。
+
 ### 2026 年 4 月 25 号添加
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [patches game](https://playpatches.today/)：每日逻辑谜题游戏
+
+### 2026 年 3 月 24 号添加
+
+#### Chaoc2624 - [Github](https://github.com/Chaoc2624)
+* :white_check_mark: [playcharades.fun](https://playcharades.fun)：线上你画我猜，500+个词汇涵盖11个分类。为儿童、成人或所有年龄段生成随机词汇。8种语言免费游戏。
+
+### 2026 年 3 月 13 号添加
+
+#### asui(泉州) - [Github](https://github.com/xingxingc)
+* :white_check_mark: [看图识梗](https://github.com/xingxingc/stray_avatar/raw/main/assets/qrcode_ktsg.jpg)：看图猜词语小程序 - [更多介绍](https://developers.weixin.qq.com/community/develop/doc/000026ee8ecd381fc6c45be8c6b00c)
 
 ### 2026 年 2 月 4 号添加
 #### Shawn (北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com)
@@ -146,6 +192,11 @@
 #### aiinlink
 * :white_check_mark: [多人聚会小游戏 bestpartygames](https://www.bestpartygames.net/)：多人聚会小游戏网站，可以玩谁是卧底，狼人杀，真心话大冒险等等游戏
 
+### 2025 年 8 月 27 号添加
+
+#### Nico(长沙) - [Github](https://github.com/yijianbo)
+* :white_check_mark: [TimeGuessr](https://timeguessr.online/)：给你一张图片，让你猜测图片发生的时间和地点。我们把 Timeguessr 的玩法原封不动地搬了过来，只是把图库换成了另一批“假照片”——全部由 AI 生成的过去 50 年里可能发生的瞬间
+
 ### 2025 年 8 月 8 号添加
 #### ckfanzhe（深圳）
 * :white_check_mark: [Minecraft-Easyserver](https://github.com/ckfanzhe/minecraft-easyserver)：Minecraft 游戏的轻量级管理面板，可以通过面板快速下载搭建MC服务器、管理白名单&权限、管理世界&材质资源、日志与命令执行、服务器性能监控，一键搭建MC游戏服务器。
@@ -211,6 +262,11 @@
 #### 隋十一(北京) - [Github](https://github.com/Hazards10)
 * :white_check_mark: [Car Games Unblocked](https://cargamesunblocked.net/)：汽车驾驶类游戏网站
 
+### 2025 年 3 月 16 号添加
+
+#### Jeremyym - [Github](https://github.com/Jeremyymxiao)
+* :white_check_mark: [Harry Potter House Quiz](https://harrypotterhousequiz.pro)：哈利波特分院测试
+
 ### 2025 年 3 月 5 号添加
 #### zoe(武汉) - [Github](https://github.com/dragonsweepers/)
 * :white_check_mark: [dragonsweeper](https://dragonsweepers.com)：创新型的扫雷游戏，融合了经典FC时代日式角色扮演和现代即时游戏元素
@@ -227,6 +283,11 @@
 #### 奥利弗(北京) - [Github](https://github.com/Oliverwqcwrw), [博客](https://www.aolifu.org/)
 * :white_check_mark: [摸鱼小栈](https://moyu.aolifu.org)：小游戏集合 - [更多介绍](https://www.aolifu.org/article/moyu)
 
+### 2025 年 1 月 23 号添加
+
+#### 前端小周(郑州) -  [个人主页](https://www.inav.site/)
+* :white_check_mark: [酒桌游戏789](https://www.inav.site/static/mp/789.png)：适合多人一起玩，掷出7点的倒酒(随意量)，掷出8点的喝杯中酒的一半，掷出9点的把杯中酒全部喝完。掷出两个点数相同轮换顺序颠倒，两个1可以指定人喝酒。可切换二人情侣模式
+
 ### 2025 年 1 月 4 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
 * :white_check_mark: [Sprunki Pyramixed](https://sprunkipyramixed.net/)：创新的音乐节奏游戏，是 Sprunki 的 MOD
@@ -236,3 +297,91 @@
 
 #### yangjuzi - [Github](https://github.com/yangjuzi)
 * :white_check_mark: [画什么](https://whattodraw.art)：从画圆开始，看看你画的圆可以得多少分
+
+### 2024 年 12 月 12 号添加
+
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Marvel Rivals Characters](https://marvelrivalscharacters.com/)：漫威对决游戏角色指南，角色完整清单，职业、联盟、角色难度等信息，发现最喜欢的角色
+
+### 2024 年 12 月 6 号添加
+
+#### Yue - [Github](https://github.com/yuegao04)
+* :white_check_mark: [BlockBlastCheat](https://blockblastcheat.com/)：为你的 Block Blast 游戏提供最佳解法
+
+### 2024 年 10 月 19 号添加
+
+#### xiaocui723(广东) - [Github](https://github.com/webgamehub/sprunked)
+* :white_check_mark: [Sprunked](https://sprunked.online/)：基于 Scratch 的在线音乐游戏（免费），为 Incredibox 引入创新的玩法和新角色，探索无限创造可能
+
+### 2024 年 10 月 16 号添加
+
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Fast Food Simulator](https://fastfoodsimulator.co)：快餐店模拟经营游戏，可在线免费玩
+
+### 2024 年 10 月 14 号添加
+
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :x: [Hawthorn Game](https://hawthorngame.org)：介绍最新的沙盒游戏 Hawthorn，还可以在线玩相似游戏
+
+### 2024 年 10 月 2 号添加
+
+#### xiaocui723(佛山) 
+* :white_check_mark: [Sprunki Incredibox](https://sprunkiincredibox.net)：在线互动创作音乐的游戏，Sprunki Incredibox 提供简单的拖放系统，允许玩家将不同的声音、人声和节拍混合到他们的自定义曲目中。每个角色都代表着独特的音乐元素，使每首作品都真正个性化
+
+### 2024年4月10日添加
+
+#### 奔跑的小山猪 - [Github](https://github.com/uestccokey), [Twiter](https://twitter.com/uestccokey), [官网](http://www.ezandroid.cn/)
+* :white_check_mark: [阿Q专业版](https://www.pgyer.com/aqgo)：手机上具有职业九段水平的围棋 AI 软件！
+
+### 2024年2月21号添加
+
+#### 王君敕(南京) - [Github](https://github.com/stardust), [博客](https://wangxuan.me)
+* :white_check_mark: [拼拼古诗](https://wangxuan.me/chinese_poem/)：古诗拼图小游戏，涵盖唐诗三百首和小学初中高中教科书中的古诗 - [更多介绍](https://mp.weixin.qq.com/s/G5Swlt7hH_3tWZDZ1ffgqw)
+
+### 2024年1月20号添加
+
+#### Fun(广州) - [Github](https://github.com/17fun)
+* :white_check_mark: [17fei.fun](https://17fei.fun): 情侣互动小游戏集合
+
+### 2023年12月11号添加
+
+#### heygsc - [Github](https://github.com/heygsc)
+* :white_check_mark: [数数游戏](https://count-puzzle.pages.dev/)：数数游戏，简洁但不简单，交互细节人性化 (PC) 
+
+### 2023年9月25号添加
+
+#### xerduo(重庆)
+* :x: [tetris](https://tetris.duqing.ink)：俄罗斯方块游戏，支持 AI，适配 H5 - [更多介绍](https://tetris.duqing.ink)
+
+### 2023年7月21号添加
+
+#### Tan(佛山) - [Github](https://github.com/tans)
+* :white_check_mark: [DenoPark](https://denopark.com)：打字 RPG 游戏，可以背单词，记快捷键
+
+### 2023年6月29号添加
+
+#### Airsaid（武汉） - [个人网站](http://airsaid.com/)
+* :white_check_mark: [数字华容道](https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle)：经典数字拼图智力小游戏
+* :x: [点点](https://play.google.com/store/apps/details?id=com.mugglegame.dotdot)：连点成线休闲小游戏
+
+### 2023年6月8号添加
+
+#### Jinke Du（上海）- [个人网站](https://kinnoukabokudo.com/)
+* :white_check_mark: [猜文字](https://apps.apple.com/app/id1606194420)：中文 Wordle，在 6 次机会中，通过笔画、笔顺猜出正确文字。
+
+### 2023年4月12号添加
+
+#### mark420524 - [GitHub](https://github.com/mark420524)
+* :white_check_mark: [早晚猜](https://github.com/mark420524/guess): 猜成语微信小程序，看图猜成语
+
+### 2022年6月6号添加
+
+#### 自力6XStudio（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://x.com/hzlzh)
+* :white_check_mark: [红点杀手 (微信小游戏)](https://hzlzh.app/i/qr/redkiller.jpg)：创意弹幕躲避游戏
+* :white_check_mark: [有幻觉 (微信小游戏)](https://hzlzh.app/i/qr/youhuanjue.jpg)：创意视觉错觉游戏
+* :white_check_mark: [WordleX (微信小程序)](https://hzlzh.app/i/qr/wordlex.jpg)：Wordle 游戏的练习工具
+
+### 2021年12月8号添加
+
+#### RyukieSama(广州) - [Github](https://github.com/RyukieSama), [博客](https://ryukiedev.gitbook.io/wiki/)
+* :white_check_mark: [扫雷Elic 无尽天梯](https://apps.apple.com/cn/app/id1488204246)：益智小游戏，挑战各国扫雷高手

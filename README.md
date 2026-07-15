@@ -27,7 +27,6 @@
 ### 2026 年 7 月 15 号添加
 
 #### EloLin - [Github](https://github.com/DevEloLin)
-* :white_check_mark: [EloGames](https://games.elolin.com)：即开即玩的网页小游戏平台，打开就玩、无需下载或注册；主打自研《Lifeverse》——一个能在不同平行宇宙里反复「重开人生」的模拟器，随机抽取天赋与出身、经历迥异的人生轨迹，看你能活出怎样的一生
 * :white_check_mark: [KinMate](https://kinmate.elolin.com)：本地优先的家庭健康档案库，把全家人（含宠物）的化验单、病历、体检报告集中安全地存在自己设备上；AI 用大白话帮你读懂每项指标是什么、是否正常，全部数据不出本机、不上传云端
 * :white_check_mark: [TestHive](https://testhive.elolin.com)：面向开发者的众测/内测市场，发布测试活动即可招募真实用户帮你试用挑 bug；测试者完成任务赚取平台积分奖励，测试报告可一键公开分享，让产品在上线前就拿到真实反馈
 
@@ -319,7 +318,6 @@
 * :white_check_mark: [Audio Compressor](https://audio-compressor.org/)：在线音频压缩工具，支持 MP3、WAV、M4A、AAC、OGG 等格式在浏览器本地压缩，减小文件大小
 * :white_check_mark: [YouTube Playlist Length](https://ytplaylistlengthpro.org/)：YouTube 播放列表时长计算器，可计算总播放时长、倍速观看时间和学习计划
 * :white_check_mark: [Overtime Calculator](https://overtimecalculatorpro.org/)：加班工资计算器，支持 overtime pay、time and a half、double time、time card 等工时估算
-* :white_check_mark: [Focus Game](https://focus-game.org/)：专注力训练小游戏集合，包含 Schulte Table、Stroop Test、Reaction Time Test 等浏览器训练工具
 * :white_check_mark: [Schulte Table](https://schulte-table.org/)：舒尔特方格训练，视觉注意力训练工具，支持不同尺寸表格和计时练习
 
 #### jankarong - [Github](https://github.com/jankarong)
@@ -399,9 +397,6 @@
 * :white_check_mark: [TrySchedule](https://tryschedule.com)：免费在线日程规划，拖拽式时间管理，支持多种模板，无需注册
 
 ### 2026 年 6 月 13 号添加
-
-#### qqxufo - [Github](https://github.com/qqxufo)
-* :white_check_mark: [stonkrider](https://stonkrider.win/zh)：把股市、加密货币K线变成跑道的脑洞赛车游戏
 
 #### pang3fan-creator - [Github](https://github.com/pang3fan-creator)
 * :white_check_mark: [ExtractKeywords](https://extractkeywords.com)：AI 驱动的关键词提取工具，支持中英文，免费使用，无需注册，纯前端实现，隐私安全
@@ -623,12 +618,6 @@
 #### asui(泉州) - [Github](https://github.com/xingxingc),
 * :white_check_mark: [随机头像](https://appgallery.huawei.com/app/detail?id=com.xing.suijitouxiang)：鸿蒙App，支持鸿蒙5.0以上系统，一键生成风格多样的搞怪头像，支持下载
 
-#### ouy35521-beep - [Github](https://github.com/ouy35521-beep)
-* :white_check_mark: [Toon Tone](https://toon-tone.cc)：浏览器里的动画角色颜色猜测游戏，玩家使用 HSB 滑块还原目标颜色，每轮显示色相、饱和度、亮度偏差得分，支持手机微调、种子分享和排行榜
-
-#### wosuxiongmao - [Github](https://github.com/wosuxiongmao)
-* :white_check_mark: [Doctordle](https://doctordle.icu)：每日医学诊断游戏，包含线索揭示、病例档案及临床推理练习功能，适用于美国医学考试（USMLE）备考与分散式复习
-
 #### morvanzhou
 * :white_check_mark: [MeTool](https://metool.online)：纯前端在线工具箱，86+ 工具覆盖图片、视频、3D、文档、开发等六大分类，全程浏览器本地处理，文件不上传、无需注册
 
@@ -719,9 +708,6 @@
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [AdMorph](https://ad-morph.com/)：Generate & Test Winning Ad Variations for Your Product
-
-#### zengzizhao - [Github](https://github.com/zengzizhao)
-* :white_check_mark: [旧日代码：遗物整理师](https://store.steampowered.com/app/4643810)：没有画面（其实也有😄）的赛博废土 RPG。用带有视觉动效的“HD文字”和纯代码实时合成的 MIDI 配乐和 AI 本地模型生成的语音，还原 15 万字硬科幻小说的沉浸式探索与遗物修复体验。预计6 月放出 Demo。
 
 
 ### 2026 年 5 月 9 号添加
@@ -828,12 +814,8 @@
 #### michael0127 - [Github](https://github.com/michael0127)
 * :white_check_mark: [Scanned.to](https://scanned.to)：AI 驱动的 OCR 文档识别与翻译平台，将扫描 PDF/图片转为可编辑 Word/Text，保留原始排版，支持 50+ 语言翻译
 
-#### pandaupup (广州) - [Github](https://github.com/pandaupup)
-* :white_check_mark: [Spacebar Clicker Game](https://spacebarclickergame.org/)：在线空格键点击测试工具，通过限时点击统计CPS（每秒点击次数），用于测试手速与反应速度
-
 #### pandaupup(广州) - [Github](https://github.com/pandaupup)
 * :white_check_mark: [Schulte Table](https://schulte-table.org/)：舒尔特方格训练工具，用于训练注意力、视觉扫描能力和阅读速度。
-* :white_check_mark: [Focus Game](https://focus-game.org/)：包含多种专注力与认知测试的小工具集合，通过短时练习提升注意力、反应速度和大脑处理能力。
 
 #### 刀刀 - [Github](https://github.com/sfss5362)
 * :white_check_mark: [Chrome插件VidGet](https://100apps.dev/2026/04/26/5-%e5%88%86%e9%92%9f%e8%a3%85%e5%a5%bd%e5%97%85%e5%97%85-vidget-%e5%90%ab-youtube.html)：一键嗅探下载网页视频 — YouTube / Bilibili / iyf.tv
@@ -1248,9 +1230,6 @@
 
 ### 2026 年 3 月 24 号添加
 
-#### Chaoc2624 - [Github](https://github.com/Chaoc2624)
-* :white_check_mark: [playcharades.fun](https://playcharades.fun)：线上你画我猜，500+个词汇涵盖11个分类。为儿童、成人或所有年龄段生成随机词汇。8种语言免费游戏。
-
 #### simple-Jian-tw - [Github](https://github.com/simple-Jian-tw)
 * :white_check_mark: [AnimeGen](https://animegen.ai/)：AI 照片转动漫工具，可将肖像、自拍、宠物或旅行照片转换为多种动漫风格，快速生成可下载结果，适用于头像、社交媒体帖子和创意项目。
 
@@ -1322,9 +1301,6 @@
 * :white_check_mark: [BookletAI](https://bookletai.org/)：面向普通用户的小册子 AI 工具，可自动调研、写作并生成排版好的 booklet 页面。
 
 ### 2026 年 3 月 13 号添加
-
-#### asui(泉州) - [Github](https://github.com/xingxingc)
-* :white_check_mark: [看图识梗](https://github.com/xingxingc/stray_avatar/raw/main/assets/qrcode_ktsg.jpg)：看图猜词语小程序 - [更多介绍](https://developers.weixin.qq.com/community/develop/doc/000026ee8ecd381fc6c45be8c6b00c)
 
 #### Picaro
 * :white_check_mark: [Image to Video AI](https://imagetovideoai.pro/)：将静态图片生成视频的 AI 工具
@@ -2692,9 +2668,6 @@
 #### 小灰雀(北京)
 * :white_check_mark: [EzWebp](https://www.ezwebp.com/)：视频转动图（WebP/GIF）在线工具，本地执行，数据安全。
 
-#### Nico(长沙) - [Github](https://github.com/yijianbo)
-* :white_check_mark: [TimeGuessr](https://timeguessr.online/)：给你一张图片，让你猜测图片发生的时间和地点。我们把 Timeguessr 的玩法原封不动地搬了过来，只是把图库换成了另一批“假照片”——全部由 AI 生成的过去 50 年里可能发生的瞬间
-
 ### 2025 年 8 月 26 号添加
 #### Lizer(重庆) - [Github](https://github.com/Loverz55)
 * :white_check_mark: [数字生命管](https://news.lizer.cc/)：抖音热搜时间轴， 一小时自动抓取一次，通过工作流全网搜关于这个事件的时间线，然后  AI 梳理，AI 配图
@@ -3589,7 +3562,6 @@
 
 #### Jeremyym - [Github](https://github.com/Jeremyymxiao)
 * :white_check_mark: [AI Agents Directory](https://ai-agents-directory.com)：AI 智能体导航站
-* :white_check_mark: [Harry Potter House Quiz](https://harrypotterhousequiz.pro)：哈利波特分院测试
 * :white_check_mark: [Chinese Name Generator](https://chinese-name-generator.com)：给外国人起中文名，基于 DeepSeek V3
 * :white_check_mark: [Learn Kana](https://learnkana.pro)：学习日语平假名片假名, 基于 DeepSeek V3
 * :x: [AI Death Calculator](https://aideathcalculator.info)：用 AI 计算还剩多少寿命
@@ -3746,8 +3718,6 @@
 * :white_check_mark: [PhotoG](https://photog.art/)：专为电商卖家打造的 AI 摄影工具。轻松制作专业级产品图片，自定义背景，优化视觉效果，助力销售增长
 
 ### 2025 年 1 月 23 号添加
-#### 前端小周(郑州) -  [个人主页](https://www.inav.site/)
-* :white_check_mark: [酒桌游戏789](https://www.inav.site/static/mp/789.png)：适合多人一起玩，掷出7点的倒酒(随意量)，掷出8点的喝杯中酒的一半，掷出9点的把杯中酒全部喝完。掷出两个点数相同轮换顺序颠倒，两个1可以指定人喝酒。可切换二人情侣模式
 
 #### wo-zx(广州) 
 * :white_check_mark: [优好搜·SEO优化工具](https://www.uhaoseo.com)：免费精准诊断网站 SEO 状况，提供专业审查报告，致力保障网站和品牌在搜索引擎内的可见性 - [更多介绍](https://www.uhaoseo.com/seo-analyzer)
@@ -3840,8 +3810,6 @@
 * :white_check_mark: [BlueSky 工具目录站点](https://bskyinfo.com)：目前最完整的 BlueSky 工具收录站点
 
 ### 2024 年 12 月 12 号添加
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Marvel Rivals Characters](https://marvelrivalscharacters.com/)：漫威对决游戏角色指南，角色完整清单，职业、联盟、角色难度等信息，发现最喜欢的角色
 
 ### 2024 年 12 月 11 号添加
 #### Aining（合肥）
@@ -3874,9 +3842,6 @@
 
 #### Fooying - [Github](https://github.com/fooying), [博客](fooying.com/?ref=chinese-independent-developer)
 * :x: [SECSOSO 安全搜搜](https://secsoso.com/)：网络安全垂直领域AI搜索，安全搜搜，搜索安全 - [更多介绍](https://www.producthunt.com/products/secsoso)
-
-#### Yue - [Github](https://github.com/yuegao04)
-* :white_check_mark: [BlockBlastCheat](https://blockblastcheat.com/)：为你的 Block Blast 游戏提供最佳解法
 
 ### 2024 年 11 月 24 号添加
 #### 玩具工匠 - [Github](https://github.com/HiToysMaker)
@@ -4000,8 +3965,6 @@
 * :white_check_mark: [Image to excel](https://itexcel.izhiyakeji.com/zh-Hans/)：识别图片中的表格并转成可编辑的 Excel 文档
 
 ### 2024 年 10 月 19 号添加
-#### xiaocui723(广东) - [Github](https://github.com/webgamehub/sprunked)
-* :white_check_mark: [Sprunked](https://sprunked.online/)：基于 Scratch 的在线音乐游戏（免费），为 Incredibox 引入创新的玩法和新角色，探索无限创造可能
 
 #### Shanshi - [Github](https://github.com/Shanshi66)
 * :white_check_mark: [Notion Exporter](https://notionexporter.com/)：将 Notion 内容转成卡片，方便在社交媒体分享 - [更多介绍](https://notionexporter.com/zh-hans/post/zh-hans-notion-to-redbook)
@@ -4028,9 +3991,6 @@
 #### xiaocui723(广东) 
 * :white_check_mark: [Abgerny](https://abgerny.net)：Abgerny 是粉丝自制模组，拥有超现实节奏、古怪角色和无限的创意创作可能性。
 
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Fast Food Simulator](https://fastfoodsimulator.co)：快餐店模拟经营游戏，可在线免费玩
-
 ### 2024 年 10 月 15 号添加
 #### qiweiii - [Github](https://github.com/qiweiii)
 - :white_check_mark: [Text Search Pro](https://chromewebstore.google.com/detail/lfknakglefggmdkjdfhhofkjnnolffkh)：文本搜索 Chrome 插件，支持网页中进行大小写敏感和整词的文本搜索
@@ -4039,8 +3999,6 @@
 * :white_check_mark: [Biofy](https://Biofy.cn)：定制你的个人主页，聚合你的社交信息，展示你的个人作品 - [示例主页](https://biofy.cn/wangjiegulu)
 
 ### 2024 年 10 月 14 号添加
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :x: [Hawthorn Game](https://hawthorngame.org)：介绍最新的沙盒游戏 Hawthorn，还可以在线玩相似游戏
 
 #### biboom(广州)
 * :white_check_mark: [Ranking Tabs](https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa)：浏览网站次数排行榜 Chrome 插件
@@ -4079,9 +4037,6 @@
 ### 2024 年 10 月 2 号添加
 #### yvonuk - [推特](https://twitter.com/mcwangcn)
 - :white_check_mark: [Web AI助手](https://web.stockai.trade)：极简、免费、易用的 ChatGPT。无需注册，Email 接码登录，GPT-4o-mini 模型免费使用，支持 GPT-4o 模型，支持实时联网
-
-#### xiaocui723(佛山) 
-* :white_check_mark: [Sprunki Incredibox](https://sprunkiincredibox.net)：在线互动创作音乐的游戏，Sprunki Incredibox 提供简单的拖放系统，允许玩家将不同的声音、人声和节拍混合到他们的自定义曲目中。每个角色都代表着独特的音乐元素，使每首作品都真正个性化
 
 #### 0xJoanne - [Github](https://github.com/0xjoanne)
 * :white_check_mark: [QRCode.fun](https://qrcode.fun)：在线二维码生成工具
@@ -4753,7 +4708,6 @@
 * :white_check_mark: [TTW: Travel Memoir from Photos](https://apps.apple.com/us/app/ttw-travel-memoir-from-photos/id6473322389)：旅行🗺️，使用手机中的照片生成你的旅行时间线，看过的风景，去过的地方！
 
 #### 奔跑的小山猪 - [Github](https://github.com/uestccokey), [Twiter](https://twitter.com/uestccokey), [官网](http://www.ezandroid.cn/)
-* :white_check_mark: [阿Q专业版](https://www.pgyer.com/aqgo)：手机上具有职业九段水平的围棋 AI 软件！
 * :white_check_mark: [阿Q连线器](https://www.pgyer.com/connector)：手机上的通用围棋 AI 连线器，看棋、遛狗必备！
 * :white_check_mark: [阿Q对弈宝](https://www.pgyer.com/aqrecorder)：通过摄像头自动记谱，让你的棋盘升级为智能棋盘！
 * :white_check_mark: [阿Q棋钟](https://www.pgyer.com/aqclock)：美观又易用的围棋、象棋棋钟软件
@@ -4924,8 +4878,6 @@
 * :white_check_mark: [Photo Mint](https://github.com/tans/photo-mint.git)：图片批量压缩工具 (基于 Tauri, 开源)
 
 ### 2024年2月21号添加
-#### 王君敕(南京) - [Github](https://github.com/stardust), [博客](https://wangxuan.me)
-* :white_check_mark: [拼拼古诗](https://wangxuan.me/chinese_poem/)：古诗拼图小游戏，涵盖唐诗三百首和小学初中高中教科书中的古诗 - [更多介绍](https://mp.weixin.qq.com/s/G5Swlt7hH_3tWZDZ1ffgqw)
 
 ### 2024年2月18号添加
 #### ThinkStu(北京) - [Github](https://github.com/Bistutu)
@@ -4949,8 +4901,6 @@
 * :white_check_mark: [Tiny RDM](https://redis.tinycraft.cc/zh/): 美观易用、极致轻量的 Redis 桌面客户端
 
 ### 2024年1月20号添加
-#### Fun(广州) - [Github](https://github.com/17fun)
-* :white_check_mark: [17fei.fun](https://17fei.fun): 情侣互动小游戏集合
 
 ### 2024年1月18号添加
 #### yesmore(成都) - [Github](https://github.com/yesmore)
@@ -5028,9 +4978,6 @@
 ---
 #### FreeMind-LJ - [Github](https://github.com/FreeMind-LJ)
 * :white_check_mark: [什么值得看](https://smzdk.top)：简洁干净的高质量全球热点资讯网站
-
-#### heygsc - [Github](https://github.com/heygsc)
-* :white_check_mark: [数数游戏](https://count-puzzle.pages.dev/)：数数游戏，简洁但不简单，交互细节人性化 (PC) 
 
 
 ### 2023年12月5号添加
@@ -5168,7 +5115,6 @@
 ---
 #### xerduo(重庆)
 * :x: [iChat](https://ichatt.cn)：智能AI助手，支持 ChatGPT 3.5、4.0、文心一言，内置90+行业AI角色，多国语言朗读，有网页版，App、Windows应用 - [更多介绍](https://ichatt.cn)
-* :x: [tetris](https://tetris.duqing.ink)：俄罗斯方块游戏，支持 AI，适配 H5 - [更多介绍](https://tetris.duqing.ink)
 
 ### 2023年9月18号添加
 ---
@@ -5259,8 +5205,6 @@
 
 ### 2023年7月21号添加
 ---
-#### Tan(佛山) - [Github](https://github.com/tans)
-* :white_check_mark: [DenoPark](https://denopark.com)：打字 RPG 游戏，可以背单词，记快捷键
 
 ### 2023年7月17号添加
 ---
@@ -5286,8 +5230,6 @@
 ---
 #### Airsaid（武汉） - [个人网站](http://airsaid.com/)
 * :white_check_mark: [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)：原生 Android ChatGPT 客户端
-* :white_check_mark: [数字华容道](https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle)：经典数字拼图智力小游戏
-* :x: [点点](https://play.google.com/store/apps/details?id=com.mugglegame.dotdot)：连点成线休闲小游戏
 
 ### 2023年6月19号添加
 ---
@@ -5307,7 +5249,6 @@
 * :white_check_mark: [白边框](https://apps.apple.com/app/id1659350166)：为照片添加边框。
 * :white_check_mark: [计数器](https://apps.apple.com/app/id1533504378)：记录一切计数。
 * :white_check_mark: [卅六问](https://apps.apple.com/app/id1541439969)：让陌生人迅速相爱的 36 个问题。
-* :white_check_mark: [猜文字](https://apps.apple.com/app/id1606194420)：中文 Wordle，在 6 次机会中，通过笔画、笔顺猜出正确文字。
 * :white_check_mark: [伊摩基](https://apps.apple.com/app/id1619616706)：用 Emoji 记录生活日记。
 * :white_check_mark: [相机印](https://apps.apple.com/app/id6447237830)：为照片添加参数水印边框。
 
@@ -5376,8 +5317,6 @@
 
 ### 2023年4月12号添加
 ---
-#### mark420524 - [GitHub](https://github.com/mark420524)
-* :white_check_mark: [早晚猜](https://github.com/mark420524/guess): 猜成语微信小程序，看图猜成语
 
 #### Gomi(成都) - [GitHub](https://github.com/gxy5202) [主页](https://gomi.site)
 * :white_check_mark: [Video Roll](https://github.com/VideoRoll/VideoRoll): 帮助你旋转、缩放、移动、调整比例、镜像翻转、调节音调、专注和滤镜任意网页中 HTML5 视频的浏览器插件（Chrome/Edge/Firefox）- [更多介绍](https://github.com/VideoRoll/VideoRoll/blob/main/README-zh_CN.md)
@@ -5648,9 +5587,6 @@
 * :white_check_mark: [eyeye (iOS)](https://eyeye.app/)：运用 AR 眼球追踪技术帮助你轻松锻炼视力
 * :white_check_mark: [鸭梨海拔 (iOS)](https://apps.apple.com/cn/app/id6738301793)：精美海拔计，旅行海拔打卡必备
 * :white_check_mark: [念念不忘 (iOS)](https://buwang.app/)：简单粗暴的 iOS 提醒小组件
-* :white_check_mark: [红点杀手 (微信小游戏)](https://hzlzh.app/i/qr/redkiller.jpg)：创意弹幕躲避游戏
-* :white_check_mark: [有幻觉 (微信小游戏)](https://hzlzh.app/i/qr/youhuanjue.jpg)：创意视觉错觉游戏
-* :white_check_mark: [WordleX (微信小程序)](https://hzlzh.app/i/qr/wordlex.jpg)：Wordle 游戏的练习工具
 * :white_check_mark: [Patreon Batch Downloader (Chrome扩展)](https://chromewebstore.google.com/detail/patreon-batch-downloader/mpdbndgiplhpkognodlmmjampheficlo)：批量下载Patreon帖子和附件
 * :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/id888749139)
 
@@ -5739,7 +5675,6 @@
 ---
 #### RyukieSama(广州) - [Github](https://github.com/RyukieSama), [博客](https://ryukiedev.gitbook.io/wiki/)
 * :white_check_mark: [梦见账本](https://apps.apple.com/cn/app/id1498426607)：百变外观，独创智能梦见模式的记账软件
-* :white_check_mark: [扫雷Elic 无尽天梯](https://apps.apple.com/cn/app/id1488204246)：益智小游戏，挑战各国扫雷高手
 * :white_check_mark: [隐私访问记录](https://apps.apple.com/cn/app/id1590992377)：系统性分析隐私访问记录，让隐私小偷无处可藏
 
 ### 2021年11月16号添加
