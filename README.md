@@ -34,6 +34,15 @@
 #### 东方邯
 * :white_check_mark: [企业智能对账](https://github.com/CQZhangXin/AI-Reconciliation)：基于 AI 大模型的智能财务对账平台，通过"规则引擎 + Embedding 语义粗排 + LLM 多维精排"三层匹配架构实现 75-95% 自动对账率，并深度融合自然语言交互实现智能字段映射、差异根因分析、业务报告自动生成与自定义方案编排，定位为财务团队的 AI 协作者。
 
+#### chenqi92 - [Github](https://github.com/chenqi92/primuse)
+* :white_check_mark: [猿音（Primuse）](https://apps.apple.com/cn/app/%E7%8C%BF%E9%9F%B3/id6761675450)：面向自建音乐库的 Apple 多端音乐播放器，把 NAS、云盘、本地文件和自托管媒体服务器统一到一个资料库，支持无损串流、歌词与元数据刮削，无广告无订阅 - [查看仓库](https://github.com/chenqi92/primuse)
+
+#### adra2n - [Github](https://github.com/adra2n)
+* :white_check_mark: [otpbox](https://github.com/adra2n/otpbox)：注重隐私与安全的 Android 两步验证认证器，支持端到端加密同步 - [更多介绍](https://github.com/adra2n/otpbox/blob/master/readme_cn.md)
+
+#### WatanabeChika - [Github](https://github.com/WatanabeChika)
+* :white_check_mark: [耳虫日记](https://github.com/WatanabeChika/EarwormDiary/releases)：记录每日脑海中循环的“耳虫”旋律，支持单日多首记录、可视化专辑封面日历和本地离线无账号存储 - [更多介绍](https://github.com/WatanabeChika/EarwormDiary/blob/master/README.md)
+
 #### ethanethan(上海)
 * :white_check_mark: [上海City不City](https://shanghaicitycity-web.havenai.online/)：上海城市玩法发现站，按地点和主题搜索路线，也可用 AI 规划约会、亲子、夜景等 City Walk
 * :white_check_mark: [SkillTry](https://skilltry.aimos.cloud/)：电商 AI Skill 服务市场，按次调用视频、选品、Listing、广告诊断等薄服务，无需购买整套 SaaS
