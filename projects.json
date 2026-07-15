@@ -1,11 +1,241 @@
 [
   {
+    "name": "123pan",
+    "url": "https://github.com/123panNextGen/123pan/releases/latest",
+    "status": "online",
+    "description": "开源第三方 123 云盘桌面客户端，支持 Windows 和 Linux，提供文件管理、多账号、多线程传输、限速和代理设置 - [查看仓库](https://github.com/123panNextGen/123pan)",
+    "author": "喜欢电脑的猫咪",
+    "authorGithub": "https://github.com/xhdndmm",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "玉兔远程控制",
+    "url": "https://github.com/KangLin/RabbitRemoteControl/releases/latest",
+    "status": "online",
+    "description": "开源跨平台远程管理 App，支持远程桌面、文件传输、SSH、TELNET、RDP 和 VNC 等协议 - [查看仓库](https://github.com/KangLin/RabbitRemoteControl)",
+    "author": "康林",
+    "authorGithub": "https://github.com/KangLin",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "微信 PGP 加密助手",
+    "url": "https://github.com/619dev/weixin_e2ee_crypt/releases/latest",
+    "status": "online",
+    "description": "在微信等即时通讯 App 中通过悬浮窗加密和解密 PGP 消息，密钥与加解密操作保留在本地 - [查看仓库](https://github.com/619dev/weixin_e2ee_crypt)",
+    "author": "619dev(天津)",
+    "authorGithub": "https://github.com/619dev",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PaperPhonePlus",
+    "url": "https://paperphone.app",
+    "status": "online",
+    "description": "支持端到端加密、前向保密和音视频通话的即时通讯 App，可使用官方网页端或自托管 - [查看仓库](https://github.com/619dev/Paperphone-plus)",
+    "author": "619dev(天津)",
+    "authorGithub": "https://github.com/619dev",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "归灯",
+    "url": "https://guideng.vercel.app",
+    "status": "online",
+    "description": "家庭位置共享 App，支持 Android、iOS 和自托管服务器 - [查看仓库](https://github.com/619dev/guideng)",
+    "author": "619dev(天津)",
+    "authorGithub": "https://github.com/619dev",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "问墨",
+    "url": "https://github.com/619dev/wenmo-android/releases/latest",
+    "status": "online",
+    "description": "完全离线的 Android 中文输入法，不申请网络或录音权限，APK 约 1.3 MB - [查看仓库](https://github.com/619dev/wenmo-android)",
+    "author": "619dev(天津)",
+    "authorGithub": "https://github.com/619dev",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinMate",
+    "url": "https://kinmate.elolin.com",
+    "status": "online",
+    "description": "本地优先的家庭健康档案库，把全家人（含宠物）的化验单、病历、体检报告集中安全地存在自己设备上；AI 用大白话帮你读懂每项指标是什么、是否正常，全部数据不出本机、不上传云端",
+    "author": "EloLin",
+    "authorGithub": "https://github.com/DevEloLin",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "TestHive",
+    "url": "https://testhive.elolin.com",
+    "status": "online",
+    "description": "面向开发者的众测/内测市场，发布测试活动即可招募真实用户帮你试用挑 bug；测试者完成任务赚取平台积分奖励，测试报告可一键公开分享，让产品在上线前就拿到真实反馈",
+    "author": "EloLin",
+    "authorGithub": "https://github.com/DevEloLin",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "小米设备价格天梯 & 代号速查",
+    "url": "https://beihai10078.github.io/xiaomi-price-tier/",
+    "status": "online",
+    "description": "Xiaomi / Redmi / POCO 设备价格天梯与代号速查工具，覆盖 245 台设备，支持品牌/系列/类型多维筛选、代号一键复制、中英双语、Material You 风格，纯静态零依赖 - [查看仓库](https://github.com/Beihai10078/xiaomi-price-tier)",
+    "author": "Beihai10078",
+    "authorGithub": "https://github.com/Beihai10078",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI Codereview for Gitlab",
+    "url": "https://demo.mzfuture.com",
+    "status": "online",
+    "description": "基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard - [查看仓库](https://github.com/sunmh207/AI-Codereview-Gitlab)",
+    "author": "sunmh207",
+    "authorGithub": "https://github.com/sunmh207",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "轻语输入 / Whisper Input",
+    "url": "https://github.com/EthanYoQ/whisper-input/releases/latest",
+    "status": "online",
+    "description": "Windows 开源 AI 语音输入 App，按全局快捷键说话即可把中文整理成去口头语、带层级结构或正式邮件风格的文字；原文、轻度润色、清晰结构、正式表达四种模式随时切换，按 ASR 与 LLM 实际用量付费，无固定订阅费，可低成本获得类似 Typeless 的格式化输出工作流 - [查看仓库](https://github.com/EthanYoQ/whisper-input)",
+    "author": "EthanYoQ - [GitHub](https://github.com/EthanYoQ)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Mindwtr",
+    "url": "https://mindwtr.app",
+    "status": "online",
+    "description": "本地优先的 GTD 待办 App，几秒收集脑中的任务和想法，再通过整理、执行和每周回顾始终看清下一步；免费开源、无需账号，数据留在自己的设备上 - [查看仓库](https://github.com/dongdongbh/Mindwtr)",
+    "author": "dongdongbh",
+    "authorGithub": "https://github.com/dongdongbh",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "回音堂",
+    "url": "https://anachron.qizhen.xyz/",
+    "status": "online",
+    "description": "借助 AI，用对话的方式讲述历史故事 - [更多介绍](https://github.com/ruanqizhen/anachron)",
+    "author": "ruanqizhen",
+    "authorGithub": "https://github.com/ruanqizhen/ruanqizhen",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "CloudSSH",
+    "url": "https://ssh.newbietan.cn",
+    "status": "online",
+    "description": "打开浏览器即可连接和管理自己的所有服务器，连接信息云端同步，内置 SFTP 文件管理与 AI 运维助手 - [更多介绍](https://github.com/newbietan/CloudSSH)",
+    "author": "newbietan",
+    "authorGithub": "https://github.com/newbietan",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SeatView",
+    "url": "https://seat.genchi.top",
+    "status": "online",
+    "description": "日本及部分海外演唱会场馆的真实座位视角图集，在坐席图上点击标注即可查看该位置的实拍视野，浏览和上传均无需注册 - [查看仓库](https://github.com/Sallyn0225/seatview)",
+    "author": "Sallyn",
+    "authorGithub": "https://github.com/Sallyn0225",
+    "date": "2026 年 7 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "InvoiceFlowAI",
+    "url": "https://github.com/EthanYoQ/Invoice-Downloader/releases/tag/v2026.07.12.1",
+    "status": "online",
+    "description": "Windows 发票归档 App，连接 QQ / 163 邮箱批量下载 PDF、OFD、XML 电子发票，AI 识别后在本地分类并生成 Excel 报销汇总 - [GitHub 源码](https://github.com/EthanYoQ/Invoice-Downloader)",
+    "author": "EthanYoQ - [GitHub](https://github.com/EthanYoQ)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Aural",
+    "url": "https://aural-ai.com",
+    "status": "online",
+    "description": "开源 AI 面试平台，支持语音、聊天和视频面试，提供自适应追问、结构化评分、面试练习与自托管 - [查看仓库](https://github.com/1146345502/aural-oss)",
+    "author": "1146345502",
+    "authorGithub": "https://github.com/1146345502",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "TrendingAI",
+    "url": "https://trendingai.cn/app/",
+    "status": "online",
+    "description": "海外技术热点中文情报站，AI 每日从 GitHub Trending、Hacker News、Product Hunt 精选并深度解读，支持 App、网页、邮件和 RSS 订阅 - [查看仓库](https://github.com/HarlonWang/TrendingAI)",
+    "author": "HarlonWang",
+    "authorGithub": "https://github.com/HarlonWang",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Tono",
+    "url": "https://tonote.app/",
+    "status": "online",
+    "description": "极简 Android 待办与笔记 App，打开即记，想法和任务一处捕捉、永不丢失",
+    "author": "HarlonWang",
+    "authorGithub": "https://github.com/HarlonWang",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Text Tray",
+    "url": "https://github.com/Jingyuan-Zheng/TextTray",
+    "status": "online",
+    "description": "原生 macOS 临时文本托盘，无需打开完整文本编辑器即可快速查看、编辑、清理、统计、翻译、复制和保存临时文本，并可修复从 PDF 复制产生的断行。 - [更多介绍](https://github.com/Jingyuan-Zheng/TextTray)",
+    "author": "Jingyuan Zheng",
+    "authorGithub": "https://github.com/Jingyuan-Zheng",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Agent Island",
+    "url": "https://agent-island.dev/",
+    "status": "online",
+    "description": "Claude Code 与 Codex 的开源状态伴侣，在 macOS 和 Windows 上显示实时会话状态，并在需要你接手时提醒；本地监控，无需账号 - [查看仓库](https://github.com/tristan666666/agent-island)",
+    "author": "Tristan Tang",
+    "authorGithub": "https://github.com/tristan666666",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "claude-i18n",
+    "url": "https://chromewebstore.google.com/detail/claude-i18n/fkfmbjccelbeolkoekeaegajhhdndajj",
+    "status": "online",
+    "description": "为你的 [Claude.ai](https://claude.ai) 网页端提供堪比原生语言切换功能和国际化体验的 **简体中文** 和 **繁體中文** 版本！并为全新的语言包贡献提供完整的加载支持！ - [查看仓库](https://github.com/Pectics/claude-i18n)",
+    "author": "Pectics - [GitHub](https://github.com/Pectics)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Beancount-Trans",
+    "url": "https://trans.dhr2333.cn/",
+    "status": "online",
+    "description": "上传账单，自动转换为可审计的 Beancount 复式记账数据，并在几分钟内查看财务报表",
+    "author": "dhr2333(温州)",
+    "authorGithub": "https://github.com/dhr2333/Beancount-Trans",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
     "name": "Atomi",
     "url": "https://atomi.chat",
     "status": "online",
     "description": "AI 工具与数字服务的验证交易市场——沙箱执行，回执为凭，验后放款。",
-    "author": "",
-    "authorGithub": "",
+    "author": "dhr2333(温州)",
+    "authorGithub": "https://github.com/dhr2333/Beancount-Trans",
     "date": "2026 年 7 月 14 号添加",
     "category": "main"
   },
@@ -26,6 +256,16 @@
     "description": "在网页上圈选元素、截图并写需求，生成含页面位置、元素信息和验收标准的结构化反馈",
     "author": "pasca520",
     "authorGithub": "",
+    "date": "2026 年 7 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AgentCeres",
+    "url": "https://agentceres.com",
+    "status": "online",
+    "description": "给独立开发者和出海产品的 AI 增长团队，自动做竞品研究、起草 SEO 文章与社媒帖子，所有对外发布由你审批，14 天免费试用无需绑卡",
+    "author": "Jake(海外)",
+    "authorGithub": "https://github.com/jakeluo734",
     "date": "2026 年 7 月 14 号添加",
     "category": "main"
   },
@@ -720,16 +960,6 @@
     "category": "main"
   },
   {
-    "name": "Focus Game",
-    "url": "https://focus-game.org/",
-    "status": "online",
-    "description": "专注力训练小游戏集合，包含 Schulte Table、Stroop Test、Reaction Time Test 等浏览器训练工具",
-    "author": "pandaupup",
-    "authorGithub": "https://github.com/pandaupup",
-    "date": "2026 年 6 月 22 号添加",
-    "category": "main"
-  },
-  {
     "name": "Schulte Table",
     "url": "https://schulte-table.org/",
     "status": "online",
@@ -977,16 +1207,6 @@
     "author": "pang3fan-creator",
     "authorGithub": "https://github.com/pang3fan-creator",
     "date": "2026 年 6 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "stonkrider",
-    "url": "https://stonkrider.win/zh",
-    "status": "online",
-    "description": "把股市、加密货币K线变成跑道的脑洞赛车游戏",
-    "author": "qqxufo",
-    "authorGithub": "https://github.com/qqxufo",
-    "date": "2026 年 6 月 13 号添加",
     "category": "main"
   },
   {
@@ -1680,26 +1900,6 @@
     "category": "main"
   },
   {
-    "name": "Toon Tone",
-    "url": "https://toon-tone.cc",
-    "status": "online",
-    "description": "浏览器里的动画角色颜色猜测游戏，玩家使用 HSB 滑块还原目标颜色，每轮显示色相、饱和度、亮度偏差得分，支持手机微调、种子分享和排行榜",
-    "author": "ouy35521-beep",
-    "authorGithub": "https://github.com/ouy35521-beep",
-    "date": "2026 年 5 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Doctordle",
-    "url": "https://doctordle.icu",
-    "status": "online",
-    "description": "每日医学诊断游戏，包含线索揭示、病例档案及临床推理练习功能，适用于美国医学考试（USMLE）备考与分散式复习",
-    "author": "wosuxiongmao",
-    "authorGithub": "https://github.com/wosuxiongmao",
-    "date": "2026 年 5 月 22 号添加",
-    "category": "main"
-  },
-  {
     "name": "MeTool",
     "url": "https://metool.online",
     "status": "online",
@@ -2006,16 +2206,6 @@
     "description": "Generate & Test Winning Ad Variations for Your Product",
     "author": "hwlvipone",
     "authorGithub": "https://github.com/hwlvipone",
-    "date": "2026 年 5 月 11 号添加",
-    "category": "main"
-  },
-  {
-    "name": "旧日代码：遗物整理师",
-    "url": "https://store.steampowered.com/app/4643810",
-    "status": "online",
-    "description": "没有画面（其实也有😄）的赛博废土 RPG。用带有视觉动效的“HD文字”和纯代码实时合成的 MIDI 配乐和 AI 本地模型生成的语音，还原 15 万字硬科幻小说的沉浸式探索与遗物修复体验。预计6 月放出 Demo。",
-    "author": "zengzizhao",
-    "authorGithub": "https://github.com/zengzizhao",
     "date": "2026 年 5 月 11 号添加",
     "category": "main"
   },
@@ -2340,30 +2530,10 @@
     "category": "main"
   },
   {
-    "name": "Spacebar Clicker Game",
-    "url": "https://spacebarclickergame.org/",
-    "status": "online",
-    "description": "在线空格键点击测试工具，通过限时点击统计CPS（每秒点击次数），用于测试手速与反应速度",
-    "author": "pandaupup (广州)",
-    "authorGithub": "https://github.com/pandaupup",
-    "date": "2026 年 4 月 28 号添加",
-    "category": "main"
-  },
-  {
     "name": "Schulte Table",
     "url": "https://schulte-table.org/",
     "status": "online",
     "description": "舒尔特方格训练工具，用于训练注意力、视觉扫描能力和阅读速度。",
-    "author": "pandaupup(广州)",
-    "authorGithub": "https://github.com/pandaupup",
-    "date": "2026 年 4 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Focus Game",
-    "url": "https://focus-game.org/",
-    "status": "online",
-    "description": "包含多种专注力与认知测试的小工具集合，通过短时练习提升注意力、反应速度和大脑处理能力。",
     "author": "pandaupup(广州)",
     "authorGithub": "https://github.com/pandaupup",
     "date": "2026 年 4 月 28 号添加",
@@ -3620,16 +3790,6 @@
     "category": "main"
   },
   {
-    "name": "playcharades.fun",
-    "url": "https://playcharades.fun",
-    "status": "online",
-    "description": "线上你画我猜，500+个词汇涵盖11个分类。为儿童、成人或所有年龄段生成随机词汇。8种语言免费游戏。",
-    "author": "Chaoc2624",
-    "authorGithub": "https://github.com/Chaoc2624",
-    "date": "2026 年 3 月 24 号添加",
-    "category": "main"
-  },
-  {
     "name": "AnimeGen",
     "url": "https://animegen.ai/",
     "status": "online",
@@ -3827,16 +3987,6 @@
     "author": "maowei8888",
     "authorGithub": "https://github.com/maowei8888",
     "date": "2026 年 3 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "看图识梗",
-    "url": "https://github.com/xingxingc/stray_avatar/raw/main/assets/qrcode_ktsg.jpg",
-    "status": "online",
-    "description": "看图猜词语小程序 - [更多介绍](https://developers.weixin.qq.com/community/develop/doc/000026ee8ecd381fc6c45be8c6b00c)",
-    "author": "asui(泉州)",
-    "authorGithub": "https://github.com/xingxingc",
-    "date": "2026 年 3 月 13 号添加",
     "category": "main"
   },
   {
@@ -7900,16 +8050,6 @@
     "category": "main"
   },
   {
-    "name": "TimeGuessr",
-    "url": "https://timeguessr.online/",
-    "status": "online",
-    "description": "给你一张图片，让你猜测图片发生的时间和地点。我们把 Timeguessr 的玩法原封不动地搬了过来，只是把图库换成了另一批“假照片”——全部由 AI 生成的过去 50 年里可能发生的瞬间",
-    "author": "Nico(长沙)",
-    "authorGithub": "https://github.com/yijianbo",
-    "date": "2025 年 8 月 27 号添加",
-    "category": "main"
-  },
-  {
     "name": "数字生命管",
     "url": "https://news.lizer.cc/",
     "status": "online",
@@ -10600,16 +10740,6 @@
     "category": "main"
   },
   {
-    "name": "Harry Potter House Quiz",
-    "url": "https://harrypotterhousequiz.pro",
-    "status": "online",
-    "description": "哈利波特分院测试",
-    "author": "Jeremyym",
-    "authorGithub": "https://github.com/Jeremyymxiao",
-    "date": "2025 年 3 月 16 号添加",
-    "category": "main"
-  },
-  {
     "name": "Chinese Name Generator",
     "url": "https://chinese-name-generator.com",
     "status": "online",
@@ -11090,16 +11220,6 @@
     "category": "main"
   },
   {
-    "name": "酒桌游戏789",
-    "url": "https://www.inav.site/static/mp/789.png",
-    "status": "online",
-    "description": "适合多人一起玩，掷出7点的倒酒(随意量)，掷出8点的喝杯中酒的一半，掷出9点的把杯中酒全部喝完。掷出两个点数相同轮换顺序颠倒，两个1可以指定人喝酒。可切换二人情侣模式",
-    "author": "前端小周(郑州) -  [个人主页](https://www.inav.site/)",
-    "authorGithub": "",
-    "date": "2025 年 1 月 23 号添加",
-    "category": "main"
-  },
-  {
     "name": "优好搜·SEO优化工具",
     "url": "https://www.uhaoseo.com",
     "status": "online",
@@ -11350,16 +11470,6 @@
     "category": "main"
   },
   {
-    "name": "Marvel Rivals Characters",
-    "url": "https://marvelrivalscharacters.com/",
-    "status": "online",
-    "description": "漫威对决游戏角色指南，角色完整清单，职业、联盟、角色难度等信息，发现最喜欢的角色",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 12 月 12 号添加",
-    "category": "main"
-  },
-  {
     "name": "UnblurImage AI",
     "url": "https://unblurimage.ai/zh",
     "status": "online",
@@ -11446,16 +11556,6 @@
     "description": "网络安全垂直领域AI搜索，安全搜搜，搜索安全 - [更多介绍](https://www.producthunt.com/products/secsoso)",
     "author": "Fooying",
     "authorGithub": "https://github.com/fooying",
-    "date": "2024 年 12 月 6 号添加",
-    "category": "main"
-  },
-  {
-    "name": "BlockBlastCheat",
-    "url": "https://blockblastcheat.com/",
-    "status": "online",
-    "description": "为你的 Block Blast 游戏提供最佳解法",
-    "author": "Yue",
-    "authorGithub": "https://github.com/yuegao04",
     "date": "2024 年 12 月 6 号添加",
     "category": "main"
   },
@@ -11810,16 +11910,6 @@
     "category": "main"
   },
   {
-    "name": "Sprunked",
-    "url": "https://sprunked.online/",
-    "status": "online",
-    "description": "基于 Scratch 的在线音乐游戏（免费），为 Incredibox 引入创新的玩法和新角色，探索无限创造可能",
-    "author": "xiaocui723(广东)",
-    "authorGithub": "https://github.com/webgamehub/sprunked",
-    "date": "2024 年 10 月 19 号添加",
-    "category": "main"
-  },
-  {
     "name": "Notion Exporter",
     "url": "https://notionexporter.com/",
     "status": "online",
@@ -11900,16 +11990,6 @@
     "category": "main"
   },
   {
-    "name": "Fast Food Simulator",
-    "url": "https://fastfoodsimulator.co",
-    "status": "online",
-    "description": "快餐店模拟经营游戏，可在线免费玩",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 10 月 16 号添加",
-    "category": "main"
-  },
-  {
     "name": "Biofy",
     "url": "https://Biofy.cn",
     "status": "online",
@@ -11917,16 +11997,6 @@
     "author": "咕噜不爱猫(杭州)",
     "authorGithub": "https://github.com/wangjiegulu",
     "date": "2024 年 10 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Hawthorn Game",
-    "url": "https://hawthorngame.org",
-    "status": "offline",
-    "description": "介绍最新的沙盒游戏 Hawthorn，还可以在线玩相似游戏",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 10 月 14 号添加",
     "category": "main"
   },
   {
@@ -11957,16 +12027,6 @@
     "author": "风巢森淼(北京)",
     "authorGithub": " https://github.com/wincatcher",
     "date": "2024 年 10 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Sprunki Incredibox",
-    "url": "https://sprunkiincredibox.net",
-    "status": "online",
-    "description": "在线互动创作音乐的游戏，Sprunki Incredibox 提供简单的拖放系统，允许玩家将不同的声音、人声和节拍混合到他们的自定义曲目中。每个角色都代表着独特的音乐元素，使每首作品都真正个性化",
-    "author": "xiaocui723(佛山) ",
-    "authorGithub": "",
-    "date": "2024 年 10 月 2 号添加",
     "category": "main"
   },
   {
@@ -13860,16 +13920,6 @@
     "category": "main"
   },
   {
-    "name": "阿Q专业版",
-    "url": "https://www.pgyer.com/aqgo",
-    "status": "online",
-    "description": "手机上具有职业九段水平的围棋 AI 软件！",
-    "author": "奔跑的小山猪",
-    "authorGithub": "https://github.com/uestccokey",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
     "name": "阿Q连线器",
     "url": "https://www.pgyer.com/connector",
     "status": "online",
@@ -14420,16 +14470,6 @@
     "category": "main"
   },
   {
-    "name": "拼拼古诗",
-    "url": "https://wangxuan.me/chinese_poem/",
-    "status": "online",
-    "description": "古诗拼图小游戏，涵盖唐诗三百首和小学初中高中教科书中的古诗 - [更多介绍](https://mp.weixin.qq.com/s/G5Swlt7hH_3tWZDZ1ffgqw)",
-    "author": "王君敕(南京)",
-    "authorGithub": "https://github.com/stardust",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
     "name": "流畅阅读-浏览器翻译插件",
     "url": "https://github.com/Bistutu/FluentRead",
     "status": "online",
@@ -14476,16 +14516,6 @@
     "description": "美观易用、极致轻量的 Redis 桌面客户端",
     "author": "Lykin(广州)",
     "authorGithub": "https://github.com/tiny-craft/tiny-rdm",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "17fei.fun",
-    "url": "https://17fei.fun",
-    "status": "online",
-    "description": "情侣互动小游戏集合",
-    "author": "Fun(广州)",
-    "authorGithub": "https://github.com/17fun",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   },
@@ -14656,16 +14686,6 @@
     "description": "简洁干净的高质量全球热点资讯网站",
     "author": "FreeMind-LJ",
     "authorGithub": "https://github.com/FreeMind-LJ",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "数数游戏",
-    "url": "https://count-puzzle.pages.dev/",
-    "status": "online",
-    "description": "数数游戏，简洁但不简单，交互细节人性化 (PC)",
-    "author": "heygsc",
-    "authorGithub": "https://github.com/heygsc",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   },
@@ -15020,16 +15040,6 @@
     "category": "main"
   },
   {
-    "name": "tetris",
-    "url": "https://tetris.duqing.ink",
-    "status": "offline",
-    "description": "俄罗斯方块游戏，支持 AI，适配 H5 - [更多介绍](https://tetris.duqing.ink)",
-    "author": "xerduo(重庆)",
-    "authorGithub": "",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
     "name": "Tabs-Fast-Easy",
     "url": "https://chrome.google.com/webstore/detail/tabs-fast-easy/falglioamaogaliloglbhkannkjlpjil",
     "status": "online",
@@ -15260,16 +15270,6 @@
     "category": "main"
   },
   {
-    "name": "DenoPark",
-    "url": "https://denopark.com",
-    "status": "online",
-    "description": "打字 RPG 游戏，可以背单词，记快捷键",
-    "author": "Tan(佛山)",
-    "authorGithub": "https://github.com/tans",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
     "name": "Foresee",
     "url": "https://apps.apple.com/cn/app/foresee-predictions-tracker/id6447700092",
     "status": "online",
@@ -15334,26 +15334,6 @@
     "url": "https://play.google.com/store/apps/details?id=studio.muggle.chatboost",
     "status": "online",
     "description": "原生 Android ChatGPT 客户端",
-    "author": "Airsaid（武汉） - [个人网站](http://airsaid.com/)",
-    "authorGithub": "",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "数字华容道",
-    "url": "https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle",
-    "status": "online",
-    "description": "经典数字拼图智力小游戏",
-    "author": "Airsaid（武汉） - [个人网站](http://airsaid.com/)",
-    "authorGithub": "",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "点点",
-    "url": "https://play.google.com/store/apps/details?id=com.mugglegame.dotdot",
-    "status": "offline",
-    "description": "连点成线休闲小游戏",
     "author": "Airsaid（武汉） - [个人网站](http://airsaid.com/)",
     "authorGithub": "",
     "date": "2024 年 7 月 10 号添加",
@@ -15464,16 +15444,6 @@
     "url": "https://apps.apple.com/app/id1541439969",
     "status": "online",
     "description": "让陌生人迅速相爱的 36 个问题。",
-    "author": "Jinke Du（上海）- [个人网站](https://kinnoukabokudo.com/)",
-    "authorGithub": "",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "猜文字",
-    "url": "https://apps.apple.com/app/id1606194420",
-    "status": "online",
-    "description": "中文 Wordle，在 6 次机会中，通过笔画、笔顺猜出正确文字。",
     "author": "Jinke Du（上海）- [个人网站](https://kinnoukabokudo.com/)",
     "authorGithub": "",
     "date": "2024 年 7 月 10 号添加",
@@ -15635,16 +15605,6 @@
     "status": "offline",
     "description": "集成待办、进度、倒数日、社区等功能网站（有小程序版）",
     "author": "HyJames(广州)",
-    "authorGithub": "",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "早晚猜",
-    "url": "https://github.com/mark420524/guess",
-    "status": "online",
-    "description": "猜成语微信小程序，看图猜成语",
-    "author": "mark420524 - [GitHub](https://github.com/mark420524)",
     "authorGithub": "",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
@@ -16230,36 +16190,6 @@
     "category": "main"
   },
   {
-    "name": "红点杀手 (微信小游戏)",
-    "url": "https://hzlzh.app/i/qr/redkiller.jpg",
-    "status": "online",
-    "description": "创意弹幕躲避游戏",
-    "author": "自力6XStudio（深圳）",
-    "authorGithub": "https://github.com/hzlzh",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "有幻觉 (微信小游戏)",
-    "url": "https://hzlzh.app/i/qr/youhuanjue.jpg",
-    "status": "online",
-    "description": "创意视觉错觉游戏",
-    "author": "自力6XStudio（深圳）",
-    "authorGithub": "https://github.com/hzlzh",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "WordleX (微信小程序)",
-    "url": "https://hzlzh.app/i/qr/wordlex.jpg",
-    "status": "online",
-    "description": "Wordle 游戏的练习工具",
-    "author": "自力6XStudio（深圳）",
-    "authorGithub": "https://github.com/hzlzh",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
     "name": "Patreon Batch Downloader (Chrome扩展)",
     "url": "https://chromewebstore.google.com/detail/patreon-batch-downloader/mpdbndgiplhpkognodlmmjampheficlo",
     "status": "online",
@@ -16444,16 +16374,6 @@
     "url": "https://apps.apple.com/cn/app/id1498426607",
     "status": "online",
     "description": "百变外观，独创智能梦见模式的记账软件",
-    "author": "RyukieSama(广州)",
-    "authorGithub": "https://github.com/RyukieSama",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "扫雷Elic 无尽天梯",
-    "url": "https://apps.apple.com/cn/app/id1488204246",
-    "status": "online",
-    "description": "益智小游戏，挑战各国扫雷高手",
     "author": "RyukieSama(广州)",
     "authorGithub": "https://github.com/RyukieSama",
     "date": "2024 年 7 月 10 号添加",
