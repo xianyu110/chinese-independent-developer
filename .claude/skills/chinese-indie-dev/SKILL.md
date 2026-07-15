@@ -7,7 +7,7 @@ description: >
   当用户说"处理提交"、"处理 issue"、"跑一下列表"时使用。
 metadata:
   author: 1c7
-  version: "1.5"
+  version: "1.6"
   lang: zh-CN
 allowed-tools:
   - Bash
@@ -82,7 +82,7 @@ grep -rF "<产品完整URL>" README.md pages/README-Programmer-Edition.md pages/
 - URL 不存在 → 进入「通用处理流程」
 - 当前运行中已通过 PR 合并的条目，视为已存在，不再重复处理
 
-处理完所有检查一的评论后，记录所有成功处理的评论作者用户名（用于最后一步发感谢评论到 #160）。
+处理完所有检查一的评论后，记录每位成功处理的评论作者用户名、收录的产品名和目标版面（用于最后一步在 #160 逐人发感谢评论）。
 
 ---
 
@@ -225,29 +225,32 @@ git push origin master
 
 ---
 
-## 最后一步：发感谢评论并删除 Claude 署名（仅针对检查一的提交者）
+## 最后一步：逐人发感谢评论并删除 Claude 署名（仅针对检查一的提交者）
 
-所有三个检查都处理完之后，如果检查一中成功合并了至少一个项目，在 issue #160 发一条感谢评论，一次性 @ 所有**来自检查一**的成功处理的提交者：
+所有三个检查都处理完之后，如果检查一中成功收录了项目，在 issue #160 为**每位来自检查一的成功提交者单独发一条评论**：
 
-```bash
-gh api repos/1c7/chinese-independent-developer/issues/160/comments \
-  -X POST -f body="@user1 @user2 感谢提交，已添加！"
+```
+@<用户名> 感谢提交，已将你的产品 <产品名> 添加到 <主版面/程序员版面/游戏版面>！
 ```
 
-- 只发一条，不要逐人发多条
+- 一条评论只 @ 一位用户，严禁把多位提交者合并到同一条评论
+- 同一用户提交多个产品时，仍只发一条，在评论中列出所有成功收录的产品
+- 同一用户的产品被收录到不同版面时，按版面分组说明，例如：`@user 感谢提交，已将你的产品 A、B 添加到主版面，并将 C 添加到程序员版面！`
 - 检查二的提交者不要 @ 到这里（他们已在各自的 issue 里收到了感谢）
 - 如果检查一没有成功处理任何项目，不发评论
 
-Claude Code 会自动在正文末尾追加署名，必须 POST 后立即 PATCH 覆写。用以下模式，把 POST 和 PATCH 写在同一个代码块里确保 ID 被捕获：
+Claude Code 会自动在正文末尾追加署名。每位用户的评论都必须分别执行 POST、立即 PATCH，再 GET 验证署名已删除：
 
 ```bash
-CLEAN_BODY="@user1 @user2 感谢提交，已添加！"
+CLEAN_BODY="@user 感谢提交，已将你的产品 Product 添加到主版面！"
 COMMENT_RESPONSE=$(gh api repos/1c7/chinese-independent-developer/issues/160/comments \
   -X POST -f body="$CLEAN_BODY")
 COMMENT_ID=$(echo "$COMMENT_RESPONSE" | jq -r '.id')
 gh api --method PATCH \
   repos/1c7/chinese-independent-developer/issues/comments/$COMMENT_ID \
   -f body="$CLEAN_BODY"
+gh api repos/1c7/chinese-independent-developer/issues/comments/$COMMENT_ID \
+  | jq -r .body
 ```
 
 ---
