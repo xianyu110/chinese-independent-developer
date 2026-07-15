@@ -31,9 +31,14 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### 小小电子xxdz | 北京 - [Github](https://github.com/xxdz-Official),[哔哩哔哩](https://space.bilibili.com/3461569935575626),[博客](https://xxdz-official.github.io/x)
+* :white_check_mark: [ShangBackground](https://github.com/xxdz-Official/ShangBackground)：Windows桌面右键壁纸管理工具，实现”上一个桌面背景”的右键菜单，并且有多种壁纸模式，直接切换到某一壁纸、还可以自定义切换动画等实用功能
+* :white_check_mark: [xxdz-Itoc](https://github.com/xxdz-Official/xxdz-Itoc)：全球首款可视化Crazy Error真程序制作软件，基础部分无需编程，导入MIDI即可快速搭建卡点Windows弹窗可执行程序
+* :white_check_mark: [biliJiyin](https://github.com/xxdz-Official/biliJiyin)：浏览器油猴脚本，改造B站收藏夹播放列表页，调整为音乐列表播放器，且做了性能优化、音频可视化
+* :white_check_mark: [BiliLike-Counter](https://github.com/xxdz-Official/BiliLike-Counter)：浏览器油猴脚本，一键统计B站账号各种点赞数据，直观展示账号获赞总量
+
 #### Un1quer - [Github](https://github.com/Un1quer23)
 * :white_check_mark: [WillowTab](https://chromewebstore.google.com/detail/willowtab/gfigaeaddejhmnlkeppgccklahgepapm)：极简浏览器新标签页扩展，支持多搜索引擎切换、本地壁纸、深浅色主题和外观自定义，无需账号且不收集个人数据 - [Edge 商店安装](https://microsoftedge.microsoft.com/addons/detail/willowtab/ljkgjcbecpanckomdgebinggfhpkmmph) - [查看仓库](https://github.com/Un1quer23/WillowTab)
-
 #### 喜欢电脑的猫咪 - [Github](https://github.com/xhdndmm), [博客](https://blog.xhdndmm.net)
 * :white_check_mark: [123pan](https://github.com/123panNextGen/123pan/releases/latest)：开源第三方 123 云盘桌面客户端，支持 Windows 和 Linux，提供文件管理、多账号、多线程传输、限速和代理设置 - [查看仓库](https://github.com/123panNextGen/123pan)
 
