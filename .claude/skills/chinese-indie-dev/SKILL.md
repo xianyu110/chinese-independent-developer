@@ -7,7 +7,7 @@ description: >
   当用户说"处理提交"、"处理 issue"、"跑一下列表"时使用。
 metadata:
   author: 1c7
-  version: "1.6"
+  version: "1.7"
   lang: zh-CN
 allowed-tools:
   - Bash
@@ -97,9 +97,9 @@ gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
 
 判断每个 Issue：
 - **有效项目提交**（含产品名 + 可访问 URL）→ 进入「通用处理流程」，完成后：
-  1. 在**该 issue 本身**（不是 #160！）发感谢评论，立即捕获 ID 并 PATCH 去掉自动追加的署名：
+  1. 在**该 issue 本身**（不是 #160！）发感谢评论，需说清楚收录到了哪个版面（主版面/程序员版面/游戏版面，对应「通用处理流程」步骤2的分类结果），立即捕获 ID 并 PATCH 去掉自动追加的署名：
      ```bash
-     CLEAN_BODY="@<提交者用户名> 感谢提交，已添加！"
+     CLEAN_BODY="@<提交者用户名> 感谢提交，已将你的产品 <产品名> 添加到 <主版面/程序员版面/游戏版面>！"
      COMMENT_RESPONSE=$(gh api repos/1c7/chinese-independent-developer/issues/<number>/comments \
        -X POST -f body="$CLEAN_BODY")
      COMMENT_ID=$(echo "$COMMENT_RESPONSE" | jq -r '.id')
@@ -128,9 +128,9 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
   ```bash
   gh pr merge <number> --squash --yes
   ```
-  - 如果合并成功：在该 PR 发感谢评论，立即捕获 ID 并 PATCH 去掉署名：
+  - 如果合并成功：在该 PR 发感谢评论，需说清楚收录到了哪个版面（根据 PR 修改的是 README.md / pages/README-Programmer-Edition.md / pages/README-Game.md 中的哪个文件，对应主版面/程序员版面/游戏版面），立即捕获 ID 并 PATCH 去掉署名：
     ```bash
-    CLEAN_BODY="@<提交者用户名> 感谢提交，已合并！"
+    CLEAN_BODY="@<提交者用户名> 感谢提交，已将你的产品 <产品名> 合并到 <主版面/程序员版面/游戏版面>！"
     PR_COMMENT_RESPONSE=$(gh api repos/1c7/chinese-independent-developer/issues/<number>/comments \
       -X POST -f body="$CLEAN_BODY")
     PR_COMMENT_ID=$(echo "$PR_COMMENT_RESPONSE" | jq -r '.id')
@@ -157,7 +157,7 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
        ```
     4. 因为贡献者的分支落后于 master、GitHub 无法用按钮直接标记该 PR 为 merged，所以改为关闭 PR 并说明已手动合并、保留致谢：
        ```bash
-       CLEAN_BODY="@<提交者用户名> 感谢提交，PR 有冲突，已由我们手动合并，内容已生效，谢谢！"
+       CLEAN_BODY="@<提交者用户名> 感谢提交，PR 有冲突，已由我们手动合并，你的产品 <产品名> 已添加到 <主版面/程序员版面/游戏版面>，谢谢！"
        gh pr close <number> --comment "$CLEAN_BODY"
        ```
     5. 如果冲突内容复杂到无法安全判断该保留什么（例如冲突不只是新增条目，而是修改了已有内容的结构），**不要瞎猜、不要删除任何已有内容**，改为在 PR 里说明具体冲突原因并保持 PR 打开，等待人工介入；但这应是极少数情况，绝大多数「新增条目」型冲突都应该自动解决。
