@@ -2,6 +2,23 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 17 号添加
+
+#### linsipeng - [Github](https://github.com/linsipeng)
+* :white_check_mark: [Nuzlocke Guide](https://nuzlockeguide.com/)：宝可梦 Nuzlocke 挑战规则与流程指南，包含规则配置、遭遇追踪和队伍规划
+* :white_check_mark: [Sky Clock](https://skyclockonline.com/)：《光·遇》天空王国时间工具，集中显示游戏时间、每日重置与活动倒计时
+* :white_check_mark: [GI Damage Calculator](https://gidamagecalc.com/)：《原神》伤害计算器，可调整角色、武器、圣遗物和敌人参数比较配装结果
+* :white_check_mark: [HSR Warp Calculator](https://hsrwarpcalc.com/)：《崩坏：星穹铁道》跃迁规划工具，计算保底进度、抽取概率和星琼需求
+* :white_check_mark: [Minecraft Enchantment Calculator](https://enchantorder.com/)：Minecraft 附魔合并顺序计算器，寻找铁砧经验成本更低的书籍与装备组合顺序
+* :white_check_mark: [Minecraft Pixel Art Converter](https://mcimgart.com/)：把图片转换为 Minecraft 方块像素画，支持调整尺寸、调色板并导出材料清单
+* :white_check_mark: [Survivor.io Calculator](https://survivoriocalc.com/)：《弹壳特攻队》伤害与升级计算器，用统一参数比较装备、技能和升级方案
+
+### 2026 年 7 月 16 号添加
+
+#### xiaokaixuan(北京) - [Github](https://github.com/coderxiao24), [博客](https://xiaokaixuan.com/)
+
+* :white_check_mark: [幸运硬币](https://xiaokaixuan.com/xkx/coin-game/)：参考steam幸运硬币玩法的网页小游戏，打开免费即玩，无需注册，适合摸鱼
+
 ### 2026 年 7 月 15 号添加
 
 #### EloLin - [Github](https://github.com/DevEloLin)
