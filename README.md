@@ -24,6 +24,9 @@
 
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
+#### Mutx163 - [Github](https://github.com/Mutx163)
+* :white_check_mark: [轻屿课表](https://mutx.ccwu.cc)：Android 校园课表 App，深度对接 HyperOS 超级岛与焦点通知，支持 100+ 高校教务导入、情侣课表、WebDAV 云同步与桌面小组件，免费开源无广告 - [查看仓库](https://github.com/Mutx163/mikcb)
+
 #### AngKernel - [Github](https://github.com/AngKernel)
 * :white_check_mark: [秒折立方](https://foldcube.cn/)：「秒折立方」是一款免费微信小程序，专治行测/公考图形推理里的立体空间题。平面展开图点一下就折成正方体，相对面、相邻面自动标注；截面切割、三视图联动、立体拼合全都能动手转着看。练的不是死记口诀，是真正把「在脑子里转动图形」的能力练出来。微信搜「秒折立方」即可使用。
 
