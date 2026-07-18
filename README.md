@@ -24,8 +24,44 @@
 
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
+
+#### chuo0817
+* :white_check_mark: [XPhotos](https://apps.apple.com/cn/app/xphotos-%E7%85%A7%E7%89%87%E6%95%B4%E7%90%86%E4%B8%8E%E6%B8%85%E7%90%86/id6748490278)：iOS 相册整理工具，按月或随机清理照片、截图和视频，记录整理进度与释放空间，处理完全在本地
+
+#### 晨笙Cearl(北京) - [Github](https://github.com/chess99), [网站](https://cearl.cc)
+* :white_check_mark: [晨笙阅读](https://read.cearl.cc)：书籍解读平台，AI 辅助+人工校审，提炼经典书籍的核心问题、论证框架与实践洞见，支持分类浏览、全文搜索和主题阅读
+
+#### Phaeris - [Github](https://github.com/PhaerisWakfu)
+* :white_check_mark: [太玄OS](https://xuan.phaeris.xyz/)：赛博算命、占卜
+
+#### Terenzzzz(广州) - [Github](https://github.com/terenzzzz), [网站](https://www.terenzzzz.cn/)
+* :white_check_mark: [Stub Lab](https://stub-lab.terenzzzz.cn/)：票根生成工具，上传照片配上标题、日期和编号即可做出可导出的纪念票根
+* :white_check_mark: [AFTERSHOT](https://aftershot.terenzzzz.cn/)：复盘照片的技术与审美表现，含直方图、EXIF、美学评分、视觉显著性与 HDR 模拟
+* :white_check_mark: [Fork & Pour](https://fork-and-pour.terenzzzz.cn/)：把鸡尾酒配方当作代码协作的开源项目，用 JSON 管理配方、用 PR 贡献内容、前端自动展示结果
+
+#### chl(深圳)
+* :white_check_mark: [大字白板](https://big-font-hero.pages.dev/)：跟听障老人交流的小程序，将输入文字放大展示方便老人阅读，支持横竖屏、语音输入和交流历史记录，内容不离开本地
+
+#### chuweixuan2-afk - [Github](https://github.com/chuweixuan2-afk)
+* :white_check_mark: [澄镜塔罗](https://chengjingtarot.xyz/)：沉浸式在线塔罗占卜网站，按问题类型进入 Silver、Flower、Cathedral、Aurora 四套完整视觉场域，支持多牌阵 AI 解读、每日单牌「今日一镜」、镜札回望与隐私分享图，无需注册
+
+#### Mutx163 - [Github](https://github.com/Mutx163)
+* :white_check_mark: [轻屿课表](https://mutx.ccwu.cc)：Android 校园课表 App，深度对接 HyperOS 超级岛与焦点通知，支持 100+ 高校教务导入、情侣课表、WebDAV 云同步与桌面小组件，免费开源无广告 - [查看仓库](https://github.com/Mutx163/mikcb)
+
+#### Fangyuan025 - [Github](https://github.com/Fangyuan025)
+* :white_check_mark: [Chaty](https://chaty.ca)：本地 AI 助手桌面应用（Windows / macOS），大模型在自己电脑上运行，无需 API Key、数据不联网；内置模型商店一键下载开源模型，聊天、识图、语音通话、文档知识库、编程智能体全部离线可用 - [查看仓库](https://github.com/Fangyuan025/Chaty)
+
+#### Byper(西安) - [Github](https://github.com/b-yp)
+* :white_check_mark: [Onin](https://github.com/b-yp/Onin)：macOS 应用启动器，支持应用启动、文件搜索和命令执行，全程无需离开键盘 - [更多介绍](https://onin-app.github.io/Onin/)
+
+#### alphadamn(北京) - [Github](https://github.com/alphadamn)
+* :white_check_mark: [谷物OJ](http://guwu.camluni.cn:3001)：在线评测平台，支持多语言自动评测和竞赛功能
+
+#### Jw(深圳) - [Github](https://github.com/zjwshisb)
+* :white_check_mark: [咖啡奶茶喝什么](https://nckfhsm.com/)：收录国内主流连锁咖啡奶茶品牌饮品和门店数据，小程序版可打卡记录评分
+
 #### AngKernel - [Github](https://github.com/AngKernel)
-* :white_check_mark: [秒折立方](https://foldcube.cn/)：「秒折立方」是一款免费微信小程序，专治行测/公考图形推理里的立体空间题。平面展开图点一下就折成正方体，相对面、相邻面自动标注；截面切割、三视图联动、立体拼合全都能动手转着看。练的不是死记口诀，是真正把「在脑子里转动图形」的能力练出来。微信搜「秒折立方」即可使用。
+* :white_check_mark: [秒折立方](https://foldcube.cn/)：专治行测/公考图形推理里的立体空间题，平面展开图点一下就折成正方体，相对面、相邻面自动标注；截面切割、三视图联动、立体拼合全都能动手转着看，练的不是死记口诀，是真正把「在脑子里转动图形」的能力练出来 — 免费微信小程序，微信搜「秒折立方」即可使用
 
 ### 2026 年 7 月 16 号添加
 
