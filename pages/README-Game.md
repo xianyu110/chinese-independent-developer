@@ -2,6 +2,14 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 18 号添加
+
+#### Shuiwuhen(杭州) - [Github](https://github.com/290713469)
+* :white_check_mark: [LORT Calculator](https://lortcalculator.com)：Stream 游戏 LORT 工具网站
+* :white_check_mark: [Slay the Spire Calculator](https://sts2-calculator.com)：Stream 游戏 Slay the Spire 2 工具网站
+* :white_check_mark: [Pathologic Calculator](https://pathologiccalculator.com)：Stream 游戏 Pathologic 3 工具网站
+* :white_check_mark: [Rust Calculator](https://rust-calculator.wiki)：Stream 游戏 Rust 工具网站
+
 ### 2026 年 7 月 17 号添加
 
 #### linsipeng - [Github](https://github.com/linsipeng)

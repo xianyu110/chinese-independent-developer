@@ -23,6 +23,37 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 18 号添加
+
+#### wnma3mz - [Github](https://github.com/wnma3mz)
+* :white_check_mark: [余薪 Yuxin](https://wnma3mz.github.io/yuxin/)：实时计算今日入账、下班和节假日倒计时，无需账号，离线运行且数据只存本地
+
+#### 猫弟(上海) - [Github](https://github.com/maundytime)
+* :white_check_mark: [Await (iOS)](https://apps.apple.com/cn/app/id6755678187)：小组件工坊，可以 DIY 任何小组件 - [更多介绍](https://awaitwidget.com)
+
+#### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
+* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：“实时工资”小软件，轻量优雅，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)
+
+#### MattCraftsCode - [Github](https://github.com/MattCraftsCode)
+* :white_check_mark: [Fullmira](https://fullmira.com/)：一站式 AI 创作平台，整合 GPT、Claude、Gemini 等多个模型，同一界面完成文本、图像、视频和音频生成，内置 100+ 专用工具覆盖写作、图像编辑与视频制作
+
+#### Yana Li - [Github](https://github.com/woshiliyana)
+* :white_check_mark: [CreateFaceless](https://createfaceless.com/en)：AI 不出镜 YouTube Shorts 一键生成工具，从脚本、画面、配音、字幕到封面和成片自动完成，无需剪辑经验
+* :white_check_mark: [PawsLullaby](https://pawslullaby.com/en)：AI 宠物纪念创作工具，把宠物的故事和照片变成专属纪念歌、纪念视频和可以继续回复的信，可私密保存，也可分享给亲友
+* :white_check_mark: [Jung Room](https://www.jungroom.com)：不是聊完即忘的 AI 聊天，基于荣格分析心理学，从一个梦、一种情绪或一段关系困惑开始，把反复出现的内在模式沉淀为会谈笔记和一张持续生长、由用户掌控的内在地图
+
+#### EthanYoQ - [Github](https://github.com/EthanYoQ)
+* :white_check_mark: [AgentHive](https://github.com/EthanYoQ/AgentHive/releases/latest)：Windows 桌面版 AI 圆桌工作台，把业务问题丢给可配置的产品、市场、反方、总结 Agent 同场推演，自动输出结论、风险点和待验证假设，用于决策压测和证据整理（默认角色需自行安装并登录 Codex CLI / Claude Code CLI） - [查看仓库](https://github.com/EthanYoQ/AgentHive)
+
+#### Jerry - [Github](https://github.com/jerrycodelife)
+* :white_check_mark: [CraftVis AI Photo Editor](https://craftvis.com)：AI 图片工具，用简单文字生成图片、修改图片、优化产品图、制作广告素材和社媒视觉内容
+
+#### ctan0(成都)
+* :white_check_mark: [寇泰凌工具站](https://www.ctan0.top/)：常用工具一站打包，持续更新中
+
+#### Voor AI
+* :white_check_mark: [ImageToSTL.online](https://imagetostl.online/)：免费 PNG/JPG 转 STL 在线工具，浏览器本地生成可 3D 打印模型，支持 logo 挤出、浮雕、lithophane 与钥匙扣，无需注册
+
 ### 2026 年 7 月 17 号添加
 
 #### chuo0817
@@ -120,9 +151,6 @@
 
 #### mnbqwe10(Singapore) - [Github](https://github.com/mnbqwe10)
 * :white_check_mark: [AI Buddy](https://chromewebstore.google.com/detail/eigpaeoigklelmfgnkljhbjjbpohenpn)：Chrome 侧边栏 AI 助手，选中文本或截图直接提问，自定义快捷键和提示词，支持 ChatGPT / Claude / Telegram 等 10 个平台，完全免费开源 - [查看仓库](https://github.com/mnbqwe10/ai_buddy)
-
-#### Mr.Baoboer(北京) - [Github](https://github.com/MasterBao66)
-* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：“实时工资”小软件，轻量优雅，可基于用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MasterBao66/PayDance)
 
 #### NiYongsheng - [Github](https://github.com/niyongsheng)
 * :white_check_mark: [Moler](https://github.com/niyongsheng/moler)：Mac 磁盘清理工具，NASA-Punk 风格，支持重复文件扫描、大文件检测、应用卸载和磁盘概览 - [更多介绍](https://niyongsheng.github.io/moler/)
