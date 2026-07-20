@@ -1,5 +1,45 @@
 [
   {
+    "name": "Next BConvert",
+    "url": "https://nextbconvert.com/zh",
+    "status": "online",
+    "description": "70+ 免费工具，支持图片、视频、音频、PDF 和文本处理，浏览器本地运行，无需上传、无需账号、无限制",
+    "author": "xiaoshangmin(深圳)",
+    "authorGithub": "https://github.com/xiaoshangmin",
+    "date": "2026 年 7 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "氛寸 Fēn Cùn",
+    "url": "https://github.com/MrBaoboer/FenCun",
+    "status": "online",
+    "description": "轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)",
+    "author": "Mr.Baoboer(北京)",
+    "authorGithub": "https://github.com/MrBaoboer/",
+    "date": "2026 年 7 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "wflynn 工具站",
+    "url": "https://tools.wflynn.cn/",
+    "status": "online",
+    "description": "开发者在线工具集，提供 JSON 格式化、图片处理、代码转换等常用开发辅助工具",
+    "author": "wfly",
+    "authorGithub": "https://github.com/Miofly",
+    "date": "2026 年 7 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "desktop-pet",
+    "url": "https://github.com/duzexu/desktop-pet",
+    "status": "online",
+    "description": "把自己家的宠物放到桌面上 — 开源 - [更多介绍](https://duzexu.github.io/desktop-pet/#home)",
+    "author": "duzexu",
+    "authorGithub": "https://github.com/duzexu",
+    "date": "2026 年 7 月 19 号添加",
+    "category": "main"
+  },
+  {
     "name": "余薪 Yuxin",
     "url": "https://wnma3mz.github.io/yuxin/",
     "status": "online",
@@ -23,7 +63,7 @@
     "name": "薪跳 PayDance",
     "url": "https://paydance.vercel.app/",
     "status": "online",
-    "description": "“实时工资”小软件，轻量优雅，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)",
+    "description": "轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)",
     "author": "Mr.Baoboer(北京)",
     "authorGithub": "https://github.com/MrBaoboer/",
     "date": "2026 年 7 月 18 号添加",
