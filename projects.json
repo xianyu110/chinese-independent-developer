@@ -1,5 +1,75 @@
 [
   {
+    "name": "usage",
+    "url": "https://github.com/aqua5230/usage",
+    "status": "online",
+    "description": "把 Claude Code / Codex 的剩余额度和烧钱速度实时显示在菜单栏，全程不占用官方额度",
+    "author": "aqua5230",
+    "authorGithub": "https://github.com/aqua5230",
+    "date": "2026 年 7 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "双屏相机",
+    "url": "https://apps.apple.com/cn/app/id6763209457",
+    "status": "online",
+    "description": "双摄画中画分屏 App",
+    "author": "2456868764",
+    "authorGithub": "https://github.com/2456868764",
+    "date": "2026 年 7 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "大姨妈来了",
+    "url": "https://apps.apple.com/cn/app/6771209627",
+    "status": "online",
+    "description": "经期日历助手，含排卵和易孕安全期计算",
+    "author": "2456868764",
+    "authorGithub": "https://github.com/2456868764",
+    "date": "2026 年 7 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PDF 转 QR Code",
+    "url": "https://pdf2url.com/pdf-to-qr-code",
+    "status": "online",
+    "description": "将 PDF 转换为二维码的在线工具",
+    "author": "zhugezifang",
+    "authorGithub": "",
+    "date": "2026 年 7 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "VioEvo",
+    "url": "https://www.vioevo.com",
+    "status": "online",
+    "description": "AI 创意工作室，支持图片生成、图片转视频和 AI 视频创作，集成多个领先生成模型",
+    "author": "Ethan",
+    "authorGithub": "https://github.com/ethannelson2000",
+    "date": "2026 年 7 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "NFC 卡片读写工具",
+    "url": "https://github.com/hugh999999/nfc_tool_share_key",
+    "status": "online",
+    "description": "NFC M1 卡密钥扫描工具，微信小程序和 Android APP 双平台支持，智能扇区优先扫描、断点续扫、多种格式导出",
+    "author": "hugh999999",
+    "authorGithub": "https://github.com/hugh999999",
+    "date": "2026 年 7 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "uniTerm",
+    "url": "https://github.com/ys-ll/uniterm",
+    "status": "online",
+    "description": "轻量级终端工具，支持 SSH、RDP、VNC、SFTP、数据库等 20 余种协议，内置可自主执行的 AI Agent - [软件首页](https://uniterm.net)",
+    "author": "ys-ll(天津)",
+    "authorGithub": "https://github.com/ys-ll",
+    "date": "2026 年 7 月 20 号添加",
+    "category": "main"
+  },
+  {
     "name": "Next BConvert",
     "url": "https://nextbconvert.com/zh",
     "status": "online",
@@ -2203,17 +2273,7 @@
     "name": "moyuHot",
     "url": "https://moyuhot.com/",
     "status": "online",
-    "description": "热搜聚合与新闻阅读平台，支持微博、知乎、B站、抖音、GitHub Trending、V2EX 等实时热榜",
-    "author": "z1991817",
-    "authorGithub": "https://github.com/z1991817",
-    "date": "2026 年 6 月 5 号添加",
-    "category": "main"
-  },
-  {
-    "name": "moyuHot",
-    "url": "https://github.com/z1991817/moyuhot",
-    "status": "online",
-    "description": "热搜聚合与新闻阅读平台（GitHub 项目）",
+    "description": "热搜聚合与新闻阅读平台，支持微博、知乎、B站、抖音、GitHub Trending、V2EX 等实时热榜 - [GitHub 仓库](https://github.com/z1991817/moyuhot)",
     "author": "z1991817",
     "authorGithub": "https://github.com/z1991817",
     "date": "2026 年 6 月 5 号添加",
@@ -2293,17 +2353,7 @@
     "name": "ScrollShot",
     "url": "https://apps.apple.com/cn/app/scrollshot-%E6%BB%9A%E5%8A%A8%E6%88%AA%E5%9B%BE-%E6%8B%BC%E6%8E%A5%E9%95%BF%E5%9B%BE/id6760192003",
     "status": "online",
-    "description": "通过录屏自动生成像素级完美超长图的滚动截图工具",
-    "author": "willard-yuan",
-    "authorGithub": "https://github.com/willard-yuan",
-    "date": "2026 年 6 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "scrollshot.work",
-    "url": "https://scrollshot.work/zh",
-    "status": "online",
-    "description": "ScrollShot 官方网站",
+    "description": "通过录屏自动生成像素级完美超长图的滚动截图工具 - [官方网站](https://scrollshot.work/zh)",
     "author": "willard-yuan",
     "authorGithub": "https://github.com/willard-yuan",
     "date": "2026 年 6 月 4 号添加",
@@ -2763,17 +2813,7 @@
     "name": "Envguard",
     "url": "https://envguard.surge.sh/",
     "status": "online",
-    "description": "代码秘密扫描工具，单HTML文件，零依赖，支持离线使用",
-    "author": "godfengliang",
-    "authorGithub": "https://github.com/godfengliang",
-    "date": "2026 年 5 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Envguard Repo",
-    "url": "https://github.com/godfengliang/envguard",
-    "status": "online",
-    "description": "项目仓库，包含Gist链接",
+    "description": "代码秘密扫描工具，单HTML文件，零依赖，支持离线使用 - [GitHub 仓库](https://github.com/godfengliang/envguard)",
     "author": "godfengliang",
     "authorGithub": "https://github.com/godfengliang",
     "date": "2026 年 5 月 18 号添加",
