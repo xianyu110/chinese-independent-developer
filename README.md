@@ -23,6 +23,29 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 21 号添加
+
+#### aqua5230 - [Github](https://github.com/aqua5230)
+* :white_check_mark: [usage](https://github.com/aqua5230/usage)：把 Claude Code / Codex 的剩余额度和烧钱速度实时显示在菜单栏，全程不占用官方额度
+
+### 2026 年 7 月 20 号添加
+
+#### 2456868764 - [Github](https://github.com/2456868764)
+* :white_check_mark: [双屏相机](https://apps.apple.com/cn/app/id6763209457)：双摄画中画分屏 App
+* :white_check_mark: [大姨妈来了](https://apps.apple.com/cn/app/6771209627)：经期日历助手，含排卵和易孕安全期计算
+
+#### zhugezifang
+* :white_check_mark: [PDF 转 QR Code](https://pdf2url.com/pdf-to-qr-code)：将 PDF 转换为二维码的在线工具
+
+#### Ethan - [Github](https://github.com/ethannelson2000)
+* :white_check_mark: [VioEvo](https://www.vioevo.com)：AI 创意工作室，支持图片生成、图片转视频和 AI 视频创作，集成多个领先生成模型
+
+#### hugh999999 - [Github](https://github.com/hugh999999)
+* :white_check_mark: [NFC 卡片读写工具](https://github.com/hugh999999/nfc_tool_share_key)：NFC M1 卡密钥扫描工具，微信小程序和 Android APP 双平台支持，智能扇区优先扫描、断点续扫、多种格式导出
+
+#### ys-ll(天津) - [Github](https://github.com/ys-ll)
+* :white_check_mark: [uniTerm](https://github.com/ys-ll/uniterm)：轻量级终端工具，支持 SSH、RDP、VNC、SFTP、数据库等 20 余种协议，内置可自主执行的 AI Agent - [软件首页](https://uniterm.net)
+
 ### 2026 年 7 月 19 号添加
 
 #### xiaoshangmin(深圳) - [Github](https://github.com/xiaoshangmin)
@@ -691,8 +714,7 @@
 * :white_check_mark: [PropertyPhotoVideo](https://propertyphotovideo.com)：将房产照片转换为惊艳视频
 
 #### z1991817 - [Github](https://github.com/z1991817)
-* :white_check_mark: [moyuHot](https://moyuhot.com/)：热搜聚合与新闻阅读平台，支持微博、知乎、B站、抖音、GitHub Trending、V2EX 等实时热榜
-* :white_check_mark: [moyuHot](https://github.com/z1991817/moyuhot)：热搜聚合与新闻阅读平台（GitHub 项目）
+* :white_check_mark: [moyuHot](https://moyuhot.com/)：热搜聚合与新闻阅读平台，支持微博、知乎、B站、抖音、GitHub Trending、V2EX 等实时热榜 - [GitHub 仓库](https://github.com/z1991817/moyuhot)
 
 #### zeweihan - [Github](https://github.com/zeweihan)
 * :white_check_mark: [AI Workdeck](https://github.com/zeweihan/aiworkdeck)：面向法律和文档密集型工作流的 AI 原生 IDE 工作空间
@@ -716,8 +738,7 @@
 * :white_check_mark: [AI Raphael](https://airaphael.org)：支持 Nano Banana Pro 和 GPT Image 2 图像模型的 AI 图像生成与编辑工作台
 
 #### willard-yuan - [Github](https://github.com/willard-yuan)
-* :white_check_mark: [ScrollShot](https://apps.apple.com/cn/app/scrollshot-%E6%BB%9A%E5%8A%A8%E6%88%AA%E5%9B%BE-%E6%8B%BC%E6%8E%A5%E9%95%BF%E5%9B%BE/id6760192003)：通过录屏自动生成像素级完美超长图的滚动截图工具
-* :white_check_mark: [scrollshot.work](https://scrollshot.work/zh)：ScrollShot 官方网站
+* :white_check_mark: [ScrollShot](https://apps.apple.com/cn/app/scrollshot-%E6%BB%9A%E5%8A%A8%E6%88%AA%E5%9B%BE-%E6%8B%BC%E6%8E%A5%E9%95%BF%E5%9B%BE/id6760192003)：通过录屏自动生成像素级完美超长图的滚动截图工具 - [官方网站](https://scrollshot.work/zh)
 
 #### Incense(普吉岛) - [Github](https://github.com/IncenseHou)
 * :white_check_mark: [ChronosTimetable](https://chronostimetable.cloud/)：面向国际教育行业的分析型 Timetable 管理系统
@@ -867,8 +888,7 @@
 #### godfengliang - [Github](https://github.com/godfengliang)
 * :white_check_mark: [Leakscope](https://leakscope.surge.sh/)：浏览器指纹检测工具，单 HTML 文件，零依赖，可离线使用
 * :white_check_mark: [Pixelsqueeze](https://pixelsqueeze.surge.sh/)：图片压缩工具，支持精确尺寸，单HTML文件，零依赖，可离线使用
-* :white_check_mark: [Envguard](https://envguard.surge.sh/)：代码秘密扫描工具，单HTML文件，零依赖，支持离线使用
-* :white_check_mark: [Envguard Repo](https://github.com/godfengliang/envguard)：项目仓库，包含Gist链接
+* :white_check_mark: [Envguard](https://envguard.surge.sh/)：代码秘密扫描工具，单HTML文件，零依赖，支持离线使用 - [GitHub 仓库](https://github.com/godfengliang/envguard)
 * :white_check_mark: [Screencap Studio](https://screencap-studio.surge.sh/)：截图注释工具，单个 HTML 文件，零依赖，可离线使用
 * :white_check_mark: [Billcraft](https://github.com/godfengliang/billcraft)：单 HTML 文件的发票生成工具，零依赖，支持离线使用
 
