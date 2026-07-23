@@ -1,5 +1,15 @@
 [
   {
+    "name": "诗经阅读",
+    "url": "https://song-of-books.github.io/",
+    "status": "online",
+    "description": "305 首《诗经》全文阅读，含注释、译文、拼音标注和古风宣纸体验，支持收藏与搜索 - [GitHub 仓库](https://github.com/song-of-books/song-of-books.github.io)",
+    "author": "wisemonkey1990 - [GitHub](https://github.com/wisemonkey1990)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 22 号添加",
+    "category": "main"
+  },
+  {
     "name": "RailNet Tester",
     "url": "https://play.google.com/store/apps/details?id=com.xg.railnettester",
     "status": "online",
@@ -103,7 +113,7 @@
     "name": "Lumi & Friends iOS App Finder",
     "url": "https://alice51849.github.io/ios-app-guide/zh-Hans/tools/private-pay-once-iphone-app-finder.html",
     "status": "online",
-    "description": "按用途、隐私和付费方式查找 28 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域",
+    "description": "按用途、隐私和付费方式查找 29 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域",
     "author": "alice51849",
     "authorGithub": "https://github.com/alice51849",
     "date": "2026 年 7 月 21 号添加",
