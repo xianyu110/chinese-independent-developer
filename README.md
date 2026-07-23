@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 22 号添加
+
+#### wisemonkey1990 - [GitHub](https://github.com/wisemonkey1990)
+* :white_check_mark: [诗经阅读](https://song-of-books.github.io/)：305 首《诗经》全文阅读，含注释、译文、拼音标注和古风宣纸体验，支持收藏与搜索 - [GitHub 仓库](https://github.com/song-of-books/song-of-books.github.io)
+
 ### 2026 年 7 月 21 号添加
 
 #### cobola - [Github](https://github.com/cobola)
@@ -42,7 +47,7 @@
 * :white_check_mark: [Zivoe](https://zivoe.elolin.com)：面向工业设计的桌面工具，用一张参考图把模糊想法变成产品概念主图和三视图，启发灵感、也方便和工厂沟通
 
 #### alice51849 - [Github](https://github.com/alice51849)
-* :white_check_mark: [Lumi & Friends iOS App Finder](https://alice51849.github.io/ios-app-guide/zh-Hans/tools/private-pay-once-iphone-app-finder.html)：按用途、隐私和付费方式查找 28 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域
+* :white_check_mark: [Lumi & Friends iOS App Finder](https://alice51849.github.io/ios-app-guide/zh-Hans/tools/private-pay-once-iphone-app-finder.html)：按用途、隐私和付费方式查找 29 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域
 
 #### 小明 - [Github](https://github.com/xiaomingio)
 * :white_check_mark: [Vibe Coding Atlas](https://vibecoding.aicake.io)：中国独立开发者项目列表网页版，每日刷新 Markdown 清单生成可搜索筛选的静态目录，并补充公开 GitHub Stars - [GitHub 仓库](https://github.com/xiaomingio/vibe-coding-atlas)
