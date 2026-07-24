@@ -1,5 +1,155 @@
 [
   {
+    "name": "AI故事书生成器",
+    "url": "https://storybookai.io/",
+    "status": "online",
+    "description": "AI 生成故事书",
+    "author": "maowei8888",
+    "authorGithub": "https://github.com/maowei8888",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI菜谱生成器",
+    "url": "https://cookbookai.io/",
+    "status": "online",
+    "description": "AI 生成菜谱",
+    "author": "maowei8888",
+    "authorGithub": "https://github.com/maowei8888",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI杂志生成器",
+    "url": "https://magazinemaker.org/",
+    "status": "online",
+    "description": "AI 生成杂志",
+    "author": "maowei8888",
+    "authorGithub": "https://github.com/maowei8888",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "8码快传",
+    "url": "https://t.8ma.co/",
+    "status": "online",
+    "description": "免费、无需注册登录的浏览器大文件传输工具，支持链接、二维码和取件码分享；同一 WiFi 下电脑与手机同时打开网页即可互传",
+    "author": "8码团队",
+    "authorGithub": "https://github.com/geklabs",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PDF2MD",
+    "url": "https://apps.apple.com/cn/app/pdf2md/id6737130377",
+    "status": "online",
+    "description": "将 PDF 转换为 Markdown，完全离线，无需上传、无文件大小限制，支持图像文字识别，私密安全，设备端处理，支持通过 AirDrop 共享；[鸿蒙版本](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)",
+    "author": "slamancn",
+    "authorGithub": "https://github.com/slamancn",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "听歌Next",
+    "url": "https://tinggenext.com",
+    "status": "online",
+    "description": "多人在线共同听歌 - [更多介绍](https://tinggenext.com)",
+    "author": "Limo(深圳)",
+    "authorGithub": "https://github.com/yuhai0",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Fin-Agent",
+    "url": "https://fin-agent.chat",
+    "status": "online",
+    "description": "帮助投资者对投资标的进行专业分析 - [更多介绍](https://fin-agent.chat)",
+    "author": "Limo(深圳)",
+    "authorGithub": "https://github.com/yuhai0",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Doc2Md",
+    "url": "https://doc2md.cn",
+    "status": "online",
+    "description": "将 PDF、Word、Excel 等多种格式文件转换成 Agent 友好的 Markdown 格式 - [更多介绍](https://doc2md.cn)",
+    "author": "Limo(深圳)",
+    "authorGithub": "https://github.com/yuhai0",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "supergeo.info",
+    "url": "https://supergeo.info",
+    "status": "online",
+    "description": "帮助 GEO 从业者的工具集合平台 - [更多介绍](https://supergeo.info)",
+    "author": "Limo(深圳)",
+    "authorGithub": "https://github.com/yuhai0",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Invoice-Downloader",
+    "url": "https://github.com/EthanYoQ/Invoice-Downloader",
+    "status": "online",
+    "description": "发票报销神器，一键搞定发票报销。 连好邮箱之后，软件会一键开好发票，下载，转化成pdf，整理到分类文件夹。并且做好excel清单。",
+    "author": "EthanYoQ - [GitHub](https://github.com/EthanYoQ)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "whisper-input",
+    "url": "https://github.com/EthanYoQ/whisper-input",
+    "status": "online",
+    "description": "vibe coding和输入利器。windows语音输入法，你只负责口喷，输入法会整理成逻辑清晰的话术（类似prompt）。输出风格可选，源码公开自由可调。",
+    "author": "EthanYoQ - [GitHub](https://github.com/EthanYoQ)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "agent-xiaohongshu-workbench",
+    "url": "https://github.com/EthanYoQ/agent-xiaohongshu-workbench",
+    "status": "online",
+    "description": "小红书工作台，一键爆款内容拆解，自动完成选题，配图，发布流程。新增多账号管理功能。账号故事线管理。",
+    "author": "EthanYoQ - [GitHub](https://github.com/EthanYoQ)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI-Novel-Writer",
+    "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
+    "status": "online",
+    "description": "AI 写小说和网文的写作工具，支持 NSFW 本地模型生成成人文学；支持大纲、角色、章节蓝图、审稿修稿和知识库的中文小说创作桌面工作台。内置完整系统提示词，避免中长篇小说角色/内容遗忘、主题漂移。",
+    "author": "EthanYoQ - [GitHub](https://github.com/EthanYoQ)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Paste It",
+    "url": "https://paste-it.app",
+    "status": "online",
+    "description": "macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史 - [更多介绍](https://github.com/yipeng-git/paste-it)",
+    "author": "yipeng-git",
+    "authorGithub": "https://github.com/yipeng-git",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Semaphore",
+    "url": "https://semaphore.bobochang.cn",
+    "status": "online",
+    "description": "图片拖进浏览器秒变 ASCII 字符画，无上传无注册，一键复制成纯文本贴进终端、代码注释、聊天窗口，支持盲文点阵高密度模式与 txt / PNG / 分享卡片导出 - [源码](https://github.com/can4hou6joeng4/Semaphore)",
+    "author": "bobochang - [GitHub](https://github.com/can4hou6joeng4)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 23 号添加",
+    "category": "main"
+  },
+  {
     "name": "诗经阅读",
     "url": "https://song-of-books.github.io/",
     "status": "online",
@@ -560,16 +710,6 @@
     "category": "main"
   },
   {
-    "name": "AI 小说作家 / AI Novel Writer",
-    "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
-    "status": "online",
-    "description": "中文小说与网文写作桌面工作台，支持大纲、角色、章节蓝图、审稿修稿和知识库管理；内置完整系统提示词，避免长篇创作中角色遗忘与主题漂移；支持 NSFW 本地模型生成成人文学",
-    "author": "EthanYoQ - [GitHub](https://github.com/EthanYoQ)",
-    "authorGithub": "",
-    "date": "2026 年 7 月 16 号添加",
-    "category": "main"
-  },
-  {
     "name": "ghost-proxifier-pro",
     "url": "https://ghostproxifier.com",
     "status": "online",
@@ -1100,16 +1240,6 @@
     "category": "main"
   },
   {
-    "name": "轻语输入 / Whisper Input",
-    "url": "https://github.com/EthanYoQ/whisper-input/releases/latest",
-    "status": "online",
-    "description": "Windows 开源 AI 语音输入 App，按全局快捷键说话即可把中文整理成去口头语、带层级结构或正式邮件风格的文字；原文、轻度润色、清晰结构、正式表达四种模式随时切换，按 ASR 与 LLM 实际用量付费，无固定订阅费，可低成本获得类似 Typeless 的格式化输出工作流 - [查看仓库](https://github.com/EthanYoQ/whisper-input)",
-    "author": "EthanYoQ - [GitHub](https://github.com/EthanYoQ)",
-    "authorGithub": "",
-    "date": "2026 年 7 月 15 号添加",
-    "category": "main"
-  },
-  {
     "name": "Mindwtr",
     "url": "https://mindwtr.app",
     "status": "online",
@@ -1147,16 +1277,6 @@
     "author": "Sallyn",
     "authorGithub": "https://github.com/Sallyn0225",
     "date": "2026 年 7 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "InvoiceFlowAI",
-    "url": "https://github.com/EthanYoQ/Invoice-Downloader/releases/tag/v2026.07.12.1",
-    "status": "online",
-    "description": "Windows 发票归档 App，连接 QQ / 163 邮箱批量下载 PDF、OFD、XML 电子发票，AI 识别后在本地分类并生成 Excel 报销汇总 - [GitHub 源码](https://github.com/EthanYoQ/Invoice-Downloader)",
-    "author": "EthanYoQ - [GitHub](https://github.com/EthanYoQ)",
-    "authorGithub": "",
-    "date": "2026 年 7 月 14 号添加",
     "category": "main"
   },
   {
