@@ -23,10 +23,43 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+
+### 2026 年 7 月 23 号添加
+
+#### maowei8888 - [Github](https://github.com/maowei8888)
+* :white_check_mark: [AI故事书生成器](https://storybookai.io/)：AI 生成故事书
+* :white_check_mark: [AI菜谱生成器](https://cookbookai.io/)：AI 生成菜谱
+* :white_check_mark: [AI杂志生成器](https://magazinemaker.org/)：AI 生成杂志
+
+#### 8码团队 - [Github](https://github.com/geklabs)
+* :white_check_mark: [8码快传](https://t.8ma.co/)：免费、无需注册登录的浏览器大文件传输工具，支持链接、二维码和取件码分享；同一 WiFi 下电脑与手机同时打开网页即可互传
+
+#### slamancn - [Github](https://github.com/slamancn)
+* :white_check_mark: [PDF2MD](https://apps.apple.com/cn/app/pdf2md/id6737130377)：将 PDF 转换为 Markdown，完全离线，无需上传、无文件大小限制，支持图像文字识别，私密安全，设备端处理，支持通过 AirDrop 共享；[鸿蒙版本](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)
+
+#### Limo(深圳) - [Github](https://github.com/yuhai0), [博客](https://yuhai.me)
+* :white_check_mark: [听歌Next](https://tinggenext.com)：多人在线共同听歌 - [更多介绍](https://tinggenext.com)
+* :white_check_mark: [Fin-Agent](https://fin-agent.chat)：帮助投资者对投资标的进行专业分析 - [更多介绍](https://fin-agent.chat)
+* :white_check_mark: [Doc2Md](https://doc2md.cn)：将 PDF、Word、Excel 等多种格式文件转换成 Agent 友好的 Markdown 格式 - [更多介绍](https://doc2md.cn)
+* :white_check_mark: [supergeo.info](https://supergeo.info)：帮助 GEO 从业者的工具集合平台 - [更多介绍](https://supergeo.info)
+
+#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
+* :white_check_mark: [Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：发票报销神器，一键搞定发票报销。 连好邮箱之后，软件会一键开好发票，下载，转化成pdf，整理到分类文件夹。并且做好excel清单。
+* :white_check_mark: [whisper-input](https://github.com/EthanYoQ/whisper-input)：vibe coding和输入利器。windows语音输入法，你只负责口喷，输入法会整理成逻辑清晰的话术（类似prompt）。输出风格可选，源码公开自由可调。
+* :white_check_mark: [agent-xiaohongshu-workbench](https://github.com/EthanYoQ/agent-xiaohongshu-workbench)：小红书工作台，一键爆款内容拆解，自动完成选题，配图，发布流程。新增多账号管理功能。账号故事线管理。
+* :white_check_mark: [AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 写小说和网文的写作工具，支持 NSFW 本地模型生成成人文学；支持大纲、角色、章节蓝图、审稿修稿和知识库的中文小说创作桌面工作台。内置完整系统提示词，避免中长篇小说角色/内容遗忘、主题漂移。
+
+#### yipeng-git - [Github](https://github.com/yipeng-git)
+* :white_check_mark: [Paste It](https://paste-it.app)：macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史 - [更多介绍](https://github.com/yipeng-git/paste-it)
+
+#### bobochang - [GitHub](https://github.com/can4hou6joeng4)
+* :white_check_mark: [Semaphore](https://semaphore.bobochang.cn)：图片拖进浏览器秒变 ASCII 字符画，无上传无注册，一键复制成纯文本贴进终端、代码注释、聊天窗口，支持盲文点阵高密度模式与 txt / PNG / 分享卡片导出 - [源码](https://github.com/can4hou6joeng4/Semaphore)
+
 ### 2026 年 7 月 22 号添加
 
 #### wisemonkey1990 - [GitHub](https://github.com/wisemonkey1990)
 * :white_check_mark: [诗经阅读](https://song-of-books.github.io/)：305 首《诗经》全文阅读，含注释、译文、拼音标注和古风宣纸体验，支持收藏与搜索 - [GitHub 仓库](https://github.com/song-of-books/song-of-books.github.io)
+
 
 ### 2026 年 7 月 21 号添加
 
@@ -181,9 +214,6 @@
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
 * :white_check_mark: [IPTV Player](https://iptv.aibit.im/zh)：收看世界各地新闻、体育和娱乐节目（超过一万个频道），无需注册、下载或订阅
 
-#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
-* :white_check_mark: [AI 小说作家 / AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：中文小说与网文写作桌面工作台，支持大纲、角色、章节蓝图、审稿修稿和知识库管理；内置完整系统提示词，避免长篇创作中角色遗忘与主题漂移；支持 NSFW 本地模型生成成人文学
-
 #### liliBestCoder - [Github](https://github.com/liliBestCoder)
 * :white_check_mark: [ghost-proxifier-pro](https://ghostproxifier.com)：专为 Windows 打造的免费进程级透明代理引擎，拖拽进程快捷方式即可完成注入，支持进程树自动递归注入 - [查看仓库](https://github.com/liliBestCoder/ghost-proxifier-pro)
 
@@ -318,8 +348,6 @@
 #### Beihai10078 - [Github](https://github.com/Beihai10078)
 * :white_check_mark: [小米设备价格天梯 & 代号速查](https://beihai10078.github.io/xiaomi-price-tier/)：Xiaomi / Redmi / POCO 设备价格天梯与代号速查工具，覆盖 245 台设备，支持品牌/系列/类型多维筛选、代号一键复制、中英双语、Material You 风格，纯静态零依赖 - [查看仓库](https://github.com/Beihai10078/xiaomi-price-tier)
 
-#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
-* :white_check_mark: [轻语输入 / Whisper Input](https://github.com/EthanYoQ/whisper-input/releases/latest)：Windows 开源 AI 语音输入 App，按全局快捷键说话即可把中文整理成去口头语、带层级结构或正式邮件风格的文字；原文、轻度润色、清晰结构、正式表达四种模式随时切换，按 ASR 与 LLM 实际用量付费，无固定订阅费，可低成本获得类似 Typeless 的格式化输出工作流 - [查看仓库](https://github.com/EthanYoQ/whisper-input)
 #### dongdongbh - [Github](https://github.com/dongdongbh)
 * :white_check_mark: [Mindwtr](https://mindwtr.app)：本地优先的 GTD 待办 App，几秒收集脑中的任务和想法，再通过整理、执行和每周回顾始终看清下一步；免费开源、无需账号，数据留在自己的设备上 - [查看仓库](https://github.com/dongdongbh/Mindwtr)
 
@@ -333,9 +361,6 @@
 * :white_check_mark: [SeatView](https://seat.genchi.top)：日本及部分海外演唱会场馆的真实座位视角图集，在坐席图上点击标注即可查看该位置的实拍视野，浏览和上传均无需注册 - [查看仓库](https://github.com/Sallyn0225/seatview)
 
 ### 2026 年 7 月 14 号添加
-
-#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
-* :white_check_mark: [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader/releases/tag/v2026.07.12.1)：Windows 发票归档 App，连接 QQ / 163 邮箱批量下载 PDF、OFD、XML 电子发票，AI 识别后在本地分类并生成 Excel 报销汇总 - [GitHub 源码](https://github.com/EthanYoQ/Invoice-Downloader)
 
 #### 1146345502 - [Github](https://github.com/1146345502)
 * :white_check_mark: [Aural](https://aural-ai.com)：开源 AI 面试平台，支持语音、聊天和视频面试，提供自适应追问、结构化评分、面试练习与自托管 - [查看仓库](https://github.com/1146345502/aural-oss)
