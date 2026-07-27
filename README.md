@@ -24,6 +24,22 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 27 号添加
+
+#### suio03(成都) - [Github](https://github.com/suio03)
+* :white_check_mark: [Scribix](https://scribix.io/)：上传音视频或粘贴 YouTube 链接，生成带说话人标记和时间戳的可编辑文字，并可导出字幕与文档
+
+### 2026 年 7 月 26 号添加
+
+#### Maynor996 - [Github](https://github.com/Maynor996)
+* :white_check_mark: [算了么](https://suanlem.asia/)：八字四柱、三张牌塔罗与吠陀占星在线解读，支持保存历史记录并查看公开的方法说明
+
+#### zhengmingpei(济南) - [Bilibili](https://space.bilibili.com/32918983)
+* :white_check_mark: [FileTags](https://zhengmingpei.github.io/FileTags/)：文件标签分类检索与管理桌面软件，跨平台（Windows、Linux） - [更多介绍](https://www.bilibili.com/video/BV1EMjH6NEtE/)
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [CelebrateYou](https://celebrateyou.app/)：AI 音乐生成器
+
 ### 2026 年 7 月 24 号添加
 
 #### cocodot2026 - [GitHub](https://github.com/cocodot2026)
