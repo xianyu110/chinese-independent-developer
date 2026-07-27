@@ -1,5 +1,45 @@
 [
   {
+    "name": "Scribix",
+    "url": "https://scribix.io/",
+    "status": "online",
+    "description": "上传音视频或粘贴 YouTube 链接，生成带说话人标记和时间戳的可编辑文字，并可导出字幕与文档",
+    "author": "suio03(成都)",
+    "authorGithub": "https://github.com/suio03",
+    "date": "2026 年 7 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "算了么",
+    "url": "https://suanlem.asia/",
+    "status": "online",
+    "description": "八字四柱、三张牌塔罗与吠陀占星在线解读，支持保存历史记录并查看公开的方法说明",
+    "author": "Maynor996",
+    "authorGithub": "https://github.com/Maynor996",
+    "date": "2026 年 7 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "FileTags",
+    "url": "https://zhengmingpei.github.io/FileTags/",
+    "status": "online",
+    "description": "文件标签分类检索与管理桌面软件，跨平台（Windows、Linux） - [更多介绍](https://www.bilibili.com/video/BV1EMjH6NEtE/)",
+    "author": "zhengmingpei(济南) - [Bilibili](https://space.bilibili.com/32918983)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "CelebrateYou",
+    "url": "https://celebrateyou.app/",
+    "status": "online",
+    "description": "AI 音乐生成器",
+    "author": "hwlvipone",
+    "authorGithub": "https://github.com/hwlvipone",
+    "date": "2026 年 7 月 26 号添加",
+    "category": "main"
+  },
+  {
     "name": "cocodot LLM 降智检测",
     "url": "https://probe.cocodot.co",
     "status": "online",
