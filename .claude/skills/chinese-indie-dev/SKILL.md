@@ -7,7 +7,7 @@ description: >
   当用户说"处理提交"、"处理 issue"、"跑一下列表"时使用。
 metadata:
   author: 1c7
-  version: "1.8"
+  version: "2.1"
   lang: zh-CN
 allowed-tools:
   - Bash
@@ -31,7 +31,15 @@ allowed-tools:
 
 ⚠️ 严格禁止：本 skill 涉及的所有 GitHub 操作（发评论、开关 issue、合并/关闭 PR、改 reaction 等）**只能通过 Bash 里的 `gh` / `git` 命令行执行**，绝对不能使用任何 GitHub 连接器（Connector）或平台自带的原生 GitHub 工具（例如各种 `add_issue_comment`、`merge_pull_request`、`create_pull_request` 之类的内置工具）去完成，哪怕当前环境里这些工具可用。原因：这些内置工具走的是 claude.ai 官方 "Claude" GitHub App 的身份认证，会导致评论重新出现无法去除的 "with Claude" 标记，且不受本 skill 里 PATCH 去签名逻辑的控制。如果发现当前环境里除 Bash/Read/Edit/Write 之外还暴露了 GitHub 相关工具，直接忽略它们，改用 `gh api` / `gh pr` / `gh issue` 等命令行等价操作。
 
+⚠️ 本仓库**只收录中国独立开发者**的项目（仓库标题即「中国独立开发者项目列表」）。检查一、二、三的每一位提交者，在进入「通用处理流程」或合并 PR 之前，都必须先按下方「身份判断」章节确认是中国人，确认是老外的一律礼貌拒绝、不收录，绝不能因为产品本身质量好、URL 有效就直接收录。
+
 ⚠️ 三个版面的**固定名称**是「主版面」「程序员版面」「游戏版面」——都以"版面"两个字结尾，不是"主版"/"程序员版"/"游戏版"。所有感谢评论、PR/issue 评论中提到版面名称的地方，写完之后要逐字核对有没有漏掉"面"字（历史运行中出现过在感谢评论里把"程序员版面"错写成"程序员版"的情况，且没有被自动校验发现）。
+
+⚠️ **格式问题绝不能作为关闭 PR / Issue / 拒绝收录的理由。** 提交格式再乱（一行纯文本、没有 `####` 作者行、没有 `:white_check_mark:`、中英文没空格、描述像广告词），都只是我们收尾时要清理的事，不是拒绝提交者的理由。允许关闭的理由只有两类：**垃圾广告/无关内容**，以及**非中国开发者**。正确做法是先合并/先收录，再按下面的格式规范单独发一条整理 commit。历史上出现过 bot 以"格式和本仓库的收录要求不符"为由关掉了一个本可以合并的 PR（#1205），这是错误的。发拒绝评论前，逐字检查理由里有没有出现"格式"两个字——如果有，说明这次拒绝就是错的，退回去改成合并。
+
+⚠️ **版面判断必须点开产品链接实际看一眼，不能只凭提交者的标题和描述猜。** 判断标准见「步骤2：分类」的表格，这里不重复。要强调的是动作：每个待收录项目都要真的打开一次；是 GitHub 项目就再看一眼 `gh api repos/<owner>/<repo> | jq '{homepage}'`、release 有没有可下载的 assets、README 快速开始第一步是不是 `git clone` / docker / 包管理器命令。
+
+⚠️ **PR 贡献者选的文件经常是错的，版面由我们判断，不由他改了哪个文件决定。** 检查三的 PR 走直接合并、不经过步骤2，但版面判断这一步对 PR 同样必须做。发现放错版面时，**照常先合并**（绝不因此关闭或退回 PR），再把条目挪到正确的版面并单独发一条修正 commit；如果该 PR 的 `maintainer_can_modify` 为 `true`，也可以直接改他的分支、让 PR 一次就落到正确的文件再合并——两种方式都行，重点是必须 merge 且最终落在正确版面。挪完后如果感谢评论已经发出去了，记得 PATCH 修正评论里的版面名称。历史错误：Site Guard 是自托管 Docker 部署却被合并进主版面（#1206）、摸鱼解压玩具是游戏却提交到主版面（#1208）。
 
 ⚠️ 感谢评论必须简短，只说结果，不说过程：固定句式是「@用户名 感谢提交，你的产品 X 已添加到 Y 版面！」（或已收录多个产品时按本文档后面给的变体）。**禁止**在评论里额外加"谢谢！"这类结尾客套话（前面已经有"感谢提交"了，不需要再谢一次）；**禁止**提及处理过程中的内部细节，例如"PR 有冲突"「已由我们手动合并」「已手动处理」之类——不管背后是直接合并、手动解决冲突、还是走 issue 流程，提交者只需要知道结果（收录到了哪个版面），不需要知道我们是怎么做到的。发送前对照这条逐字检查。
 
@@ -58,7 +66,7 @@ COUNT_PRS=$(gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per
 echo "新评论: $COUNT_COMMENTS  新Issue: $COUNT_ISSUES  待处理PR: $COUNT_PRS"
 ```
 
-如果三个数字**全部为 0**，立即输出「无新内容，本次运行结束」，然后**停止，不再执行后续任何步骤**。
+如果三个数字**全部为 0**，输出「无新内容」，跳过检查一、二、三和通用处理流程，**但仍然必须执行文末的「收尾扫描」**（那一步与本次有没有新提交无关），扫完再结束。
 
 只要有任意一个数字 > 0，才继续向下执行。
 
@@ -189,6 +197,8 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
     4. 如果冲突内容复杂到无法安全判断该保留什么（例如冲突不只是新增条目，而是修改了已有内容的结构），**不要瞎猜、不要删除任何已有内容**，改为在 PR 里说明具体冲突原因并保持 PR 打开，等待人工介入；但这应是极少数情况，绝大多数「新增条目」型冲突都应该自动解决。
   - **不允许**的做法：连续多次发送「请 rebase / 请解决冲突后重新提交」这类要求人类提交者自己解决冲突的评论。冲突处理是我们的责任，不是提交者的。
 - **垃圾广告、无关内容** → 直接关闭：`gh pr close <number>`
+- **非中国开发者（老外）** → 不合并，按下方「身份判断」章节的拒绝流程处理：礼貌评论说明后 `gh pr close <number>`，不使用 `gh pr merge`
+- **格式乱、不符合模板** → 这不是关闭理由，照常合并，合并后按下面「PR 合并后要检查描述格式」的要求单独发一条格式整理 commit（见文档开头的格式禁令）
 
 ⚠️ 严格禁止：检查三的 PR **无冲突时**必须走上面的 `gh pr merge --squash`，不能走通用处理流程（那样会丢失贡献者的 git 归属）。**有冲突时**才使用上面的本地合并步骤，因为 `git merge --no-ff` 会保留贡献者原始 commit 的作者信息，不会丢失归属。
 
@@ -196,7 +206,46 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
 
 ---
 
-## 通用处理流程（适用于检查一和检查二）
+## 身份判断：仅收录中国独立开发者（检查一、二、三共用）
+
+仓库标题是「中国独立开发者项目列表」，收录范围严格限定为**中国独立开发者**的项目，产品本身质量再好、URL 再有效，只要提交者不是中国人，一律不收录。检查一、二、三的每一位提交者，在进入「通用处理流程」步骤1之前（或检查三判断是否合并 PR 之前），都要先做这一步判断。
+
+**判断标准（满足以下任一条即可判定为中国人）：**
+1. 提交者用中文留言，且内容通顺自然、符合中文母语者的表达习惯（不是生硬的机器翻译腔）
+2. 提交者的名字是拼音，或明显是中国人姓名（含港澳台常见姓名）
+3. 提交者的 GitHub 主页能看出中国元素：例如 bio 是中文、有仓库的标题/描述是中文、location 写着中国城市/省份等
+
+查证方式：
+```bash
+gh api users/<username> | jq '{name, bio, location}'
+# 如上面三个字段都看不出结论，抽查几个仓库名称/描述辅助判断：
+gh api "users/<username>/repos?sort=updated&per_page=10" | jq '[.[] | {name, description}]'
+```
+
+⚠️ 不能只看单一信号就下结论：
+- 不能仅凭"提交内容是中文"就判定——要综合看，尤其留意机翻痕迹（用词生硬、语序不自然）
+- 不能仅凭 GitHub 用户名/主页语言是英文就判定为老外——很多中国开发者也用纯英文用户名和英文 bio，需结合上面三条综合判断
+- `location` 字段是强信号但非绝对：结合 name/bio/repos 一起看
+
+**默认原则：老外不收录，只有确认是中国人才收录。** 三条证据都拿不到、无法判断时，不要为了收录而"往好处想"，倾向于按拒绝处理，评论里客气说明"暂时无法确认是否符合本仓库收录范围（仅限中国独立开发者）"。
+
+**判定为非中国开发者后的处理：**
+- 检查一（issue #160 评论）：不进入「通用处理流程」，不修改任何 README，在 #160 该条评论下用提交者所用的语言礼貌回复说明原因即可（不需要额外关闭操作）
+- 检查二（独立 issue）：不进入「通用处理流程」，在该 issue 下礼貌回复后 `gh issue close <number>`
+- 检查三（PR）：不合并，在 PR 下礼貌评论后 `gh pr close <number>`（不使用 `gh pr merge`）
+
+**拒绝评论模板**（用提交者使用的语言回复，语气礼貌简短，不解释具体判断依据，不含 Claude 署名——POST 后同样要 PATCH 去署名并 GET 验证）：
+```
+感谢分享 <产品名>！不过本仓库只收录中国独立开发者的项目（README 开头写明"聚合所有中国独立开发者的项目"），所以暂时不在收录范围内，抱歉。祝 <产品名> 发展顺利！
+```
+英文示例：
+```
+Thanks for sharing <product>! This repo specifically curates projects made by Chinese independent developers, so it's outside the scope of this list. Good luck with <product>!
+```
+
+---
+
+## 通用处理流程（适用于检查一和检查二，且已通过上方「身份判断」）
 
 ### 步骤1：提取信息并格式化
 
@@ -231,7 +280,7 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
 | 主版面 | 打开即用的网站或 App，非游戏 | README.md |
 | 程序员版面 | 需要命令行/写代码/安装依赖 | pages/README-Programmer-Edition.md |
 | 游戏版面 | 任何游戏类产品 | pages/README-Game.md |
-| 拒绝 | 论坛、无 URL、垃圾广告、无法判断 | 不处理 |
+| 拒绝 | 论坛、无 URL、垃圾广告、无法判断、或提交者非中国开发者（见上方「身份判断」） | 不处理 |
 
 ⚠️ 个人博客不算独立"产品"，不作为单独的 `* :white_check_mark: [产品名](url)：...` 条目收录（无论是在评论/Issue 里单独提交，还是和其他产品一起夹带提交）。如果提交内容里包含个人博客链接，按 CONTRIBUTING.md 的模板把它放进作者信息行，写成 `#### 制作者名字(城市) - [Github](url), [博客](博客url)`，不要单独起一行当产品处理。这条同样适用于检查三的 PR：PR 里如果夹带了博客条目，即使 PR 整体因为改了 README 且含产品名+URL 被判定为"有效提交"要合并，合并后仍要单独检查其中每一行是否真的是产品，博客类条目要按上面方式改成作者信息里的链接，不能因为"PR 已经通过整体有效性检查"就跳过逐行审查。
 
@@ -289,8 +338,54 @@ gh api repos/1c7/chinese-independent-developer/issues/comments/$COMMENT_ID \
 
 ---
 
+## 收尾扫描：无条件复查签名残留（每次运行都要做，包括「无新内容」的空跑）
+
+前面每处发评论都要求 POST → PATCH → GET 验证，但实践证明这一步会静默失效：2026-06-23 至 07-28 期间累计有 **155 条**致谢评论带着签名一直没被清掉（#160 里 70 条，各 issue/PR 上另有 85 条），横跨 `1c7` 和 `claude[bot]` 两种身份，而每次运行都自认为验证通过了。所以不能只依赖发评论时的那次自检，**每次运行结束前必须再无条件重扫一遍**。
+
+⚠️ 扫描范围必须是**整个仓库**，不能只扫 #160——检查二、检查三的致谢评论发在各自的 issue / PR 上，只扫 #160 会漏掉一大半。用仓库级评论接口，它支持 `sort`/`direction`，一次就能拿到全仓库最近的评论：
+
+```bash
+# 必须先把结果落盘再解析：gh api 直接管道给 jq 时，网络 EOF 会让 jq 收到空输入、
+# 静默输出 0 条，看起来像「已经干净」——这是假阴性，务必用重试 + 落盘。
+for i in 1 2 3 4 5; do
+  gh api "repos/1c7/chinese-independent-developer/issues/comments?sort=created&direction=desc&per_page=100" \
+    > /tmp/sig_scan.json 2>/dev/null && break
+  sleep 3
+done
+jq -e 'type == "array" and length > 0' /tmp/sig_scan.json >/dev/null \
+  || { echo "扫描接口没拿到数据，本次扫描无效，必须重试后再判断"; exit 1; }
+
+jq -r '.[] | select(.body | test("Generated by")) | select(.user.login as $u | ["1c7","claude[bot]"] | index($u)) | .id' \
+  /tmp/sig_scan.json > /tmp/sig_dirty.txt
+echo "检出待修: $(wc -l < /tmp/sig_dirty.txt) 条"
+```
+
+⚠️ 上面的 `select(.user.login ...)` 过滤不能省：**只修我们自己（`1c7` / `claude[bot]`）发的评论**。贡献者回复时经常用 `>` 引用我们带签名的原文，那是他本人的评论，一个字都不许改（例：#1155 的 5009781050 号评论）。
+
+扫到任何 ID 就当场修掉，逐条 PATCH 后 GET 复核：
+
+```bash
+while read -r ID; do
+  gh api "repos/1c7/chinese-independent-developer/issues/comments/$ID" \
+    | jq '{body: (.body | sub("\\n*---\\n*_Generated by \\[Claude Code\\]\\(https://claude\\.ai/code\\)_\\s*$"; "") | rtrimstr("\n"))}' \
+    > /tmp/sig_payload.json
+  # 空正文保护：绝不把评论清空
+  [ "$(jq -r '.body | length' /tmp/sig_payload.json)" -eq 0 ] && { echo "跳过 $ID（正文会被清空）"; continue; }
+  gh api --method PATCH "repos/1c7/chinese-independent-developer/issues/comments/$ID" --input /tmp/sig_payload.json > /dev/null
+  gh api "repos/1c7/chinese-independent-developer/issues/comments/$ID" | jq -r '.body'
+done < /tmp/sig_dirty.txt
+```
+
+⚠️ 写这类批量脚本时**不要用 `echo "$json" | jq` 传递 JSON**——`echo` 会把字符串里的 `\n` 当转义符展开，导致 jq 全线解析失败。一律用文件（`> file` 再 `jq ... file` / `--input file`）传递。
+
+⚠️ **不允许凭脚本自己打印的「成功 N 条」就认为修完了。** 历史上出现过循环里 jq 静默失败、计数逻辑却报「成功 70 失败 0」、实际一条都没改的情况。必须重新拉一次评论列表、再次 `grep "Generated by"` 确认残留计数为 0（贡献者引用产生的那几条除外），才算这一步完成。
+
+⚠️ 偶发的 `Post/Get "https://api.github.com/...": EOF` 是网络抖动，不是真失败。上面的循环已经带 3 次重试；如果收尾复查时仍有少量残留，单独把这几个 ID 再跑一遍即可，不要因此判定整批失败。
+
+---
+
 ## 注意事项
 
 - 幂等性靠 URL grep 检查保证，不依赖 reaction 标记
 - 所有文件修改完成后统一一次 commit 推 master，不建分支、不开 PR
-- 三个检查都没有新内容时，直接结束
+- 三个检查都没有新内容时，跳过处理流程，但仍要跑「收尾扫描」再结束
