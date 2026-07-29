@@ -1,5 +1,55 @@
 [
   {
+    "name": "intro3d",
+    "url": "https://intro3d.com/zh",
+    "status": "online",
+    "description": "上传照片或自有 3D 模型，设置镜头动画和作品内容，发布可分享的 3D 展示页 — 无代码 3D 个人主页制作工具",
+    "author": "yuhoayu-arch",
+    "authorGithub": "https://github.com/yuhoayu-arch",
+    "date": "2026 年 7 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "薪跳 PayDance",
+    "url": "https://paydance.vercel.app/",
+    "status": "online",
+    "description": "轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)",
+    "author": "Mr.Baoboer(北京)",
+    "authorGithub": "https://github.com/MrBaoboer/",
+    "date": "2026 年 7 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "氛寸 Fēn Cùn",
+    "url": "https://github.com/MrBaoboer/FenCun",
+    "status": "online",
+    "description": "轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)",
+    "author": "Mr.Baoboer(北京)",
+    "authorGithub": "https://github.com/MrBaoboer/",
+    "date": "2026 年 7 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "独立星选",
+    "url": "https://indie-star.pages.dev/",
+    "status": "online",
+    "description": "从本仓库评论区的用户点赞和评论数据中筛选优质独立开发者项目 - [更多介绍](https://github.com/pluone/indie_star)",
+    "author": "pluone(北京)",
+    "authorGithub": "https://github.com/pluone",
+    "date": "2026 年 7 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "OptPulse",
+    "url": "https://optpulse.org",
+    "status": "online",
+    "description": "F-1 留学生 OPT / STEM OPT 时间追踪与 EAD 审批预测工具，支持 Premium Processing 时长计算与关键日期提醒，免费无需注册",
+    "author": "surfacex-dev",
+    "authorGithub": "https://github.com/surfacex-dev",
+    "date": "2026 年 7 月 28 号添加",
+    "category": "main"
+  },
+  {
     "name": "AISeedance25",
     "url": "https://aiseedance25.app/",
     "status": "online",
@@ -530,16 +580,6 @@
     "category": "main"
   },
   {
-    "name": "氛寸 Fēn Cùn",
-    "url": "https://github.com/MrBaoboer/FenCun",
-    "status": "online",
-    "description": "轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)",
-    "author": "Mr.Baoboer(北京)",
-    "authorGithub": "https://github.com/MrBaoboer/",
-    "date": "2026 年 7 月 19 号添加",
-    "category": "main"
-  },
-  {
     "name": "wflynn 工具站",
     "url": "https://tools.wflynn.cn/",
     "status": "online",
@@ -576,16 +616,6 @@
     "description": "小组件工坊，可以 DIY 任何小组件 - [更多介绍](https://awaitwidget.com)",
     "author": "猫弟(上海)",
     "authorGithub": "https://github.com/maundytime",
-    "date": "2026 年 7 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "薪跳 PayDance",
-    "url": "https://paydance.vercel.app/",
-    "status": "online",
-    "description": "轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)",
-    "author": "Mr.Baoboer(北京)",
-    "authorGithub": "https://github.com/MrBaoboer/",
     "date": "2026 年 7 月 18 号添加",
     "category": "main"
   },
