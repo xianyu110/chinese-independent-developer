@@ -16,6 +16,24 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 29 号添加
+
+#### 张文禄 - [GitHub](https://github.com/Python-IDE), [官网](https://pythonide.xin/)
+* :white_check_mark: [PythonIDE](https://apps.apple.com/app/id6753987304)：面向 iPhone 和 iPad 的原生 Python 3.14.6 开发工作台，可本地运行科学计算与 Notebook，并用 AI Agent 修改、运行和验证项目；还能用 Python 构建 MiniApp 原生界面、Widget 与自动化，内置 SSH、Git 和 iOS 系统能力 - [更多介绍](https://github.com/Python-IDE/PythonIDE-iOS)
+
+#### Perrin Yong(上海) - [Github](https://github.com/PerrinYong)
+* :white_check_mark: [CrewBee](https://github.com/CrewBeeLab/CrewBee)：AI Agent 团队框架，面向 OpenCode 将角色、工作流、审查流程与完成标准封装为可复用团队资产，内置 Coding Team；一条 `npx` 命令安装 - [更多介绍](https://www.crewbee.art)
+* :white_check_mark: [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck)：ProjectOps × AgentOps 控制台，集中管理 AI Agent 协作、项目进展、审计轨迹与 token/成本；基于 Flask、Vue 3 与 SQLite 自托管部署
+* :white_check_mark: [Waggle](https://github.com/CrewBeeLab/Waggle)：AI Agent 治理运行时与控制平面，以项目为执行边界，提供权限控制、工具强制、确认流程、运行事件与审计证据；支持 CLI、HTTP 与 TypeScript SDK，需自托管部署
+
+### 2026 年 7 月 28 号添加
+
+#### zhangxuyuan20251443-coder - [Github](https://github.com/zhangxuyuan20251443-coder)
+* :white_check_mark: [Chrome Renamer](https://zhangxuyuan20251443-coder.github.io/Chrome-Renamer/)：本地替换 Google、YouTube 与 Chrome 页面中的品牌名称，支持自定义新标签页；无需账号，设置只保存在浏览器本地 — Chrome 扩展，需启用开发者模式手动加载 - [安装与源码](https://github.com/zhangxuyuan20251443-coder/Chrome-Renamer)
+
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+* :white_check_mark: [str-emoji-hash](https://github.com/jaychouchannel/str-emoji-hash)：将任意字符串转为唯一的表情指纹（如 🔨🌸🦋🍇），基于 FNV-1a 32 位哈希，相同输入永远产出相同表情组合，支持 npm 安装和 CLI 直接使用 `npx seh "你的字符串"`
+
 ### 2026 年 7 月 27 号添加
 
 #### sunmh207 - [GitHub](https://github.com/sunmh207)
