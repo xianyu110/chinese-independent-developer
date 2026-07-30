@@ -16,10 +16,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
-### 2026 年 7 月 29 号添加
+### 2026 年 7 月 30 号添加
 
-#### 张文禄 - [GitHub](https://github.com/Python-IDE), [官网](https://pythonide.xin/)
-* :white_check_mark: [PythonIDE](https://apps.apple.com/app/id6753987304)：面向 iPhone 和 iPad 的原生 Python 3.14.6 开发工作台，可本地运行科学计算与 Notebook，并用 AI Agent 修改、运行和验证项目；还能用 Python 构建 MiniApp 原生界面、Widget 与自动化，内置 SSH、Git 和 iOS 系统能力 - [更多介绍](https://github.com/Python-IDE/PythonIDE-iOS)
+#### Gang Qu - [GitHub](https://github.com/stomeonst)
+* :white_check_mark: [Public Trend Signal MVP](https://github.com/stomeonst/public-trend-signal-mvp)：把授权导出的 JSONL 趋势记录标准化、去重、确定性评分并拆分人工复核队列，导出飞书或 Notion 可导入的 CSV 和带哈希的运行回执；使用虚构样例，不抓取社交平台
+
+### 2026 年 7 月 29 号添加
 
 #### Perrin Yong(上海) - [Github](https://github.com/PerrinYong)
 * :white_check_mark: [CrewBee](https://github.com/CrewBeeLab/CrewBee)：AI Agent 团队框架，面向 OpenCode 将角色、工作流、审查流程与完成标准封装为可复用团队资产，内置 Coding Team；一条 `npx` 命令安装 - [更多介绍](https://www.crewbee.art)
