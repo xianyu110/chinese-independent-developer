@@ -1,5 +1,45 @@
 [
   {
+    "name": "EgressGuard",
+    "url": "https://github.com/Hipepper/EgressGuard",
+    "status": "online",
+    "description": "持续监控 Mac 出口 IP 和国家/地区，一旦不符合可信规则就自动关闭 ChatGPT、Claude 等应用，避免账号被封 - [下载](https://github.com/Hipepper/EgressGuard/releases/tag/v1.0.0)",
+    "author": "Hipepper",
+    "authorGithub": "https://github.com/Hipepper",
+    "date": "2026 年 7 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PythonIDE",
+    "url": "https://apps.apple.com/app/id6753987304",
+    "status": "online",
+    "description": "面向 iPhone 和 iPad 的原生 Python 3.14.6 开发工作台，可本地运行科学计算与 Notebook，并用 AI Agent 修改、运行和验证项目；还能用 Python 构建 MiniApp 原生界面、Widget 与自动化，内置 SSH、Git 和 iOS 系统能力 - [更多介绍](https://github.com/Python-IDE/PythonIDE-iOS)",
+    "author": "张文禄 - [GitHub](https://github.com/Python-IDE), [官网](https://pythonide.xin/)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Codia",
+    "url": "https://codia.i5lin.top/",
+    "status": "online",
+    "description": "为文档、博客、社交分享和自动化场景生成精美的代码图片，提供 Playground 与渲染 API",
+    "author": "AaronConlon",
+    "authorGithub": "https://github.com/AaronConlon",
+    "date": "2026 年 7 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "网页视频港 WebVideoHarbor",
+    "url": "https://phpfrank.github.io/web-video-harbor/",
+    "status": "online",
+    "description": "免费开源的 macOS 网页媒体保存工具，通过 Chrome 扩展识别 MP4、WebM 与非加密 HLS/M3U8，并由本地助手完成下载 - [源码](https://github.com/PHPfrank/web-video-harbor)",
+    "author": "TopFrank - [GitHub](https://github.com/PHPfrank)",
+    "authorGithub": "",
+    "date": "2026 年 7 月 29 号添加",
+    "category": "main"
+  },
+  {
     "name": "intro3d",
     "url": "https://intro3d.com/zh",
     "status": "online",
@@ -374,6 +414,26 @@
     "url": "https://seedream5-pro.im",
     "status": "online",
     "description": "多模型 AI 图片工作台，支持文字生图、图片生图、复杂布局与多语言文字编辑",
+    "author": "weidacn",
+    "authorGithub": "https://github.com/weidacn",
+    "date": "2026 年 7 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "FLUX 3 AI Image Generator",
+    "url": "https://www-flux3.com",
+    "status": "online",
+    "description": "多模型 AI 图片生成与编辑工作台，支持文字生图、参考图编辑、宽高比与多语言文字控制，并清晰标注模型可用状态",
+    "author": "weidacn",
+    "authorGithub": "https://github.com/weidacn",
+    "date": "2026 年 7 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "FLUX 3 Video Generator",
+    "url": "https://flux3-video.online",
+    "status": "online",
+    "description": "AI 视频生成工作台，支持文字或图片生成视频、参考图及镜头、动作和声音提示，并清晰标注模型可用状态",
     "author": "weidacn",
     "authorGithub": "https://github.com/weidacn",
     "date": "2026 年 7 月 21 号添加",
