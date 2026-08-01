@@ -24,6 +24,22 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 1 号添加
+
+#### Monit Team(云南德宏) - [Github](https://github.com/virskor)
+* :white_check_mark: [Monitrun](https://monit.run/)：通过分布式节点监控网站 SSL 状态，实时推送 iOS 提醒 — iOS App
+
+#### adam-doco - [Github](https://github.com/adam-doco)
+* :white_check_mark: [墨声 InkVoice](https://inkvoice.xyz)：小说转有声书，自动识别角色并为每个角色匹配不同音色，逐段合成整本有声书，还能克隆你自己的声音，支持免费试用
+
+### 2026 年 7 月 31 号添加
+
+#### CoderLim(北京) - [Github](https://github.com/CoderLim)
+* :white_check_mark: [Krea2 Edit](https://krea2edit.app/)：在浏览器中进行 AI 图片编辑，保留人物面部特征
+
+#### Gang Qu - [GitHub](https://github.com/stomeonst)
+* :white_check_mark: [LaunchClear](https://chris-saas-services.stomeonst123.chatgpt.site/zh)：面向小团队的发布验收与数据质检服务站，提供 AI 工作流验收、中英日输出与本地化质检、Excel 与库存数据可靠性冲刺，公开固定范围、价格和交付物
+
 ### 2026 年 7 月 30 号添加
 
 #### Alive - [GitHub](https://github.com/Bliveren)
