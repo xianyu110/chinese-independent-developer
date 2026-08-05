@@ -1,5 +1,25 @@
 [
   {
+    "name": "AiXian",
+    "url": "https://aixian.online",
+    "status": "online",
+    "description": "在线工具箱，把桌面级工具装进浏览器，PDF 合并、图片去背景、AI 证件照、JSON 格式化、OCR 识别等 50+ 工具，全部本地处理，文件不出设备",
+    "author": "gf1023456",
+    "authorGithub": "https://github.com/gf1023456",
+    "date": "2026 年 8 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Gesture Synth",
+    "url": "https://gesturesynth.art/",
+    "status": "online",
+    "description": "通过电脑摄像头捕捉手势，将双手的动作转化为音乐，仅凭双手和摄像头就能演奏",
+    "author": "Eric(上海)",
+    "authorGithub": "https://github.com/EricChenBuilds",
+    "date": "2026 年 8 月 4 号添加",
+    "category": "main"
+  },
+  {
     "name": "CPS Test",
     "url": "https://cpstest.me/zh/",
     "status": "online",
