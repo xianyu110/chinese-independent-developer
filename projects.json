@@ -1,5 +1,15 @@
 [
   {
+    "name": "VidLux AI",
+    "url": "https://vidlux.ai/",
+    "status": "online",
+    "description": "AI 视频生成与编辑平台，支持文生视频、图生视频、参考生视频和视频编辑",
+    "author": "蚊子",
+    "authorGithub": "https://github.com/coderWenzi",
+    "date": "2026 年 8 月 5 号添加",
+    "category": "main"
+  },
+  {
     "name": "AiXian",
     "url": "https://aixian.online",
     "status": "online",
