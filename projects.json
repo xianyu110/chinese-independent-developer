@@ -1,5 +1,65 @@
 [
   {
+    "name": "ClassroomTimers",
+    "url": "https://classroomtimers.app/",
+    "status": "online",
+    "description": "面向教师和课堂场景的免费在线计时工具，主打大屏投影、全屏显示、无需注册",
+    "author": "Miracle(杭州)",
+    "authorGithub": "https://github.com/zhoulianbo",
+    "date": "2026 年 8 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "CCNavX AI 中转站精选导航",
+    "url": "https://ccnavx.com/zh",
+    "status": "online",
+    "description": "AI 中转站导航，收录可接入的开发者向 AI API 中转服务，方便切换对比 - [更多介绍](https://github.com/silankfakentend/ai-api-providers)",
+    "author": "vivililio(广州)",
+    "authorGithub": "https://github.com/silankfakentend",
+    "date": "2026 年 8 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "LiveFaceSwap AI",
+    "url": "https://livefaceswap.ai/zh",
+    "status": "online",
+    "description": "在线实时 AI 换脸工具，可在浏览器中体验换脸、换装和风格重绘；Windows 11 桌面版可通过虚拟摄像头接入直播、会议和视频通话软件",
+    "author": "cabbagehao(北京)",
+    "authorGithub": "https://github.com/cabbagehao",
+    "date": "2026 年 8 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "vPlayer HiFi App",
+    "url": "https://apps.apple.com/cn/app/vplayer-hifi/id6783141736",
+    "status": "online",
+    "description": "HiFi 无损音乐播放器，支持 MP3、AIFF、WAV、FLAC、DSD（DFF/DSF）等音频格式，支持 SACD-R ISO 解析与 Track 提取、Samba 接入、内存加载播放、SRC/FIR 多种重采样算法，支持 AirPlay、蓝牙、外置 DAC 输出 - [源码](https://github.com/shanleiguang/vPlayer)",
+    "author": "ShanLeiGuang(河北)",
+    "authorGithub": "https://github.com/shanleiguang",
+    "date": "2026 年 8 月 8 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PublicHoliday",
+    "url": "https://public-holidays.shop",
+    "status": "online",
+    "description": "查询 150+ 国家法定节假日与调休，11种语言支持按年切换并一键导出日历订阅（.ics）",
+    "author": "xiaoxiao",
+    "authorGithub": "https://github.com/863683348",
+    "date": "2026 年 8 月 7 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI 比价",
+    "url": "https://www.china-ai-arbitrage.xyz",
+    "status": "online",
+    "description": "全网 AI 信息聚合比价站——国产官方套餐（GLM / Kimi / 通义 / 豆包等）的真实 Token 额度与限速、各家 API 单价、免费 Token 活动、低价 API 中转与海外账号行情一张表横向比，按「每元可用量」选出最划算方案",
+    "author": "the-beating-light-of-the-nail",
+    "authorGithub": "https://github.com/the-beating-light-of-the-nail",
+    "date": "2026 年 8 月 7 号添加",
+    "category": "main"
+  },
+  {
     "name": "不空：钓鱼天气与鱼情记录",
     "url": "https://bhtq.cn",
     "status": "online",
