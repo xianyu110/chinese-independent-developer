@@ -24,7 +24,27 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 8 号添加
+
+#### Miracle(杭州) - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [ClassroomTimers](https://classroomtimers.app/)：面向教师和课堂场景的免费在线计时工具，主打大屏投影、全屏显示、无需注册
+
+#### vivililio(广州) - [Github](https://github.com/silankfakentend)
+* :white_check_mark: [CCNavX AI 中转站精选导航](https://ccnavx.com/zh)：AI 中转站导航，收录可接入的开发者向 AI API 中转服务，方便切换对比 - [更多介绍](https://github.com/silankfakentend/ai-api-providers)
+
+#### cabbagehao(北京) - [Github](https://github.com/cabbagehao)
+* :white_check_mark: [LiveFaceSwap AI](https://livefaceswap.ai/zh)：在线实时 AI 换脸工具，可在浏览器中体验换脸、换装和风格重绘；Windows 11 桌面版可通过虚拟摄像头接入直播、会议和视频通话软件
+
+#### ShanLeiGuang(河北) - [Github](https://github.com/shanleiguang)
+* :white_check_mark: [vPlayer HiFi App](https://apps.apple.com/cn/app/vplayer-hifi/id6783141736)：HiFi 无损音乐播放器，支持 MP3、AIFF、WAV、FLAC、DSD（DFF/DSF）等音频格式，支持 SACD-R ISO 解析与 Track 提取、Samba 接入、内存加载播放、SRC/FIR 多种重采样算法，支持 AirPlay、蓝牙、外置 DAC 输出 - [源码](https://github.com/shanleiguang/vPlayer)
+
 ### 2026 年 8 月 7 号添加
+
+#### xiaoxiao - [Github](https://github.com/863683348)
+* :white_check_mark: [PublicHoliday](https://public-holidays.shop)：查询 150+ 国家法定节假日与调休，11种语言支持按年切换并一键导出日历订阅（.ics）
+
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [AI 比价](https://www.china-ai-arbitrage.xyz)：全网 AI 信息聚合比价站——国产官方套餐（GLM / Kimi / 通义 / 豆包等）的真实 Token 额度与限速、各家 API 单价、免费 Token 活动、低价 API 中转与海外账号行情一张表横向比，按「每元可用量」选出最划算方案
 
 #### 不空团队 - [Github](https://github.com/Hanshihao111)
 * :white_check_mark: [不空：钓鱼天气与鱼情记录](https://bhtq.cn)：面向野钓用户的钓鱼天气与分鱼种鱼情工具，网页免登录查询十种目标鱼的当前评分、未来 24 小时趋势和较好时段；iPhone App 另提供未来 7 日鱼情、私有钓点和鱼获记录 - [App Store](https://apps.apple.com/cn/app/id6791599314)
