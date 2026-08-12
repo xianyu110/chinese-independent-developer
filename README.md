@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 11 号添加
+
+#### dayphosphor(北京) - [Github](https://github.com/dayphosphor)
+* :white_check_mark: [Fate Mirror](https://fate-mirror.com)：AI 塔罗占卜与自我探索工具，通过抽牌、AI 个性化解读、引导式问题和私人日记，探索爱情、事业、人际关系与重要选择，相比一次性出结果的传统塔罗网站更注重持续反思与记录
+
+#### Albert - [Github](https://github.com/AlbertAZ1992)
+* :white_check_mark: [EveryCityMap](https://everycitymap.com)：在线风格化城市地图设计工具，覆盖全球 500+ 座城市，可切换多种主题，自定义图层、道路、水域、标签与配色，并导出多种尺寸的高清地图
+
 ### 2026 年 8 月 10 号添加
 
 #### 花间魂梦 - [Github](https://github.com/hzy7003-bit)
@@ -82,7 +90,7 @@
 * :white_check_mark: [Shotyard](https://shotyard.ai/)：AI 图片与视频生成/编辑平台，一站式使用主流 AI 模型，可一次输出多个图片或视频，对生成结果的二次操作友好
 
 #### 妙小记(北京) - [Github](https://github.com/MeetMiaoji)
-* :white_check_mark: [Meet妙记](https://www.mionote.com.cn/)：可随身携带的 AI 语音助手，记会议、记灵感、记待办，记录你的每一天；专注工作/生活/学习/闲谈/灵感等场景的语音记录，支持实时语音转写、说话人区分、AI 智能摘要一键生成，历史会议可按主题回看，iOS、Android、Mac、Windows 四端覆盖，单次录音最长 4 小时，内置 19 种行业纪要模板
+* :white_check_mark: [Meet妙记](https://www.mionote.com.cn/?utm_source=cnindie&utm_medium=github&utm_campaign=2026q3)：可随身携带的 AI 语音助手，记会议、记灵感、记待办，记录你的每一天；专注工作/生活/学习/闲谈/灵感等场景的语音记录，支持实时语音转写、说话人区分、AI 智能摘要一键生成，历史会议可按主题回看，iOS、Android、Mac、Windows 四端覆盖，单次录音最长 4 小时，内置 19 种行业纪要模板
 
 #### FlowPick - [Github](https://github.com/ezwebtools/flowpick)
 * :white_check_mark: [FlowPick](https://flowpick.net)：自动检测并下载网页中的视频、音频和图片等媒体资源 — 免费开源浏览器扩展
