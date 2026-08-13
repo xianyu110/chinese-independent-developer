@@ -1,5 +1,15 @@
 [
   {
+    "name": "Global Solo",
+    "url": "https://www.globalsolo.global/?utm_source=cnindie&utm_medium=github",
+    "status": "online",
+    "description": "面向非美国居民创业者的美国 LLC 服务对比站，横向比较 43+ 家注册、银行、税务与合规服务商，提供 24 个「国家 × 维度」组合攻略、风险自查、合规日历和成本计算器；界面为英文",
+    "author": "Jett Fu(深圳)",
+    "authorGithub": "https://github.com/jianjettfu-oss",
+    "date": "2026 年 8 月 12 号添加",
+    "category": "main"
+  },
+  {
     "name": "Fate Mirror",
     "url": "https://fate-mirror.com",
     "status": "online",
