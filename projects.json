@@ -1,5 +1,25 @@
 [
   {
+    "name": "Background Remover Video",
+    "url": "https://backgroundremover.video/",
+    "status": "online",
+    "description": "AI 视频背景移除工具，无需绿幕即可自动分离主体，导出透明 WebM 或纯色背景 MP4，并保留原始音频",
+    "author": "ggb(深圳)",
+    "authorGithub": "https://github.com/jiangyifeng96",
+    "date": "2026 年 8 月 14 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Morse Code Translator",
+    "url": "https://morsecodeinterpreters.com",
+    "status": "online",
+    "description": "文本与摩尔斯电码双向转换工具，支持实时高亮、速度调节、手机振动和一键导出音频",
+    "author": "Eason-87",
+    "authorGithub": "https://github.com/Eason-87",
+    "date": "2026 年 8 月 14 号添加",
+    "category": "main"
+  },
+  {
     "name": "RSSH",
     "url": "https://rssh.ofcoder.com",
     "status": "online",
