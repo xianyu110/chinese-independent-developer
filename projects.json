@@ -1,5 +1,15 @@
 [
   {
+    "name": "TempCanvas",
+    "url": "https://tempcanvas.com/",
+    "status": "online",
+    "description": "免费、无需注册的临时在线白板，打开即可快速画图、手写记录和导出 PNG，内容仅保存在浏览器本地",
+    "author": "超能刚哥(长沙)",
+    "authorGithub": "https://github.com/margox",
+    "date": "2026 年 8 月 19 号添加",
+    "category": "main"
+  },
+  {
     "name": "沉淀记 Loamery",
     "url": "https://loamery.com/",
     "status": "online",
