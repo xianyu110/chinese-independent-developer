@@ -24,6 +24,26 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 22 号添加
+
+#### Samuel-Kuang(广州) - [Github](https://github.com/Samuel-Kuang)
+* :white_check_mark: [SocialEcho](https://www.socialecho.cn/)：面向出海企业和跨境卖家的全社媒 AI 工作台，在一个工作区统一管理 11 个海外社交平台的内容创作与发布、评论私信、社交监听、数据分析和自动化
+
+#### woshiliyana - [Github](https://github.com/woshiliyana)
+* :white_check_mark: [SubtitleGenerator](https://subtitlegenerator.app/)：AI 字幕生成与校对工具，自动标出不确定的词并显示剩余检查数，在同一浏览器工作流里完成生成、校对、整轨翻译、字幕样式和视频导出；无需注册可免费处理最长 10 分钟视频
+
+#### 郑诚 - [Github](https://github.com/1c7)
+* :white_check_mark: [MaxUsage](https://github.com/1c7/max-usage/blob/main/README-zh-CN.md)：帮助同时订阅多个 AI 编程套餐的用户充分利用每个套餐的额度；根据剩余额度和重置时间推荐当前该用哪个，并在 macOS 菜单栏集中展示所有套餐的用量与重置日期
+
+#### Leochens(北京) - [Github](https://github.com/leochens)
+* :white_check_mark: [贴纸喵MewSticker](http://sticker.guantou.site)：AI 贴纸生成器，输入文字或上传参考图即可生成单张贴纸、角色三视图及统一风格贴纸合集，支持智能抠图、按主体自动切分、添加白边与涂鸦文字，自由排版并批量导出透明 PNG
+
+#### 33hodl - [Github](https://github.com/33hodl)
+* :white_check_mark: [Hermes Startup](https://hermesstartup.com)：用 Hermes Agent 赚取第一笔真实美元收入的免费实操路径——回答 10 个私人问题，免费获得 3 个与你匹配的商业想法（不承诺收入），可选一次性 US$10 由 Hermes Startup 帮你构建并运行；开源、无订阅、无需注册
+
+#### momochoog - [Github](https://github.com/momochoog)
+* :white_check_mark: [AIXiamo](https://www.aixiamo.com/?utm_source=cnindie&utm_medium=github)：ChatGPT Plus / Pro 国内充值与订阅代付服务，面向没有海外银行卡的用户，支持支付宝、USDT、订单查询与 7×24 小时客服入口；独立第三方，非 OpenAI 官方 - [公开教程与服务说明](https://github.com/momochoog/gpt-daichong)
+
 ### 2026 年 8 月 21 号添加
 
 #### 863683348 - [Github](https://github.com/863683348)
