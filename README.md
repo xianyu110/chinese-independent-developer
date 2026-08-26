@@ -24,6 +24,16 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 26 号添加
+
+#### Jay - [Github](https://github.com/chenminjie24)
+* :white_check_mark: [AI 室内设计](https://ai-room.design/)：上传房间照片生成多种风格的装修设计，装修前即可预览效果
+
+### 2026 年 8 月 25 号添加
+
+#### zhoujun(深圳) - [Github](https://github.com/zhoujungis), [博客](https://zhoujungis.github.io/)
+* :white_check_mark: [Halo 音乐](https://github.com/zhoujungis/halo_music)：在线音乐播放与下载工具，推出 Electron 桌面客户端（Windows）与安卓 APP，统一多平台音乐搜索、播放、歌词和歌单导入，支持离线缓存
+
 ### 2026 年 8 月 24 号添加
 
 #### 张波 - [Github](https://github.com/Mr-ZhangBo)
