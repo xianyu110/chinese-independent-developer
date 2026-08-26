@@ -1,5 +1,25 @@
 [
   {
+    "name": "AI 室内设计",
+    "url": "https://ai-room.design/",
+    "status": "online",
+    "description": "上传房间照片生成多种风格的装修设计，装修前即可预览效果",
+    "author": "Jay",
+    "authorGithub": "https://github.com/chenminjie24",
+    "date": "2026 年 8 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Halo 音乐",
+    "url": "https://github.com/zhoujungis/halo_music",
+    "status": "online",
+    "description": "在线音乐播放与下载工具，推出 Electron 桌面客户端（Windows）与安卓 APP，统一多平台音乐搜索、播放、歌词和歌单导入，支持离线缓存",
+    "author": "zhoujun(深圳)",
+    "authorGithub": "https://github.com/zhoujungis",
+    "date": "2026 年 8 月 25 号添加",
+    "category": "main"
+  },
+  {
     "name": "CreateForge AI",
     "url": "https://createforgeai.com/",
     "status": "online",
