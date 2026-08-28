@@ -1,5 +1,35 @@
 [
   {
+    "name": "BaziCalculator.ai",
+    "url": "https://www.bazicalculator.ai/",
+    "status": "online",
+    "description": "免费在线八字排盘与解读工具，输入出生日期、时间和城市即可生成四柱、日主、五行与十年大运；按出生地真太阳时校正，时辰不详也可生成三柱命盘，无需注册",
+    "author": "mikewaynecn",
+    "authorGithub": "https://github.com/mikewaynecn-cell",
+    "date": "2026 年 8 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Nail Shapes",
+    "url": "https://www.nailshapes.art/",
+    "status": "online",
+    "description": "美甲甲型选择指南，对比杏仁形、椭圆形、棺材形等 8 种甲型的长度、维护难度与视觉效果；回答 3 个问题即可获得适合手型与日常习惯的推荐，无需注册",
+    "author": "mikewaynecn",
+    "authorGithub": "https://github.com/mikewaynecn-cell",
+    "date": "2026 年 8 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "DeepSeek酱语录",
+    "url": "https://ai-meme.cdqyfdbymn.me/",
+    "status": "online",
+    "description": "DeepSeek 娘化梗图库，鲸鱼娘/AI娘化表情包瀑布流浏览，台词级搜索，一键生成带二维码分享图，持续更新中 - 无需注册，点图即存",
+    "author": "the-beating-light-of-the-nail",
+    "authorGithub": "https://github.com/the-beating-light-of-the-nail",
+    "date": "2026 年 8 月 28 号添加",
+    "category": "main"
+  },
+  {
     "name": "Agentero",
     "url": "https://agentero.app/",
     "status": "online",
