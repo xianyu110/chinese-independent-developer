@@ -1,5 +1,35 @@
 [
   {
+    "name": "Ikat",
+    "url": "https://ikat.app",
+    "status": "online",
+    "description": "多模型 AI 视频生成工作台，在同一界面使用 Wan 3.0、Kling 3.0、Seedance 2.5、MiniMax H3，支持文生视频和图生视频",
+    "author": "Hongshiqiang",
+    "authorGithub": "https://github.com/Hongshiqiang",
+    "date": "2026 年 8 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "EasyMap Desktop",
+    "url": "http://www.easymap.online/",
+    "status": "online",
+    "description": "面向测绘、规划、应急与数据治理的桌面 GIS 平台工具集，地图制图、数据目录、58 个地理处理工具、模型构建器与在线地图下载器一站齐备，解压即用、数据不出内网",
+    "author": "easymap-gis(合肥)",
+    "authorGithub": "https://github.com/easymap-gis",
+    "date": "2026 年 8 月 30 号添加",
+    "category": "main"
+  },
+  {
+    "name": "bibla",
+    "url": "https://bibla.top",
+    "status": "online",
+    "description": "私密 AI 多方调解，加上全员授权后才公开的脱敏纠纷故事，未登录可读全文",
+    "author": "Lisa W (Berlin)",
+    "authorGithub": "",
+    "date": "2026 年 8 月 28 号添加",
+    "category": "main"
+  },
+  {
     "name": "BaziCalculator.ai",
     "url": "https://www.bazicalculator.ai/",
     "status": "online",
