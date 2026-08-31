@@ -24,6 +24,18 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 31 号添加
+
+#### chenchiwei - [Github](https://github.com/chenchiwei)
+* :white_check_mark: [HelloGen](https://hellogen.ai/)：AI 图片和视频生成工作台，图片免费不限量、无水印、可商用，视频按次计费；助手根据需求自动选模型（Seedream、Nano Banana、GPT Image 2、Veo、Kling、Seedance），生成前先报价，失败不扣费
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [AniMot](https://animot.app/)：一键让照片跳舞，让宠物跳舞
+
+#### leo(上海) - [Github](https://github.com/TangSirOnGit)
+* :white_check_mark: [CardShopDir](https://cardshopdir.com/)：美国实体卡牌店目录，收录 7700+ 家店铺、覆盖 51 个州，支持按州、城市和游戏筛选，帮玩家找到宝可梦、万智牌、游戏王等卡牌的线下店，每家店附地址、营业时间、支持游戏和评分
+
+
 ### 2026 年 8 月 30 号添加
 
 #### Hongshiqiang - [Github](https://github.com/Hongshiqiang)
@@ -31,6 +43,9 @@
 
 #### easymap-gis(合肥) - [Github](https://github.com/easymap-gis)
 * :white_check_mark: [EasyMap Desktop](http://www.easymap.online/)：面向测绘、规划、应急与数据治理的桌面 GIS 平台工具集，地图制图、数据目录、58 个地理处理工具、模型构建器与在线地图下载器一站齐备，解压即用、数据不出内网
+
+#### Viki Wu - [Github](https://github.com/wxixuan118-ship-it)
+* :white_check_mark: [FishCare AI](https://www.fishcareai.com/)：观赏鱼饲养指南与免费工具站，买鱼前先查混养兼容性（4000+ 鱼种组合对照页）、鱼缸最小尺寸、水质参数和投喂量，覆盖斗鱼、孔雀鱼、七彩神仙等常见品种，免费无需注册
 
 ### 2026 年 8 月 28 号添加
 
