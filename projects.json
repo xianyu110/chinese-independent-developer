@@ -1,5 +1,45 @@
 [
   {
+    "name": "YourArt",
+    "url": "https://yourart.app",
+    "status": "online",
+    "description": "AI 设计 Agent 工作台，在同一空间调用主流图片和视频模型，生成、编辑素材并在无限画布编排工作流；按量付费，无需订阅",
+    "author": "CH0918",
+    "authorGithub": "https://github.com/CH0918",
+    "date": "2026 年 9 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "cc8.cc",
+    "url": "https://www.cc8.cc/zh",
+    "status": "online",
+    "description": "面向独立开发者、网站和 App 的公开 C 位竞价曝光榜：¥1 起，金额决定名次，每日北京时间 0 点在榜金额重置为 ¥1，条目不撤下，追平即可占位",
+    "author": "蝉息",
+    "authorGithub": "https://github.com/wh000wh000",
+    "date": "2026 年 9 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "unblurry",
+    "url": "https://unblurry.tools",
+    "status": "online",
+    "description": "AI 照片去模糊工具，处理失焦、抖动与低分辨率造成的画质损失，另有锐化、降噪和老照片修复；免注册免费试 2 次，按次购买 credit，不订阅",
+    "author": "edenSu",
+    "authorGithub": "https://github.com/edenSu-git",
+    "date": "2026 年 9 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Lunalisa",
+    "url": "https://luna-lisa.art",
+    "status": "online",
+    "description": "面向产品团队的 AI 视觉工作台，用提示词和获许可的参考图生成、迭代产品视觉素材",
+    "author": "JeremyGDM",
+    "authorGithub": "https://github.com/JeremyGDM",
+    "date": "2026 年 9 月 2 号添加",
+    "category": "main"
+  },
+  {
     "name": "BulkCerts",
     "url": "https://bulkcerts.com/",
     "status": "online",
@@ -26,6 +66,26 @@
     "description": "AI 图片转 3D 模型平台，集成 Tripo、Meshy、Hunyuan、Pixal3D 等多个 3D 生成模型，并提供 AI 贴图、Retopology、UV 展开和模型组件分离工具，从图片生成到 3D 后处理可在一个平台完成",
     "author": "Cairne",
     "authorGithub": "https://github.com/cairne",
+    "date": "2026 年 9 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PdfCompare",
+    "url": "https://pdfcompare.app/",
+    "status": "online",
+    "description": "免费免登录的在线 PDF 对比与文本转换工具，基于浏览器 WebAssembly 纯本地运行，毫秒级词级红绿高亮差异与图纸图层叠图对比，文档数据 100% 零上传云端，零泄露风险 - [开源仓库](https://github.com/haihiaen/pdf-compare)",
+    "author": "haihiaen",
+    "authorGithub": "https://github.com/haihiaen",
+    "date": "2026 年 9 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "XiuStore",
+    "url": "https://store.xiu.ai/en/",
+    "status": "online",
+    "description": "AI 订阅和数字服务商城，商品页公开价格、交付方式、有效期、质保和售后，付款后可在订单中找到对应交付入口",
+    "author": "Dashu",
+    "authorGithub": "",
     "date": "2026 年 9 月 2 号添加",
     "category": "main"
   },
