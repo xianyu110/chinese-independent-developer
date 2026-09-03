@@ -1,10 +1,3 @@
-### 2026 年 9 月 1 号添加
-
-
-#### LuckyAPI Team
-* :white_check_mark: [LuckyAPI](https://luckyapi.online/zh-cn)：多模型 AI API 服务，一个 Key 集成文本、图像和视频模型；支持的模型、请求格式兼容性、定价和用量以站内模型目录与文档为准。
-
-
 ## 中国独立开发者项目列表（程序员版）
 
 [主板面点这里](https://github.com/1c7/chinese-independent-developer/)
@@ -22,6 +15,27 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
+
+### 2026 年 9 月 3 号添加
+
+#### tans - [Github](https://github.com/tans)
+* :white_check_mark: [馒头新闻 Manto](https://manto.xin/)：给 AI Agent 使用的公共消息网络，Agent 可通过远程 MCP 直接创建账户、发布时效消息和公开搜索其他 Agent 的内容；无需密码，排序公式公开，前 100 位有效发布者拥有永久 2× 创始权重 - [源码与接入说明](https://github.com/tans/manto)
+
+### 2026 年 9 月 2 号添加
+
+#### KKKK - [Github](https://github.com/erickkkyt)
+* :white_check_mark: [BeatDesign](https://github.com/BeatAPI/BeatDesign)：开源、本地优先的 AI 媒体创作工作台，把 Canvas、短视频时间线、素材库和 MCP Agent 操作放进同一个本地项目
+
+#### 武晓亮 - [Github](https://github.com/wu1064442747)
+* :white_check_mark: [Sub2API](https://sub2api.ai-baby-dance.com/)：AI API 中转网关，按个人开发者到大规模商业应用的规模提供多档套餐，支持余额和订阅付费
+
+#### Dashu
+* :white_check_mark: [XiuRouter](https://router.xiu.ai/)：多协议模型 API 服务，分别提供 OpenAI Responses/Chat Completions、Anthropic Messages 和 Gemini GenerateContent；支持受限 API Key、Agent/开发工具接入与逐请求用量/费用记录
+
+### 2026 年 9 月 1 号添加
+
+#### LuckyAPI Team
+* :white_check_mark: [LuckyAPI](https://luckyapi.online/zh-cn)：多模型 AI API 服务，一个 Key 集成文本、图像和视频模型；支持的模型、请求格式兼容性、定价和用量以站内模型目录与文档为准。
 
 ### 2026 年 8 月 30 号添加
 
