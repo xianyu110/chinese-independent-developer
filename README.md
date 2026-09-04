@@ -24,7 +24,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 4 号添加
+
+#### zeroXu1 - [Github](https://github.com/zeroXu1)
+* :white_check_mark: [HTMLShare](https://www.htmlshare.page/)：将静态 HTML 发布为可分享的预览链接，方便快速分享和评审原型页面，无需 Git、生产部署和注册账号
+
 ### 2026 年 9 月 3 号添加
+
+#### Seagnson - [Github](https://github.com/seagnson)
+* :white_check_mark: [RGB TO CMYK](https://rgbtocmyk.net/)：基于印刷行业专业色彩转换引擎设计的 RGB 转 CMYK 在线工具，支持内置及自定义 ICC 配置文件，实现无与伦比的色彩保真度
+
+#### CoderLim(北京) - [Github](https://github.com/CoderLim)
+* :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI-powered tool to erase text, captions, and subtitles from any video
+
+#### dong13 - [Github](https://github.com/dong13yu)
+* :white_check_mark: [PicEditor](https://piceditor.org/)：AI 图片编辑和生成工具，用自然语言换背景、移除物体、修改图片文字或生成新图，首次使用无需注册
 
 #### CH0918 - [Github](https://github.com/CH0918)
 * :white_check_mark: [YourArt](https://yourart.app)：AI 设计 Agent 工作台，在同一空间调用主流图片和视频模型，生成、编辑素材并在无限画布编排工作流；按量付费，无需订阅
