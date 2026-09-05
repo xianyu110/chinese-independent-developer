@@ -1,5 +1,35 @@
 [
   {
+    "name": "DTCwise",
+    "url": "https://dtcwise.com/?utm_source=cnindie&utm_medium=github",
+    "status": "online",
+    "description": "DTC/跨境电商独立站卖家的运营工具目录与评测站，数据驱动收录 104 个工具（Sellvia、Mangools、Spocket 等），含对比评分与佣金返利链接，免费无需注册",
+    "author": "863683348",
+    "authorGithub": "https://github.com/863683348",
+    "date": "2026 年 9 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "CrossTool",
+    "url": "https://crosstool.online/?utm_source=cnindie&utm_medium=github",
+    "status": "online",
+    "description": "跨境卖家本地隐私工具箱，52 个工具 100% 在浏览器内运行（视频压缩、图片转 PDF、成本计算等），零上传零服务器，面向 Amazon/TikTok Shop/Shopify 卖家，免费无需注册",
+    "author": "863683348",
+    "authorGithub": "https://github.com/863683348",
+    "date": "2026 年 9 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Gemini Omni",
+    "url": "https://geminiomni.video/",
+    "status": "online",
+    "description": "免费生成和编辑视频，保持角色一致性，音频同步",
+    "author": "coderWenzi",
+    "authorGithub": "https://github.com/coderWenzi",
+    "date": "2026 年 9 月 5 号添加",
+    "category": "main"
+  },
+  {
     "name": "HTMLShare",
     "url": "https://www.htmlshare.page/",
     "status": "online",
