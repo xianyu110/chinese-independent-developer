@@ -1,5 +1,25 @@
 [
   {
+    "name": "Seadanse",
+    "url": "https://seadanse.com",
+    "status": "online",
+    "description": "多模型 AI 视频生成平台，支持通过 Composer 工作台生成带声多镜头视频，并提供一句话自动拆解广告分镜与故事板的 AI Video Agent 功能 - [更多介绍](https://seadanse.com/ai-video-agent)",
+    "author": "codeugar",
+    "authorGithub": "https://github.com/codeugar",
+    "date": "2026 年 9 月 6 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SubnetDesk",
+    "url": "https://github.com/zibo-chen/SubnetDesk",
+    "status": "online",
+    "description": "跨平台远程桌面应用，在局域网或 VPN 内通过 mDNS 自动发现设备并用 IP 或主机名直连，无需公网设备 ID、信令或中继；支持 Windows、macOS、Linux 和 Android，AGPL-3.0 开源",
+    "author": "zibo-chen",
+    "authorGithub": "https://github.com/zibo-chen",
+    "date": "2026 年 9 月 5 号添加",
+    "category": "main"
+  },
+  {
     "name": "DTCwise",
     "url": "https://dtcwise.com/?utm_source=cnindie&utm_medium=github",
     "status": "online",
@@ -10283,7 +10303,7 @@
     "name": "SiteData",
     "url": "https://sitedata.dev",
     "status": "online",
-    "description": "网站流量与 AdSense 反查工具(免费)，无需登录即可使用 - [Chrome 浏览器插件](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)",
+    "description": "网站流量查询与 SEO/Google Ads 情报工具，支持任意网站流量估算、Reverse AdSense 反查（发现同发布者的站点网络）、Google Ads 广告主与关键词分析、域名信息与 DR 查询，并提供 Chrome/Edge 浏览器插件 - [浏览器插件](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)",
     "author": "饭特稀",
     "authorGithub": "https://github.com/shineforever",
     "date": "2025 年 9 月 12 号添加",
