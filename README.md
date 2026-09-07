@@ -23,6 +23,14 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 7 号添加
+#### lttxzmj - [Github](https://github.com/lttxzmj)
+* :white_check_mark: [法脉 LawPulse](https://lttxzmj.github.io/lawpulse-site/)：给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实；数据全在本机不上云。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）
+
+
+#### SiteHunter - [Github](https://github.com/SiteHunter)
+* :white_check_mark: [SiteHunter](https://sitehunter.org)：为独立开发者、创业者打造的市场调研平台。找 saas 创业点子不再靠直觉，SiteHunter 监控了一批真实的流量增长数据，用数据看清哪个赛道正在增长，从一个被验证的市场开始
+
 ### 2026 年 9 月 6 号添加
 
 #### codeugar - [Github](https://github.com/codeugar)
@@ -201,7 +209,7 @@
 * :white_check_mark: [贴纸喵MewSticker](http://sticker.guantou.site)：AI 贴纸生成器，输入文字或上传参考图即可生成单张贴纸、角色三视图及统一风格贴纸合集，支持智能抠图、按主体自动切分、添加白边与涂鸦文字，自由排版并批量导出透明 PNG
 
 #### 33hodl - [Github](https://github.com/33hodl)
-* :white_check_mark: [Hermes Startup](https://hermesstartup.com)：用 Hermes Agent 赚取第一笔真实美元收入的免费实操路径——回答 10 个私人问题，免费获得 3 个与你匹配的商业想法（不承诺收入），可选一次性 US$10 由 Hermes Startup 帮你构建并运行；开源、无订阅、无需注册
+* :white_check_mark: [Hermes Startup](https://hermesstartup.com)：用 Hermes Agent 赚取第一笔真实美元收入的免费实操路径——回答 10 个私人问题，免费获得全部 10 个与你匹配的商业想法（不承诺收入），可选一次性 US$10 由 Hermes Startup 帮你构建并运行；开源、无订阅、无需注册
 
 #### momochoog - [Github](https://github.com/momochoog)
 * :white_check_mark: [AIXiamo](https://www.aixiamo.com/?utm_source=cnindie&utm_medium=github)：ChatGPT Plus / Pro 国内充值与订阅代付服务，面向没有海外银行卡的用户，支持支付宝、USDT、订单查询与 7×24 小时客服入口；独立第三方，非 OpenAI 官方 - [公开教程与服务说明](https://github.com/momochoog/gpt-daichong)
@@ -1822,6 +1830,10 @@
 
 #### lisa - [Github](https://github.com/shisan12323)
 * :white_check_mark: [HappyHorse](https://www.happyhorse20.com/)：AI 视频生成，支持文生视频、图生视频
+* :white_check_mark: [Flow AI Video](https://flowaivideo.org)：在线 AI 视频生成工具，支持文字、图片和参考图生成视频，可选择画面比例、分辨率与视频时长
+* :white_check_mark: [Upscayl](https://upscayl.app)：在线 AI 图片放大与增强工具，支持图片去模糊、老照片修复和背景移除，无需安装桌面软件
+* :white_check_mark: [Video Watermark Remover](https://videowatermarkremover.org/)：在线视频水印清理工具，支持上传 MP4、AVI、MOV 等格式，并提供视频文字、标识和物体移除工具
+* :white_check_mark: [Seed Imagine](https://seedimagine.com/)：AI 图片与视频创作工作台，支持文生图、图像编辑、文生视频和图生视频，可在同一网页选择模型和调整输出参数
 
 ### 2026 年 4 月 10 号添加
 
