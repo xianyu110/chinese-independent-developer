@@ -5,6 +5,7 @@
 - [程序员版面](./pages/README-Programmer-Edition.md)：使用需要命令行或写代码
 - [游戏版面](./pages/README-Game.md)：都是游戏
 - [2018 ~ 2020 年项目列表](./pages/README-2018-2020.md)：因 GitHub 渲染限制单独存档
+- [导航站：AI 独立制造所](https://indiemaker.cn/)：本清单的可搜索、可筛选、每日自动同步的可视化版本
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -24,6 +25,16 @@
 
 ## 3. 项目列表
 ### 2026 年 9 月 7 号添加
+
+#### aiScribeFlash（北京） - [Github](https://github.com/overseax)
+* :white_check_mark: [ScribeFlash](https://scribeflash.com/?utm_source=github)：面向产品、市场与用户研究团队的 AI 研究工作台，帮助你把客户访谈快速转化为有证据支撑的洞察与专业研究报告。你可以上传访谈、查看和编辑转录内容、按研究问题整理答案、对比不同参与者、沉淀关键证据，并跨多场访谈发现主题、趋势和共识。每条 Finding 都可追溯到原始引用，让团队更快分析、更放心验证，也更容易输出可分享、可执行的研究结论
+
+#### emptylower - [Github](https://github.com/emptylower)
+* :white_check_mark: [SeichiGo 圣地巡礼](https://seichigo.com)：动漫圣地巡礼行程规划工具，选作品和天数，AI Agent 生成含交通衔接的逐日路线；全球巡礼地图 5 万+ 点位、1,500+ 作品，简中/繁中/日/英四语
+
+#### 小范(武汉) - [Github](https://github.com/schwenkmurmel17-dotcom)
+* :white_check_mark: [CubistAI](https://cubistai.org/)：AI 图片生成工具，输入文字秒出高清图，集成 Nano Banana 2、Seedream、FLUX.2 等模型，每天有免费额度，另附 AI 头像、卡通化、涂色页、抠图、水印去除等专项工具
+
 #### lttxzmj - [Github](https://github.com/lttxzmj)
 * :white_check_mark: [法脉 LawPulse](https://lttxzmj.github.io/lawpulse-site/)：给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实；数据全在本机不上云。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）
 
@@ -60,7 +71,7 @@
 * :white_check_mark: [RGB TO CMYK](https://rgbtocmyk.net/)：基于印刷行业专业色彩转换引擎设计的 RGB 转 CMYK 在线工具，支持内置及自定义 ICC 配置文件，实现无与伦比的色彩保真度
 
 #### CoderLim(北京) - [Github](https://github.com/CoderLim)
-* :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI-powered tool to erase text, captions, and subtitles from any video
+* :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI 视频文字擦除工具，去除视频中的文字、字幕和说明文字
 
 #### dong13 - [Github](https://github.com/dong13yu)
 * :white_check_mark: [PicEditor](https://piceditor.org/)：AI 图片编辑和生成工具，用自然语言换背景、移除物体、修改图片文字或生成新图，首次使用无需注册
