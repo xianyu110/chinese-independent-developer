@@ -2,9 +2,9 @@
 聚合所有中国独立开发者的项目
 
 ### 子版面
-- [程序员版面](./pages/README-Programmer-Edition.md)：使用需要命令行或写代码
-- [游戏版面](./pages/README-Game.md)：都是游戏
-- [2018 ~ 2023 年项目列表](./pages/README-Archive.md)：因 GitHub 渲染限制单独存档
+- [程序员版面](./.github/pages/README-Programmer-Edition.md)：使用需要命令行或写代码
+- [游戏版面](./.github/pages/README-Game.md)：都是游戏
+- [2018 ~ 2023 年项目列表](./.github/pages/README-Archive.md)：因 GitHub 渲染限制单独存档
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -14,7 +14,7 @@
 （入选标准：必须是网站或App，不能是开发者工具或论坛型网站）
 
 **写好介绍语很重要**：❌ `AI 视频生成工具` → ✅ `无需剪辑经验，3 步生成竖屏短视频`<br/>
-👉 [如何写好一句话产品介绍](./CONTRIBUTING.md)
+👉 [如何写好一句话产品介绍](./.github/CONTRIBUTING.md)
 
 **2. 项目有 3 种状态**
 
@@ -23,6 +23,41 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 11 号添加
+
+#### C2Anime Team - [Github](https://github.com/codaaiteam)
+* :white_check_mark: [C2Anime](https://c2anime.com/)：AI 动画创作助手（AI Anime Agent），把故事和小说片段变成有对白、有声音的动画短片，无需动画制作经验
+
+### 2026 年 9 月 10 号添加
+
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Art Grid Maker](https://artgridmaker.com/)：面向绘画爱好者和艺术创作者的工具箱，提供网格绘画、透视辅助、参考图处理等实用工具 - [更多介绍](https://artgridmaker.com/tools)
+* :white_check_mark: [TwiFlux](https://twiflux.com/)：Twitter 工具站（免费），下载视频，下载图片，下载推文和线程等等超过 40 个小工具 - [更多介绍](https://twiflux.com/all-tools)
+
+#### RickyLee(深圳) - [Github](https://github.com/LeedwA)
+* :white_check_mark: [PicLocation](https://piclocation.com/?utm_source=zh_github)：AI 照片地理定位工具（免费），上传照片即返回 GPS 坐标、城市和国家，不依赖 EXIF 纯视觉识别，截图和被抹掉元数据的照片也能定位，无需注册
+
+#### Muke - [Github](https://github.com/muke1838-cloud)
+* :white_check_mark: [Find Key & BPM](https://findkeybpm.com/)：浏览器本地估算 MP3/WAV 的调性、Camelot 和 BPM，音频不上传、无需注册
+
+#### superwang - [Github](https://github.com/lincwang123-bot)
+* :white_check_mark: [AIradar · AI 订阅价格雷达](https://airadar.vip/)：AI 订阅比价工具，按产品、交付方式、期限和币种筛选公开报价，支持地区价格参考、目标价与到期提醒 - [使用说明](https://airadar.vip/help/compare-prices)
+
+#### 浅浅海鸥 - [Github](https://github.com/qianqianhaiou)
+* :white_check_mark: [素刀](https://clipknife.cn/)：创作者的生产力工具，素材界的瑞士军刀；用一句话，找回你散落在硬盘里的每一帧灵感
+
+#### 张赛东 - [Github](https://github.com/adong666666)
+* :white_check_mark: [AI 智能快照](https://apps.apple.com/cn/app/ai-smart-snapshot/id6796251282?mt=12)：AI 智能快照：截屏、录屏、录音、OCR 识字和标注，一个 App 完成
+
+#### WXzhongwang - [Github](https://github.com/WXzhongwang)
+* :white_check_mark: [OPC 情报站](https://wxzhongwang.github.io/opc-radar/)：一人公司（OPC）资讯聚合站，收录 80 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)
+
+#### 宋永昌(上海) - [Github](https://github.com/yajufurniture-debug)
+* :white_check_mark: [慧报价](https://www.swqifu.com/)：AI 外贸报价工具，产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 计价（利润率按售价、保险 110% 加成的实务口径），30 秒生成中英双语报价单 PDF，附免费无需注册的报价计算器
+
+#### hypercube67 - [Github](https://github.com/hypercube67-formal)
+* :white_check_mark: [ScribeToAny](https://scribetoany.com)：AI 音视频转录与字幕生成工具，支持说话人识别（区分发言人）、多语言翻译与字级高精度时间戳，长音频高速转文字，一键导出 SRT/VTT/TXT 格式 — 免费试用
+
 ### 2026 年 9 月 9 号添加
 
 #### MuYiBo - [Github](https://github.com/MuYiBo)
@@ -5794,7 +5829,7 @@
 * :x: [易匹配](https://www.yipipei.com/): 面向"表哥表姐"的表格匹配工具, 只需要在网页上点点点, 就可以实现数据匹配, 还可以自定义阈值, 实现模糊匹配.
 
 
-## 👉 查看 [2018 年 ~ 2023 年项目列表](./pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
+## 👉 查看 [2018 年 ~ 2023 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
 
 
 ### 基于本列表数据源的产品
