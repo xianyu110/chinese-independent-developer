@@ -1,5 +1,35 @@
 [
   {
+    "name": "Trim 订阅扫雷器",
+    "url": "https://leilosss.github.io/",
+    "status": "online",
+    "description": "订阅账单分析工具，导入支付宝/微信账单自动识别自动续费、算出年度订阅支出与可省金额；账单不上传，识别全在浏览器本地完成，免费无需注册",
+    "author": "leilosss",
+    "authorGithub": "https://github.com/leilosss",
+    "date": "2026 年 9 月 12 号添加",
+    "category": "main"
+  },
+  {
+    "name": "工程数据驾驶舱",
+    "url": "http://43.156.229.191:8080/",
+    "status": "online",
+    "description": "工程项目数据驾驶舱，把 SQL、HTTP、JSON 和 WebSocket 数据拖拽编排为可发布、可回滚的大屏，支持实时刷新和只读分享 - [个人作品集](http://43.156.229.191:8080/portfolio/)",
+    "author": "wuzhaohui",
+    "authorGithub": "https://github.com/WuZhaohui1993",
+    "date": "2026 年 9 月 12 号添加",
+    "category": "main"
+  },
+  {
+    "name": "VoiceCloner",
+    "url": "https://voicecloner.org/",
+    "status": "online",
+    "description": "使用自己的声音，将文字转成语音；每天免费额度，不注册也可使用",
+    "author": "LongAotian",
+    "authorGithub": "https://github.com/chenchuxin",
+    "date": "2026 年 9 月 11 号添加",
+    "category": "main"
+  },
+  {
     "name": "C2Anime",
     "url": "https://c2anime.com/",
     "status": "online",
@@ -81,9 +111,9 @@
   },
   {
     "name": "OPC 情报站",
-    "url": "https://wxzhongwang.github.io/opc-radar/",
+    "url": "https://opc-radar.pages.dev/",
     "status": "online",
-    "description": "一人公司（OPC）资讯聚合站，收录 80 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)",
+    "description": "一人公司（OPC）资讯聚合站，收录 82 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)",
     "author": "WXzhongwang",
     "authorGithub": "https://github.com/WXzhongwang",
     "date": "2026 年 9 月 10 号添加",
