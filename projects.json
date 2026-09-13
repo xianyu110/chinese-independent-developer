@@ -1,5 +1,65 @@
 [
   {
+    "name": "1980s AI Photo",
+    "url": "https://1980saiphoto.com",
+    "status": "online",
+    "description": "上传一张个人照片，保留面部特征，一键生成逼真的 1980 年代复古肖像；首张可免费生成",
+    "author": "littlePig-zzf",
+    "authorGithub": "https://github.com/littlePig-zzf",
+    "date": "2026 年 9 月 12 号添加",
+    "category": "main"
+  },
+  {
+    "name": "IELTS Writing Practice",
+    "url": "https://ieltswritingpractice.app/",
+    "status": "online",
+    "description": "雅思写作练习平台，提供 Task 1 / Task 2 题库、模拟写作、AI 评分与逐句批改反馈",
+    "author": "Ian",
+    "authorGithub": "https://github.com/iaminyu",
+    "date": "2026 年 9 月 12 号添加",
+    "category": "main"
+  },
+  {
+    "name": "NanoAvatar",
+    "url": "https://github.com/wpydcr/NanoAvatar/releases/latest",
+    "status": "online",
+    "description": "Android 数字人应用，用自己的录音在手机上驱动逼真、流畅的数字人，响应快，老款手机也可运行，录音体验可离线使用，无需 API key - [更多介绍](https://github.com/wpydcr/NanoAvatar)",
+    "author": "wpydcr",
+    "authorGithub": "https://github.com/wpydcr",
+    "date": "2026 年 9 月 12 号添加",
+    "category": "main"
+  },
+  {
+    "name": "神算阁 / Shen Suan Ge",
+    "url": "https://breezesamuel.github.io/ssg-sites/zh/",
+    "status": "online",
+    "description": "AI 命理网页应用,塔罗/六爻/梅花/四柱/紫微 15+ 占卜方法,中英多语,纯 HTML 免构建开箱即用,支持 USDC 收款 - [更多介绍](https://github.com/breezesamuel/shenge-app)",
+    "author": "breezesamuel",
+    "authorGithub": "https://github.com/breezesamuel",
+    "date": "2026 年 9 月 12 号添加",
+    "category": "main"
+  },
+  {
+    "name": "UI Design Agent Kit 作品展厅",
+    "url": "https://agent.kcos.club/",
+    "status": "online",
+    "description": "AI 设计工作流产出的界面作品展厅，收录 11 个带验收记录的案例，「地铁疾行」3D 跑酷与「积木小工坊」3D 拼搭可以直接上手玩 - [更多介绍](https://github.com/muzimu217/ui-design-agent-kit)",
+    "author": "muzimu217",
+    "authorGithub": "https://github.com/muzimu217",
+    "date": "2026 年 9 月 12 号添加",
+    "category": "main"
+  },
+  {
+    "name": "TokenTracker / 纸账",
+    "url": "https://www.yoquai.com/",
+    "status": "online",
+    "description": "Mac 菜单栏 Agent 状态工具与本地用量账本，查看 Claude Code、Codex 等工具的活动，接收受支持 Hook 的完成或待处理提醒，按工具、模型、项目筛选 Token 记录并导出 CSV",
+    "author": "yoqu",
+    "authorGithub": "https://github.com/yoqu",
+    "date": "2026 年 9 月 12 号添加",
+    "category": "main"
+  },
+  {
     "name": "Trim 订阅扫雷器",
     "url": "https://leilosss.github.io/",
     "status": "online",
