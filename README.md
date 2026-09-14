@@ -23,6 +23,28 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 14 号添加
+
+#### fffffrost - [Github](https://github.com/fffffrost)
+* :white_check_mark: [小麦 Mika](https://mktskill.com/)：AI 营销工作台，提交目标和材料，生成竞品研究、内容文稿或执行方案，支持查看进度、修订和导出
+
+#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
+* :white_check_mark: [Excel 表格工具](http://43.156.229.191:3001/)：浏览器端 Excel/PDF 数据处理工具，上传多个来源后配置字段匹配、预览组合结果并导出新的工作簿 - [GitHub 仓库](https://github.com/WuZhaohui1993/excel-composer-public)
+
+#### tidelink88 - [Github](https://github.com/tidelink88)
+* :white_check_mark: [TideLink](https://tidelink.xyz)：已有 OpenAI SDK 代码无需改动，一个 API key 即可调用 GLM/Qwen/DeepSeek/Hunyuan/Doubao 多家国产大模型；网关自动故障转移，免信用卡免费起步 - [更多介绍](https://github.com/tidelink88/tidelink-opensource)
+
+### 2026 年 9 月 13 号添加
+
+#### Lucas-CX - [Github](https://github.com/Lucas-CX)
+* :white_check_mark: [Image to ASCII](https://imagetoascii.art/)：图片转 ASCII 字符画工具，免费无需注册，图片在浏览器本地处理；可调整字符样式、细节和颜色，复制文本或 Markdown，导出 TXT、PNG、SVG 等格式，用于 README、聊天字符画和复古封面
+
+#### SKYCHENV - [Github](https://github.com/SKYCHENV)
+* :white_check_mark: [剪蛋 Jiandan](https://www.jiandan.qd.je/)：Windows 截图导入辅助工具，将剪贴板图片通过 Ctrl+V 送进剪映专业版，减少另存图片和查找文件；首次需邮箱验证码登录，图片本地处理不上传 - [更多介绍](https://github.com/SKYCHENV/Jiandan)
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [pet memorial portrait](https://aipetmemorialportrait.com/)：宠物纪念海报生成器
+
 ### 2026 年 9 月 12 号添加
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
