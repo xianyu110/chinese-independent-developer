@@ -25,6 +25,12 @@
 ## 3. 项目列表
 ### 2026 年 9 月 15 号添加
 
+#### lizhongyue248 - [Github](https://github.com/lizhongyue248)
+* :white_check_mark: [云播切片](https://live.zyue.wiki/)：全自动直播录制、归档与切片平台，开播自动录。市面上唯一一款支持录制弹幕、录制礼物特效和直播间界面完整画面的云平台，云端实时监控与分段保存，方便直播复盘、高清 1080p 直播切片与素材剪辑
+
+#### xulovemin - [Github](https://github.com/xulovemin)
+* :white_check_mark: [PICWALL](https://picwall.dpdns.org)：AI 图片与视频提示词库，按作品、媒体类型与风格标签浏览灵感
+
 #### 0xhappyboy - [Github](https://github.com/0xhappyboy)
 * :white_check_mark: [hippoxOS](https://hippoxos.vercel.app/)：一款真正意义上的 LLM 操作系统，内置 6 个子系统，统一由自然语言控制：通用对话计算机控制系统、完整的视频编辑系统（自研 NLE 引擎）、金融数据分析系统、地理信息系统、代码编辑系统、3D 沙盒系统 - [GitHub 仓库](https://github.com/HippoxHQ/hippoxOS)
 
