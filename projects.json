@@ -1,5 +1,25 @@
 [
   {
+    "name": "云播切片",
+    "url": "https://live.zyue.wiki/",
+    "status": "online",
+    "description": "全自动直播录制、归档与切片平台，开播自动录。市面上唯一一款支持录制弹幕、录制礼物特效和直播间界面完整画面的云平台，云端实时监控与分段保存，方便直播复盘、高清 1080p 直播切片与素材剪辑",
+    "author": "lizhongyue248",
+    "authorGithub": "https://github.com/lizhongyue248",
+    "date": "2026 年 9 月 15 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PICWALL",
+    "url": "https://picwall.dpdns.org",
+    "status": "online",
+    "description": "AI 图片与视频提示词库，按作品、媒体类型与风格标签浏览灵感",
+    "author": "xulovemin",
+    "authorGithub": "https://github.com/xulovemin",
+    "date": "2026 年 9 月 15 号添加",
+    "category": "main"
+  },
+  {
     "name": "hippoxOS",
     "url": "https://hippoxos.vercel.app/",
     "status": "online",
