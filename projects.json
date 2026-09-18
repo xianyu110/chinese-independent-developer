@@ -1,5 +1,45 @@
 [
   {
+    "name": "SoulCut",
+    "url": "https://soulcut-art.vercel.app/",
+    "status": "online",
+    "description": "一款为每一帧画面注入灵魂的非线性视频编辑系统，免费使用，内置 15 种滤镜、78 种视觉特效、26 种转场，支持多机位渲染与音视频同轨编辑 - [GitHub 仓库](https://github.com/0xhappyboy/SoulCut) - [下载（Windows/macOS/Linux）](https://github.com/0xhappyboy/SoulCut/releases/latest)",
+    "author": "0xhappyboy",
+    "authorGithub": "https://github.com/0xhappyboy",
+    "date": "2026 年 9 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "人人都是OPC",
+    "url": "https://opcwiki.net/",
+    "status": "online",
+    "description": "一人公司（OPC）中文知识库，聚合创业案例、变现教程、工具推荐、政策解读与开源项目",
+    "author": "chyf(广州)",
+    "authorGithub": "https://github.com/chyf",
+    "date": "2026 年 9 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PlayIQ",
+    "url": "https://theplayiq.com",
+    "status": "online",
+    "description": "用 AI 帮橄榄球教练自动分析比赛录像，识别阵型与跑位，战术板与录像同步播放，自动生成球探报告",
+    "author": "Wesley",
+    "authorGithub": "https://github.com/westlinkin",
+    "date": "2026 年 9 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "iloveepub",
+    "url": "https://iloveepub.com",
+    "status": "online",
+    "description": "浏览器 EPUB 工具（免费），支持压缩、合并、拆分与转换，文件全部在设备本地处理，绝不上传",
+    "author": "Selenium39(广州)",
+    "authorGithub": "https://github.com/Selenium39",
+    "date": "2026 年 9 月 17 号添加",
+    "category": "main"
+  },
+  {
     "name": "云播切片",
     "url": "https://live.zyue.wiki/",
     "status": "online",
