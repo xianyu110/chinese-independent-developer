@@ -23,6 +23,24 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 19 号添加
+
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [ImageToImageAI](https://image-to-image-ai.app)：AI 图生图工具，上传图片并用一句话描述修改需求，即可生成产品图、室内设计、人像、贴纸等新图片；支持 GPT Image 2、Nano Banana 2、Nano Banana Pro 模型，中英双语，可免费试用
+
+#### Jonie - [Github](https://github.com/estromeglovettgen-coder)
+* :white_check_mark: [Musuw](https://musuw.com/zh)：AI 知识库，把文档、网页和笔记整理成带引用的问答、Wiki 与知识图谱，方便回到原文核对 - [实际演示](https://musuw.com/zh/guides/citation-checks)
+
+#### Merrick - [Github](https://github.com/shi891018)
+* :white_check_mark: [Unit Converter for Science](https://www.unitconv.top)：面向科研、工程与教育的免费多语言单位换算工具，提供公式、换算因子和逐步推导，覆盖 11 类单位
+
+#### Aiyi - [Github](https://github.com/XQ0820)
+* :white_check_mark: [Color Season AI](https://colorseasonai.com)：AI 个人色彩季型分析工具，上传一张自拍即得 12 季型判定与专属色板，附带发型、发色、妆容试戴和脸型识别，免费无需注册 - [方法说明](https://colorseasonai.com/dashboard) - [Chrome 插件](https://colorseasonai.com/color-season-chrome-extension)
+* :white_check_mark: [Random Animal Generator](https://randomanimalgen.com/)：随机动物混搭生成器，把真实动物的 11 个身体部位随机拼成虚构生物，可锁定喜欢的部位只换其余、按可爱/恐怖/神话等主题预设生成，自动起名并给出 AI 绘画提示词，每天免费 AI 出图，无需注册
+
+#### Jev AI - [Github](https://github.com/weidacn)
+* :white_check_mark: [Jev AI](https://jev-ai.pro)：TypeSafe System One 模型的在线体验，对任意文本提是非题、选择题和评分题，直接返回校准过的概率与置信度，同一模型也可用 API key 调用
+
 ### 2026 年 9 月 18 号添加
 
 #### 0xhappyboy - [Github](https://github.com/0xhappyboy)
@@ -1472,7 +1490,7 @@
 * :white_check_mark: [BulkPicTools](https://bulkpictools.com)：免费浏览器端图片批量处理工具，支持**工具链串联**（压缩→转格式→裁剪一次完成，无需重复上传），本地 AI 去背景/人脸模糊（WebGPU，无需 API Key），支持 200+ 张图片批量处理，文件不上传服务器。
 
 #### 馒头饭 - [Github](https://github.com/mantoufan)
-* :white_check_mark: [cv.cm](https://cv.cm)：免费在线剪贴板，无需注册，粘贴文本/图片/文件秒生成超短链接分享，内置 AI 视频与图像生成（Seedance 2.0）
+* :white_check_mark: [cv.cm](https://cv.cm)：浏览器本地 PDF、图片和二维码工具，文件不上传；另有阅后即焚云剪切板 - [GitHub 仓库](https://github.com/mantoufan/cvcm)
 
 ### 2026 年 6 月 4 号添加
 

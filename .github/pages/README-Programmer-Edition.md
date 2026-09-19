@@ -16,6 +16,19 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+
+### 2026 年 9 月 19 号添加
+
+#### t4we fan - [Github](https://github.com/t4wefan)
+* :white_check_mark: [Agents Anywhere](https://www.agents-anywhere.com)：跨设备 AI Agent 工作台，在桌面、原生移动端和 Web 访问 Codex、Claude Code 与 DeepSeek Harness，管理多台设备上的会话、文件和终端，MIT 开源，支持自部署 - [源码与介绍](https://github.com/anywhere-labs/Agents-Anywhere)
+
+
+### 2026 年 9 月 18 号添加
+
+#### OrcaReplay 维护者 - [Github](https://github.com/Continuum-AI-Corp)
+* :white_check_mark: [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)：给 AI 编程 Agent 装的「飞行记录仪」，夹在 Agent 和模型厂商之间把提示词、工具调用和原始字节原样录成本地 trace，之后完全离线重放这次运行来复现失败现场，不花一分 token - [安装与使用](https://github.com/Continuum-AI-Corp/OrcaReplay#readme)
+
+
 ### 2026 年 9 月 17 号添加
 
 #### Qiuner - [Github](https://github.com/Qiuner)
