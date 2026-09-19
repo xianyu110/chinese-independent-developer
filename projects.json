@@ -1,5 +1,65 @@
 [
   {
+    "name": "ImageToImageAI",
+    "url": "https://image-to-image-ai.app",
+    "status": "online",
+    "description": "AI 图生图工具，上传图片并用一句话描述修改需求，即可生成产品图、室内设计、人像、贴纸等新图片；支持 GPT Image 2、Nano Banana 2、Nano Banana Pro 模型，中英双语，可免费试用",
+    "author": "littlePig-zzf",
+    "authorGithub": "https://github.com/littlePig-zzf",
+    "date": "2026 年 9 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Musuw",
+    "url": "https://musuw.com/zh",
+    "status": "online",
+    "description": "AI 知识库，把文档、网页和笔记整理成带引用的问答、Wiki 与知识图谱，方便回到原文核对 - [实际演示](https://musuw.com/zh/guides/citation-checks)",
+    "author": "Jonie",
+    "authorGithub": "https://github.com/estromeglovettgen-coder",
+    "date": "2026 年 9 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Unit Converter for Science",
+    "url": "https://www.unitconv.top",
+    "status": "online",
+    "description": "面向科研、工程与教育的免费多语言单位换算工具，提供公式、换算因子和逐步推导，覆盖 11 类单位",
+    "author": "Merrick",
+    "authorGithub": "https://github.com/shi891018",
+    "date": "2026 年 9 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Color Season AI",
+    "url": "https://colorseasonai.com",
+    "status": "online",
+    "description": "AI 个人色彩季型分析工具，上传一张自拍即得 12 季型判定与专属色板，附带发型、发色、妆容试戴和脸型识别，免费无需注册 - [方法说明](https://colorseasonai.com/dashboard) - [Chrome 插件](https://colorseasonai.com/color-season-chrome-extension)",
+    "author": "Aiyi",
+    "authorGithub": "https://github.com/XQ0820",
+    "date": "2026 年 9 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Random Animal Generator",
+    "url": "https://randomanimalgen.com/",
+    "status": "online",
+    "description": "随机动物混搭生成器，把真实动物的 11 个身体部位随机拼成虚构生物，可锁定喜欢的部位只换其余、按可爱/恐怖/神话等主题预设生成，自动起名并给出 AI 绘画提示词，每天免费 AI 出图，无需注册",
+    "author": "Aiyi",
+    "authorGithub": "https://github.com/XQ0820",
+    "date": "2026 年 9 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Jev AI",
+    "url": "https://jev-ai.pro",
+    "status": "online",
+    "description": "TypeSafe System One 模型的在线体验，对任意文本提是非题、选择题和评分题，直接返回校准过的概率与置信度，同一模型也可用 API key 调用",
+    "author": "Jev AI",
+    "authorGithub": "https://github.com/weidacn",
+    "date": "2026 年 9 月 19 号添加",
+    "category": "main"
+  },
+  {
     "name": "SoulCut",
     "url": "https://soulcut-art.vercel.app/",
     "status": "online",
@@ -4703,7 +4763,7 @@
     "name": "cv.cm",
     "url": "https://cv.cm",
     "status": "online",
-    "description": "免费在线剪贴板，无需注册，粘贴文本/图片/文件秒生成超短链接分享，内置 AI 视频与图像生成（Seedance 2.0）",
+    "description": "浏览器本地 PDF、图片和二维码工具，文件不上传；另有阅后即焚云剪切板 - [GitHub 仓库](https://github.com/mantoufan/cvcm)",
     "author": "馒头饭",
     "authorGithub": "https://github.com/mantoufan",
     "date": "2026 年 6 月 5 号添加",
