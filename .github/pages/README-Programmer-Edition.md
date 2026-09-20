@@ -16,6 +16,22 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 20 号添加
+
+#### SocAI - [Github](https://github.com/socai-io)
+* :white_check_mark: [Jev Social](https://github.com/socai-io/jev-social)：开源、本地优先的社交媒体研究 Agent；Jev 逐步选择搜索、打开帖子与评论、下载视频等操作，socai CLI 在本机真实 Chrome 中执行，并将 Instagram、TikTok、LinkedIn 证据流式整理为带来源链接的研究报告 - [在线说明与演示](https://socai-io.github.io/jev-social/)
+
+#### noopyjie1 - [Github](https://github.com/noopyjie1)
+* :clock8: [codePro-cli](https://codepro.wiki/)：Codex CLI 桌面工作台，用顶部灵动岛、项目列表和会话卡片整理多个编程会话，官网提供无需登录的网页交互演示
+
+#### KyroX - [Github](https://github.com/wangxiaosu)
+* :white_check_mark: [Grok Canvas](https://github.com/wangxiaosu/grok-canvas)：图片与视频创作画布，登录自己的 Grok 账号并使用账号额度，连接参考图迭代画面、接着续生成视频，支持多画布管理，作品保存在本机，MIT 开源
+
+#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
+* :white_check_mark: [考试培训系统](http://43.156.229.191:9527/)：开源在线考试与培训系统，支持题库管理、固定或随机组卷、在线作答与成绩查询，将课程学习和考试考核集中在同一平台，需要自行部署 - [GitHub 仓库](https://github.com/WuZhaohui1993/exam-ruoyi-public)
+
+
+
 
 ### 2026 年 9 月 19 号添加
 
