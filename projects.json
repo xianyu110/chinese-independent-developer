@@ -1,5 +1,105 @@
 [
   {
+    "name": "Jev Guide",
+    "url": "https://jev.guide/",
+    "status": "online",
+    "description": "发现 Jev 的真实应用。从官方发布到真实演示，在一个地方探索 TypeSafe Jev。按行业寻找用例，查看 X 原帖截图，并直接在站内播放原视频",
+    "author": "Jun(上海)",
+    "authorGithub": "https://github.com/2456868764",
+    "date": "2026 年 9 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "NiubiGeo",
+    "url": "https://niubigeo.ai/",
+    "status": "online",
+    "description": "NiubiGEO 帮助 AI、SaaS、DevTools 和开源项目检测并提升在 ChatGPT、Perplexity、Google AI 等 AI 搜索与问答场景中的品牌可见度 - [更多介绍](https://niubigeo.ai/)",
+    "author": "Albert(美国)",
+    "authorGithub": "https://github.com/Albert-Weasker/niubigeo",
+    "date": "2026 年 9 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ReelMuse",
+    "url": "https://reelmuse.app/ai-dance-generator/",
+    "status": "online",
+    "description": "无需编写提示词，选好舞蹈模板、上传照片即可生成舞蹈视频",
+    "author": "jimmy0256",
+    "authorGithub": "https://github.com/jimmy0256",
+    "date": "2026 年 9 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "简历通 ResumeForge",
+    "url": "https://magicapple123.github.io/ResumeForge-official/",
+    "status": "online",
+    "description": "本地运行的 AI 求职工作台，简历生成、岗位采集、投递追踪、面试复盘全流程，数据只存本机不上传，Windows 一键启动，开源免费 - [查看仓库](https://github.com/magicapple123/ResumeForge)",
+    "author": "magicapple123",
+    "authorGithub": "https://github.com/magicapple123",
+    "date": "2026 年 9 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Tancky AI",
+    "url": "https://tancky.io/",
+    "status": "online",
+    "description": "AI 图片合成与照片融合工具（免费），把多张图片拼合、混合成一张，浏览器打开即用",
+    "author": "tancky777",
+    "authorGithub": "https://github.com/tancky777",
+    "date": "2026 年 9 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "What Can Jev Do",
+    "url": "https://whatcanjevdo.com/",
+    "status": "online",
+    "description": "Jev 模型的用法与项目收集站，汇总大家用 Jev 做出的实际案例、思路和代码示例",
+    "author": "Jammy(上海)",
+    "authorGithub": "https://github.com/chenminjie24",
+    "date": "2026 年 9 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "听成文 AI",
+    "url": "https://tingchengwen.com",
+    "status": "online",
+    "description": "本地运行的音视频转写与摘要工具，粘贴 B 站 / 抖音链接或拖入本地文件，生成带时间轴的文稿、SRT / VTT 字幕和 AI 摘要，支持批量处理与说话人区分，文件和结果都不上传云端 — Windows 桌面软件",
+    "author": "jian950718",
+    "authorGithub": "https://github.com/jian950718",
+    "date": "2026 年 9 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "GKMix",
+    "url": "https://gkmix.com",
+    "status": "online",
+    "description": "海外 VPS、AI 工具订阅与海外支付的实测指南站，每篇都跑真实数据并公开账单，不适合谁会直接写明",
+    "author": "GK",
+    "authorGithub": "https://github.com/Charlielyo",
+    "date": "2026 年 9 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "MLUE",
+    "url": "https://mlue.cn/",
+    "status": "online",
+    "description": "面向多平台创作者的个人主页与工作台，把链接、作品和联系方式整理成一个可分享页面 - [更多介绍](https://mlue.cn/link-in-bio)",
+    "author": "NPH",
+    "authorGithub": "https://github.com/BNHP-creater",
+    "date": "2026 年 9 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SummarizeVideoToText",
+    "url": "https://summarizevideototext.com/zh",
+    "status": "online",
+    "description": "视频转文字工具，粘贴 YouTube、TikTok、Instagram、X 的链接就能拿到带时间戳的章节摘要和完整字幕稿，每句都能点回原视频对应的那一秒，免注册试用 - [Chrome 扩展](https://summarizevideototext.com/zh/chrome-extension) - [Obsidian 插件](https://summarizevideototext.com/zh/obsidian-plugin)",
+    "author": "犀利豆",
+    "authorGithub": "https://github.com/diaozxin007",
+    "date": "2026 年 9 月 21 号添加",
+    "category": "main"
+  },
+  {
     "name": "MelodyTrace",
     "url": "https://melodytrace.com/",
     "status": "online",
@@ -17780,112 +17880,12 @@
     "category": "main"
   },
   {
-    "name": "PPResume",
-    "url": "https://ppresume.com?utm_source=chinese-independent-developer",
-    "status": "online",
-    "description": "基于 LaTeX 的简历制作 Web App，提供极高质量的简历排版和 PDF 输出",
-    "author": "Xiao Hanyu",
-    "authorGithub": "https://github.com/xiaohanyu",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "CoSS",
-    "url": "https://w-coss.space",
-    "status": "offline",
-    "description": "聚合主流文件存储服务和文件操作服务",
-    "author": "windowye(北京)",
-    "authorGithub": "https://github.com/windowye",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FreeMind",
-    "url": "https://freemind.fit",
-    "status": "online",
-    "description": "以大自然的声音为灵感，轻松创建专注或放松的音乐氛围。无需账户，无需麻烦——只有纯粹的宁静。无论是在繁忙的办公室，还是在家中的安静角落，FreeMind 将简约与宁静相结合，为您提供一个没有干扰的空间",
-    "author": "FreeMind-LJ",
-    "authorGithub": "https://github.com/FreeMind-LJ",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Tiny RDM",
-    "url": "https://redis.tinycraft.cc/zh/",
-    "status": "online",
-    "description": "美观易用、极致轻量的 Redis 桌面客户端",
-    "author": "Lykin(广州)",
-    "authorGithub": "https://github.com/tiny-craft/tiny-rdm",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "iconce",
-    "url": "https://iconce.com",
-    "status": "online",
-    "description": "SVG 图标生成器",
-    "author": "yesmore(成都)",
-    "authorGithub": "https://github.com/yesmore",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "DE好图壁纸",
-    "url": "https://raw.githubusercontent.com/ddd702/learnfe/main/bovi8x8htx.png",
-    "status": "online",
-    "description": "分享一些图片，壁纸的小程序",
-    "author": "ddd702(广州)",
-    "authorGithub": "https://github.com/ddd702",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Paint Board",
-    "url": "https://songlh.top/paint-board/",
-    "status": "online",
-    "description": "功能强大的创意画板，支持多端",
-    "author": "Leo(上海)",
-    "authorGithub": "https://github.com/LHRUN/paint-board",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "EarlyBird",
-    "url": "https://earlybird.im",
-    "status": "online",
-    "description": "快速搭建落地页验证产品 idea 的低代码建站工具",
-    "author": "罗伊 - [Twitter](https://twitter.com/LuoSays)",
-    "authorGithub": "",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "在线甘特图工具",
-    "url": "https://zz-plan.com",
-    "status": "online",
-    "description": "可以在线使用, 也可以私有化部署 - [更多介绍](https://zz-plan.com/share/87f1340286f1343ba5)",
-    "author": "lizhichao",
-    "authorGithub": "https://github.com/lizhichao",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "易匹配",
-    "url": "https://www.yipipei.com/",
-    "status": "offline",
-    "description": "面向\"表哥表姐\"的表格匹配工具, 只需要在网页上点点点, 就可以实现数据匹配, 还可以自定义阈值, 实现模糊匹配.",
-    "author": "peacefullmind",
-    "authorGithub": "https://github.com/peacefullmind",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "peacefullmind",
-    "authorGithub": "https://github.com/peacefullmind",
+    "author": "ThinkStu(北京)",
+    "authorGithub": "https://github.com/Bistutu",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   },
@@ -17894,8 +17894,8 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "peacefullmind",
-    "authorGithub": "https://github.com/peacefullmind",
+    "author": "ThinkStu(北京)",
+    "authorGithub": "https://github.com/Bistutu",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   },
@@ -17904,8 +17904,8 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "peacefullmind",
-    "authorGithub": "https://github.com/peacefullmind",
+    "author": "ThinkStu(北京)",
+    "authorGithub": "https://github.com/Bistutu",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   },
@@ -17914,8 +17914,8 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "peacefullmind",
-    "authorGithub": "https://github.com/peacefullmind",
+    "author": "ThinkStu(北京)",
+    "authorGithub": "https://github.com/Bistutu",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   }
