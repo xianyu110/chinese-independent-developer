@@ -92,7 +92,7 @@ grep -rF "<产品完整URL>" README.md .github/pages/README-Programmer-Edition.m
 ⚠️ 去重规则（必须严格遵守）：
 - 必须用产品的**完整 URL**（如 `https://example.com`）做精确字符串匹配，使用 `grep -F`（固定字符串，非正则）
 - 禁止用产品名称、描述文字或部分关键词判断重复——描述里提到某个工具名不等于该工具已在列表中
-- URL 已存在 → 跳过，对 README 不做任何操作
+- URL 已存在 → 跳过，对 README 不做任何操作，**也不发致谢评论**（那是老作者重复提交自己已收录的产品，说"已添加到主版面"会误导；2026-09-22 shanleiguang 重复提交 vPlayer HiFi，该条 2026-08-08 已收录 → 静默跳过）
 - URL 不存在 → 进入「通用处理流程」
 - 当前运行中已通过 PR 合并的条目，视为已存在，不再重复处理
 
@@ -192,7 +192,8 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
        git push "$HEAD_REPO_URL" "pr-<number>:$HEAD_REF"
        gh pr merge <number> --merge
        ```
-       （用 `--merge` 而非 `--squash`，保留贡献者原始 commit 的作者信息）推送后如果因为权限或分支保护等原因失败，视为该路径不可行，降级到步骤 3。合并成功则按下面「合并成功」的致谢评论流程处理，PR 会正常显示为 Merged。
+       （用 `--merge` 而非 `--squash`，保留贡献者原始 commit 的作者信息）
+       ⚠️ 推送后立刻 `gh pr merge` 可能报 `GraphQL: Base branch was modified. Review and try the merge again.`。**这不是真失败**——GitHub 的 mergeable 状态是异步计算的，撞上未刷新的缓存而已。做法：`sleep 5` 后重查 `gh api repos/.../pulls/<number> | jq '{mergeable, mergeable_state}'`，看到 `true` / `clean` 再重试一次 `gh pr merge <number> --merge` 就会成功（2026-09-22 PR #1408 实测）。**绝不能因为这条报错就退回步骤 3 的"本地合并 + 关闭 PR"兜底**，那会让贡献者的 PR 变成红色 Closed。只有权限/分支保护导致的推送失败才算该路径不可行，才降级到步骤 3。合并成功则按下面「合并成功」的致谢评论流程处理，PR 会正常显示为 Merged。
     3. **如果 `MAINTAINER_CAN_MODIFY` 为 `false`**（贡献者未勾选"允许维护者编辑"，没有权限推送到其分支，只能走这条兜底路径），或步骤 2 推送失败：
        ```bash
        git fetch origin master
@@ -254,6 +255,7 @@ gh api "users/<username>/repos?sort=updated&per_page=10" | jq '[.[] | {name, des
 **已确认收录的"模糊身份"先例（不再需要人工判断，直接照此收录）：**
 - 英文站点 + 中文自然留言，账号 profile 无任何中文痕迹 → 收录（例：MailMergeOnline，Linky-AIinlink，英文站 mailmergeonline.com，评论正文自然中文 → 收录主版面）
 - profile 全空/全 fork/PR 正文英文，但 issue 正文自然中文 或 团队仓库里有中文成员 → 收录（例：SandBase CLI，denial123789，issue 中文自然、sandbaseai 团队有 liyb/163 邮箱 → 收录程序员版面）
+- GitHub `name` 字段是外文名、bio / location 全空，但仓库描述全是中文项目 → 收录（例：Tancky AI，tancky777，name 显示 "Ramiro Livi"，但仓库 Cursor-reset-tools、wechat-radar「微信聊天情报看板」、article-extractor「微信公众号」全中文 → 收录主版面）。**`name` 字段单独看最容易误判，必须看仓库描述的语言**（2026-09-22 补充）
 - 作者本人更新自己已有的条目（改 URL / 优化描述）→ 合并，这不算"修改已有条目"的禁令范围，是作者维护自己的产品（例：MyServers，lovercode=codelover 更新官网 myservers.plus → 合并到主版面）
 
 **判定为老外（确凿证据）后的处理：**
@@ -319,6 +321,8 @@ POST → 捕获 ID → PATCH 覆写 → GET 验证正文（流程同其他评论
 - 2026-09-20 Issue #1402「GithubStarMate」（adevelle）：`githubstarmate.com/zh-Hans`，页面自述销售推广积分（`$5/20 积分`，Star、Watch、Fork 各扣 1 积分；会员 `$24.90/月 ≈300 Star`；`90 天 Star 保障，掉赞返积分`）。初次运行时误按「能收就收」收进主版面，**同日核实后撤除**。两个实锤：① 站内仓库列表每行 Star 数与 Watch 数完全相等（43/43、14/14、55/55、74/74）；② 抽查 GitHub API，站上标的 Watch 数与实际相差一两个数量级（标 43 Watch 实际 2 个；标 55 Watch 实际 0 个）→ 刷量平台，按类别 3 拒绝。**教训：站点自己写的「互动带有互助激励，不应将这些互动数据等同于独立用户评价」就是自曝，看到这句话直接进 FAIL 分支。**
 
 ⚠️ 上面这条也划定了「能收就收」的边界：**默认收录只适用于「身份判断」（是不是中国人），不适用于「是不是真产品」。** 身份模糊照样收，但产品形态不符合收录标准（大厂、返佣、刷量）时该拒就拒，不受默认收录原则保护。
+
+⚠️ **类别 3（刷量）的判据要逐条比对，不能凭"这个服务在帮人做推广"的观感扩大化。** GEO / AI 可见度优化 / 真人测试 / 软文发布这类推广服务，只要**不是按 GitHub Star/Watch/Fork 计价**、没有「掉赞返积分」兜底，就不属于刷量平台，按普通独立开发者产品收录（2026-09-22 NiubiGeo，niubigeo.ai，卖 AI 诊断报告 ¥99/份 + 真人提问测试按次计费，三条判据全不命中 → 收录主版面）。不要用"真人网络""组织传播"这类字眼自行扩大拒绝范围。
 
 ---
 
