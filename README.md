@@ -24,7 +24,24 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 24 号添加
+
+#### Yuxino - [Github](https://github.com/yuxino)
+* :white_check_mark: [Mimi](https://mimi.yuxino.cn/)：实时字幕翻译工具，把电脑播放的外语视频、直播声音转成悬浮字幕；免费开源，支持 Apple 芯片 macOS 13+ 和 Windows x64，需要自备云服务 API 凭证 - [源码与下载](https://github.com/yuxino/mimi)
+
+#### jnMetaCode - [Github](https://github.com/jnMetaCode)
+* :white_check_mark: [OpenShorts 开片](https://os.aiolaola.com/)：给一个话题就写脚本、找画面、配音、烧字幕、出成片和发布文案，默认零成本跑通第一条
+
 ### 2026 年 9 月 23 号添加
+
+#### Maaaaph - [Github](https://github.com/Maaaaph)
+* :white_check_mark: [Instagram Transcript](https://ins-transcript.com)：Instagram 视频转文字工具，粘贴 Reel / 视频链接即可免注册提取带时间戳的逐字稿，支持 SRT/VTT 字幕导出、多语种翻译与 AI 爆款钩子提炼，内存即时转录不存源视频
+
+#### Linhao Cui - [Github](https://github.com/cuilinhao)
+* :white_check_mark: [ShortsMonkey](https://www.shortsmonkey.com/)：YouTube 爆款选题工具，每天发现低订阅频道中播放量远超订阅量的 Shorts 和长视频，按播放量/订阅数比值筛选，帮助创作者寻找内容灵感
+
+#### 夜猫子小强(XiaoQiangDev) - [Github](https://github.com/aks-666888)
+* :white_check_mark: [本地工作控制台 lwc](https://github.com/aks-666888/local-work-console)：无需联网、无需注册，双击单文件即用的本地待办与计划管理台，数据全留在自己电脑
 
 #### 一箭(杭州) - [Github](https://github.com/whattobuildtoday), [博客](https://x.com/zhngcho130830)
 * :white_check_mark: [What To Build](https://whattobuild.today/)：独立开发机会发现站，从新上线网站的订单增长、流量趋势和真实搜索需求中，筛选已被市场验证的 SaaS 与 AI 工具方向
