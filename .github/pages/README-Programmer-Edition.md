@@ -16,13 +16,27 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 25 号添加
+
+#### Hao Du - [Github](https://github.com/yxcit)
+* :white_check_mark: [YXC Code](https://app.yxcit.com/zh)：iOS 应用源码商城，按分类查看功能、截图和 App Store 链接，比较源码包及商业许可后选择可定制的项目起点；源码付费，支持中英文
+
+#### Leexunhuan743 - [Github](https://github.com/Leexunhuan743)
+* :white_check_mark: [SyncClipboard CfServer](https://github.com/Leexunhuan743/SyncClipboardCfServer)：SyncClipboard 官方服务端的 Cloudflare Workers 复刻实现，官方客户端零改动即可连接，免服务器、按量计费，自带 Web 历史管理界面与回收站
+
 ### 2026 年 9 月 24 号添加
+
+#### xqliu - [Github](https://github.com/xqliu)
+* :white_check_mark: [Orbi](https://orbi.build/zh/?ref=1c7-2609)：自托管的 AI 编程 agent，给 GitHub Issue 打上 `ai-ready` 标签，它在独立 worktree 里写代码、开 PR，再另开一个评审会话对照 Issue 验收项审查，评审通过才合并并打 tag 发版；以 AGPL-3.0 开源，自托管免费，也有托管版 Orbi Cloud - [GitHub 仓库](https://github.com/orbi-build/orbi)
 
 #### KKKK - [Github](https://github.com/erickkkyt)
 * :white_check_mark: [JEVAPI.IO](https://jevapi.io/)：提供免费的 JEV API
 
 #### jnMetaCode - [Github](https://github.com/jnMetaCode)
 * :white_check_mark: [ShellWard](https://jnmetacode.github.io/shellward/)：一行命令体检 AI 项目的合规红线（数据出境、硬编码密钥、个人信息暴露），映射到网安法/PIPL/等保2.0 并给出评分，零依赖开源
+* :white_check_mark: [tracelet](https://github.com/jnMetaCode/tracelet)：AI Agent 的本地调试器，实时看执行树里的每次 LLM 调用与工具调用，还能把两次运行逐步对齐找出差异
+* :white_check_mark: [engram](https://github.com/jnMetaCode/engram)：索引笔记、PDF、网页，然后用一句话召回，结果精确到 文件:行 和日期，全程不出本机
+* :white_check_mark: [skillet](https://github.com/jnMetaCode/skillet)：Claude 技能的包管理器，搜索、安装、锁版本、分享 SKILL.md，注册表就是仓库里的一个 JSON 文件
 
 ### 2026 年 9 月 20 号添加
 
