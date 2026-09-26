@@ -1,5 +1,15 @@
 [
   {
+    "name": "AI 共振",
+    "url": "https://wzznne.github.io/AI-Resonance/",
+    "status": "online",
+    "description": "每日 AI 雷达，把 GitHub、arXiv、Hacker News、社区讨论和 AI 厂商动态排成五个榜单，评分公式公开可查，多平台同时出现的内容自动归组，打开即读无需注册 - [更多介绍](https://github.com/WZZNNE/AI-Resonance)",
+    "author": "WZZNNE",
+    "authorGithub": "https://github.com/WZZNNE",
+    "date": "2026 年 9 月 26 号添加",
+    "category": "main"
+  },
+  {
     "name": "WearToday",
     "url": "https://weartoday.io/",
     "status": "online",
