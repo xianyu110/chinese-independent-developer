@@ -24,6 +24,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 5 号添加
+
+#### Ethan Lian(上海) - [Github](https://github.com/lianyixin)
+* :white_check_mark: [问迹 wenjiAI](https://wenjiai.cn)：AI 原生创投情报站，按问题找赛道，给出赛道分析、赛道榜单和商业速览，并追踪热点事件与论文，帮创业者和投资人找准方向
+
+#### xianyu110 - [Github](https://github.com/xianyu110)
+* :white_check_mark: [InkDoo](https://inkdoo.app/zh)：贴一篇文章或链接，AI 自动挑出该配图的段落，用同一个手绘小角色画出整套配图，支持上传自己的 IP 形象；注册送免费额度，按张一次性付费 - [更多介绍](https://github.com/xianyu110/inkdoo-ai-illustration)
+
+#### Harry Jia - [Github](https://github.com/thefakearchitectstudio-oss)
+* :white_check_mark: [摊账](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/)：面向市集摊主的免费单场经营结余试算网页，扣除售出货品成本、损耗和活动费用后计算结余；无需注册，金额按人民币展示，提供中英文界面
+
+#### weidacn - [Github](https://github.com/weidacn)
+* :white_check_mark: [Gas Station Dance](https://gasstationdance.pro)：上传一到三张照片生成加油站日落前的潮流短视频，跳舞、自拍、下车三段镜头逐个换上你和朋友的脸，场景与运镜固定不变，输出 10 秒 9:16 无声 MP4；按积分计费
+* :white_check_mark: [Raindance AI](https://raindance-ai.pro/)：上传两人各一张照片生成日落码头与海滩的多机位潮流短视频，整段镜头的两位表演者换成你们，保留原始运镜与配音，输出 28 秒 MP4；按积分计费
+
 ### 2026 年 10 月 4 号添加
 
 #### James Parker - [Github](https://github.com/paidx2006)
