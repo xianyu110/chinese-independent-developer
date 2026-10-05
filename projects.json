@@ -1,5 +1,95 @@
 [
   {
+    "name": "问迹 wenjiAI",
+    "url": "https://wenjiai.cn",
+    "status": "online",
+    "description": "AI 原生创投情报站，按问题找赛道，给出赛道分析、赛道榜单和商业速览，并追踪热点事件与论文，帮创业者和投资人找准方向",
+    "author": "Ethan Lian(上海)",
+    "authorGithub": "https://github.com/lianyixin",
+    "date": "2026 年 10 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "InkDoo",
+    "url": "https://inkdoo.app/zh",
+    "status": "online",
+    "description": "贴一篇文章或链接，AI 自动挑出该配图的段落，用同一个手绘小角色画出整套配图，支持上传自己的 IP 形象；注册送免费额度，按张一次性付费 - [更多介绍](https://github.com/xianyu110/inkdoo-ai-illustration)",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "摊账",
+    "url": "https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/",
+    "status": "online",
+    "description": "面向市集摊主的免费单场经营结余试算网页，扣除售出货品成本、损耗和活动费用后计算结余；无需注册，金额按人民币展示，提供中英文界面",
+    "author": "Harry Jia",
+    "authorGithub": "https://github.com/thefakearchitectstudio-oss",
+    "date": "2026 年 10 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Gas Station Dance",
+    "url": "https://gasstationdance.pro",
+    "status": "online",
+    "description": "上传一到三张照片生成加油站日落前的潮流短视频，跳舞、自拍、下车三段镜头逐个换上你和朋友的脸，场景与运镜固定不变，输出 10 秒 9:16 无声 MP4；按积分计费",
+    "author": "weidacn",
+    "authorGithub": "https://github.com/weidacn",
+    "date": "2026 年 10 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Raindance AI",
+    "url": "https://raindance-ai.pro/",
+    "status": "online",
+    "description": "上传两人各一张照片生成日落码头与海滩的多机位潮流短视频，整段镜头的两位表演者换成你们，保留原始运镜与配音，输出 28 秒 MP4；按积分计费",
+    "author": "weidacn",
+    "authorGithub": "https://github.com/weidacn",
+    "date": "2026 年 10 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Decisions API",
+    "url": "https://decisionapi.net/",
+    "status": "online",
+    "description": "决策模型对比与调用平台，在同一个在线 Playground 里比较 Jev、Laya、Kev、Solar、Span 等多种模型，用「状态 + 问题」的结构一次提出最多 8 个类型化问题，返回带概率的选择、评分与是非判断；Playground 不限量免费，接入后端用统一 REST API 与积分计费",
+    "author": "James Parker",
+    "authorGithub": "https://github.com/paidx2006",
+    "date": "2026 年 10 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "生命之祭 · 地缘风险沙盘",
+    "url": "https://0603wangxiao.github.io/geosandbox/",
+    "status": "online",
+    "description": "战争伤亡数据网站，每个数字都标出信源和统计口径，并写明这是「经核实的最低确证数」；已核实事实与推演情景分成两栏，推演一律加标签",
+    "author": "王潇",
+    "authorGithub": "https://github.com/0603wangxiao",
+    "date": "2026 年 10 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "《三变·六反》知识图谱",
+    "url": "https://0603wangxiao.github.io/36wx/kg/",
+    "status": "online",
+    "description": "网页版知识图谱，把一套自创分析框架画成可缩放的节点图，三章、六反、卦象与偈文依序展开，点开每个节点能看到释义和出处；整个图谱是单个 HTML 文件，无任何外部依赖",
+    "author": "王潇",
+    "authorGithub": "https://github.com/0603wangxiao",
+    "date": "2026 年 10 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "三变·六反 · 投资策略图谱",
+    "url": "https://0603wangxiao.github.io/36wx/invest/",
+    "status": "online",
+    "description": "投资研究知识图谱，把同一套分析框架用在投资上的展开，讲的是概念关系与操作次序，不含任何具体标的或买卖建议",
+    "author": "王潇",
+    "authorGithub": "https://github.com/0603wangxiao",
+    "date": "2026 年 10 月 4 号添加",
+    "category": "main"
+  },
+  {
     "name": "今日宜",
     "url": "https://github.com/ljinkai/weekly/issues/386",
     "status": "online",
@@ -16,6 +106,16 @@
     "description": "把 AI 长文和读书笔记在 iPhone/iPad 本地变成音频节目，支持锁屏播放与断点续听；可试用，完整功能需 App 内解锁，无订阅、无广告 - [更多介绍](https://mylisten.vibestation.cn/)",
     "author": "Ryan Zhu",
     "authorGithub": "https://github.com/GODGOD126",
+    "date": "2026 年 10 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "求原图",
+    "url": "https://ynvan.com",
+    "status": "online",
+    "description": "抖音、小红书、快手、B站、YouTube 等 30 多个平台的无水印视频和原图提取，实况图能打包成 iPhone 实况或安卓动态照片，视频可截一段转 GIF 或实况；免费不用登录，MIT 开源 - [GitHub](https://github.com/hiyufan/shizhen)",
+    "author": "hiyufan",
+    "authorGithub": "https://github.com/hiyufan",
     "date": "2026 年 10 月 4 号添加",
     "category": "main"
   },
