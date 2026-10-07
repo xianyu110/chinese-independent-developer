@@ -24,7 +24,34 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 7 号添加
+
+#### jinglings - [GitHub](https://github.com/jinglings)
+* :white_check_mark: [MacClean](https://thulem.com/)：Mac 磁盘清理工具，查看微信图片视频的占用、查找重复文件，清理前逐项预览和选择；扫描与查看结果免费，完整功能可试用 7 天，试用后清理需要许可证，支持 macOS 14+
+
+#### Bill Chan(香港) - [Github](https://github.com/billpwchan)
+* :white_check_mark: [移ろい Utsuroi](https://utsuroi.billpwchan.art)：浏览器里的 3D 京都町屋和庭院，滚动页面就是时钟，从天亮前的院门走到夜里的锦鲤池，一共 14 个停留点；光照用 Cycles 离线烘焙、按时辰混合，可切换四季，声音全部实时合成，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/utsuroi)
+* :white_check_mark: [Halcyon](https://halcyon.billpwchan.art)：浏览器里的 3D 热带环礁，可以在沙滩散步、潜进珊瑚礁、开船出泻湖、飞过 330 米高的山峰；海浪是实时 FFT，岛上有 4.3 万株扫描植物，一天 36 分钟，天气自己变，入夜海面会发光，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/halcyon)
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Posegeni](https://posegeni.com/)：3D 姿势参考与制作工具，870+ 姿势库、可摆姿势的人体模型、多角度视图、PNG 和 ControlNet 导出，无需注册，浏览器内即可操作
+
+#### huangy7(厦门) - [Github](https://github.com/huangy7)
+* :white_check_mark: [Lokii](https://lokii.huangy.top/)：专为 Mac 打造的亚毫秒级原生文件即时搜索工具，像 Everything 一样键入即出；底层采用 Rust 内存倒排索引，50 万+ 文件检索延迟 <10ms，内存常驻 <100MB，FSEvents 实时无感监听变动，100% 离线隐私无遥测 - [客户端下载](https://github.com/huangy7/lokii/releases) · [源码仓库](https://github.com/huangy7/lokii)
+
 ### 2026 年 10 月 6 号添加
+
+#### Bill Chan(香港) - [Github](https://github.com/billpwchan)
+* :white_check_mark: [桜幻想 Sakura Fantasy](https://sakura.billpwchan.art)：浏览器里的 3D 日本河谷，坐小船从晨雾浅滩一路漂到千本鸟居，季节、时辰和天气都能切换，配水声和筝，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/sakura-fantasy)
+
+#### YehyaKin - [Github](https://github.com/yehyakin)
+* :white_check_mark: [cetxt](https://cetxt.com/)：llms.txt 中文生成与体检工具，填表单 30 秒生成规范文件，在线体检打分，附 1000 中文大站实测数据 - [GitHub 仓库](https://github.com/yehyakin/llms-txt-cn)
+
+#### Ayden - [Github](https://github.com/Ayden-123)
+* :white_check_mark: [Image to Anime](https://imagetoanime.co/)：浏览器内的 AI 照片转动漫风格工具，照片和插画都能上传，选定风格后保留人物关键特征，生成完可直接下载
+
+#### clarkloveProduct - [Github](https://github.com/clarkloveProduct)
+* :white_check_mark: [高性价比人生指南](https://renshengzhinan.co/)：把建议当成一笔笔账来算的实用手册，34 章 650 条覆盖健康急救、金钱法律、工作住房与家庭阶段，每条标注成本、收益和证据等级，支持全文搜索
 
 #### zhtyyx(上海) - [Github](https://github.com/zhtyyx)
 * :white_check_mark: [ioe](https://ioea.xianist.com/)：面向零售门店的网页进销存，统一管理商品、库存、收银和会员；托管版提供 14 天试用，之后付费，MIT 开源版可自行部署 - [源码与部署说明](https://github.com/zhtyyx/ioe)
@@ -238,7 +265,7 @@
 ### 2026 年 9 月 22 号添加
 
 #### xiaoyaohou19910610-bit - [Github](https://github.com/xiaoyaohou19910610-bit)
-* :white_check_mark: [精选副业](https://jingxuan-fuye.pages.dev/)：中文副业案例库，把公开的真实项目经历整理成可筛选的案例解读，可按平台、项目和技能查找，并查看成绩口径、适配条件、风险与原文入口
+* :white_check_mark: [精选副业](https://jingxuan-fuye.pages.dev/)：免费中文副业案例库，可按平台、项目和技能筛选，查看成绩口径、适配条件与原帖入口；附无需登录的副业方向测评 - [方向测评](https://jingxuan-fuye.pages.dev/tools/sidehustle-check/)
 
 #### Jun(上海) - [Github](https://github.com/2456868764)
 * :white_check_mark: [Jev Guide](https://jev.guide/)：发现 Jev 的真实应用。从官方发布到真实演示，在一个地方探索 TypeSafe Jev。按行业寻找用例，查看 X 原帖截图，并直接在站内播放原视频
