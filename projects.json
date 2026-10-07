@@ -1,5 +1,95 @@
 [
   {
+    "name": "MacClean",
+    "url": "https://thulem.com/",
+    "status": "online",
+    "description": "Mac 磁盘清理工具，查看微信图片视频的占用、查找重复文件，清理前逐项预览和选择；扫描与查看结果免费，完整功能可试用 7 天，试用后清理需要许可证，支持 macOS 14+",
+    "author": "jinglings - [GitHub](https://github.com/jinglings)",
+    "authorGithub": "",
+    "date": "2026 年 10 月 7 号添加",
+    "category": "main"
+  },
+  {
+    "name": "移ろい Utsuroi",
+    "url": "https://utsuroi.billpwchan.art",
+    "status": "online",
+    "description": "浏览器里的 3D 京都町屋和庭院，滚动页面就是时钟，从天亮前的院门走到夜里的锦鲤池，一共 14 个停留点；光照用 Cycles 离线烘焙、按时辰混合，可切换四季，声音全部实时合成，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/utsuroi)",
+    "author": "Bill Chan(香港)",
+    "authorGithub": "https://github.com/billpwchan",
+    "date": "2026 年 10 月 7 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Halcyon",
+    "url": "https://halcyon.billpwchan.art",
+    "status": "online",
+    "description": "浏览器里的 3D 热带环礁，可以在沙滩散步、潜进珊瑚礁、开船出泻湖、飞过 330 米高的山峰；海浪是实时 FFT，岛上有 4.3 万株扫描植物，一天 36 分钟，天气自己变，入夜海面会发光，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/halcyon)",
+    "author": "Bill Chan(香港)",
+    "authorGithub": "https://github.com/billpwchan",
+    "date": "2026 年 10 月 7 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Posegeni",
+    "url": "https://posegeni.com/",
+    "status": "online",
+    "description": "3D 姿势参考与制作工具，870+ 姿势库、可摆姿势的人体模型、多角度视图、PNG 和 ControlNet 导出，无需注册，浏览器内即可操作",
+    "author": "Linky",
+    "authorGithub": "https://github.com/Linky-AIinlink",
+    "date": "2026 年 10 月 7 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Lokii",
+    "url": "https://lokii.huangy.top/",
+    "status": "online",
+    "description": "专为 Mac 打造的亚毫秒级原生文件即时搜索工具，像 Everything 一样键入即出；底层采用 Rust 内存倒排索引，50 万+ 文件检索延迟 <10ms，内存常驻 <100MB，FSEvents 实时无感监听变动，100% 离线隐私无遥测 - [客户端下载](https://github.com/huangy7/lokii/releases) · [源码仓库](https://github.com/huangy7/lokii)",
+    "author": "huangy7(厦门)",
+    "authorGithub": "https://github.com/huangy7",
+    "date": "2026 年 10 月 7 号添加",
+    "category": "main"
+  },
+  {
+    "name": "桜幻想 Sakura Fantasy",
+    "url": "https://sakura.billpwchan.art",
+    "status": "online",
+    "description": "浏览器里的 3D 日本河谷，坐小船从晨雾浅滩一路漂到千本鸟居，季节、时辰和天气都能切换，配水声和筝，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/sakura-fantasy)",
+    "author": "Bill Chan(香港)",
+    "authorGithub": "https://github.com/billpwchan",
+    "date": "2026 年 10 月 6 号添加",
+    "category": "main"
+  },
+  {
+    "name": "cetxt",
+    "url": "https://cetxt.com/",
+    "status": "online",
+    "description": "llms.txt 中文生成与体检工具，填表单 30 秒生成规范文件，在线体检打分，附 1000 中文大站实测数据 - [GitHub 仓库](https://github.com/yehyakin/llms-txt-cn)",
+    "author": "YehyaKin",
+    "authorGithub": "https://github.com/yehyakin",
+    "date": "2026 年 10 月 6 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Image to Anime",
+    "url": "https://imagetoanime.co/",
+    "status": "online",
+    "description": "浏览器内的 AI 照片转动漫风格工具，照片和插画都能上传，选定风格后保留人物关键特征，生成完可直接下载",
+    "author": "Ayden",
+    "authorGithub": "https://github.com/Ayden-123",
+    "date": "2026 年 10 月 6 号添加",
+    "category": "main"
+  },
+  {
+    "name": "高性价比人生指南",
+    "url": "https://renshengzhinan.co/",
+    "status": "online",
+    "description": "把建议当成一笔笔账来算的实用手册，34 章 650 条覆盖健康急救、金钱法律、工作住房与家庭阶段，每条标注成本、收益和证据等级，支持全文搜索",
+    "author": "clarkloveProduct",
+    "authorGithub": "https://github.com/clarkloveProduct",
+    "date": "2026 年 10 月 6 号添加",
+    "category": "main"
+  },
+  {
     "name": "ioe",
     "url": "https://ioea.xianist.com/",
     "status": "online",
@@ -793,7 +883,7 @@
     "name": "精选副业",
     "url": "https://jingxuan-fuye.pages.dev/",
     "status": "online",
-    "description": "中文副业案例库，把公开的真实项目经历整理成可筛选的案例解读，可按平台、项目和技能查找，并查看成绩口径、适配条件、风险与原文入口",
+    "description": "免费中文副业案例库，可按平台、项目和技能筛选，查看成绩口径、适配条件与原帖入口；附无需登录的副业方向测评 - [方向测评](https://jingxuan-fuye.pages.dev/tools/sidehustle-check/)",
     "author": "xiaoyaohou19910610-bit",
     "authorGithub": "https://github.com/xiaoyaohou19910610-bit",
     "date": "2026 年 9 月 22 号添加",
