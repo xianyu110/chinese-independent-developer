@@ -24,7 +24,33 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 9 号添加
+
+#### CoderLim(北京) - [Github](https://github.com/CoderLim), [博客](https://limbuilder.github.io/)
+* :white_check_mark: [Genjutsu AI](https://genjutsuai.net/)：AI 视频重风格化工具，保留原片段的主体、运动和镜头轨迹，只重写它周围的世界——换场景、换风格、换产品或换道具，上传视频加一句提示词即可 - [更多介绍](https://genjutsuai.net/#feature)
+
 ### 2026 年 10 月 8 号添加
+
+#### stia-mora - [Github](https://github.com/stia-mora)
+* :white_check_mark: [公众号发现](https://wechat.aim888888.xyz/wechat)：微信公众号目录网站，可按领域、账号类型、近 30 天更新频率筛号，每个号附带 AI 内容画像与带原文引用的评分，文章页可跳回微信阅读原文；精选分好类的公众号约 180 个，覆盖科技、财经、生活、教育、媒体与时政 5 个领域，另有约 9900 个仅收录基础资料的信息源，中文界面、免费、浏览无需注册
+
+#### zizhu-ai - [Github](https://github.com/zizhu-ai)
+* :white_check_mark: [Loretypes](https://loretypes.com/)：自我探索测验合集（英文），气场颜色、Archetype、道德阵营、色彩季型、灵动物、前世六套测验，每套 21 到 24 题、约 3 到 4 分钟出完整结果，无需注册免费使用；Archetype 结果页可生成一段 AI 反思，前世测验页面明确标注为虚构，仅供娱乐与自我反思
+
+#### udan520 - [Github](https://github.com/udan520)
+* :white_check_mark: [EaseGen](https://easegen.ai/)：AI 图片与视频创作平台，把 Seedance 2.5、Kling 3、Veo 3.1、Wan 3.0、GPT Image 2.5、Seedream 5.0、Nano Banana 2 等数十个图像与视频模型收在同一工作区切换，支持参考图、首尾帧与参考视频音频，另内置广告图、海报、商品图等成品模板；提供免费额度、订阅与积分包
+
+#### icloudza - [Github](https://github.com/icloudza)
+* :white_check_mark: [Caplo](https://caplo.app/)：Mac 录屏工具，录制时记录点击与指针轨迹，按操作节奏自动生成推近与跟随镜头，可手动增删每个镜头片段；支持 40 种光标样式、点击高亮、多轨时间线剪辑、macOS 离线语音识别字幕、敏感区域打码与章节卡片，导出 MP4 / HEVC / ProRes / GIF，素材与工程只保存在本机；要求 macOS 15 及以上，源码在 GitHub 开源
+
+#### SoBison - [Github](https://github.com/SoBison)
+* :white_check_mark: [漫阅 ManYue](https://apps.apple.com/mo/app/id6753895889)：iPhone / iPad 漫画阅读器，可导入 Venera 漫画源（JS 源文件或源链接）在线浏览、搜索与追更，也能从「文件」导入 CBZ、CBR、CB7、ZIP、RAR、7z、PDF 等本地漫画离线阅读；支持 WebDAV 与 SMB 访问个人网盘 NAS，并能连接 Suwayomi / Tachidesk、Komga、Kavita、LANraragi、OPDS 书库；¥3 付费下载
+
+#### zxcHolmes - [Github](https://github.com/zxcHolmes)
+* :white_check_mark: [New Site Radar](https://newsiteradar.aibit.im/zh/)：每日更新的新站雷达，跟踪 168 万个新注册域名、已收录 16,973 个刚上线并确认有实际内容和定价页的网站，按 AI、软件、App、视频、设计、Agent 等领域筛选，也可按注册起止日期区间或关键词搜索；浏览与搜索免费无需注册
+
+#### paidx2006 - [Github](https://github.com/paidx2006)
+* :white_check_mark: [Mistral Large 4](https://mistrallarge4.com/)：Mistral Large 4 模型的在线 playground 与接入指南，1M 上下文，支持文本与图片输入，可调推理档位、温度、最大输出 token 与 JSON 输出格式；playground 免费，超出免费额度按积分计费（积分为模型美元成本 × 12,000），非 Mistral 官方站点
 
 #### weidacn - [Github](https://github.com/weidacn)
 * :white_check_mark: [Kandinsky 6.0](https://kandinsky6.pro/)：输入文字或上传一张图片生成带同步音频的 AI 视频，可选 Lite 或 Pro 两档模型，输出 480p 或 1080p；底层跑的是 Kandinsky Lab 开源的 Kandinsky 6.0（MIT 协议，Lite 3B / Pro 29B），非官方站点，注册送 1 条免费视频，之后按积分计费
@@ -32,6 +58,8 @@
 * :white_check_mark: [Zombie AI Trend](https://zombieaitrend.pro/)：上传本人、狗或猫的两张照片，生成一段 25 秒的僵尸风格带音乐 MP4，人物转身变成僵尸后切到温暖的回忆镜头；可选 9:16竖屏或 16:9 横屏，输出 720p，每条 90 积分（单条 $9.99），新账号初始积分为 0
 * :white_check_mark: [nano banana 2.1](https://nanobanana21.pro/)：图像生成与编辑工作台，主打 Nano Banana 2.1 与 2.1 Pro（Pro 是同模型的 7 积分 4K 预设），可选 1K/2K/4K，编辑模式支持上传 1 到 14 张参考图；底层跑 Google Gemini 图像模型，非官方站点，新账号一次性赠送 3 积分，按积分计费
 
+#### surfacex-dev - [Github](https://github.com/surfacex-dev)
+* :white_check_mark: [barcodegen.net](https://www.barcodegen.net)：在线条码生成工具，支持 Code 128、EAN-13、UPC-A、二维码、Data Matrix、PDF417 等 35 种条码，可导出 SVG/PNG/JPG，支持批量导入 CSV 打包 ZIP 下载，另有条码标签打印与扫码识别；免费、无需注册、无水印、可商用，界面含中文在内共 11 种语言
 ### 2026 年 10 月 7 号添加
 
 #### zx88cvb - [Github](https://github.com/zx88cvb)，[博客](https://haydenbi.com/)
@@ -1022,7 +1050,7 @@
 * :white_check_mark: [cocodot LLM 降智检测](https://probe.cocodot.co/?utm_source=github&utm_medium=readme&utm_campaign=1c7)：LLM API「降智/偷换模型」检测（免费）：填入任意 OpenAI 兼容端点的 base_url 和临时 API Key，跑 6 项探针（模型声明、动态题、能力完整性等）生成分项报告；Key 仅用于当次检测、不落库不留存，检测方法[开源](https://github.com/cocodot2026/cocodot-llmprobe)；同一团队还做 OpenAI 兼容的 API 中转 [cocodot](https://cocodot.co/?utm_source=github&utm_medium=readme&utm_campaign=1c7)（支付宝充值）
 
 #### KKWANG4444 - [GitHub](https://github.com/KKWANG4444)
-* :white_check_mark: [AI快站模型质量检测](https://docs.aifast.club/model-check/)：面向 OpenAI Compatible 接口的网页检测工具，输入公开 HTTPS 地址和临时 API Key，可检查模型声明、Token、动态题、SSE 与工具调用并生成分项报告；密钥仅用于当次检测，不写入数据库、缓存或日志
+* :white_check_mark: [AI快站模型质量检测](https://docs.aifast.hk/model-check/)：面向 OpenAI Compatible 接口的网页检测工具，输入公开 HTTPS 地址和临时 API Key，可检查模型声明、Token、动态题、SSE 与工具调用并生成分项报告；密钥仅用于当次检测，不写入数据库、缓存或日志
 
 #### ky3 - [Github](https://github.com/ky3-studio)
 * :white_check_mark: [ky3 Launcher](https://github.com/ky3-studio/ky3-Launcher)：原神第三方开源启动器，集游戏启动、抽卡记录分析、成就管理、养成规划于一体，WinUI 3 原生界面，免费无广告
