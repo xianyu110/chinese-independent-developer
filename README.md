@@ -24,10 +24,25 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 10 号添加
+
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [Rumpelstiltskin AI Video](https://airumpelstiltskin.org)：AI 换脸跳舞视频生成器，上传一张肖像替换踮脚舞者、或上传两张分别替换舞者与少女，原参考视频的场景、镜头和舞蹈动作保持不变；内置参考舞蹈，无需编写提示词，支持 480P / 720P，输出约 12.7 秒的 MP4 并带原参考音频 — 生成需登录购买积分，$9.90 起一次性付费，无需订阅
+
+#### Vadaski - [Github](https://github.com/Vadaski)
+* :white_check_mark: [九曜印占](https://jiuyaoyinzhan.com)：印度占星（吠陀占星）排盘与 AI 解读网站，按天文历计算本命盘、大运与年盘，围绕一个问题可连续追问；出生时间记不准时可用几件人生大事做生辰校准，线索充分时收窄到分钟级；对话只存浏览器本地，简繁中文，排盘免费、AI 解读按点数计费
+
+#### yisonlee888 - [Github](https://github.com/yisonlee888)
+* :white_check_mark: [ToolStack](https://tools.mindutil.com/)：免费在线工具箱，汇集 32 款打开即用的日常小工具（图片压缩与裁剪、JPG/PNG/WebP/HEIC 格式互转、颜色取色与转换、二维码与密码生成、字数统计、BMI/小费/折扣等计算器），全部在浏览器本地运行，无需注册、文件不上传，界面支持 7 种语言
+
 ### 2026 年 10 月 9 号添加
 
 #### CoderLim(北京) - [Github](https://github.com/CoderLim), [博客](https://limbuilder.github.io/)
 * :white_check_mark: [Genjutsu AI](https://genjutsuai.net/)：AI 视频重风格化工具，保留原片段的主体、运动和镜头轨迹，只重写它周围的世界——换场景、换风格、换产品或换道具，上传视频加一句提示词即可 - [更多介绍](https://genjutsuai.net/#feature)
+
+#### Cayden(上海) - [Github](https://github.com/caydock), [博客](https://caydock.com)
+* :white_check_mark: [WorthCay](https://worthcay.com)：Coast FIRE 计算器（免费），输入年龄、退休年龄、退休后年支出、当前投资资产与每月投入，算出 Coast FIRE 数字与完整 FIRE 数字；可保存目标并按 Actual vs Goal 跟踪进度，对比「继续投入」与「停止投入让收益复利」两条路径的增长曲线
+* :white_check_mark: [CoverCay](https://cover.caydock.com)：音乐专辑封面搜索下载（免费），基于 iTunes 数据检索专辑封面、歌曲封面与音乐视频封面，支持多国家地区与多种尺寸一键下载或复制
 
 ### 2026 年 10 月 8 号添加
 

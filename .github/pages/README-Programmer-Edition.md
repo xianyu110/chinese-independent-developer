@@ -16,6 +16,22 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 10 号添加
+
+#### ylv01(深圳) - [Github](https://github.com/ylv01)
+* :white_check_mark: [PromptHarbor](https://github.com/ylv01/prompt-harbor)：一句话描述任务，根据模型能力与社区反馈推荐最适合的模型。复杂项目可拆分任务并生成跨模型协作提示词，覆盖 Claude Opus 5.5、GPT-6.1 Sol 等
+
+#### huangy7(厦门) - [Github](https://github.com/huangy7)
+* :white_check_mark: [outline-skill](https://github.com/huangy7/outline-skill)：专为 AI 编程智能体（Claude Code、Antigravity、Cursor 等）打造的 Outline 知识库 Agent Skill 与协同工具。遵循 agentskills.io 标准，赋予各类智能体原生读写、检索与智能格式化 Outline 文档的能力；内置排版护栏（自动去除冗余标题、生成标准 Callout 提示块），支持 MCP 与零依赖 Node.js 客户端双引擎架构，完全开源免费 - [源码仓库](https://github.com/huangy7/outline-skill)
+
+### 2026 年 10 月 9 号添加
+
+#### MASAKA AI - [Github](https://github.com/masakaai)
+* :white_check_mark: [Jet Browser](https://github.com/masakaai/jet-browser)：给 AI Agent 嵌入的轻量浏览器运行时，一个 Docker 容器运行一个 WPE WebKit 会话，通过有序 JSONL 执行原生鼠标键盘输入、DOM 检查与截图；不绑定模型、账号或托管控制面，Apache-2.0 开源，提供 Codex / Claude Code Skill 与 GitHub Action 验收 - [基准方法与原始数据](https://github.com/masakaai/jet-browser/blob/main/docs/benchmarks.md)
+
+#### LinkAGI - [Github](https://github.com/16871233)
+* :white_check_mark: [LinkAGI](https://api.linktoagi.com/)：面向开发者的 AI API 聚合服务，提供 OpenAI、Anthropic 与 Gemini 风格的接口；控制台可创建独立 API Key、查看模型价格和调用日志，支持人民币按量计费 - [使用文档](https://docs.linktoagi.com/)
+
 ### 2026 年 10 月 8 号添加
 
 #### ZhongQuinnKing - [Github](https://github.com/ZhongQuinnKing)
