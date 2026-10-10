@@ -1,11 +1,61 @@
 [
   {
+    "name": "Rumpelstiltskin AI Video",
+    "url": "https://airumpelstiltskin.org",
+    "status": "online",
+    "description": "AI 换脸跳舞视频生成器，上传一张肖像替换踮脚舞者、或上传两张分别替换舞者与少女，原参考视频的场景、镜头和舞蹈动作保持不变；内置参考舞蹈，无需编写提示词，支持 480P / 720P，输出约 12.7 秒的 MP4 并带原参考音频 — 生成需登录购买积分，$9.90 起一次性付费，无需订阅",
+    "author": "littlePig-zzf",
+    "authorGithub": "https://github.com/littlePig-zzf",
+    "date": "2026 年 10 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "九曜印占",
+    "url": "https://jiuyaoyinzhan.com",
+    "status": "online",
+    "description": "印度占星（吠陀占星）排盘与 AI 解读网站，按天文历计算本命盘、大运与年盘，围绕一个问题可连续追问；出生时间记不准时可用几件人生大事做生辰校准，线索充分时收窄到分钟级；对话只存浏览器本地，简繁中文，排盘免费、AI 解读按点数计费",
+    "author": "Vadaski",
+    "authorGithub": "https://github.com/Vadaski",
+    "date": "2026 年 10 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ToolStack",
+    "url": "https://tools.mindutil.com/",
+    "status": "online",
+    "description": "免费在线工具箱，汇集 32 款打开即用的日常小工具（图片压缩与裁剪、JPG/PNG/WebP/HEIC 格式互转、颜色取色与转换、二维码与密码生成、字数统计、BMI/小费/折扣等计算器），全部在浏览器本地运行，无需注册、文件不上传，界面支持 7 种语言",
+    "author": "yisonlee888",
+    "authorGithub": "https://github.com/yisonlee888",
+    "date": "2026 年 10 月 10 号添加",
+    "category": "main"
+  },
+  {
     "name": "Genjutsu AI",
     "url": "https://genjutsuai.net/",
     "status": "online",
     "description": "AI 视频重风格化工具，保留原片段的主体、运动和镜头轨迹，只重写它周围的世界——换场景、换风格、换产品或换道具，上传视频加一句提示词即可 - [更多介绍](https://genjutsuai.net/#feature)",
     "author": "CoderLim(北京)",
     "authorGithub": "https://github.com/CoderLim",
+    "date": "2026 年 10 月 9 号添加",
+    "category": "main"
+  },
+  {
+    "name": "WorthCay",
+    "url": "https://worthcay.com",
+    "status": "online",
+    "description": "Coast FIRE 计算器（免费），输入年龄、退休年龄、退休后年支出、当前投资资产与每月投入，算出 Coast FIRE 数字与完整 FIRE 数字；可保存目标并按 Actual vs Goal 跟踪进度，对比「继续投入」与「停止投入让收益复利」两条路径的增长曲线",
+    "author": "Cayden(上海)",
+    "authorGithub": "https://github.com/caydock",
+    "date": "2026 年 10 月 9 号添加",
+    "category": "main"
+  },
+  {
+    "name": "CoverCay",
+    "url": "https://cover.caydock.com",
+    "status": "online",
+    "description": "音乐专辑封面搜索下载（免费），基于 iTunes 数据检索专辑封面、歌曲封面与音乐视频封面，支持多国家地区与多种尺寸一键下载或复制",
+    "author": "Cayden(上海)",
+    "authorGithub": "https://github.com/caydock",
     "date": "2026 年 10 月 9 号添加",
     "category": "main"
   },
