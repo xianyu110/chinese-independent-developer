@@ -24,7 +24,39 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 11 号添加
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [AI Rumpelstiltskin](https://airumpelstiltskin.io/)：AI 踮脚舞视频生成器，上传一张人物照片（可选第二张用于少女角色）即可生成固定的 9 秒 16:9 横屏视频，支持 480P / 720P / 1080P，无需编写提示词 — 按积分计费（480P 每秒 5 积分、720P 11 积分、1080P 25 积分），$9.99 起一次性付费，无需订阅
+
+#### Peaceful-World-X(北京) - [Github](https://github.com/Peaceful-World-X)
+* :white_check_mark: [ArXiv Hub · 论桥](https://arxivhub.github.io/)：输入 arXiv ID 或论文链接，集中跳转到原文、翻译、摘要、代码、引用与学术讨论等常用工具，免去反复复制标题或切换网站；另提供油猴脚本，可在 arXiv 论文页直接调用快捷入口 — 免费开源网页工具 - [源码](https://github.com/Peaceful-World-X/ArXivHub)
+
+#### pbhhdf - [Github](https://github.com/pbhhdf)
+* :white_check_mark: [KAI · 开gptAI](https://kaigpt.ai/)：ChatGPT 会员人民币代开服务，可选 Plus、Pro100、Pro200、Pro500 四档，支付宝扫码下单后凭卡密在 kaigpt.pro 兑换页提交一次 ChatGPT Session 自动开通，不索取账号密码或验证码；凭订单号加下单联系方式查询进度，失败订单进人工复核、原路退款；另有免费的 Plus / Pro 套餐选择器；独立第三方，非 OpenAI 官方 - [更多介绍](https://kaigpt.ai/guide/purchase-and-track)
+
 ### 2026 年 10 月 10 号添加
+
+#### leo(上海) - [Github](https://github.com/TangSirOnGit)
+* :white_check_mark: [Launchlist](https://launchlist.si)：A community-voted weekly launch for AI and superintelligence builders
+
+#### Wuhan Zhang - [Github](https://github.com/endNone)
+* :white_check_mark: [ClickPulse](https://github.com/endNone/ClickPulse)：免费的离线键鼠活动统计工具，支持 macOS 和 Windows，以键盘热力图、活动日历和迷你悬浮窗口展示输入习惯，数据保存在本机，不记录输入文本
+
+#### fsh114514(江苏) - [Github](https://github.com/fsh114514)
+* :white_check_mark: [门外谈 Menwai Tan](https://outgate.chat)：AI 思想家辩论场，把 26 位以上思想家蒸馏成 SKILL.md 人格，可单人对谈也可开圆桌让多位思想家轮流交锋；随口／较真／上头三档控制回答火候，气氛上来自动升级，遇到不懂的梗先联网检索再回答；支持自带 API Key，也留了站内免费通道 - [源码](https://github.com/fsh114514/menwaitan)
+
+#### weidacn - [Github](https://github.com/weidacn)
+* :white_check_mark: [Vidu Q4](https://viduq4.org)：AI 短片生成器，选已审核的非人类场景预设与固定场景运动即可生成 3–16 秒静音短片，540p 至 4K，无需提示词或上传素材
+* :white_check_mark: [SynthID Detector](https://synthiddetector.pro)：SynthID 水印检测工具，上传图片即可读取 Content Credentials 签名状态与 AI 元数据，判断 Google 或 OpenAI 是否写入 SynthID 水印；基础检测免费且无需注册，可选的 AI 视觉分析按张消耗额度
+
+#### Jamailar - [Github](https://github.com/Jamailar)
+* :white_check_mark: [LeanFPS](https://leanfps.com/)：Windows 游戏优化与帧率测量工具，自动识别运行中的游戏并按游戏与类型配置系统设置，记录平均 FPS、1% low 与会话历史；每项设置可单独撤销，临时会话改动退出后还原，不修改游戏文件与内存、不注入游戏内覆盖层、不关闭 Defender 与防火墙；Rust + egui 开发，免费版含游戏识别、帧率测量和 5 项优化，Pro 早鸟价 $19 一次性（之后 $29） - [源码](https://github.com/Jamailar/leanfps)
+
+#### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
+* :white_check_mark: [阿军图解产业](https://ajun-industry.packscena.com/)：中文产业图解知识库，55 期免费全文涵盖 AI 与算力、半导体与电子、新能源与储能、电力与设备、先进材料、医药与生命科学、高端装备 7 个领域，另设 7 个专题串读；完整高清图解需登录兑换
+* :white_check_mark: [ResumePlot AI](https://resumeplot.com/)：中英双语 AI 简历编辑器，导入 PDF、DOCX 或文本后逐条整理真实经历，按目标岗位调整内容并导出可检索 PDF；基础编辑免费，AI 改写需登录，含免费额度
+* :white_check_mark: [SubAtlas 订阅图谱](https://subatlas.packscena.com/)：AI 订阅比价资料库，收录 63 个产品，按规格、地区、订阅周期与交付方式比较公开报价，保留来源、更新时间与历史价格走势，支持设置价格与到期提醒；站点只做资料收录，不销售订阅
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
 * :white_check_mark: [Rumpelstiltskin AI Video](https://airumpelstiltskin.org)：AI 换脸跳舞视频生成器，上传一张肖像替换踮脚舞者、或上传两张分别替换舞者与少女，原参考视频的场景、镜头和舞蹈动作保持不变；内置参考舞蹈，无需编写提示词，支持 480P / 720P，输出约 12.7 秒的 MP4 并带原参考音频 — 生成需登录购买积分，$9.90 起一次性付费，无需订阅
