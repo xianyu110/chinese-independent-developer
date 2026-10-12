@@ -24,7 +24,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 12 号添加
+
+#### sweesama - [Github](https://github.com/sweesama)
+* :white_check_mark: [favicondl](https://favicondl.com/zh/)：网站图标下载工具，输入任意网址，自动找出该网站最清晰的图标（SVG / 大尺寸 PNG / ICO）并一键下载，也可一次批量下载 100 个网站的图标，免费无需注册
+
+#### zeroXu1 - [Github](https://github.com/zeroXu1)
+* :white_check_mark: [Translate Picture](https://translate-picture.com/)：图片文字翻译工具，上传产品图并选择目标语言，即可生成文字被替换掉的新图，用来做产品图的本地化 — 支持 JPG / PNG / WebP，单张最大 8 MB，结果图长边约 1000 ~ 1900 像素；每个网络每天限 8 张，处理在浏览器标签页内完成，刷新即清除
+
 ### 2026 年 10 月 11 号添加
+
+#### Jamailar - [Github](https://github.com/Jamailar)
+* :white_check_mark: [Beav](https://github.com/Jamailar/Beav)：为不同社媒账号分别整理素材、稿件和长期偏好，让 AI 检索引用资料并辅助写稿；复用带文字变量和参考图的模板，为小红书等平台制作不同选题的图文 — 本地优先 AI 社媒工作台，素材库定位类似面向社媒和 AI 的 Eagle - [更多介绍](https://github.com/Jamailar/Beav#readme)
+
+#### ouy35521-beep - [Github](https://github.com/ouy35521-beep)
+* :white_check_mark: [AI Burning Bridges](https://aiburningbridges.app)：上传一张人物或角色图片，即可让图中主体出演内置 Drake「Burning Bridges」派对场景的舞蹈视频，模板自带表演动作、场景与配乐；生成前可预览参考表演、选择视频时长并查看扣费，完成后可下载带配乐的 MP4，手机与电脑浏览器都能用 — 可选 Seedance 2.0 Fast / 2.0 / 2.5 三档生成模型（每 12 秒视频分别 17 / 20 / 37 积分），积分包一次性购买、无需订阅；目前仅内置固定表演模板，不支持自定义动作、场景或音乐
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [AI Rumpelstiltskin](https://airumpelstiltskin.io/)：AI 踮脚舞视频生成器，上传一张人物照片（可选第二张用于少女角色）即可生成固定的 9 秒 16:9 横屏视频，支持 480P / 720P / 1080P，无需编写提示词 — 按积分计费（480P 每秒 5 积分、720P 11 积分、1080P 25 积分），$9.99 起一次性付费，无需订阅
