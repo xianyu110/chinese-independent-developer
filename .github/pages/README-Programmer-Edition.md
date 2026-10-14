@@ -16,7 +16,18 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 14 号添加
+
+#### lenoooin - [Github](https://github.com/lenoooin)
+* :white_check_mark: [Roblox GUI Maker](https://robloxguimaker.dev/)：一句话描述商店、HUD、背包或弹窗，生成最多 4 版 Roblox 游戏界面草图，附组件树和样式变量，桌面端和手机端同时预览，可用插件一键发送到 Roblox Studio；第一个 GUI 免费
+
+#### sunflower225 - [Github](https://github.com/sunflower225)
+* :white_check_mark: [Optio](https://jevai.website/zh)：类型化决策 API，传入文本或 JSON 和最多 8 个问题，返回带概率的单选、评分或是/否答案，用于工单分诊、模型路由、内容审核和 Agent 工具调用前的风险检查；浏览器 Playground 可免注册试用，注册送 5 额度，之后一次性购买额度包（不订阅、不过期）；独立运营的 Jev 调用网关，与 TypeSafe 无隶属关系，非开源 - [文档](https://jevai.website/docs)
+
 ### 2026 年 10 月 13 号添加
+
+#### hen9xin - [Github](https://github.com/hen9xin)
+* :white_check_mark: [pan-transfer-bot](https://github.com/hen9xin/pan-transfer-bot)：夸克/百度网盘资源整理工具与 AI Agent Skill，粘贴分享链接即自动识别提取码、转存到自己网盘并按年/月/日归档、生成新分享链接，纯本地生成配套文案无需大模型 API；FastAPI + Web 界面，Docker 一键部署，附 SKILL.md 可供 Claude Code 调用，MIT 开源
 
 #### cf12436 - [Github](https://github.com/cf12436)
 * :white_check_mark: [AI SaaS Go](https://aisaasgo.org/)：AI API 中转站，一个 Key 调用 OpenAI、Claude、Gemini、Grok 等模型，兼容 OpenAI Chat Completions 与 Anthropic Messages 协议，支持原生 SSE 流式响应、按量计费与提示缓存，站点另设在线生图入口

@@ -4,7 +4,7 @@
 ### 子版面
 - [程序员版面](./.github/pages/README-Programmer-Edition.md)：使用需要命令行或写代码
 - [游戏版面](./.github/pages/README-Game.md)：都是游戏
-- [2018 ~ 2024 年项目列表](./.github/pages/README-Archive.md)：因 GitHub 渲染限制单独存档
+- [更早的项目（2018 ~ 2024 年）](./.github/pages/README-Earlier-Projects.md)：项目太多，从主列表单独分出一册
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -24,7 +24,70 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 14 号添加
+
+#### hurry - [Github](https://github.com/hurry060215-tech)
+* :white_check_mark: [LearnNote](https://hurry060215-tech.github.io/learnnote-assistant/)：本地学习工作台，把视频字幕与 PDF、Markdown 等资料整理为可编辑笔记，保留原文和来源时间点供核对；无需 LearnNote 账号，自选模型，远程 API 费用另计；当前 Windows 可用，macOS/Linux 预览，源码采用 Apache-2.0 - [源码与使用说明](https://github.com/hurry060215-tech/learnnote-assistant)
+
+#### lenoooin - [Github](https://github.com/lenoooin)
+* :white_check_mark: [Vidlark](https://vidlark.ai/)：输入一句话或上传一张照片就能生成视频和图片，Seedance、Kling、Veo、Nano Banana 等 40 多个模型共用一个积分余额，生成前显示价格，失败自动退积分；注册送 100 积分，无需绑卡
+* :white_check_mark: [AI Humanizer](https://ai-humanizer.dev/)：把 ChatGPT、Gemini 写的稿子改成读起来自然的文字，保留原有观点和段落；可选学术、口语、正式等语气和阅读难度，支持英语、西班牙语、葡萄牙语；免注册每天免费 2000 词
+* :white_check_mark: [PumpkinStencil](https://pumpkinstencil.org/)：150 款原创可打印南瓜雕刻模板，从儿童简笔脸到三色阴影；还能把宠物或家人的照片转成可雕刻的模板，按小、中、大南瓜尺寸导出 PDF，经典模式免费
+* :white_check_mark: [Raindance AI Video](https://raindanceaivideo.com/)：上传一张照片做单人、两张做双人，选 Raindance Original、Pier at Sunset 等模板或自己描述场景，几分钟生成可直接发 TikTok 的潮流短视频；按条付费 $9.90 起，无订阅，失败自动退款
+* :white_check_mark: [RapVideoGenerator](https://rapvideogenerator.com/)：输入一个主题或自己的歌词，生成两版原创说唱，可选 trap、boom bap、drill、lo-fi 等风格；再加一张正脸自拍，生成对口型的 9:16 说唱视频；第一首 30 秒免费，无需绑卡
+
+#### sunflower225 - [Github](https://github.com/sunflower225)
+* :white_check_mark: [声笺](https://whisperweb.site/zh/)：浏览器本地语音转文字工具，用 Whisper 模型在本机转写音频和视频，文件不上传服务器；可校对文字和时间轴，导出 TXT/SRT/VTT 字幕，单个文件最长 20 分钟，免费无需注册
+* :white_check_mark: [Sesshu](https://sesshu.app/)：面向日本用户的 AI 视频生成网站（日语/英语界面），输入文字或上传图片，即可用 Seedance、Kling、Veo 等模型生成短视频，支持 16:9、9:16、1:1 画幅；需用 Google 账号登录，新用户赠送 48 积分（无需绑卡），之后可月付订阅或购买积分包
+
+#### zs19901 - [Github](https://github.com/zs19901)
+* :white_check_mark: [Calorie Cup](https://caloriecup.com/)：星巴克热量计算器（免费），基于 2026 美区菜单，可自由切换杯型、奶、糖浆、浓缩与奶盖，实时看到热量、糖分和咖啡因变化，免注册，同站含中文版
+
+#### fayecat - [GitHub](https://github.com/fayecat)
+* :white_check_mark: [Rulr](https://www.rulr.app/)：Mac 可视化自动化工具，无需编程，通过快捷键、定时或应用事件等触发条件，自动执行各种操作和工作流，支持 AI 创建自动化规则
+
+#### Ken - [Github](https://github.com/kccarlos)
+* :white_check_mark: [DiscourseCopilot](https://chromewebstore.google.com/detail/discoursecopilot/dpngnaiiofobfjleabbhnfmdflddnhac)：Discourse 论坛 AI 阅读助手（Chrome 插件），一键总结几百楼的长帖，或让 AI 在全站搜索并给出带楼层引用的答案；自带 OpenAI/Claude/DeepSeek 等 key 或用 Ollama 本地模型，无服务器、无统计，免费开源 - [源码](https://github.com/kccarlos/DiscourseCopilot)
+
+#### Hayden - [Github](https://github.com/hayden-xiong)
+* :white_check_mark: [像话](https://mirrorsay.com)：无需注册，说一句英语就告诉你母语者会怎么说，再带你跟读、逐词对比；英文卡住时说中文也行（iOS / Android，免费）
+
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [Bulin 47 AI](https://getbulin47ai.com)：AI freestyle 视频生成器，上传一张正面人物照片，生成红灯餐厅场景下的 15 秒 9:16 竖屏表演视频；内置参考动作，无需编写提示词，可选 Seedance 2.0 / 2.5 与 480p / 720p，下载带原参考音频或无声版 MP4；生成需登录并购买积分，$9.90 起一次性付费，无订阅，失败退回扣除的积分；独立粉丝工具，与 Bulin 47、Kevin Wai 无隶属或背书关系
+
+#### fpy5627(成都) - [Github](https://github.com/fpy5627)
+* :white_check_mark: [Vedic Astrology Chart](https://vedicastrologychart.net/)：吠陀占星排盘工具，输入出生日期、时间和地点，通过 Swiss Ephemeris 计算星盘，提供行星、宫位、Nakshatra、Dasha 与 D9/Navamsa 信息及中英文 AI 解读；基础排盘和简短 AI 摘要免费，详细报告与 PDF 可选付费
+
 ### 2026 年 10 月 13 号添加
+
+#### 严毓焕 - [Github](https://github.com/Ivan666jjj)
+* :white_check_mark: [一个字的一生](https://ivan666jjj.github.io/yigezi/)：汉字字形演变查询工具，输入任意字即可看它从甲骨文、小篆、繁体到简体的完整演变，收录 10249 个小篆字形与 1425 个甲骨文，附中古反切、上古音构拟与《说文》释义，免费无需注册 - [更多介绍](https://github.com/Ivan666jjj/yigezi)
+
+#### lzeee - [Github](https://github.com/lzeee)
+* :white_check_mark: [孙哥在线](https://sunge.online)：非官方孙宇晨资料整理站，按时间线回看重要经历与公开事件，收录《财富自由革命之路》146 期音频及逐段文字稿，以及《这世界既残酷也温柔》在线阅读；免费、无需注册，内容将持续整理更新
+
+#### dreamwake.eth - [Github](https://github.com/BEIDAHUANG)
+* :white_check_mark: [CastDub](https://castdub.com/)：AI 多角色配音工作台，粘贴剧本自动识别角色并分配声音，可逐句调整情绪，导出成品音频；支持中英日韩等 9 种语言，免注册试用，开放测试期免费
+* :white_check_mark: [Science Diagram](https://sciencediagram.com/)：AI 科学示意图工具，一句话生成带标签、可编辑的论文/课件插图，支持多种学科模板并导出 PNG；Beta 期免费
+
+#### Miracle - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [SpritePixel](https://spritepixel.com/)：一款面向个人和独立游戏开发者的 AI 游戏资产工作室，用 AI 创建风格一致的游戏精灵图、动画、精灵图表和配套图标套装，并围绕同一个游戏项目持续生成与管理
+
+#### juren056 - [Github](https://github.com/juren056)
+* :white_check_mark: [Nano Banana 2.1](https://nanobanana21pro.com/)：AI 图片生成与参考图编辑网站，支持商品场景、虚构人物分镜和带文字海报创作，提交前显示所选模型、输出设置与积分费用 - [教程与原创示例](https://github.com/juren056/nano-banana-image-workflows)
+
+#### Jamailar - [Github](https://github.com/Jamailar)
+* :white_check_mark: [Ad Multiplier](https://admultipliers.com/)：视频广告变体工具，上传现有 4–30 秒广告，生成最多 4 个不同人物、服装、场景或产品的视觉版本，可选择保留原音频，下载 720p / 1080p MP4 后人工审核和发布；按积分付费，无订阅，4–15 秒 Standard 输出单积分价格 $9.90
+
+#### niceboy - [Github](https://github.com/sunlin-xiaonai)
+* :white_check_mark: [NewYouGo](https://newyougo.com/)：AI 图片、视频和音乐创作平台，支持多模型生成与图片编辑；登录后每天可免费生成 20 张 FLUX.1 Schnell 图片，其他模型按积分计费
+* :white_check_mark: [Raindance AI](https://raindanceai.stream/)：AI 照片转视频工具，可先预览并选择场景模板；Raindance 场景能生成带原创 AI 配乐的 15 秒视频，按视频数量一次性付费，无订阅
+
+#### ViggoZ - [Github](https://github.com/ViggoZ)
+* :white_check_mark: [APPLORE](https://applore.app)：App 图标灵感库，收录 18,000+ 个 App Store / Google Play 真实 App 图标及每次改版的历史版本，可按颜色、风格、分类浏览；附免费的图标全尺寸导出（免注册）、商店截图生成、PNG 转 SVG 等工具，AI 生成图标按积分付费
+
+#### sweesama - [Github](https://github.com/sweesama)
+* :white_check_mark: [3D 太阳系模拟器](https://www.3dsolarsystem.net/)：浏览器里的交互式 3D 太阳系，可环绕太阳与八大行星、切换真实距离或真实比例，还能降落到月球和火星表面；免费无广告，无需注册，适合课堂演示
 
 #### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
 * :white_check_mark: [LogoMovo](https://logomovo.com/)：浏览器 Logo 设计工作台，探索图形、字体、颜色与排版方向，调整设计后导出 SVG 或 PNG；Studio 与 AI 生成功能需登录及有效付费方案，品牌配色与命名资料可公开浏览
@@ -5560,147 +5623,7 @@
 #### 94r7(桂林) - [Github](https://github.com/WtecHtec), [博客](https://r7.nuxt.dev/)
 * :white_check_mark: [放大镜录屏](https://chromewebstore.google.com/detail/oamckfgecgfenpchklfhelhnngmhdnma?authuser=0&hl=zh-CN)：Chrome 录屏插件，可放大区域 - [更多介绍](https://www.bilibili.com/video/BV1g9noedECb/?spm_id_from=333.999.0.0&vd_source=d5b28d31bf0713b1e64a887d37daeb4a)
 
-### 2024 年 8 月 31 号添加
-#### fatalor(深圳) - [Github](https://github.com/fatalor)
-* :white_check_mark: [IT 摇篮曲](https://www.itylq.com)：聚焦于计算机网络、计算机操作系统（Linux/Win）、项目部署实战、开源项目及软件、IT科普类等知识内容
-
-#### 名翠软件(云南德宏)
-* :white_check_mark: [美丽记账](https://www.mingcui.cn/meili/)：记账 App（简单好用免费）
-
-#### virgoone(上海) - [Github](https://github.com/virgoone), [网站主页](https://blog.douni.one)
-* :white_check_mark: [Flux AI Image Generator](https://fluxaipro.art)：文生图网站，基于 fluxai 包含 prompt 翻译优化功能（开源）
-
-### 2024 年 8 月 30 号添加
-* :white_check_mark: [找到每个任务的最佳 AI 工具](https://toollist.ai)：找到最好的 AI 工具
-
-#### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
-* :white_check_mark: [番石榴实验室 AI 智能应用](https://ai.maogoujiaoliuqi.com/)：图片文字提取，OCR 文字提取，表格结构识别，文档比对
-
-### 2024 年 8 月 29 号添加
-#### 诸葛子房
-* :white_check_mark: [酒店协议代码——Hotel Corporate Codes](https://corporate-codes.online)：酒店协议代码是关于 IHG、希尔顿、万豪、凯悦等酒店品牌的特别折扣代码。这些代码提供给企业，以便以优惠价格预订酒店。公司可以利用这些代码为员工的出差节省旅行费用。免费且支持多语言。
-
-#### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客](https://okjk.co/q4mQVu)
-* :white_check_mark: [网站地图 sitemap 生成及数据可视化分析平台](https://sitemap.top)：不仅可以按需生成网站地图（sitemap），还允许用户获取网站地图的统计数据，并以图形化的方式查看和分析网站的结构 - [更多介绍]( https://juejin.cn/post/7407999205493178418)
-
-#### YiXinCoding(武汉)
-* :white_check_mark: [Kite 待办](https://kite.kitlib.cn/)：桌面待办清单应用（简洁轻量）
-
-### 2024 年 8 月 27 号添加
-#### 0xJoanne - [Github](https://github.com/0xjoanne)
-* :white_check_mark: [Emoji Spark](https://emojispark.com)：AI Emoji 搜索工具
-
-### 2024 年 8 月 25 号添加
-* :white_check_mark: [AI Anime Generator](https://aianimegen.org)：AI 动漫图片生成器（免费）
-
-### 2024 年 8 月 22 号添加
-#### 木木木
-* :white_check_mark: [Text Compare & Merge](https://diffsuite.com)：文本对比与合并工具
-* :white_check_mark: [SVG to ICO](https://svg2ico.com/zh/)：SVG、PNG 转 ICO 工具
-
-#### shaoyangliu(广州) - [Github](https://github.com/fengmao)
-* :white_check_mark: [流沙 SEO](https://liusha.com)：分享谷歌 SEO 相关知识
-
-#### tutorial0 - [Github](https://github.com/tutorial0)
-* :x: [撩妹神器](https://dirtypickuplines.org/)：AI 约会辅助工具，帮助你生成一些搭讪用语。其他都无所谓，只希望各位用完了挨打的时候不要把我说出来就行
-
-#### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
-* :white_check_mark: [奇异字体生成器](https://freakyfontgenerator.top)：帮助用户创建和转换各种独特的字体样式 (通过 unicode 编码转换) - [更多介绍](https://juejin.cn/post/7404777095623622666)
-
-### 2024 年 8 月 21 号添加
-#### 91化简 - [Github](https://github.com/Hacker233/resume-design)
-* :x: [91化简](https://91huajian.cn/)：简历设计生成器（开源），内置两款设计器，多种免费模板，支持导出 PDF、JSON
-
-### 2024 年 8 月 19 号添加
-#### seeeeal - [Github](https://github.com/seeeeal)
-* :x: [下一本读什么](https://xiayibendushenme.com/)：汇总优质书单，解决书荒；按照书单主题与名人推荐进行分类，绝大多数图书在豆瓣都属于8.0以上 - [更多介绍](https://xiayibendushenme.com/about)
-
-#### Airyland - [Github](https://github.com/airyland)
-* :white_check_mark: [Awesome Flux AI](https://www.awesomefluxai.com)：Flux AI LoRA 和资料导航
-
-### 2024 年 8 月 16 号添加
-#### mabengda（北京）
-* :white_check_mark: [Watch together](https://chromewebstore.google.com/detail/watch-together/lghnmgibkhmfeiiekigddnimaaabdmhk)：帮助身处异地的多个用户观看一个视频时同步进度的谷歌插件。打开相同视频网站->连接线通房间->拖动进度条或者暂停播放。
-
-### 2024 年 8 月 15 号添加
-#### Ethan Sunray（纽约）
-* :white_check_mark: [Perchance AI](https://perchanceai.cc)：无需注册即可在线使用 18 个 AI 图片生成器和体验 75 个文生图绘画风格，还支持在线使用 Flux AI、SDXL、SDXL Lightning 和 SDXL Flash 模型
-
-#### 诸葛子房 
-* :x: [TikTok 收益计算器](https://tiktok-money-calculator.online/zh)：帮助用户估算在 TikTok 上发布视频可能获得的收入。输入关键数据，如粉丝数量、平均观看量等，快速计算出预期收益额。
-
-#### 微芒不朽(长沙) - [Gitee](https://gitee.com/zhanhongzhu/zhanhongzhu)
-* :white_check_mark: [微芒计划](https://kestrel-task.cn)：待办效率管理工具（Windows 平台）（使用 Tauri 构建）
-
-### 2024 年 8 月 14 号添加
-#### zane12580 - [即刻](https://jike.city/zane12580)
-* :x: [LLM GPU Helper](https://llmgpuhelper.com)：大模型资源平台：提供 GPU 内存计算、个性化模型推荐和全面知识库，助您精准选择和高效应用AI模型。
-  
-### 2024 年 8 月 13 号添加
-#### biboom(广州) - [Github](https://github.com/li150/mapping_scanning)
-* :white_check_mark: [配图扫描 App](https://github.com/li150/mapping_scanning)：基于本地 OCR 配图扫描的文字识别 App
-
- #### Avery (广州) 
-* :white_check_mark: [AI Tool Trek](https://aitooltrek.com/)：AI 工具导航站 & 实时 AI 新闻预览
-
- #### Airyland - [Github](https://github.com/airyland)
-* :white_check_mark: [Logo.surf](https://www.logo.surf)：文字生成 Logo & Favicon
-
-### 2024 年 8 月 12 号添加
-#### blank - [Twitter](https://x.com/blankwebdev)
-* :white_check_mark: [AITDK SEO Extension](https://aitdk.com/extension)：All-in-One SEO 浏览器插件（免费），支持一键查看网站的流量、Whois、关键词密度等 SEO 信息
-* :white_check_mark: [Comment Fast](https://commentfast.com/)：基于 AI 的快速评论工具，为任意帖子或文章生成高质量评论
-
-### 2024 年 8 月 10 号添加
-#### 木木木
-* :white_check_mark: [MP4 to MP3](https://mp4t.com/zh/)：免费、安全、快速的 MP4 转 MP3 工具
-
-### 2024 年 8 月 8 号添加
-#### zxcHolmes
-* :x: [SpeakGo 实时同声传译工具](https://speakgo.app)：高效便捷的实时同声传译工具
-
- #### Airyland - [Github](https://github.com/airyland)
-* :white_check_mark: [IP.network](https://www.ip.network)：IP 地址查询
-* :white_check_mark: [DNS.fish](https://dns.fish): 域名 DNS 记录查询
-
-### 2024 年 8 月 6 号添加
-#### tutorial0 - [GitHub](https://github.com/tutorial0)
-* :white_check_mark: [One-Click SEO Links](https://chromewebstore.google.com/detail/jllecdngjonjinaffdjdcojfdikimdlj?authuser=0&hl=zh-TW) (Chrome 插件）帮助站长进行 SEO 外链推广。包含全自动模式、半自动模式和人工模式，在外链推广的复杂填表场景能节省大量时间。
-
-### 2024 年 8 月 5 号添加
-#### underwood
-* :white_check_mark: [Midjourney Sref code 精选库](https://midjourneysref.com/)：在 Midjourney 的 prompt 输入 `--sref xxx` ，可以固定生成某种特定风格的图片。这对很多人来说非常方便，不用写一堆效果词，只要记住几位数字就可以。但 `--sref xxx` 有大概 40 亿个，其中重复或者质量不佳的不在少数。因此做了一个网站把一些个人觉得不错的 sref code 收集起来并进行分类，方便新人或设计师检索
-
-#### 0xJoanne - [Github](https://github.com/0xjoanne)
-* :white_check_mark: [CosmeticCheck](https://www.cosmeticcheck.app)：化妆品批号免费查询网站
-
-### 2024 年 8 月 3 号添加
-#### 7SaiWen(成都)
-* :white_check_mark: [GPS测速仪 - 速度表](https://apps.apple.com/cn/app/id1497060416)：GPS测速仪 - 跟踪您的速度和行程！Tesla Model 3 车主最爱速度表！
-
-#### Airyland - [Github](https://github.com/airyland)
-* :white_check_mark: [Query.Domains](https://query.domains)：极速域名注册状态及 whois 批量查询
-* :white_check_mark: [Favicon.im](https://favicon.im): 获取网站 Favicon
-
-### 2024 年 8 月 2 号添加
-#### 瓶水之冰(澳洲布里斯班) - [Github](https://github.com/zzAlexzz), [网站](https://geilio.com/), [小红书](http://xhslink.com/tXLmAR)
-* :white_check_mark: [Geilio Timer](https://geilio.com/)：高度可定制的计时器，适用于考试单题计时提醒等，[App Store](https://apps.apple.com/lt/app/geilio-timer/id6446805524)，[Google Play](https://play.google.com/store/apps/details?id=com.geilio.android.timer)
-
-### 2024 年 8 月 1 号添加
-#### Oiov(成都) - [Github](https://github.com/oiov)
-* :white_check_mark: [WR.DO](https://wr.do)：基于 Cloudflare 的多租户 DNS 分发系统 - [仓库](https://github.com/oiov/wr.do)
-
-#### Xigong(郑州) - [Github](https://github.com/Xigong93)
-* :clock8: [小篆传包](https://github.com/Xigong93/XiaoZhuan)：一键更新安卓 Apk 到华为、小米等多个应用市场，助力 App 发版
-
-#### 木木木
-* :x: [SVG to PNG](https://svgzz.com/)：SVG 转 PNG、JPG、WebP 格式，支持多文件，支持设置宽度或高度
-
-### 2024 年 7 月 30 号添加
-#### 疯狂的小波
-* :white_check_mark: [Mejorar Imagen](https://mejorarimagen.org/)：AI 图像增强器：用 AI 将图片放大 10 倍，最高提升到 12K 分辨率
-
-## 👉 查看 [2018 年 ~ 2024 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
+## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
 ### 基于本列表数据源的产品
