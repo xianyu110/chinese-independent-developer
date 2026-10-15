@@ -24,7 +24,41 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 15 号添加
+
+#### 桜落 - [Github](https://github.com/Kaixxrua)
+* :white_check_mark: [AIGCNEWS](https://aigcnews.cn/)：AI 项目与资讯检索站，用自然语言找开源项目、比较 Star 增长，集中浏览论文和 X 中文动态，也能通过 MCP 让 Agent 检索；免费使用，部分功能需登录，MCP 有调用额度 - [源码与使用说明](https://github.com/Kaixxrua/AIGCNEWS)
+
+#### BogerHou - [Github](https://github.com/BogerHou)
+* :white_check_mark: [书径 EbookNest](https://ebooknest.store/)：用中文介绍外文非虚构书，结合原书页面预览和专题导读，按兴趣比较书籍、选择阅读方向 - [更多介绍](https://ebooknest.store/about)
+
+#### Qiwei - [Github](https://github.com/qiweiii)
+* :white_check_mark: [TovoType](https://type.tovo.dev)：Mac 语音输入 App，转录和润色全部在本机完成、断网也能用，说完自动整理成文，支持自定义词典、口语转列表/文件路径，还能说关键词展开成预存的整段文字
+* :white_check_mark: [MacGrid](https://trymacgrid.com)：Mac 多桌面（Spaces）管理 App，把桌面和全屏应用从一条横排排成二维网格，触控板上下左右四向滑动即可跳转，支持拖拽自定义布局，无需关闭 SIP
+* :white_check_mark: [Xext](https://chromewebstore.google.com/detail/cgnmmlaajjmbbaeihnlicgpahgjmclhc)：X 网页增强插件，全程本地运行、无需登录 X 或授权，可隐藏侧边栏和推广内容、调整信息流密度与主题，支持收藏帖子和保存搜索，还能用浏览器内置 AI 直接写推文
+* :white_check_mark: [Aggressive Memory Saver](https://chromewebstore.google.com/detail/aggressive-memory-saver/domkkegggmkeojhljedmhidkhjfcagab)：Chrome 内存优化插件，自动卸载不活跃标签页来释放内存，比 Chrome 自带的内存节省模式更激进、更可控，支持自定义超时和按域名设置规则，并保护固定标签和播放中的标签页
+
+#### AmintaCCCP - [Github](https://github.com/AmintaCCCP)
+* :white_check_mark: [GithubStarsManager](https://gsm.aminta.top)：GitHub 星标管理桌面应用，AI 自动生成摘要与标签，支持语义搜索和版本更新追踪，数据本地保存、打开即用，支持 Windows / macOS / Linux - [源码](https://github.com/AmintaCCCP/GithubStarsManager)
+
+#### Axes Explorer - [Github](https://github.com/Peacoke)
+* :white_check_mark: [The 12 Axes](https://12axes.site/)：多维度政治倾向自我反思测试工具，提供 60 题精简版与 288 题完整版，从 12 个独立维度分析政治与社会议题取向，提供意识形态匹配与历史人物参考，纯前端运算、无需注册登录、答题进度与答案完全保存在浏览器；支持英语、西班牙语、葡萄牙语，完全免费
+
+#### movclantian - [Github](https://github.com/movclantian)
+* :white_check_mark: [MastraWork](https://github.com/movclantian/mastra-desktop)：开源桌面 AI 工作台，把一次 Agent 运行组织成可暂停、可回溯、可交接的任务——改代码、跑命令、调 LSP 是「工程任务」，计划/构建/复查三种模式管权限，主 Agent 还能带专家团队分工协作；模型服务自己配、数据默认留在本机，支持 Windows / macOS / Linux，Apache-2.0 开源
+
+#### AnshengHu - [Github](https://github.com/zgaobai)
+* :white_check_mark: [AI Hairstyle Fit](https://aihairstylefit.com/)：男士 AI 发型预览工具，上传正面照并可选填写偏好，对比新发型与原图，查看日常打理建议并生成理发卡；生成需登录，符合条件且完成验证的新账号可获 10 积分体验一次预览，后续按需购买积分包，无订阅；照片和结果 24 小时后清理
+
 ### 2026 年 10 月 14 号添加
+
+#### 石头(杭州) - [Github](https://github.com/rockythink), [博客](https://elazer.wang)
+* :white_check_mark: [Copyla](https://copyla.elazer.wang)：Mac 剪贴板管理工具，数据完全存在本机、无需账号，支持全文搜索历史、多项按顺序一次贴回、Pinboard 常用片段和本机 OCR，14 天免费试用后 ¥79 买断
+* :white_check_mark: [Clacklet](https://clacklet.elazer.wang)：Mac 键鼠音效工具，15 套机械键盘/打字机等按键声 + 8 种雨声海浪等环境声 + 打字猫等桌面反馈，不录音不存键入内容，App 内不限时免费试用，¥19.9 买断
+
+#### kuxiaowo - [Github](https://github.com/kuxiaowo)
+* :white_check_mark: [AIpet · 丛雨桌宠](https://github.com/kuxiaowo/AIpet-Murasame/releases)：Windows AI 桌面伴侣，支持本地或云端对话、语音输入输出、可选屏幕感知和对话记忆；提供免安装 EXE，聊天需配置模型或 API Key，基于 MurasamePet 继续开发 - [源码与使用说明](https://github.com/kuxiaowo/AIpet-Murasame)
+* :white_check_mark: [待办清单时间线](https://todolist.nethub.wiki/)：学习任务管理网站，用时间线查看截止日期，将任务拖入每日计划，支持习惯管理、ManageBac 作业导入及可选 AI 助手；支持中英文，保存和管理任务需登录 NetHub 账号 - [源码与使用说明](https://github.com/kuxiaowo/To-do-list)
 
 #### hurry - [Github](https://github.com/hurry060215-tech)
 * :white_check_mark: [LearnNote](https://hurry060215-tech.github.io/learnnote-assistant/)：本地学习工作台，把视频字幕与 PDF、Markdown 等资料整理为可编辑笔记，保留原文和来源时间点供核对；无需 LearnNote 账号，自选模型，远程 API 费用另计；当前 Windows 可用，macOS/Linux 预览，源码采用 Apache-2.0 - [源码与使用说明](https://github.com/hurry060215-tech/learnnote-assistant)
@@ -49,7 +83,7 @@
 #### Ken - [Github](https://github.com/kccarlos)
 * :white_check_mark: [DiscourseCopilot](https://chromewebstore.google.com/detail/discoursecopilot/dpngnaiiofobfjleabbhnfmdflddnhac)：Discourse 论坛 AI 阅读助手（Chrome 插件），一键总结几百楼的长帖，或让 AI 在全站搜索并给出带楼层引用的答案；自带 OpenAI/Claude/DeepSeek 等 key 或用 Ollama 本地模型，无服务器、无统计，免费开源 - [源码](https://github.com/kccarlos/DiscourseCopilot)
 
-#### Hayden - [Github](https://github.com/hayden-xiong)
+#### KM1024KKM
 * :white_check_mark: [像话](https://mirrorsay.com)：无需注册，说一句英语就告诉你母语者会怎么说，再带你跟读、逐词对比；英文卡住时说中文也行（iOS / Android，免费）
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
@@ -5538,90 +5572,9 @@
 #### Frey(深圳) -  [博客](https://5ea.org)
 * :white_check_mark: [IP.IM](https://ip.im)：简洁准确的 IP 信息查询网站，高精度的 IP 查询，支持 curl
 
-### 2024 年 9 月 28 号添加
-#### xurenda(北京) - [Github](https://github.com/xurenda)
-* :white_check_mark: [enjoy-player](https://github.com/xurenda/enjoy-player)：视频播放器，支持 Web 网页和 Windows、Mac、Linux 桌面应用。主要用于 CMS 视频采集站资源的在线浏览，实现了 HLS 视频流（m3u8）的在线播放
-
-### 2024 年 9 月 27 号添加
-#### 风巢森淼(北京) - [Github](https://github.com/wincatcher), [博客](https://okjk.co/q4mQVu)
-* :white_check_mark: [主打“高颜值”、“说人话”的开源许可证选择器](https://open-source-license-chooser.toolsnav.top)：通过一系列 通俗易懂 问题帮助用户选择适合自己的开源许可证。网站另外包含 许可证比较器 和 许可证使用情况图表，为用户提供直观且立体的开源许可证信息 - [更多介绍]( https://juejin.cn/post/7418548134593527817)
-
-#### yuesheng zheng(深圳)
-* :white_check_mark: [SoColoring](https://www.socoloring.com)：AI 驱动的可打印填色稿生成平台，支持文本生成填色稿、AI一键上色等功能，同时还有丰富的免费填色稿图库供用户自由下载，欢迎来这里寻找填色的乐趣
-
-### 2024 年 9 月 26 号添加
-#### xiaocui723 (佛山)
-* :white_check_mark: [OkeiAI](https://okeiai.com)：AI 导航站，内容有 AI 生成。目前免费收录，只需添加我们的 dofollow 反链即可。收录产品不限于 AI 产品
-
-#### benjamin（北京）- [Github](https://github.com/settings/profile)
-* :white_check_mark: [TikTok Voice Generator](https://tiktokvoice.net)：生成 TikTok 热门配音音效的文本转语音工具
-
-### 2024 年 9 月 25 号添加
-#### Sawana Huang
-* :white_check_mark: [SeeWhatNewAI](https://www.seewhatnewai.com): AI 产品目录、AI 导航站。搜集热门和用户提交的 AI 相关网站产品。从期望用户、发现的问题和解决方案等方面简单分析这些产品，发现合适的 AI 工具
-
-### 2024 年 9 月 24 号添加
-#### Ethan Sunray
-* :white_check_mark: [Random Pokemon Generator](https://randompokemongenerator.me)：宝可梦图片生成器，支持从 1400+ 宝可梦角色中随机生成，可自由修改类型、区域和生成数量等。输入你想象中的宝可梦，一键生成，支持 2D 和 3D 风格。
-
-#### Nebula
-* :white_check_mark: [Tabbiy](https://tyruslockwood.github.io)：管理浏览器标签的扩展程序，集成自动分组功能，可根据使用习惯定制分组规则。集成快捷键切换最近使用的标签功能，以及个性化设置。让您在工作和生活中告别标签杂乱，提高效率且改善浏览体验。
-
-### 2024 年 9 月 23 号添加
-#### loggerhead - [Github](https://github.com/loggerhead)
-* :white_check_mark: [JSON For You](https://json4u.cn)：JSON 在线可视化与处理工具。不仅支持常规的 JSON 处理，包括格式化/美化、最小化、校验、比较。还支持用图或表可视化浏览 JSON 数据，支持语义化/结构化比较两个 JSON 数据的差异，支持文本比较非 JSON 文本，支持将 JSON 与 CSV 互转，并且支持在线使用 jq。
-
-### 2024 年 9 月 22 号添加
-#### Ethan Sunray（纽约）
-* :white_check_mark: [Compress JPG](https://compressjpg.io)：免费图片压缩工具，支持压缩 JPG、JPEG、PNG、WebP、GIF、AVIF、JXL 和 QOI 格式的图片，无需注册或登录。压缩过程在浏览器端完成，最多可同时处理多达 1000 个图片文件。文件永远不会离开您的设备，确保完全的隐私。可将压缩结果下载为 ZIP 压缩包。
-
-### 2024 年 9 月 21 号添加
-#### ConstantLove - [Github](https://github.com/ConstantLove)
-* :white_check_mark: [SenGen - AI句子生成器](https://aisengen.com)：根据您的输入主题生成句子。无论您是作家、学生，还是单纯喜欢玩转语言的人，我们的工具都能提供快速高效的写作增强方式。
-
-#### Amyang(美国) - [Github](https://github.com/AmyangXYZ), [博客](https://amyang.dev)
-* :white_check_mark: [MiKaPo](https://mikapo.amyang.dev)：AI 在线动捕控制 MMD 纸片人模型 - [更多介绍](https://github.com/AmyangXYZ/MiKaPo)
-
 ### 2024 年 9 月 20 号添加
 #### Q-Sansan
 * :white_check_mark: [OC Maker](https://www.ocmaker.net)：用 AI 生成原创角色图像
-
-### 2024 年 9 月 18 号添加
-#### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
-* :white_check_mark: [改革后法定延迟退休年龄计算器 & 退休倒计时工具](https://daojishi.fun)：帮助用户轻松计算退休时间并以有趣的方式倒数至退休日。我们的目标是让用户以积极乐观的态度面对工作和生活 - [更多介绍](https://juejin.cn/post/7415651555120824354)
-
-### 2024 年 9 月 14 号添加
-#### Kestrel - [Github](https://github.com/kestrela)
-* :white_check_mark: [退休年龄计算器](http://test.kestrel-task.cn/)：按照《关于实施渐进式延迟法定退休年龄的决定》附表对照关系，您通过法定退休年龄计算器，选择出生年月、性别及人员类型，即可计算出对应的改革后法定退休年龄、改革后退休时间、延迟月数
-
-### 2024 年 9 月 10 号添加
-#### Saga (Guangzhou) - [Github](https://github.com/s87343472)
-* :white_check_mark: [Show HN Today](https://showhntoday.com)：汇集 HackerNews 中热门项目的网站。每天从 Hacker News 平台中提取最有趣、最创新的项目和新闻，并通过简洁的界面展示，帮助用户轻松跟踪技术界的最新趋势。无论你是开发者、创业者还是技术爱好者，Show HN Today 都为你提供一个了解前沿技术和创意项目的便捷窗口。
-
-#### 陆永剑 - [Github](https://github.com/deer-code)
-* :white_check_mark: [桌面新宠(NewPet) ](https://apps.apple.com/cn/app/%E6%A1%8C%E9%9D%A2%E6%96%B0%E5%AE%A0/id6499423794?mt=12) : 与效率工具深度互动的桌面宠物
-
-### 2024 年 9 月 9 号添加
-#### biboom(广州) - [Github](https://github.com/li150/li150)
-* :white_check_mark: [天命打工人插件](https://chromewebstore.google.com/detail/%E5%A4%A9%E5%91%BD%E6%89%93%E5%B7%A5%E4%BA%BA/annhlammehogodlbcnncafpgnefbmpah)：倒计时的时间摸鱼浏览器插件
-
-### 2024 年 9 月 6 号添加
-#### Cloudchewie(武汉) - [Github](https://github.com/Robert-Stackflow), [博客](https://blog.cloudchewie.com)
-* :white_check_mark: [CloudOTP](https://apps.cloudchewie.com/zh_CN/cloudotp)：双因素验证器（支持 Android 和 Windows 平台，支持从第三方软件导入和云备份） - [更多介绍](https://apps.cloudchewie.com/zh_CN/cloudotp/introduction)
-* :white_check_mark: [Moment](https://moment.cloudchewie.com/)：相册博客（支持自托管） - [更多介绍](https://github.com/Robert-Stackflow/Moment)
-
-#### xiaoxusdz - [Github](https://github.com/xiaoxusdz)
-* :white_check_mark: [Flux AI](https://fluxaiweb.com)：AI 图片生成器
-* :white_check_mark: [AI Lyrics Generator](https://www.lyricsgenerator.io)：免费人工智能歌词生成器和人工智能歌曲作家
-
-### 2024 年 9 月 3 号添加
-#### keycheung - [Github](https://github.com/keycheung)
-* :white_check_mark: [海德时钟](https://apps.apple.com/cn/app/hyde-clock-time-widget/id6476807443)：集精美时钟、番茄计时以及白噪音的专注类 App（苹果应用）
-
-
-### 2024 年 9 月 2 号添加
-#### 94r7(桂林) - [Github](https://github.com/WtecHtec), [博客](https://r7.nuxt.dev/)
-* :white_check_mark: [放大镜录屏](https://chromewebstore.google.com/detail/oamckfgecgfenpchklfhelhnngmhdnma?authuser=0&hl=zh-CN)：Chrome 录屏插件，可放大区域 - [更多介绍](https://www.bilibili.com/video/BV1g9noedECb/?spm_id_from=333.999.0.0&vd_source=d5b28d31bf0713b1e64a887d37daeb4a)
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

@@ -16,7 +16,16 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 15 号添加
+
+#### time410 - [Github](https://github.com/lintt76)
+* :white_check_mark: [Tikway](https://tikway.ai/)：面向开发者的多模型 AI API 接入服务，用统一 API Key 按 OpenAI、Anthropic、Gemini 协议配置请求地址，提供模型价格目录、中英文接入与排错教程和 Token 费用计算器，按使用量计费；第三方接入服务，非模型厂商官方 - [接入教程](https://tikway.ai/guides)
+* :white_check_mark: [Tikway API Examples](https://github.com/lintt76/tikway-examples)：Python 标准库调用与 Node.js SSE 流式示例，处理中文跨分块、CRLF、多行 data、流内错误和提前断流，附离线 Token 费用估算工具，无第三方依赖，MIT 开源；真实模型调用按服务价格计费
+
 ### 2026 年 10 月 14 号添加
+
+#### kuxiaowo - [Github](https://github.com/kuxiaowo)
+* :white_check_mark: [WeChat ASR Bridge](https://github.com/kuxiaowo/wechat-asr-bridge)：把 Windows 微信语音识别接成兼容 OpenAI 的 ASR 接口，支持 WAV/MP3 和 JSON/文本输出；提供免安装窗口版，可选择音频并复制或保存识别结果；需安装并登录微信 4.1.13.65，音频经微信发送至微信服务端，属于版本限定的实验桥接器 - [下载与使用说明](https://github.com/kuxiaowo/wechat-asr-bridge/releases/tag/v0.2.0)
 
 #### lenoooin - [Github](https://github.com/lenoooin)
 * :white_check_mark: [Roblox GUI Maker](https://robloxguimaker.dev/)：一句话描述商店、HUD、背包或弹窗，生成最多 4 版 Roblox 游戏界面草图，附组件树和样式变量，桌面端和手机端同时预览，可用插件一键发送到 Roblox Studio；第一个 GUI 免费
