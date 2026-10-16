@@ -24,7 +24,35 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 16 号添加
+
+#### 望山(陕西) - [Github](https://github.com/wangshan9870)
+* :white_check_mark: [WeChat to Markdown](https://wx2md.com/)：把微信公众号文章一键保存为本地 Markdown，浏览器内处理、不上传正文，可导入 Obsidian / 思源 / Typora；Freemium — Chrome 扩展 - [更多介绍](https://github.com/wangshan9870/wechat-to-markdown)
+
+#### yzfly - [Github](https://github.com/yzfly)
+* :white_check_mark: [LightRead 轻阅](https://github.com/yzfly/LightRead/releases/latest)：开源电子书与论文阅读器，支持 EPUB / MOBI / PDF、本地书库、批注与听书，本地阅读无需注册或联网，提供 macOS / Windows / Linux 安装包 - [源码与使用说明](https://github.com/yzfly/LightRead)
+
+#### weidacn - [Github](https://github.com/weidacn)
+* :white_check_mark: [Ozil Goal AI](https://ozilgoalai.pro)：上传一张授权照片，用 Kling O3 重新生成一段虚构的破门集锦（挑射、突破防守、完成射门），保留你的脸、衣服和鞋，输出 10 秒带观众声的竖屏 MP4，无需提示词或参考视频，$9.99 一条；与厄齐尔、阿森纳及欧冠赛事无关
+* :white_check_mark: [Ghost Filter Prank](https://ghostfilterprank.net)：上传一张自拍生成鬼影从肩后爬出的 10 秒竖屏恐怖视频（带声音），可选「慢慢靠近」或「突然扑脸」两种惊吓，$4.99 一次性付费，无需拍摄或安装
+* :white_check_mark: [Seedance 3.0 AI](https://seedance3ai.plus)：PlusFrame 工作室的 AI 视频生成站，支持文字、图片与参考素材（图 / 视频 / 音频）转视频并带原生音频，可选 Seedance 2.5 或 Seedance 2.0 的 Mini / Fast / Standard 档，5 到 30 秒、最高 1080p；站名里的 Seedance 3.0 尚未上线、仍处计划中，非官方站点
+* :white_check_mark: [Alors on Danse AI](https://alorsondanseai.im)：上传两张照片，把你和朋友分别放进白色影棚的键盘位与笔记本位，合成 10 秒双人合奏视频，可选 16:9 横屏或 9:16 竖屏，无需写提示词，$9.99 一条
+* :white_check_mark: [Ausar AI](https://ausarai.com)：一站式 AI 视频与图像生成工作台，可调 Kling 3.0、Veo 3.1、Seedance 2.0、Wan 3.0、Hailuo 2.3、Nano Banana Pro、GPT Image 2、Seedream 5、Grok Imagine 等模型，另有 Motion Control 把 30 秒以内的舞蹈或动作片段迁移到任意角色，以及上传一张照片即可套用的热门舞蹈模板（10 秒、无需提示词）
+* :white_check_mark: [Bad Times AI](https://badtimesai.net)：上传一张自己的、宠物的或孩子的照片，生成「Bad Times」吵架梗的 10 秒竖屏 MP4（带该梗原声）：宠物版让猫狗站起来指着镜头，人物版走宝宝式指点和摊手，含「等等先别动手」的停顿镜头，$9.99 一条
+* :white_check_mark: [Remaker AI](https://remaker-ai.net)：AI 图像生成、编辑与放大工作台，可选 Nano Banana 2 / 2.1 / Pro、GPT Images 2.5、GPT Image 2、Seedream 5.0、Flux Kontext、Qwen Image 2.0、Grok Imagine 等模型，输出最高 4K，另带放大、去背景、照片滤镜与 Veo 3.1 视频，每次生成前先显示价格；与使用 Remaker 名称的其他产品无关
+* :white_check_mark: [Jean Phil AI](https://jeanphilai.pro)：不用上传照片，从巴黎公寓、街舞擂台、美术馆、咖啡馆露台、鬼屋 5 个场景与拳击、Gang Gang 舞、走秀、捻胡子 4 个动作里组合，生成以虚构金发卷胡绅士为主角的 10 秒竖屏视频（带声音），$9.99 一条
+* :white_check_mark: [Bulin 47 AI](https://bulin47ai.art)：上传一张照片，把你放进红灯光餐厅外的街头表演机位，生成 10 秒带声竖屏 MP4，$9.99 起；与 Bulin 47、Kevin Wai 及其厂牌无关
+* :white_check_mark: [Bulin 47 Viral](https://bulin47viral.org)：上传一张授权照片，用 Kling O3 重新生成一段街头 freestyle 表演场景（含人物、街景与新配的氛围声），不提供源视频也不使用原曲，固定场景、不支持自定义提示词，输出 10 秒竖屏 MP4，$9.99 一条
+* :white_check_mark: [Burning Bridges AI](https://burningbridgesai.pro)：上传本人加最多两位朋友的照片，生成 10 秒竖屏派对视频：你站在吊灯场景的 C 位挥手举杯、朋友在后面欢呼，带参考片段里的原曲音轨；40 积分一条（$9.99），与 Drake 及其唱片公司无关
+* :white_check_mark: [PhotoCraft](https://photocraft.my)：开源 Photoshop 替代品 PhotoCraft 的网页版入口与桌面版下载站，纯 Rust 重写，支持图层、蒙版、调整图层、图层样式、文字、矢量、画笔与真实 PSD 文件，编辑在浏览器本地完成，桌面版覆盖 Windows / macOS / Linux；站点另加付费 AI 出图与批量修图（缩放、格式转换、压缩、加水印、重命名，每批前 10 张免费），非官方站点
+
+#### Huang Zhiwen - [Github](https://github.com/wdhzw)
+* :white_check_mark: [花花记账](https://apps.apple.com/app/id6801466802)：注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费
+
 ### 2026 年 10 月 15 号添加
+
+#### HeZhenghui(深圳) - [Github](https://github.com/hezhenghui7338)
+* :white_check_mark: [Lumina](https://github.com/hezhenghui7338/Lumina)：本地优先的 AI 伴读器，把长文本按语义切成段落并逐段生成结构化摘要（段标题、要点、待解问题），摘要可溯源回原文，支持 PDF / EPUB / MOBI / AZW3 / DOCX / Markdown 等格式与扫描件本机 OCR，默认走本机 Ollama、也可接云端 API，另带跨书笔记与全局搜索、听文本、古文外语翻译和可选联网问答 — macOS 14+
 
 #### 桜落 - [Github](https://github.com/Kaixxrua)
 * :white_check_mark: [AIGCNEWS](https://aigcnews.cn/)：AI 项目与资讯检索站，用自然语言找开源项目、比较 Star 增长，集中浏览论文和 X 中文动态，也能通过 MCP 让 Agent 检索；免费使用，部分功能需登录，MCP 有调用额度 - [源码与使用说明](https://github.com/Kaixxrua/AIGCNEWS)
@@ -5530,51 +5558,6 @@
 ### 2024 年 10 月 13 号添加
 #### 阿凯呵 - [博客]( https://www.sodair.top)
 * :white_check_mark: [AI 形象照](https://luna-headshot.sodair.top/)：1 张照片轻松制作您的 AI 简历形象照，支持电脑摄像头拍摄 - 基于[开源AI换脸系统](https://github.com/loxi-opensource/luna-swapping)搭建
-
-### 2024 年 10 月 10 号添加
-#### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
-* :white_check_mark: [投资策略模拟器]( https://investment-simulator.toolsnav.top)：帮助投资者和学习者模拟和比较不同投资策略在各种市场趋势下的表现。该工具通过直观的可视化界面和详细的数据分析，让用户能够深入了解各种投资策略的优劣，从而做出更明智的投资决策 - [更多介绍](https://www.cnblogs.com/hackersay/articles/18455394/investment-strategy-simulator)
-
-#### 诸葛子房
-- :white_check_mark: [Image Splitter](https://image-splitter.online)：免费在线图像分割工具，将图片切分多块并下载
-
-#### whinc - [Github](https://github.com/whinc)
-- :white_check_mark: [小而美工具](https://whinc.github.io/ucalc-website)：有温度的微信小程序，万年历/老黄历/公历/农历/佛历/道历/节气/节日/儿童(0-7岁)生长评估/青少年(7-18岁)生长评估/成人肥胖评估/亲戚称呼/科学计算器/法定退休年龄计算器/手电筒/DNF小助手 - [Github](https://github.com/whinc/ucalc-website)
-
-#### handsometong(厦门)
-- :white_check_mark: [Poster Generator](https://postergenerator.online)：海报生成器，用 Poster Generator 创建令人惊叹的定制海报，个人或商业用途均可免费使用
-
-#### caorushizi - [Github](https://github.com/caorushizi/mediago)
-- :white_check_mark: [mediago](https://downloader.caorushizi.cn/?form=github)：视频下载，m3u8 视频提取工具 - [更多介绍](https://github.com/caorushizi/mediago)
-
-### 2024 年 10 月 9 号添加
-#### huiwan-code - [Github](https://github.com/huiwan-code)
-- :white_check_mark: [EzyGraph](https://www.ezygraph.com)：用 AI 将博客内容转化为信息图。提升内容的可读性和互动性，使复杂的内容变得简单直观。通过丰富的模板和便捷的编辑器，用户可以轻松创建吸引眼球的视觉内容，适合用于社交媒体、营销推广和品牌宣传
-
-#### Kevin（长沙）
-- :white_check_mark: [海投简历](https://mengsi.online)：一键海投简历的工具，提升找工作的效率，节省心智负担
-
-### 2024 年 10 月 6 号添加
-#### Song(广东)
-- :white_check_mark: [Colorbox Mustard](https://colorbox-mustard.com/)：受 Incredibox 启发的互动音乐创作平台,结合了生动的视觉效果和有趣的声音设计,为用户提供独特的创意体验
-
-### 2024 年 10 月 2 号添加
-#### yvonuk - [推特](https://twitter.com/mcwangcn)
-- :white_check_mark: [Web AI助手](https://web.stockai.trade)：极简、免费、易用的 ChatGPT。无需注册，Email 接码登录，GPT-4o-mini 模型免费使用，支持 GPT-4o 模型，支持实时联网
-
-#### 0xJoanne - [Github](https://github.com/0xjoanne)
-* :white_check_mark: [QRCode.fun](https://qrcode.fun)：二维码生成工具
-
-#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
-* :white_check_mark: [高亮“广告”](https://github.com/DuckDuckStudio/highlight-ad-extension)：用于高亮特定页面中的“广告”二字的扩展 - [效果文档](https://duckduckstudio.github.io/highlight-ad-extension/#/effect)
-
-### 2024 年 9 月 30 号添加
-#### Frey(深圳) -  [博客](https://5ea.org)
-* :white_check_mark: [IP.IM](https://ip.im)：简洁准确的 IP 信息查询网站，高精度的 IP 查询，支持 curl
-
-### 2024 年 9 月 20 号添加
-#### Q-Sansan
-* :white_check_mark: [OC Maker](https://www.ocmaker.net)：用 AI 生成原创角色图像
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

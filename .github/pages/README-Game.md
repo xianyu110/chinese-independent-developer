@@ -2,6 +2,19 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 16 号添加
+
+#### BogerHou - [Github](https://github.com/BogerHou)
+* :white_check_mark: [AI Browser Games](https://aibrowsergames.net/)：浏览器游戏发现目录，整理 100 款第三方游戏，支持按操作方式、节奏和人数筛选，其中 4 款附有创作者来源支持的 AI 辅助制作标注 - [更多介绍](https://aibrowsergames.net/about/)
+
+### 2026 年 10 月 15 号添加
+
+#### Qizhen Ruan - [Github](https://github.com/ruanqizhen)
+* :white_check_mark: [怀旧游戏合集](https://games.qizhen.xyz)：7 款网页小游戏合集，含 Galaga 风格太空射击，浏览器即开即玩
+
+#### Masker99(深圳) - [Github](https://github.com/Masker99)
+* :white_check_mark: [Abuja Life Game](https://abujalifegame.com/)：Abuja Life 非官方攻略与工具站（免费），提供新手指南、游戏地点查询、出租车费用估算和预算计算器，并区分 Abuja Life 与 Lagos Life 里同名城市的两个版本，另附官方游戏入口，无需注册
+
 ### 2026 年 10 月 14 号添加
 
 #### kuxiaowo - [Github](https://github.com/kuxiaowo)
