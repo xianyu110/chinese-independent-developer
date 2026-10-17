@@ -1,21 +1,51 @@
 [
   {
-    "name": "WeChat to Markdown",
-    "url": "https://wx2md.com/",
+    "name": "NanoBrowser",
+    "url": "https://github.com/zhoujungis/NanoBrowser",
     "status": "online",
-    "description": "把微信公众号文章一键保存为本地 Markdown，浏览器内处理、不上传正文，可导入 Obsidian / 思源 / Typora；Freemium — Chrome 扩展 - [更多介绍](https://github.com/wangshan9870/wechat-to-markdown)",
-    "author": "望山(陕西)",
-    "authorGithub": "https://github.com/wangshan9870",
+    "description": "轻量桌面浏览器，复用系统已装的 WebView2 引擎，图形界面与无头两个可执行文件都在 4.5 MB 左右，另附一个可通过 MCP 让 AI 工具驱动的无头自动化浏览器；目前提供 Windows 安装包",
+    "author": "zhoujungis",
+    "authorGithub": "https://github.com/zhoujungis",
     "date": "2026 年 10 月 16 号添加",
     "category": "main"
   },
   {
-    "name": "LightRead 轻阅",
-    "url": "https://github.com/yzfly/LightRead/releases/latest",
+    "name": "SkillHey",
+    "url": "https://skillhey.com/",
     "status": "online",
-    "description": "开源电子书与论文阅读器，支持 EPUB / MOBI / PDF、本地书库、批注与听书，本地阅读无需注册或联网，提供 macOS / Windows / Linux 安装包 - [源码与使用说明](https://github.com/yzfly/LightRead)",
-    "author": "yzfly",
-    "authorGithub": "https://github.com/yzfly",
+    "description": "AI Agent 技能市场，按网页与界面、图片、演示文稿、视频、文档等分类浏览，每个技能可先看作品预览与说明再下载安装到已有的 Claude Code、Codex、Cursor 等 Agent，支持中文界面",
+    "author": "jyjyxt",
+    "authorGithub": "https://github.com/jyjyxt",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "DisplayPilot",
+    "url": "https://huayanming.github.io/displaypilot/zh-Hans/?src=1c7",
+    "status": "online",
+    "description": "macOS 外接显示器控制台，用 DDC/CI 直接调亮度、音量与输入源；面板不响应 DDC/CI 时自动改用伽马表调光，另含色彩校准（基准只读取一次，反复调节不累积误差）与「先隔离再删除」的开发者缓存清理。付费买断，14 天试用功能完整，不需要注册账号",
+    "author": "huayanming",
+    "authorGithub": "https://github.com/huayanming",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Glim",
+    "url": "https://github.com/NeoPanic/Glim",
+    "status": "online",
+    "description": "免费开源的 Mac 多格式文件查看器，在同一工作区查看 Markdown 图表与公式、PDF、图片、JSON、CSV 和源代码，支持 Apple Silicon 与 Intel - [下载试用](https://github.com/NeoPanic/Glim/releases/latest)",
+    "author": "NeoPanic",
+    "authorGithub": "https://github.com/NeoPanic",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Anatomy Skill",
+    "url": "https://anatomyskill.org",
+    "status": "online",
+    "description": "输入一段技术概念描述，生成用等距机械动画讲解其原理的 MP4 视频与可交互 HTML 图，无需安装",
+    "author": "weidacn",
+    "authorGithub": "https://github.com/weidacn",
     "date": "2026 年 10 月 16 号添加",
     "category": "main"
   },
@@ -140,12 +170,152 @@
     "category": "main"
   },
   {
+    "name": "Hotel Lobby AI",
+    "url": "https://aihotellobby.dev",
+    "status": "online",
+    "description": "双人照片视频生成工具，将两张人像照片生成橙色演播室表演视频，支持左右人物位置、可选动作提示、画质选择及 MP4 预览下载；生成需登录并购买积分",
+    "author": "fpy5627",
+    "authorGithub": "https://github.com/fpy5627",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Lucer AI Video",
+    "url": "https://lucer.art",
+    "status": "online",
+    "description": "面向创作者的 AI 图像与视频平台，支持文生图、图生图，Michael Jackson、Raindance、Hotel Lobby 等热门视频特效，以及去水印、画质增强、滤镜修复；无需订阅，按积分按次计费，生成失败自动退还",
+    "author": "Vincent",
+    "authorGithub": "https://github.com/Vincent-LuoFeng",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Screenshot Editor",
+    "url": "https://screenshoteditor.net/",
+    "status": "online",
+    "description": "截图文字编辑工具（免费），本地 OCR 识别文字后擦除或替换，全程在浏览器完成，不上传、不加水印，适合清理截图、海报和商品图",
+    "author": "Vincent",
+    "authorGithub": "https://github.com/Vincent-LuoFeng",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Personalized Gift",
+    "url": "https://personalizedgift.art",
+    "status": "online",
+    "description": "生日、纪念日、圣诞等场合，几分钟做出带对方名字的专属歌曲，再通过专属页面送给对方",
+    "author": "Vincent",
+    "authorGithub": "https://github.com/Vincent-LuoFeng",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Growing Up Video Maker",
+    "url": "https://growingupvideoai.com",
+    "status": "online",
+    "description": "上传从婴儿到现在的照片，生成有故事感转场、可配自己音乐的 AI 成长视频，最长支持 2 分钟",
+    "author": "Vincent",
+    "authorGithub": "https://github.com/Vincent-LuoFeng",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Quick Get Well",
+    "url": "https://quickgetwell.com/",
+    "status": "online",
+    "description": "英文康复慰问措辞筛选工具，按关系、场景、语气和格式挑选可修改的例句，当前免费且无需注册，附教师纸卡 PDF 和职场关怀措辞练习",
+    "author": "BogerHou",
+    "authorGithub": "https://github.com/BogerHou",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Chinese Gender Predictor",
+    "url": "https://chinesegenderpredictor.net/",
+    "status": "online",
+    "description": "英文民俗娱乐网站，将公历生日和受孕日期换算为农历年龄与月份后查询传统性别表，另有独立虚岁计算器及免费 A4 / US Letter 派对游戏 PDF；无需注册，日期在浏览器内处理，不能用于医学判断 - [计算方法与来源](https://chinesegenderpredictor.net/how-it-works/)",
+    "author": "BogerHou",
+    "authorGithub": "https://github.com/BogerHou",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "GemiAi",
+    "url": "https://gemiai.cn/",
+    "status": "online",
+    "description": "AI 对话与绘图工作台，可写作、理解文档和图片、根据描述生成或修改图片，也能创建网页；支持网页、微信小程序「AI聊天工具箱」、Android 与 iOS，使用积分及会员计费 - [多端入口](https://gemiai.cn/download)",
+    "author": "16871233",
+    "authorGithub": "https://github.com/16871233",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Smalltown Boy AI",
+    "url": "https://smalltownboyai.app/",
+    "status": "online",
+    "description": "AI 双人舞蹈视频生成工具，上传两张单人照片或一张双人合照（人物、宠物均可），无需写提示词，生成 21 秒 720p 9:16 竖屏视频；生成需登录并购买积分",
+    "author": "airobushotpot",
+    "authorGithub": "https://github.com/airobushotpot",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "知迹",
+    "url": "https://zhiji.aizeten.me",
+    "status": "online",
+    "description": "多模型 AI 对话与个人知识图谱，同一段对话可切换模型并延续已有上下文，回答支持多种音色朗读；每次对话后，自动整理摘要、标签与主题关联，方便搜索和查看个人的知识图谱 — Web 应用 - [更多介绍](https://zhiji.aizeten.me/press-kit)",
+    "author": "my19940202(上海)",
+    "authorGithub": "https://github.com/my19940202",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Indie Radar",
+    "url": "https://radar.everythingisok.top/",
+    "status": "online",
+    "description": "出海与独立开发 90% 降噪情报站，盯紧一手海外创客源，本地 pgvector 向量去重 + 5 轴打分，每天精选 2~4 条高价值工具与真实变现案例，全自用无广告；提供 Telegram 点滴广播与 GitHub 每日 Markdown 归档 - [源码与每日归档](https://github.com/louis-cai/daily-indie-radar)",
+    "author": "louis-cai",
+    "authorGithub": "https://github.com/louis-cai",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "WeChat to Markdown",
+    "url": "https://wx2md.com/",
+    "status": "online",
+    "description": "把微信公众号文章一键保存为本地 Markdown，浏览器内处理、不上传正文，可导入 Obsidian / 思源 / Typora；Freemium — Chrome 扩展 - [更多介绍](https://github.com/wangshan9870/wechat-to-markdown)",
+    "author": "望山(陕西)",
+    "authorGithub": "https://github.com/wangshan9870",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "LightRead 轻阅",
+    "url": "https://github.com/yzfly/LightRead/releases/latest",
+    "status": "online",
+    "description": "开源电子书与论文阅读器，支持 EPUB / MOBI / PDF、本地书库、批注与听书，本地阅读无需注册或联网，提供 macOS / Windows / Linux 安装包 - [源码与使用说明](https://github.com/yzfly/LightRead)",
+    "author": "yzfly",
+    "authorGithub": "https://github.com/yzfly",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
     "name": "花花记账",
     "url": "https://apps.apple.com/app/id6801466802",
     "status": "online",
     "description": "注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费",
     "author": "Huang Zhiwen",
     "authorGithub": "https://github.com/wdhzw",
+    "date": "2026 年 10 月 16 号添加",
+    "category": "main"
+  },
+  {
+    "name": "DisplayPilot",
+    "url": "https://huayanming.github.io/displaypilot/zh-Hans/?src=1c7",
+    "status": "online",
+    "description": "macOS 外接显示器控制台，用 DDC/CI 直接调亮度、音量与输入源；面板不响应 DDC/CI 时自动改用伽马表调光，另含以面板原始曲线为基准的色彩校准，以及先隔离再删除的开发者缓存清理",
+    "author": "huayanming",
+    "authorGithub": "https://github.com/huayanming",
     "date": "2026 年 10 月 16 号添加",
     "category": "main"
   },
@@ -17260,133 +17430,13 @@
     "category": "main"
   },
   {
-    "name": "Image to excel",
-    "url": "https://itexcel.izhiyakeji.com/zh-Hans/",
-    "status": "online",
-    "description": "识别图片中的表格并转成可编辑的 Excel 文档",
-    "author": "zhiya(武汉)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Notion Exporter",
-    "url": "https://notionexporter.com/",
-    "status": "online",
-    "description": "将 Notion 内容转成卡片，方便在社交媒体分享 - [更多介绍](https://notionexporter.com/zh-hans/post/zh-hans-notion-to-redbook)",
-    "author": "Shanshi",
-    "authorGithub": "https://github.com/Shanshi66",
-    "date": "2024 年 10 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "扇贝单词助手V3",
-    "url": "https://shanbay.pages.dev",
-    "status": "online",
-    "description": "专为扇贝网用户打造的 Chrome 插件，帮助您在任何网页上轻松高效地学习英语 - [Github](https://github.com/honwhy/shanbay-ext)",
-    "author": "Honwhy Wang",
-    "authorGithub": "https://github.com/honwhy",
-    "date": "2024 年 10 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Inpodcast AI",
-    "url": "https://inpodcast.ai",
-    "status": "online",
-    "description": "将文档转成播客音频，支持 PDF、Word、Markdown 和 TXT 文件格式",
-    "author": "Ethan Sunray",
-    "authorGithub": "",
-    "date": "2024 年 10 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "MvpFast",
-    "url": "https://www.mvpfast.top",
-    "status": "online",
-    "description": "帮助独立开发者快速构建 MVP 的开发模板，包含文字+视频教程，从0到1构建网站应用",
-    "author": "Kajian(佛山)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "iFinder",
-    "url": "https://www.ifinder.one",
-    "status": "offline",
-    "description": "网页关键词高亮插件，支持多个关键词高亮和定位，在 Google 搜索关键词时会自动高亮",
-    "author": "xibobo(上海)",
-    "authorGithub": " https://github.com/my19940202",
-    "date": "2024 年 10 月 17 号添加",
-    "category": "main"
-  },
-  {
-    "name": "网页微信书评插件",
-    "url": "https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/kfjimgaoegibikoojcbnkbffkongnoep",
-    "status": "online",
-    "description": "微信读书网页版本显示评论的插件，解答阅读中的困惑，了解他人的见解，不做一个孤独的阅读者",
-    "author": "xibobo(上海)",
-    "authorGithub": " https://github.com/my19940202",
-    "date": "2024 年 10 月 17 号添加",
-    "category": "main"
-  },
-  {
-    "name": "图片分割器",
-    "url": "https://imagesplitter.vip/zh",
-    "status": "online",
-    "description": "创建 Instagram 拼图效果以及微信九宫格效果以及有图片分割需求的场景。支持批量分割",
-    "author": "xingstarx(北京)",
-    "authorGithub": "https://github.com/xingstarx",
-    "date": "2024 年 10 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Abgerny",
-    "url": "https://abgerny.net",
-    "status": "online",
-    "description": "Abgerny 是粉丝自制模组，拥有超现实节奏、古怪角色和无限的创意创作可能性。",
-    "author": "xiaocui723(广东) ",
-    "authorGithub": "",
-    "date": "2024 年 10 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Biofy",
-    "url": "https://Biofy.cn",
-    "status": "online",
-    "description": "定制你的个人主页，聚合你的社交信息，展示你的个人作品 - [示例主页](https://biofy.cn/wangjiegulu)",
-    "author": "咕噜不爱猫(杭州)",
-    "authorGithub": "https://github.com/wangjiegulu",
-    "date": "2024 年 10 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Ranking Tabs",
-    "url": "https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa",
-    "status": "online",
-    "description": "浏览网站次数排行榜 Chrome 插件",
-    "author": "biboom(广州)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI 形象照",
-    "url": "https://luna-headshot.sodair.top/",
-    "status": "online",
-    "description": "1 张照片轻松制作您的 AI 简历形象照，支持电脑摄像头拍摄 - 基于[开源AI换脸系统](https://github.com/loxi-opensource/luna-swapping)搭建",
-    "author": "阿凯呵 - [博客]( https://www.sodair.top)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 13 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "阿凯呵 - [博客]( https://www.sodair.top)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 13 号添加",
+    "author": "疯狂的小波(武汉)",
+    "authorGithub": "https://github.com/MuYiBo",
+    "date": "2024 年 10 月 22 号添加",
     "category": "main"
   },
   {
@@ -17394,9 +17444,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "阿凯呵 - [博客]( https://www.sodair.top)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 13 号添加",
+    "author": "疯狂的小波(武汉)",
+    "authorGithub": "https://github.com/MuYiBo",
+    "date": "2024 年 10 月 22 号添加",
     "category": "main"
   },
   {
@@ -17404,9 +17454,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "阿凯呵 - [博客]( https://www.sodair.top)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 13 号添加",
+    "author": "疯狂的小波(武汉)",
+    "authorGithub": "https://github.com/MuYiBo",
+    "date": "2024 年 10 月 22 号添加",
     "category": "main"
   },
   {
@@ -17414,9 +17464,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "阿凯呵 - [博客]( https://www.sodair.top)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 13 号添加",
+    "author": "疯狂的小波(武汉)",
+    "authorGithub": "https://github.com/MuYiBo",
+    "date": "2024 年 10 月 22 号添加",
     "category": "main"
   }
 ]
