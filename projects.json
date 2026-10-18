@@ -1,5 +1,215 @@
 [
   {
+    "name": "少装一点",
+    "url": "https://lessaitools.com/",
+    "status": "online",
+    "description": "AI 插件目录，按具体任务整理 MCP 工具、Skills 与编辑器插件，逐项给出中文用途说明、接入方式和原项目链接，已收录 124 个项目，提供中英等多语言界面",
+    "author": "makexyf-max",
+    "authorGithub": "https://github.com/makexyf-max",
+    "date": "2026 年 10 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Weather Trip",
+    "url": "https://weather-trip.aicake.io",
+    "status": "online",
+    "description": "按未来天气筛选旅行目的地的工具站，支持按温度、降雨、湿度等条件查找全球城市，通过天气地图比较城市预报，提供中英文界面 - [GitHub 仓库](https://github.com/xiaomingio/weather-trip)",
+    "author": "小明",
+    "authorGithub": "https://github.com/xiaomingio",
+    "date": "2026 年 10 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "夸夸跨境",
+    "url": "https://kuakuakua.com/pricing-calculator/",
+    "status": "online",
+    "description": "面向中国 Ozon 跨境卖家的免费定价计算器（免登录，按类目佣金、rFBS/FBP 物流资费、汇率与目标利润反推建议售价）与中文实操教程；可选多店体检工作台 — Web 应用",
+    "author": "ikeisthere",
+    "authorGithub": "https://github.com/ikeisthere",
+    "date": "2026 年 10 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "LayerGrab",
+    "url": "https://layergrab.com",
+    "status": "online",
+    "description": "AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素；有 Figma 插件和 Chrome 扩展，网页英文界面，每个账号可免费试用一次 - [更多介绍](https://github.com/layergrab/layergrab-plugins)",
+    "author": "stimQQ",
+    "authorGithub": "https://github.com/stimQQ",
+    "date": "2026 年 10 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SortLines",
+    "url": "https://sortlines.com",
+    "status": "online",
+    "description": "文本行处理工具，粘贴文本即可按字母、数字、自然顺序或长度排序行，并支持删除重复行、对比列表、随机打乱、反转与清理关键词列表，浏览器本地处理不上传，免费无需注册",
+    "author": "dyordo",
+    "authorGithub": "https://github.com/dyordo",
+    "date": "2026 年 10 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "BeadPattern",
+    "url": "https://beadpattern.art/",
+    "status": "online",
+    "description": "拼豆图案与像素画生成工具（免费），照片转 Perler/Hama/Artkal 官方色卡图案并算珠子数，纯前端零上传保护隐私，支持图纸导出与专注拼豆模式",
+    "author": "Peacoke",
+    "authorGithub": "https://github.com/Peacoke",
+    "date": "2026 年 10 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Children's Chore",
+    "url": "https://childrenschoreapp.com/",
+    "status": "online",
+    "description": "面向 4–14 岁孩子家庭的家务打卡与积分奖励工具（免费），家长安排任务、孩子打卡、家长一键确认得积分换家庭自定奖励，支持重复任务、照片证明、假期暂停与共用平板模式，孩子用 PIN/二维码登录，可打印家务表免注册使用",
+    "author": "Linky",
+    "authorGithub": "https://github.com/Linky-AIinlink",
+    "date": "2026 年 10 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "zippic",
+    "url": "https://zippic.app",
+    "status": "online",
+    "description": "图片压缩与格式转换工具，支持 JPG/PNG/WebP/AVIF/GIF/JXL 批量处理、共 19 个图片工具，浏览器本地运行不上传，免费无需注册",
+    "author": "KELEN",
+    "authorGithub": "https://github.com/imkelen",
+    "date": "2026 年 10 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "EOR 雇主服务成本计算器",
+    "url": "https://chinaabroadguide.com/eor-cost-calculator/",
+    "status": "online",
+    "description": "输入员工薪资和雇佣国家，实时对比 Deel、Remote、Playroll 三大 EOR 平台月度总成本（含雇主社保税估算），中文界面，免费无需注册",
+    "author": "Owen Zhang",
+    "authorGithub": "",
+    "date": "2026 年 10 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Textus",
+    "url": "https://textus.catvinci.com",
+    "status": "online",
+    "description": "所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手逐句给出修改建议，支持 DeepSeek 等 20 多家模型和 Ollama 本地模型；免费开源，无需账号，支持 macOS、Windows、Linux - [下载](https://github.com/CatVinci-Studio/Textus/releases/latest)",
+    "author": "ChengAoShen",
+    "authorGithub": "https://github.com/ChengAoShen",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Calculator365",
+    "url": "https://www.calculator-365.com/zh-Hans",
+    "status": "online",
+    "description": "多语言在线计算器网站（中英日等 6 种语言），提供 20 多个计算工具，覆盖数学、金融、时间和健身等领域，iOS 支持桌面小组件、输入法、语音播报等功能 - [下载地址](https://apps.apple.com/cn/app/id6448260851)",
+    "author": "nbbmw",
+    "authorGithub": "https://github.com/nbbmw",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "IP for AI",
+    "url": "https://ipforai.cc/",
+    "status": "online",
+    "description": "AI 网络环境检测网页，打开即测当前 IPv4 / IPv6 出口的地区、ASN 与代理 / VPN / Tor 信号，并检测 ChatGPT、Claude、Gemini 等服务公开资源的连通性、识别各 AI 厂商实际看到的出口；各维度分开列出、不给单一「纯净度」分数，另提供服务器命令行只读检测",
+    "author": "xjokerabab",
+    "authorGithub": "https://github.com/xjokerabab",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI Todo",
+    "url": "https://github.com/strzhao/ai-todo",
+    "status": "online",
+    "description": "自然语言任务管理，说一句话就改成结构化任务操作，diff 预览、确认后才执行；支持多层嵌套子任务，任务列表可升级为共享项目空间（@成员 + 甘特图）；另提供 JSON 输出的 CLI 供 AI agent 调用，在线版 https://ai-todo.stringzhao.life，开源（MIT）",
+    "author": "strzhao",
+    "authorGithub": "https://github.com/strzhao",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "拾光 Relight",
+    "url": "https://github.com/strzhao/relight",
+    "status": "online",
+    "description": "本地 AI 照片库，视觉模型在本机给照片打中文美学标签、写一段描述、打质量分，每天选出「每日精选」起标题配短文，macOS 菜单栏 App 自动设成壁纸；推理默认在本机完成，照片和标签不出电脑，开源（MIT）",
+    "author": "strzhao",
+    "authorGithub": "https://github.com/strzhao",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Blob0",
+    "url": "https://blob0.com",
+    "status": "online",
+    "description": "macOS 上的 Cloudflare R2 / S3 对象存储客户端，像管理本地文件夹一样上传、下载、整理、预览和分享文件，文件存放在自己的存储账户；支持 Obsidian / Typora 粘贴图片自动上传，内置 CLI 与 Agent Skill；完整功能免费试用 30 天，之后 $16.90 一次性买断，无订阅",
+    "author": "Justin3go",
+    "authorGithub": "https://github.com/Justin3go",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "拉普拉斯的迷你世界",
+    "url": "https://world.lapla.si/zh/",
+    "status": "online",
+    "description": "3D 科学科普网站，100 多个能转动、能拆开的交互模型（四季、潮汐、黑洞、蒸汽机、神经网络……），每页写明模型简化了什么，中英双语，免费无广告，内容 CC BY-NC 4.0",
+    "author": "Keith",
+    "authorGithub": "https://github.com/Keith-CY",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "言の葉",
+    "url": "https://japaneseskills.com/",
+    "status": "online",
+    "description": "JLPT 日语学习网站，9,040 个单词、828 条语法、802 个阅读短句，按 N5–N1 筛选，从五十音学起，可标记进度；入门和 N5 免费，N4 以上订阅",
+    "author": "Keith",
+    "authorGithub": "https://github.com/Keith-CY",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "MeshMend",
+    "url": "https://mesh-mend.pages.dev/",
+    "status": "online",
+    "description": "STL 网格检查与修复工具（英文界面），去掉重复面和零面积面、统一法线朝向、可补小的平面破洞，支持 3MF 转 STL，修复前后对比，文件在浏览器本地处理不上传，免费",
+    "author": "Keith",
+    "authorGithub": "https://github.com/Keith-CY",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "VibeCV",
+    "url": "https://vibecv.com",
+    "status": "online",
+    "description": "聊天写简历的网页工具，讲讲你的经历，AI 整理成规范简历，可导出一页 PDF 或 Word，一句话生成英文版，第一份免费",
+    "author": "Rory",
+    "authorGithub": "https://github.com/Coiggahou2002",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Fuse Bead Patterns",
+    "url": "https://fusebeadpatterns.art/",
+    "status": "online",
+    "description": "拼豆图纸制作工具，将自己的图片转换为 Perler／Hama／Artkal S 配色网格，支持逐格编辑、材料统计、PNG／PDF 导出及工程保存；当前免费，无需注册，图片在浏览器内处理",
+    "author": "BogerHou",
+    "authorGithub": "https://github.com/BogerHou",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
+    "name": "LayoutKeeper",
+    "url": "https://github.com/tumingke0/LayoutKeeper",
+    "status": "online",
+    "description": "Mac 外接屏窗口布局恢复工具，拔掉显示器再插回，窗口自动回到原来的位置和桌面（Space），家里公司换着接不同的显示器也行；还能用键盘亮度键直接调外接屏亮度，免费开源 - [下载](https://github.com/tumingke0/LayoutKeeper/releases/latest)",
+    "author": "tumingke0",
+    "authorGithub": "https://github.com/tumingke0",
+    "date": "2026 年 10 月 17 号添加",
+    "category": "main"
+  },
+  {
     "name": "NanoBrowser",
     "url": "https://github.com/zhoujungis/NanoBrowser",
     "status": "online",
@@ -306,16 +516,6 @@
     "description": "注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费",
     "author": "Huang Zhiwen",
     "authorGithub": "https://github.com/wdhzw",
-    "date": "2026 年 10 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "DisplayPilot",
-    "url": "https://huayanming.github.io/displaypilot/zh-Hans/?src=1c7",
-    "status": "online",
-    "description": "macOS 外接显示器控制台，用 DDC/CI 直接调亮度、音量与输入源；面板不响应 DDC/CI 时自动改用伽马表调光，另含以面板原始曲线为基准的色彩校准，以及先隔离再删除的开发者缓存清理",
-    "author": "huayanming",
-    "authorGithub": "https://github.com/huayanming",
     "date": "2026 年 10 月 16 号添加",
     "category": "main"
   },
@@ -17110,333 +17310,13 @@
     "category": "main"
   },
   {
-    "name": "ExtensionsFox",
-    "url": "https://extensionsfox.store",
-    "status": "online",
-    "description": "几个 Instagram 自动化运营小工具 - [更多介绍](https://github.com/asterism-software/extensionsfox.store)",
-    "author": "jianpingliu",
-    "authorGithub": "https://github.com/jianpingliu",
-    "date": "2024 年 11 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AMZ Downloader",
-    "url": "https://amzdownloader.com",
-    "status": "online",
-    "description": "Amazon 产品图片和视频下载小工具 - [更多介绍](https://github.com/asterism-software/amzdownloader.com)",
-    "author": "jianpingliu",
-    "authorGithub": "https://github.com/jianpingliu",
-    "date": "2024 年 11 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "docgenie",
-    "url": "https://docgenie.co.uk",
-    "status": "online",
-    "description": "将 Kindle Scribe 笔记本直接分享至各种云存储服务 - [更多介绍](https://github.com/asterism-software/docgenie.co.uk)",
-    "author": "jianpingliu",
-    "authorGithub": "https://github.com/jianpingliu",
-    "date": "2024 年 11 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "BestAffiliate",
-    "url": "https:www.bestaffiliate.link",
-    "status": "offline",
-    "description": "精选的软件联盟计划的目录，帮助科技数码创作者获取更好的收益。",
-    "author": "AlkaidWaong",
-    "authorGithub": "https://github.com/AlkaidWaong",
-    "date": "2024 年 11 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "OnlyFansKit",
-    "url": "https://www.onlyfanskit.com/",
-    "status": "online",
-    "description": "专为 OnlyFans 创作者设计的免费工具平台。其目的是帮助创作者轻松创建和管理自己的内容和账户，提升在 OnlyFans 上的成功机会。通过这个平台，用户可以生成独特的名字、用户名以及吸引人的个人简介。此外，OnlyFansKit 还提供自动生成欢迎消息的功能，让粉丝初次访问时便能感受到创作者的独特魅力。同时，该平台配有税收计算器，帮助创作者轻松完成财务规划与管理，为创作者节省时间与精力。",
-    "author": "Q-Sansan",
-    "authorGithub": "https://github.com/Q-Sansan",
-    "date": "2024 年 11 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "khaos 电吉他社",
-    "url": "https://www.khaos.net.cn",
-    "status": "online",
-    "description": "电吉他谱分享网站（有电吉他爱好的程序员做的）",
-    "author": "khaos",
-    "authorGithub": "https://github.com/cxykhaos",
-    "date": "2024 年 11 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "导航站模板",
-    "url": "https://mkdirs.com/",
-    "status": "online",
-    "description": "轻松创建并部署上线的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能",
-    "author": "Indie Maker Fox",
-    "authorGithub": "https://github/javayhu",
-    "date": "2024 年 11 月 17 号添加",
-    "category": "main"
-  },
-  {
-    "name": "vPaste",
-    "url": "https://apps.apple.com/cn/app/vpaste/id6444913968",
-    "status": "online",
-    "description": "Mac 平台优秀的剪切板工具",
-    "author": "vlv",
-    "authorGithub": "https://github.com/livv",
-    "date": "2024 年 11 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Sheas Cealer",
-    "url": "https://github.com/SpaceTimee/Sheas-Cealer",
-    "status": "online",
-    "description": "SNI 伪造工具，无需代理即可合法加速 Github, Steam, Pixiv 等网站的直连，让你的网络冲浪畅快无阻",
-    "author": "Space Time",
-    "authorGithub": "https://github.com/SpaceTimee",
-    "date": "2024 年 11 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "SparkleEasy",
-    "url": "https://sparkleeasy.pages.dev/",
-    "status": "online",
-    "description": "macOS 开发者的效率工具，一键生成 Sparkle 更新配置，快速管理应用权限，让开发更简单 - [更多介绍](https://sparkleeasy.pages.dev)",
-    "author": "94R7(桂林)",
-    "authorGithub": "https://github.com/WtecHtec",
-    "date": "2024 年 11 月 5 号添加",
-    "category": "main"
-  },
-  {
-    "name": "拾音簿 pickupnote",
-    "url": "https://apps.apple.com/cn/app/%E6%8B%BE%E9%9F%B3%E7%B0%BF-pickupnote-%E6%88%91%E7%9A%84%E9%9F%B3%E4%B9%90%E6%94%B6%E8%97%8F%E5%BA%93/id6478777973",
-    "status": "online",
-    "description": "专为\"记录声音场景\"而生。将每一条笔记与特定的音乐绑定，3 秒内便可以完成。用标签和检索功能，则可以轻松找到那些与音乐相伴的重要时刻 - [官网](https://pickupnote.com/zh/about)",
-    "author": "eddilexiok(上海)",
-    "authorGithub": "",
-    "date": "2024 年 11 月 5 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Recap",
-    "url": "https://recapall.app/",
-    "status": "online",
-    "description": "帮助你整理杂乱的内容，节省时间的 Chrome 插件！把网页和 PDF 转化为有趣的视觉摘要，包括思维导图、时间线和表格总结。适合学生、专业人士和内容创作者！",
-    "author": "Zero24",
-    "authorGithub": "https://github.com/Liu-Lixin",
-    "date": "2024 年 11 月 3 号添加",
-    "category": "main"
-  },
-  {
-    "name": "食谱甄选",
-    "url": "https://xiaocp.oss-cn-shenzhen.aliyuncs.com/images/applet/wx_cookbook.png",
-    "status": "online",
-    "description": "百万菜谱任君选择，专为下厨房而设计的菜谱 APP，菜谱精心甄选佳而全。每天纠结吃啥菜谱，根据个人口味食材智能推荐 (微信小程序)",
-    "author": "食谱甄选（广州）",
-    "authorGithub": "https://github.com/xiaocp",
-    "date": "2024 年 11 月 2 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Best Tools导航站",
-    "url": "https://aibest.tools/",
-    "status": "online",
-    "description": "收录各种优质的 AI 产品工具，帮用户找到最优质且好用的 AI 产品，同时助力 AI 产品开发者展示自己产品。并且网站定时爬取 Product Hunt 等优质产品平台，给 AI 产品开发者提供开发及需求的思路。欢迎大家来提交自己的 AI 产品及发掘更多优质的 AI 工具",
-    "author": "Corey Chiu(深圳)",
-    "authorGithub": "https://github.com/iamcorey",
-    "date": "2024 年 10 月 31 号添加",
-    "category": "main"
-  },
-  {
-    "name": "文件禅",
-    "url": "https://fileneatai.com/?lang=zh-cn",
-    "status": "online",
-    "description": "AI 文件整理工具，电脑中不断积累文件，每次想整理时，却总是发现这项任务既耗时又费力。为了解决这一痛点，我开发了可以自动化整理和分类杂乱文件的 AI 工具——FileNeatAI，它可以根据文件夹里的文件内容，通过AI自动的将文件进行分类并整理到不同的文件夹中，同时还可以对一些命名不规则的文件进行智能命名，帮助用户轻松、高效地管理文件，提升工作效率 - [图文介绍](https://github.com/1c7/chinese-independent-developer/issues/439?notification_referrer_id=NT_kwDOABuJ07MxMzA2NzY1NzU0MzoxODA0NzU1)",
-    "author": "MrHuZhi",
-    "authorGithub": "https://github.com/MrHuZhi",
-    "date": "2024 年 10 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Temp Mail",
-    "url": "https://tempmail.la/",
-    "status": "online",
-    "description": "临时邮箱(免费)，保护隐私安全，避免垃圾邮件骚扰，打开就可以使用，无需登录或注册。",
-    "author": "Ethan Sunray",
-    "authorGithub": "",
-    "date": "2024 年 10 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Detector",
-    "url": "https://aidetector.tech/",
-    "status": "online",
-    "description": "验证文本和图片是否由 AI 生成，图片和 PDF 等文档已支持 [C2PA](https://c2pa.org/) 内容凭证校验。（[C2PA](https://c2pa.org/) 是一项创新的开放技术，旨在提供在线内容的详细背景信息，增强数字内容的可信度和透明度，目前 OpenAI、Microsoft、Heygen 等知名公司都已经支持）",
-    "author": "Ethan Sunray",
-    "authorGithub": "",
-    "date": "2024 年 10 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "X-Comfort-Browser - 浏览器插件",
-    "url": "https://x-comfort-browser.xyz/",
-    "status": "online",
-    "description": "用于浏览内容平台(推特、知乎)时，模糊媒体资源，屏蔽广告。专注信息获取，减少视觉干扰，获得互联网噪音下的注意力主动权，同时避免公共场合出现尴尬的场景。- [开源地址](https://github.com/dnevend/x-comfort-browser/)",
-    "author": "小学后生(杭州)",
-    "authorGithub": "https://github.com/Dnevend",
-    "date": "2024 年 10 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "jarkViewer",
-    "url": "https://github.com/jark006/jarkViewer",
-    "status": "online",
-    "description": "Windows 平台看图软件",
-    "author": "JARK006",
-    "authorGithub": "https://github.com/jark006",
-    "date": "2024 年 10 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FtpServer",
-    "url": "https://github.com/jark006/FtpServer",
-    "status": "online",
-    "description": "Windows 平台 FTP 服务器",
-    "author": "JARK006",
-    "authorGithub": "https://github.com/jark006",
-    "date": "2024 年 10 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "小天气",
-    "url": "https://github.com/jark006/weather_widget",
-    "status": "online",
-    "description": "安卓平台桌面天气小部件",
-    "author": "JARK006",
-    "authorGithub": "https://github.com/jark006",
-    "date": "2024 年 10 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Img2Video",
-    "url": "https://img2video.ai/",
-    "status": "online",
-    "description": "用文本或图像生成短视频（AI）非常适合社交媒体，立即开始创作爆款内容吧！",
-    "author": "Q-Sansan",
-    "authorGithub": "",
-    "date": "2024 年 10 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Bluesky Video Downloader",
-    "url": "https://blueskyvideodownloader.org/",
-    "status": "online",
-    "description": "Bluesky 视频下载器，输入 Bluesky 文章地址，即可将文章中的视频下载到本地",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 10 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Yes/No 塔罗 AI",
-    "url": "https://yesnotarot.org/",
-    "status": "online",
-    "description": "融合 AI 技术与塔罗洞见，快速获得\"是\"与\"否\"解答",
-    "author": "Yue",
-    "authorGithub": "https://github.com/yuegao04",
-    "date": "2024 年 10 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "ProjectHunt",
-    "url": "https://projecthunt.me/",
-    "status": "online",
-    "description": "发现与分享独立项目",
-    "author": "Yue",
-    "authorGithub": "https://github.com/yuegao04",
-    "date": "2024 年 10 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "CheapGpt - 企业级 I 模型 API",
-    "url": "https://ai.linktre.cc",
-    "status": "offline",
-    "description": "AI 接口调用平台 (稳定、高效、高并发、便宜、企业级）支持 OpenAI、Claude、Gemini 等主流 AI 大模型",
-    "author": "kevin 不会写代码 - [Twitter](https://x.com/PennyJoly)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "如快",
-    "url": "https://sofast.fun",
-    "status": "online",
-    "description": "启动器软件（基于 Tauri 开发，支持 Windows 和 Mac），UI 风格类似 Raycast，对键盘操作友好，大幅提高办公学习效率，支持快捷链接、剪贴板管理等功能并支持开发自定义扩展",
-    "author": "Blushyes(北京)",
-    "authorGithub": "https://github.com/blushyes",
-    "date": "2024 年 10 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "aiseka.com",
-    "url": "https://aiseka.com",
-    "status": "offline",
-    "description": "色彩管理工具，有颜色的介绍，色卡制作，色卡推荐 3 个主要功能",
-    "author": "meetqy(成都)",
-    "authorGithub": "https://github.com/meetqy",
-    "date": "2024 年 10 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "liusha tech detector",
-    "url": "https://liusha.org/",
-    "status": "online",
-    "description": "分析技术栈，提交一个网址，分析该网站用的技术栈，是否 CMS，用什么编程语言，数据分析工具等",
-    "author": "fengmao(广州)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "MIB",
-    "url": "https://github.com/QC2168/mib",
-    "status": "online",
-    "description": "安卓数据备份软件，根据配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份，节点配置",
-    "author": "fengmao(广州)",
-    "authorGithub": "",
-    "date": "2024 年 10 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Subrise",
-    "url": "https://subrise.co/zh",
-    "status": "offline",
-    "description": "Subrise 精心为出海创业者打造 Reddit 运营工具，挑选并分类优质的 Reddit 资讯，运营干货。我们帮助你发现高质、与业务匹配的 Reddit 流量社区，分享一线实操运营干货，帮助您实现 Reddit 流量掘金。",
-    "author": "Nico（长沙）",
-    "authorGithub": "https://github.com/yijianbo",
-    "date": "2024 年 10 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Hurricane Simulator",
-    "url": "https://hurricanesimulator.org/",
-    "status": "online",
-    "description": "飓风模拟器，根据不同的季节模拟飓风造成的影响、破坏，提高灾害意识",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 10 月 22 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 10 月 22 号添加",
+    "author": "zebrapixel - [Twitter](https://x.com/xdkc2000)",
+    "authorGithub": "",
+    "date": "2024 年 11 月 24 号添加",
     "category": "main"
   },
   {
@@ -17444,9 +17324,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 10 月 22 号添加",
+    "author": "zebrapixel - [Twitter](https://x.com/xdkc2000)",
+    "authorGithub": "",
+    "date": "2024 年 11 月 24 号添加",
     "category": "main"
   },
   {
@@ -17454,9 +17334,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 10 月 22 号添加",
+    "author": "zebrapixel - [Twitter](https://x.com/xdkc2000)",
+    "authorGithub": "",
+    "date": "2024 年 11 月 24 号添加",
     "category": "main"
   },
   {
@@ -17464,9 +17344,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 10 月 22 号添加",
+    "author": "zebrapixel - [Twitter](https://x.com/xdkc2000)",
+    "authorGithub": "",
+    "date": "2024 年 11 月 24 号添加",
     "category": "main"
   }
 ]
