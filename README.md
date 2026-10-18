@@ -24,6 +24,66 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 18 号添加
+
+#### makexyf-max - [Github](https://github.com/makexyf-max)
+* :white_check_mark: [少装一点](https://lessaitools.com/)：AI 插件目录，按具体任务整理 MCP 工具、Skills 与编辑器插件，逐项给出中文用途说明、接入方式和原项目链接，已收录 124 个项目，提供中英等多语言界面
+
+#### 小明 - [Github](https://github.com/xiaomingio)
+* :white_check_mark: [Weather Trip](https://weather-trip.aicake.io)：按未来天气筛选旅行目的地的工具站，支持按温度、降雨、湿度等条件查找全球城市，通过天气地图比较城市预报，提供中英文界面 - [GitHub 仓库](https://github.com/xiaomingio/weather-trip)
+
+#### ikeisthere - [Github](https://github.com/ikeisthere)
+* :white_check_mark: [夸夸跨境](https://kuakuakua.com/pricing-calculator/)：面向中国 Ozon 跨境卖家的免费定价计算器（免登录，按类目佣金、rFBS/FBP 物流资费、汇率与目标利润反推建议售价）与中文实操教程；可选多店体检工作台 — Web 应用
+
+#### stimQQ - [Github](https://github.com/stimQQ)
+* :white_check_mark: [LayerGrab](https://layergrab.com)：AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素；有 Figma 插件和 Chrome 扩展，网页英文界面，每个账号可免费试用一次 - [更多介绍](https://github.com/layergrab/layergrab-plugins)
+
+#### dyordo - [Github](https://github.com/dyordo)
+* :white_check_mark: [SortLines](https://sortlines.com)：文本行处理工具，粘贴文本即可按字母、数字、自然顺序或长度排序行，并支持删除重复行、对比列表、随机打乱、反转与清理关键词列表，浏览器本地处理不上传，免费无需注册
+
+#### Peacoke - [Github](https://github.com/Peacoke)
+* :white_check_mark: [BeadPattern](https://beadpattern.art/)：拼豆图案与像素画生成工具（免费），照片转 Perler/Hama/Artkal 官方色卡图案并算珠子数，纯前端零上传保护隐私，支持图纸导出与专注拼豆模式
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Children's Chore](https://childrenschoreapp.com/)：面向 4–14 岁孩子家庭的家务打卡与积分奖励工具（免费），家长安排任务、孩子打卡、家长一键确认得积分换家庭自定奖励，支持重复任务、照片证明、假期暂停与共用平板模式，孩子用 PIN/二维码登录，可打印家务表免注册使用
+
+#### KELEN - [Github](https://github.com/imkelen)
+* :white_check_mark: [zippic](https://zippic.app)：图片压缩与格式转换工具，支持 JPG/PNG/WebP/AVIF/GIF/JXL 批量处理、共 19 个图片工具，浏览器本地运行不上传，免费无需注册
+
+#### Owen Zhang
+* :white_check_mark: [EOR 雇主服务成本计算器](https://chinaabroadguide.com/eor-cost-calculator/)：输入员工薪资和雇佣国家，实时对比 Deel、Remote、Playroll 三大 EOR 平台月度总成本（含雇主社保税估算），中文界面，免费无需注册
+
+### 2026 年 10 月 17 号添加
+#### ChengAoShen - [Github](https://github.com/ChengAoShen)
+* :white_check_mark: [Textus](https://textus.catvinci.com)：所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手逐句给出修改建议，支持 DeepSeek 等 20 多家模型和 Ollama 本地模型；免费开源，无需账号，支持 macOS、Windows、Linux - [下载](https://github.com/CatVinci-Studio/Textus/releases/latest)
+
+#### nbbmw - [Github](https://github.com/nbbmw)
+* :white_check_mark: [Calculator365](https://www.calculator-365.com/zh-Hans)：多语言在线计算器网站（中英日等 6 种语言），提供 20 多个计算工具，覆盖数学、金融、时间和健身等领域，iOS 支持桌面小组件、输入法、语音播报等功能 - [下载地址](https://apps.apple.com/cn/app/id6448260851)
+
+#### xjokerabab - [Github](https://github.com/xjokerabab)
+* :white_check_mark: [IP for AI](https://ipforai.cc/)：AI 网络环境检测网页，打开即测当前 IPv4 / IPv6 出口的地区、ASN 与代理 / VPN / Tor 信号，并检测 ChatGPT、Claude、Gemini 等服务公开资源的连通性、识别各 AI 厂商实际看到的出口；各维度分开列出、不给单一「纯净度」分数，另提供服务器命令行只读检测
+
+#### strzhao - [Github](https://github.com/strzhao)
+* :white_check_mark: [AI Todo](https://github.com/strzhao/ai-todo)：自然语言任务管理，说一句话就改成结构化任务操作，diff 预览、确认后才执行；支持多层嵌套子任务，任务列表可升级为共享项目空间（@成员 + 甘特图）；另提供 JSON 输出的 CLI 供 AI agent 调用，在线版 https://ai-todo.stringzhao.life，开源（MIT）
+* :white_check_mark: [拾光 Relight](https://github.com/strzhao/relight)：本地 AI 照片库，视觉模型在本机给照片打中文美学标签、写一段描述、打质量分，每天选出「每日精选」起标题配短文，macOS 菜单栏 App 自动设成壁纸；推理默认在本机完成，照片和标签不出电脑，开源（MIT）
+
+#### Justin3go - [Github](https://github.com/Justin3go), [博客](https://justin3go.com)
+* :white_check_mark: [Blob0](https://blob0.com)：macOS 上的 Cloudflare R2 / S3 对象存储客户端，像管理本地文件夹一样上传、下载、整理、预览和分享文件，文件存放在自己的存储账户；支持 Obsidian / Typora 粘贴图片自动上传，内置 CLI 与 Agent Skill；完整功能免费试用 30 天，之后 $16.90 一次性买断，无订阅
+
+#### Keith - [Github](https://github.com/Keith-CY)
+* :white_check_mark: [拉普拉斯的迷你世界](https://world.lapla.si/zh/)：3D 科学科普网站，100 多个能转动、能拆开的交互模型（四季、潮汐、黑洞、蒸汽机、神经网络……），每页写明模型简化了什么，中英双语，免费无广告，内容 CC BY-NC 4.0
+* :white_check_mark: [言の葉](https://japaneseskills.com/)：JLPT 日语学习网站，9,040 个单词、828 条语法、802 个阅读短句，按 N5–N1 筛选，从五十音学起，可标记进度；入门和 N5 免费，N4 以上订阅
+* :white_check_mark: [MeshMend](https://mesh-mend.pages.dev/)：STL 网格检查与修复工具（英文界面），去掉重复面和零面积面、统一法线朝向、可补小的平面破洞，支持 3MF 转 STL，修复前后对比，文件在浏览器本地处理不上传，免费
+
+#### Rory - [Github](https://github.com/Coiggahou2002)
+* :white_check_mark: [VibeCV](https://vibecv.com)：聊天写简历的网页工具，讲讲你的经历，AI 整理成规范简历，可导出一页 PDF 或 Word，一句话生成英文版，第一份免费
+
+#### BogerHou - [Github](https://github.com/BogerHou)
+* :white_check_mark: [Fuse Bead Patterns](https://fusebeadpatterns.art/)：拼豆图纸制作工具，将自己的图片转换为 Perler／Hama／Artkal S 配色网格，支持逐格编辑、材料统计、PNG／PDF 导出及工程保存；当前免费，无需注册，图片在浏览器内处理
+
+#### tumingke0 - [Github](https://github.com/tumingke0)
+* :white_check_mark: [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)：Mac 外接屏窗口布局恢复工具，拔掉显示器再插回，窗口自动回到原来的位置和桌面（Space），家里公司换着接不同的显示器也行；还能用键盘亮度键直接调外接屏亮度，免费开源 - [下载](https://github.com/tumingke0/LayoutKeeper/releases/latest)
+
 ### 2026 年 10 月 16 号添加
 
 #### zhoujungis - [Github](https://github.com/zhoujungis)
@@ -86,10 +146,6 @@
 
 #### Huang Zhiwen - [Github](https://github.com/wdhzw)
 * :white_check_mark: [花花记账](https://apps.apple.com/app/id6801466802)：注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费
-#### huayanming - [Github](https://github.com/huayanming)
-* :white_check_mark: [DisplayPilot](https://huayanming.github.io/displaypilot/zh-Hans/?src=1c7)：macOS 外接显示器控制台，用 DDC/CI 直接调亮度、音量与输入源；面板不响应 DDC/CI 时自动改用伽马表调光，另含以面板原始曲线为基准的色彩校准，以及先隔离再删除的开发者缓存清理
-
-
 
 ### 2026 年 10 月 15 号添加
 
@@ -5443,116 +5499,6 @@
 
 #### zebrapixel - [Twitter](https://x.com/xdkc2000)
 * :x: [像素画家](https://apps.apple.com/app/pixel-one/id6504689184)：简单易用的像素画编辑器 - [更多介绍](https://www.zebrapixel.com)
-
-### 2024 年 11 月 22 号添加
-#### jianpingliu - [Github](https://github.com/jianpingliu)
-* :white_check_mark: [ExtensionsFox](https://extensionsfox.store)：几个 Instagram 自动化运营小工具 - [更多介绍](https://github.com/asterism-software/extensionsfox.store)
-* :white_check_mark: [AMZ Downloader](https://amzdownloader.com)：Amazon 产品图片和视频下载小工具 - [更多介绍](https://github.com/asterism-software/amzdownloader.com)
-* :white_check_mark: [docgenie](https://docgenie.co.uk)：将 Kindle Scribe 笔记本直接分享至各种云存储服务 - [更多介绍](https://github.com/asterism-software/docgenie.co.uk)
-
-### 2024 年 11 月 21 号添加
-#### AlkaidWaong - [Github](https://github.com/AlkaidWaong)
-* :x: [BestAffiliate](https:www.bestaffiliate.link)：精选的软件联盟计划的目录，帮助科技数码创作者获取更好的收益。
-
-#### Q-Sansan - [Github](https://github.com/Q-Sansan)
-* :white_check_mark: [OnlyFansKit](https://www.onlyfanskit.com/)：专为 OnlyFans 创作者设计的免费工具平台。其目的是帮助创作者轻松创建和管理自己的内容和账户，提升在 OnlyFans 上的成功机会。通过这个平台，用户可以生成独特的名字、用户名以及吸引人的个人简介。此外，OnlyFansKit 还提供自动生成欢迎消息的功能，让粉丝初次访问时便能感受到创作者的独特魅力。同时，该平台配有税收计算器，帮助创作者轻松完成财务规划与管理，为创作者节省时间与精力。
-
-### 2024 年 11 月 19 号添加
-#### khaos - [Github](https://github.com/cxykhaos), [博客](https://khaos.net.cn)
-* :white_check_mark: [khaos 电吉他社](https://www.khaos.net.cn)：电吉他谱分享网站（有电吉他爱好的程序员做的）
-
-### 2024 年 11 月 17 号添加
-#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
-* :white_check_mark: [导航站模板](https://mkdirs.com/)：轻松创建并部署上线的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能
-
-### 2024 年 11 月 16 号添加
-#### my19940202 - [Github](https://github.com/my19940202)
-* :white_check_mark: [网页版屏保小工具](https://www.screensaver.top/zh)
-
-### 2024 年 11 月 12 号添加
-#### vlv - [Github](https://github.com/livv)
-* :white_check_mark: [vPaste](https://apps.apple.com/cn/app/vpaste/id6444913968)：Mac 平台优秀的剪切板工具
-
-### 2024 年 11 月 10 号添加
-#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
-* :white_check_mark: [Sheas Cealer](https://github.com/SpaceTimee/Sheas-Cealer)：SNI 伪造工具，无需代理即可合法加速 Github, Steam, Pixiv 等网站的直连，让你的网络冲浪畅快无阻
-
-#### Corey Chiu(深圳) - [Github](https://github.com/iamcorey)
-- :white_check_mark: [Best Directories](https://bestdirectories.org)：导航站的导航站，网站汇集收录各类别各领域的优质导航站，帮助用户发现各领域优质的导航站，从而找到好用的产品。并且收录各类优质打榜平台，不止 ProductHunt，帮助产品更快启动。
-
-### 2024 年 11 月 9 号添加
-#### Leo - [Github](https://github.com/andylearnai)
-- :white_check_mark: [TalkingAvatar](https://www.talkingavatar.ai/)：一键生成 AI 数字人视频的平台，支持多语言对话、表情动作定制，可快速创建个性化数字分身用于营销、教育等场景
-
-### 2024 年 11 月 5 号添加
-#### 94R7(桂林) - [Github](https://github.com/WtecHtec), [博客](https://r7.nuxt.dev/)
-* :white_check_mark: [SparkleEasy](https://sparkleeasy.pages.dev/)：macOS 开发者的效率工具，一键生成 Sparkle 更新配置，快速管理应用权限，让开发更简单 - [更多介绍](https://sparkleeasy.pages.dev)
-
-#### eddilexiok(上海)
-* :white_check_mark: [拾音簿 pickupnote](https://apps.apple.com/cn/app/%E6%8B%BE%E9%9F%B3%E7%B0%BF-pickupnote-%E6%88%91%E7%9A%84%E9%9F%B3%E4%B9%90%E6%94%B6%E8%97%8F%E5%BA%93/id6478777973)：专为"记录声音场景"而生。将每一条笔记与特定的音乐绑定，3 秒内便可以完成。用标签和检索功能，则可以轻松找到那些与音乐相伴的重要时刻 - [官网](https://pickupnote.com/zh/about)
-
-### 2024 年 11 月 3 号添加
-#### Zero24 - [Github](https://github.com/Liu-Lixin)
-* :white_check_mark: [Recap](https://recapall.app/)：帮助你整理杂乱的内容，节省时间的 Chrome 插件！把网页和 PDF 转化为有趣的视觉摘要，包括思维导图、时间线和表格总结。适合学生、专业人士和内容创作者！
-
-### 2024 年 11 月 2 号添加
-#### 食谱甄选（广州） - [Github](https://github.com/xiaocp)
-* :white_check_mark: [食谱甄选](https://xiaocp.oss-cn-shenzhen.aliyuncs.com/images/applet/wx_cookbook.png)：百万菜谱任君选择，专为下厨房而设计的菜谱 APP，菜谱精心甄选佳而全。每天纠结吃啥菜谱，根据个人口味食材智能推荐 (微信小程序)
-
-### 2024 年 10 月 31 号添加
-#### Corey Chiu(深圳) - [Github](https://github.com/iamcorey)
-* :white_check_mark: [AI Best Tools导航站](https://aibest.tools/)：收录各种优质的 AI 产品工具，帮用户找到最优质且好用的 AI 产品，同时助力 AI 产品开发者展示自己产品。并且网站定时爬取 Product Hunt 等优质产品平台，给 AI 产品开发者提供开发及需求的思路。欢迎大家来提交自己的 AI 产品及发掘更多优质的 AI 工具
-
-### 2024 年 10 月 27 号添加
-#### MrHuZhi - [Github](https://github.com/MrHuZhi)
-* :white_check_mark: [文件禅](https://fileneatai.com/?lang=zh-cn)：AI 文件整理工具，电脑中不断积累文件，每次想整理时，却总是发现这项任务既耗时又费力。为了解决这一痛点，我开发了可以自动化整理和分类杂乱文件的 AI 工具——FileNeatAI，它可以根据文件夹里的文件内容，通过AI自动的将文件进行分类并整理到不同的文件夹中，同时还可以对一些命名不规则的文件进行智能命名，帮助用户轻松、高效地管理文件，提升工作效率 - [图文介绍](https://github.com/1c7/chinese-independent-developer/issues/439?notification_referrer_id=NT_kwDOABuJ07MxMzA2NzY1NzU0MzoxODA0NzU1)
-
-### 2024 年 10 月 26 号添加
-#### Ethan Sunray
-* :white_check_mark: [Temp Mail](https://tempmail.la/)：临时邮箱(免费)，保护隐私安全，避免垃圾邮件骚扰，打开就可以使用，无需登录或注册。
-* :white_check_mark: [AI Detector](https://aidetector.tech/)：验证文本和图片是否由 AI 生成，图片和 PDF 等文档已支持 [C2PA](https://c2pa.org/) 内容凭证校验。（[C2PA](https://c2pa.org/) 是一项创新的开放技术，旨在提供在线内容的详细背景信息，增强数字内容的可信度和透明度，目前 OpenAI、Microsoft、Heygen 等知名公司都已经支持）
-
-#### 小学后生(杭州) - [Github](https://github.com/Dnevend), [个人主页](https://dnevend.site/)
-* :white_check_mark: [X-Comfort-Browser - 浏览器插件](https://x-comfort-browser.xyz/)：用于浏览内容平台(推特、知乎)时，模糊媒体资源，屏蔽广告。专注信息获取，减少视觉干扰，获得互联网噪音下的注意力主动权，同时避免公共场合出现尴尬的场景。- [开源地址](https://github.com/dnevend/x-comfort-browser/)
-
-### 2024 年 10 月 25 号添加
-#### JARK006 - [Github](https://github.com/jark006)
-* :white_check_mark: [jarkViewer](https://github.com/jark006/jarkViewer)：Windows 平台看图软件
-* :white_check_mark: [FtpServer](https://github.com/jark006/FtpServer)：Windows 平台 FTP 服务器
-* :white_check_mark: [小天气](https://github.com/jark006/weather_widget)：安卓平台桌面天气小部件
-
-#### Q-Sansan
-* :white_check_mark: [Img2Video](https://img2video.ai/)：用文本或图像生成短视频（AI）非常适合社交媒体，立即开始创作爆款内容吧！
-
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Bluesky Video Downloader](https://blueskyvideodownloader.org/)：Bluesky 视频下载器，输入 Bluesky 文章地址，即可将文章中的视频下载到本地
-
-#### Yue - [Github](https://github.com/yuegao04)
-* :white_check_mark: [Yes/No 塔罗 AI](https://yesnotarot.org/)：融合 AI 技术与塔罗洞见，快速获得"是"与"否"解答
-* :white_check_mark: [ProjectHunt](https://projecthunt.me/)：发现与分享独立项目
-
-#### kevin 不会写代码 - [Twitter](https://x.com/PennyJoly)
-* :x: [CheapGpt - 企业级 I 模型 API](https://ai.linktre.cc)：AI 接口调用平台 (稳定、高效、高并发、便宜、企业级）支持 OpenAI、Claude、Gemini 等主流 AI 大模型
-
-### 2024 年 10 月 23 号添加
-#### Blushyes(北京) - [Github](https://github.com/blushyes)
-* :white_check_mark: [如快](https://sofast.fun)：启动器软件（基于 Tauri 开发，支持 Windows 和 Mac），UI 风格类似 Raycast，对键盘操作友好，大幅提高办公学习效率，支持快捷链接、剪贴板管理等功能并支持开发自定义扩展
-
-#### meetqy(成都) - [Github](https://github.com/meetqy)
-* :x: [aiseka.com](https://aiseka.com)：色彩管理工具，有颜色的介绍，色卡制作，色卡推荐 3 个主要功能
-
-### 2024 年 10 月 22 号添加
-#### fengmao(广州)
-* :white_check_mark: [liusha tech detector](https://liusha.org/)：分析技术栈，提交一个网址，分析该网站用的技术栈，是否 CMS，用什么编程语言，数据分析工具等
-
- #### QC2168(揭阳) - [Github](https://github.com/QC2168), [博客](https://island-record.vercel.app/)
-* :white_check_mark: [MIB](https://github.com/QC2168/mib)：安卓数据备份软件，根据配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份，节点配置
-
-#### Nico（长沙）- [Github](https://github.com/yijianbo)
-* :x: [Subrise](https://subrise.co/zh)： Subrise 精心为出海创业者打造 Reddit 运营工具，挑选并分类优质的 Reddit 资讯，运营干货。我们帮助你发现高质、与业务匹配的 Reddit 流量社区，分享一线实操运营干货，帮助您实现 Reddit 流量掘金。
-
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Hurricane Simulator](https://hurricanesimulator.org/)：飓风模拟器，根据不同的季节模拟飓风造成的影响、破坏，提高灾害意识
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
