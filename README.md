@@ -24,6 +24,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 19 号添加
+
+#### 董子航 - [Github](https://github.com/ZihangDong)
+* :white_check_mark: [ToolKnit](https://toolknit.com/)：免费、免注册的 PDF、图片、音视频和文本在线工具箱，支持中英文切换；PDF 转图片、图片裁剪等功能在浏览器本地完成，部分工具设有使用额度或文件大小上限
+
+#### SatoMini - [Github](https://github.com/SatoMini)
+* :white_check_mark: [WarpNav 曲速导航](https://warpnav.com)：中文 AI 工具与开源项目导航，按视频、图像、写作、编程等分类整理官方入口，另有 GitHub 开源项目解读、软件下载使用指南和 FFmpeg、API、Token 等技术科普，注明版本和适用条件，免费浏览、另有会员增值服务
+
+#### tumingguang-svg - [Github](https://github.com/tumingguang-svg)
+* :white_check_mark: [aiMakeVideo](https://aimakevideo.com)：AI 视频与图片创作工作台，文生视频 / 图生视频 / 图生图在同一处切换，可选 Seedance 2.5、MiniMax H3 等模型；另把 Bulin 47、Hotel Lobby、Rumpelstiltskin 等 10 个热门玩法做成独立模板页，上传一张照片就能出 15 秒竖屏视频、不用写提示词；积分包 $9.9 起也可订阅，注册送 10 积分，9 种语言界面
+
 ### 2026 年 10 月 18 号添加
 
 #### makexyf-max - [Github](https://github.com/makexyf-max)
