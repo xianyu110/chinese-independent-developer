@@ -16,7 +16,24 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 20 号添加
+
+#### Tony Li - [Github](https://github.com/astonysh)
+* :white_check_mark: [CloudMac](https://cloudmac.dev)：海外云 Mac 服务商对比索引，收录 30 家、12 个国家和地区的独占 Mac mini、macOS 虚拟机与 Mac 托管，可按机房、远程方式（SSH/VNC/root）、IP 类型和用途（远程开发、iOS 构建、AI Agent 常驻、按天租）筛选，价格取自官网并标注核实日期；免费使用，另有中文服务专区和免费 JSON API
+
+#### HyMaple(多伦多) - [Github](https://github.com/Hanyan1822)
+* :white_check_mark: [CloudWorth 云划算](https://www.getcloudworth.com/)：云服务器/VPS 超卖检测工具，10 秒检测 CPU Steal Time、磁盘虚标与老旧硬件溢价，导出审计报告，支持 11 种语言
+
 ### 2026 年 10 月 19 号添加
+
+#### virskor(德宏) - [Github](https://github.com/virskor)
+* :clock8: [Mackit](https://www.mingcui.cn/mackit/)：代码写久了，依赖缓存占满了磁盘？为开发者打造的依赖缓存清理工具，扫描 Xcode、Node、Flutter、Go、Rust、Python 等工具留下的可再生缓存，逐项标示风险，让你安全地把磁盘空间拿回来；每一项都标好风险，删什么由你决定
+
+#### 星见 - [X](https://x.com/xingjian_ai)
+* :white_check_mark: [CatCatCode](https://catcatcode.com/)：面向新手的 GPT / Claude API 接入服务，国内直连不用翻墙，注册拿密钥后按教程改 Claude Code / Codex 等即可用；月费 99 / 199 / 299
+
+#### masterball-w - [Github](https://github.com/masterball-w)
+* :white_check_mark: [AI余额管理大师](https://github.com/masterball-w/AI-Balance-Master)：Windows 二次元桌宠式 AI 余额/额度/订阅到期提醒工具，DeepSeek、Kimi、硅基流动、OpenRouter 填 API Key 即可用官方接口查余额，ChatGPT、Cursor 等无公开接口的平台手动记录到期日，没数据一律显示“未获取”；数据全本地、Key 系统加密，MIT 开源，Releases 提供免安装 Windows 压缩包（未签名）
 
 #### PoxenStudio(广州) - [Github](https://github.com/PoxenStudio)
 * :white_check_mark: [MyBooks](https://github.com/PoxenStudio/mybooks)：个人与家庭私有电子书管理服务，基于 Calibre + Vue，支持书单创建分享、WebDAV 同步、epub/azw3/pdf 互转、epub 转有声书与 Podcast 输出，可推送到 Kindle 等设备；Docker 部署 - [官网](https://www.mybooks.top)

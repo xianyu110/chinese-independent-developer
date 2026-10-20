@@ -24,7 +24,27 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 20 号添加
+
+#### DuskXi - [Github](https://github.com/DuskXi)
+* :white_check_mark: [SpaceKnife](https://spaceknife.kaltsit.dev/zh/)：硬盘空间分析工具，用实时树图一眼看出磁盘被什么占满，支持 NTFS 快速扫描、快照对比和限制扫描时的磁盘负载，免费开源，支持 Windows 和 Linux - [GitHub](https://github.com/DuskXi/SpaceKnife)
+
+#### ambrosex - [Github](https://github.com/AmbroseX), [推特](https://x.com/ambrosex)
+* :white_check_mark: [AI观潮](https://aiguanchao.com/)：AI 新闻精选站，每天从上千个信息源的几千条 AI、科技和时事新闻里挑出值得看的，附中文总结和原文链接；另有早晚两期 AI 日报、热门事件追踪和把多家第三方评测换算到同一尺度的大模型排行榜，网页和 RSS 免费
+
 ### 2026 年 10 月 19 号添加
+
+#### xinyanghu7 - [Github](https://github.com/xinyanghu7)
+* :white_check_mark: [苏哲AI](https://suzhe.ai)：ChatGPT 会员开通站，支付宝付款，买卡密后网页自助激活，通常 1–3 分钟到账，订阅类质保 1 个月；另有 Gemini、Super Duolingo 等 AI 会员
+
+#### 犀利豆 - [Github](https://github.com/diaozxin007)
+* :white_check_mark: [AI Anime Generator](https://ai-anime-generator.io/)：AI 动漫绘图网站，输入文字或上传照片生成动漫角色、头像和 Chibi 图片，可选画风与画面比例，提供可直接使用的提示词；英文界面，需 Google 登录，新账号赠送 30 积分（7 天有效），生成按模型扣积分
+
+#### Simon - [Github](https://github.com/simonwong), [博客](https://simonwong.cn)
+* :white_check_mark: [Speaker](https://speaker.moonunder.app)：macOS 原生语音输入工具，BYOK，语音识别可选豆包、OpenAI、千问，macOS 26 及以上可用 Apple 离线识别，不需要 Key；支持多种文字整理模式，也可以自定义；无账号无服务端，会话记录和个人词库只存在本地；免费开源 - [GitHub 仓库](https://github.com/simonwong/speaker)
+
+#### kevinxding - [Github](https://github.com/kevinxding), [推特](https://x.com/whispek_DingXu)
+* :white_check_mark: [Whispek](https://whispek.com)：AI 语音输入桌面应用，按住一个键说话，松开后整理好的文字直接出现在几乎任何应用的光标处，能去掉「嗯」「啊」和重复，还能语音翻译；支持 Windows、macOS、Linux（.deb 和 AppImage），有免费额度，每 7 天刷新
 
 #### 董子航 - [Github](https://github.com/ZihangDong)
 * :white_check_mark: [ToolKnit](https://toolknit.com/)：免费、免注册的 PDF、图片、音视频和文本在线工具箱，支持中英文切换；PDF 转图片、图片裁剪等功能在浏览器本地完成，部分工具设有使用额度或文件大小上限
@@ -1033,8 +1053,8 @@
 * :white_check_mark: [CreateForge AI](https://createforgeai.com/)：AI 图像与视频生成工作台，接入 17 个模型，支持 Seedance 2.5、Veo 3.1 等模型的文生图、图生图、文生视频和图生视频，提供积分报价、任务中心与私有媒体库
 
 #### EthanYoQ - [Github](https://github.com/EthanYoQ)
-* :white_check_mark: [AI 小说作家](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 小说创作桌面应用，把角色、世界观、大纲、写作、审校与修订串成可控流程，写长篇不崩，包含续写仿写其他小说的功能；另有 DeepSeek Harness 插件版本，可用本地模型创作成人向（NSFW）小说
-* :white_check_mark: [Invoice Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：电子发票整理与报销准备桌面应用，从 QQ 或 163 邮箱批量下载发票，也可直接把发票二维码下载成发票，OCR 识别、分类归档并生成报销 Excel 汇总；另有 DeepSeek Harness 插件版本
+* :white_check_mark: [书童 Pagekin（原 AI 小说作家）](https://github.com/EthanYoQ/AI-Novel-Writer)：开源免费的 AI 小说写作桌面软件，将设定、章节蓝图、正文、审稿和定稿放在同一项目，支持拆解仿写、续写和改写，内容由作者确认；提供 Windows/macOS 安装包，可自配 Ollama 或云端模型，另有独立的早期 DeepSeek Harness 插件预览
+* :white_check_mark: [InvoiceFlowAI 发票管家](https://github.com/EthanYoQ/Invoice-Downloader)：开源发票整理与报销准备软件，从 QQ/163 邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并导出 Excel，不确定结果留给人工复核；提供 Windows/macOS 桌面版与独立 DeepSeek Harness 插件
 * :white_check_mark: [轻语输入 / Whisper Input](https://github.com/EthanYoQ/whisper-input)：中文 AI 语音输入工具，按全局快捷键即可将口述整理为去口头语、正式汇报或邮件格式，支持自动转成英文与自定模型
 
 #### Darren(深圳) - [Github](https://github.com/darren562)
@@ -1405,10 +1425,10 @@
 * :white_check_mark: [supergeo.info](https://supergeo.info)：帮助 GEO 从业者的工具集合平台 - [更多介绍](https://supergeo.info)
 
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
-* :white_check_mark: [Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：电子发票整理与报销准备工具，从 QQ/163 邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DeepSeek Harness 插件
+* :white_check_mark: [InvoiceFlowAI 发票管家](https://github.com/EthanYoQ/Invoice-Downloader)：开源发票整理与报销准备软件，从 QQ/163 邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并导出 Excel，不确定结果留给人工复核；提供 Windows/macOS 桌面版与独立 DeepSeek Harness 插件
 * :white_check_mark: [whisper-input](https://github.com/EthanYoQ/whisper-input)：中文 AI 语音输入工具，按快捷键说话，在 Windows 任意应用把口述整理成去口头语、可分段和结构化的文字并插入当前光标；支持用户词典、中文转英文和自选云端 ASR/LLM
 * :white_check_mark: [agent-xiaohongshu-workbench](https://github.com/EthanYoQ/agent-xiaohongshu-workbench)：小红书图文内容工作台，把账号定位、热点研究、选题、原创文稿、品牌配图、完整预览和人工确认组织成一条可控流程；由本地 Codex Agent 驱动，提供 Windows 与 Apple Silicon macOS 安装包
-* :white_check_mark: [AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 小说创作桌面软件，把灵感、角色、世界观、大纲、章节蓝图、写作、审稿和修稿组织成完整流程；提供 Windows/macOS 安装包，支持 Ollama 与 DeepSeek Harness 插件
+* :white_check_mark: [书童 Pagekin（原 AI 小说作家）](https://github.com/EthanYoQ/AI-Novel-Writer)：开源免费的 AI 小说写作桌面软件，将设定、章节蓝图、正文、审稿和定稿放在同一项目，支持拆解仿写、续写和改写，内容由作者确认；提供 Windows/macOS 安装包，可自配 Ollama 或云端模型，另有独立的早期 DeepSeek Harness 插件预览
 
 #### yipeng-git - [Github](https://github.com/yipeng-git)
 * :white_check_mark: [Paste It](https://paste-it.app)：macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史 - [更多介绍](https://github.com/yipeng-git/paste-it)
@@ -5482,34 +5502,6 @@
 ### 2024 年 12 月 10 号添加
 #### cuiheng511 - [Github](https://github.com/cuiheng511)
 * :white_check_mark: [Autoppt](https://autoppt.com)：AI 演示文稿生成工具，彻底改变了您创建演示文稿的方式。凭借丰富的模板和强大的功能，让您轻松在几分钟内制作出令人惊叹的演示文稿
-
-### 2024 年 12 月 8 号添加
-#### chrox - [Github](https://github.com/chrox/readest)
-* :white_check_mark: [Readest](https://readest.com?utm_source=indiecn&utm_medium=referral&utm_campaign=post)：阅读软件（极简设计、开源、跨平台） - [更多介绍](https://github.com/chrox/readest)
-
-#### underwoodxie - [Github](https://github.com/underwoodxie)
-* :x: [一键将 Youtube 视频转成 SEO 友好的文章](https://video-to-article.com/)：自己在做网站时发现有些 Youtube 视频的质量很好，想把内容变成文字放在自己的网站上，每次都需要转好几个工具，因此做了一个解决自己问题的工具，如果大家有需要可以使用。
-
-### 2024 年 12 月 7 号添加
-#### Ovelv（西安）- [Github](https://github.com/ovelv)
-* :white_check_mark: [OnionAI](https://onionai.so)：AI 聚合搜索引擎，轻松切换不同的 AI 搜索引擎
-
-### 2024 年 12 月 6 号添加
-#### canghaicheng(苏州) 
-* :x: [桌面世界](https://www.zhuomianshijie.com/)：3D 聊天机器人桌面应用
-
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :x: [Genie 2](https://genie2.co/)：大规模基础世界模型，能将单张图像转换为完全交互式的 3D 环境
-
-#### Fooying - [Github](https://github.com/fooying), [博客](fooying.com/?ref=chinese-independent-developer)
-* :x: [SECSOSO 安全搜搜](https://secsoso.com/)：网络安全垂直领域AI搜索，安全搜搜，搜索安全 - [更多介绍](https://www.producthunt.com/products/secsoso)
-
-### 2024 年 11 月 24 号添加
-#### 玩具工匠 - [Github](https://github.com/HiToysMaker)
-* :white_check_mark: [字玩](https://www.font-player.com)：字体设计工具 - [源代码](https://github.com/HiToysMaker/fontplayer)
-
-#### zebrapixel - [Twitter](https://x.com/xdkc2000)
-* :x: [像素画家](https://apps.apple.com/app/pixel-one/id6504689184)：简单易用的像素画编辑器 - [更多介绍](https://www.zebrapixel.com)
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
