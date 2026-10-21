@@ -1,5 +1,145 @@
 [
   {
+    "name": "Flux3Max",
+    "url": "https://flux3max.net",
+    "status": "online",
+    "description": "FLUX 3 Max AI 视频生成器，输入一段文字或上传一张图片（也可以给首帧和尾帧两张图），就能生成 5–20 秒带声音的视频，支持 720p / 1080p 和多种画面比例；网页英文界面，Google 登录，新用户可免费生成一次 5 秒视频，之后按秒付费、积分包不订阅不过期",
+    "author": "stimQQ",
+    "authorGithub": "https://github.com/stimQQ",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ViewHTML",
+    "url": "https://viewhtml.app",
+    "status": "online",
+    "description": "HTML 查看器，左边贴 HTML/CSS/JS 右边实时预览，可直接打开本地 .html 文件，适合预览 ChatGPT/Claude/Codex 生成的 HTML；一键分享为链接、二维码、PNG 或 PDF，免注册免费，另有 Claude Code/Codex/Cursor 分享 Skill - [Skill 源码](https://github.com/Enivel/viewhtml-share-skill)",
+    "author": "Levine",
+    "authorGithub": "https://github.com/Enivel",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Fondo Blanco",
+    "url": "https://fondoblanco.org",
+    "status": "online",
+    "description": "西班牙语抠图工具，一键去掉照片背景并换成白底，保持原图尺寸，支持 JPG/PNG/WebP，适合 Amazon、Mercado Libre、Shopify 商品图和证件、头像照片，免注册免费",
+    "author": "Levine",
+    "authorGithub": "https://github.com/Enivel",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "糖包",
+    "url": "https://tangbao.phaeris.cn",
+    "status": "online",
+    "description": "自研「能工智人」大模型，永久免费，支持对话和文生图，新模型 tangbao-vme50-flash 已上线",
+    "author": "Phaeris",
+    "authorGithub": "https://github.com/PhaerisWakfu",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "TradeSniper",
+    "url": "https://x-swap.cn/tradesniper/",
+    "status": "online",
+    "description": "A 股与期货行情站，手机上集合策略与做 T 辅助，方便盯盘和短线操作",
+    "author": "yi wangyi(深圳)",
+    "authorGithub": "https://github.com/wagnyi793797714",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "MyFateGPT（紫微命书）",
+    "url": "https://myfategpt.com/",
+    "status": "online",
+    "description": "中文紫微斗数排盘与 AI 白话解读工具，免费查看十二宫命盘和部分试读；完整七章报告一次性 ¥299 / US$39，含 PDF，另有出生时间、农历闰月和排盘差异的简繁体指南",
+    "author": "Jayden-tong",
+    "authorGithub": "https://github.com/Jayden-tong",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AjaxModel Release Tracker",
+    "url": "https://ajaxmodel.dev/",
+    "status": "online",
+    "description": "Ajax 模型发布追踪站，汇总官方来源、发布时间线和本地运行指南，免登录查看；非官方项目，不提供未发布模型的权重下载",
+    "author": "fisher-byte",
+    "authorGithub": "https://github.com/fisher-byte",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SongFromVideo",
+    "url": "https://songfromvideo.com/",
+    "status": "online",
+    "description": "视频识曲工具，粘贴 TikTok/YouTube/Instagram/Facebook/X 链接或上传音视频就能找出背景音乐，登录后首次识别免费",
+    "author": "蚊子",
+    "authorGithub": "https://github.com/coderWenzi",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "DTCStack",
+    "url": "https://www.dtcstackhq.com/",
+    "status": "online",
+    "description": "面向 Shopify/DTC 卖家的免费电商工具库，17 个工具覆盖订单利润、广告 ROAS、支付费率、到岸成本、退货、批发定价和商品 SEO，浏览器本地计算、免登录，中英双语 - [更多介绍](https://www.dtcstackhq.com/tools/)",
+    "author": "Kevin(China)",
+    "authorGithub": "https://github.com/kevin0168",
+    "date": "2026 年 10 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "VOXR",
+    "url": "https://aizhiz.com/voxr/",
+    "status": "online",
+    "description": "导入 AI 配音的 SRT 字幕，在浏览器本地逐句找出语速、停顿和节奏问题，整理成可回看的复核点和交给下一次 TTS 重配的提示词，免费免注册 - [更多介绍](https://aizhiz.com/zh/posts/2026-07-29-voiceover-review-layer/)",
+    "author": "dlxeva",
+    "authorGithub": "https://github.com/dlxeva",
+    "date": "2026 年 10 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI Doctor Scan",
+    "url": "https://aidoctorscan.com/",
+    "status": "online",
+    "description": "可见症状的照片分诊工具，上传照片并可选填写症状，获得 AI 生成的就医紧急程度提示和简短说明；首次结果免费且无需登录，可追加同一区域的照片复查，支持英语等 7 种语言（暂无中文）；仅供健康教育参考，不构成诊断或替代就医",
+    "author": "blowxian",
+    "authorGithub": "https://github.com/blowxian",
+    "date": "2026 年 10 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "未寄 · Unsent",
+    "url": "https://env-00jy5xxt7kdo-static.normal.cloudstatic.cn",
+    "status": "online",
+    "description": "基于地理坐标的时空信箱与情绪树洞，把未曾寄出的话留在真实物理位置上；支持五维情绪呼吸微光、时空信封倒计时封存、纸飞机善意回音与自带经纬度印章的拍立得海报导出，完全开源免费 - [源码](https://github.com/David-XIa001/unsent)",
+    "author": "David-XIa001(武汉)",
+    "authorGithub": "https://github.com/David-XIa001",
+    "date": "2026 年 10 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "知海图书馆",
+    "url": "https://www.zhihailib.com",
+    "status": "online",
+    "description": "干净的中文电子书站，可按书名、作者、出版社、ISBN 精确找书，能在线读，没有弹窗广告",
+    "author": "知海图书馆团队",
+    "authorGithub": "",
+    "date": "2026 年 10 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ExamParser",
+    "url": "https://examparser.com",
+    "status": "online",
+    "description": "把 Word、PDF 或 Google 文档一键转成 Canvas 可直接导入的题库，免登录、文件用完即删，老师再也不用手动一道道录题",
+    "author": "Nanshanelectrician",
+    "authorGithub": "https://github.com/Nanshanelectrician",
+    "date": "2026 年 10 月 20 号添加",
+    "category": "main"
+  },
+  {
     "name": "SpaceKnife",
     "url": "https://spaceknife.kaltsit.dev/zh/",
     "status": "online",
@@ -17100,233 +17240,13 @@
     "category": "main"
   },
   {
-    "name": "仓鼠工具箱",
-    "url": "https://www.hamstertools.org",
-    "status": "online",
-    "description": "各类在线工具，用完即走 - [更多介绍](https://www.hamstertools.org/all_tools)",
-    "author": "SEEEEAL(西安)",
-    "authorGithub": "https://github.com/seeeeal",
-    "date": "2025 年 1 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Crop Image",
-    "url": "https://cropimage.me/",
-    "status": "offline",
-    "description": "图片裁剪工具（免费），所有操作都在本地完成，更加隐私和安全。支持裁剪框缩放、图片缩放、旋转、翻转、上下左右拖动调整位置，内置常见的裁剪框比例，缩放时始终保持比例不变，使用更省心",
-    "author": "Ethan",
-    "authorGithub": "",
-    "date": "2025 年 1 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "whatDoILookLike",
-    "url": "https://whatdoilooklike.online/",
-    "status": "online",
-    "description": "在电影或剧集中找出与你相似的角色并一键换脸",
-    "author": "RolloTomasi",
-    "authorGithub": "",
-    "date": "2025 年 1 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "aihinto",
-    "url": "https://aihinto.com/",
-    "status": "offline",
-    "description": "为日语市场提供 AI 导航和 AI 资讯",
-    "author": "韩老师脑暴",
-    "authorGithub": "",
-    "date": "2025 年 1 月 7 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Arnis",
-    "url": "https://arnis.app/",
-    "status": "online",
-    "description": "将现实世界地点转变为 Minecraft 场景地图的工具",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2025 年 1 月 7 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Template0",
-    "url": "https://template0.com/",
-    "status": "online",
-    "description": "收录了近千份免费的网站模板，包含用途、技术栈、预览截图、描述等信息，方便开发者快速找到适合自己的模板以快速上线",
-    "author": "Justin3go(重庆)",
-    "authorGithub": "https://github.com/Justin3go",
-    "date": "2024 年 12 月 30 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Gemini Coder",
-    "url": "https://geminicoder.org/",
-    "status": "offline",
-    "description": "AI 应用代码生成器，基于提示词一键生成网站应用",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 12 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "DeepSeek v3",
-    "url": "https://deepseekv3.org/",
-    "status": "offline",
-    "description": "DeepSeek v3 是一个拥有 671B 参数规模、突破性的大规模语言模型，这是介绍它的网站",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 12 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "TRELLIS 3D AI",
-    "url": "https://trellis3d.co/",
-    "status": "online",
-    "description": "将图片转换为 3D 资产的免费 AI 工具",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 12 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FLUX Style Shaping",
-    "url": "https://fluxstyleshaping.com/",
-    "status": "offline",
-    "description": "基于 Flux 的图像风格转化工具，将结构元素与艺术风格相结合来转换图像",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "https://github.com/MuYiBo",
-    "date": "2024 年 12 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "八爪鱼收纳",
-    "url": "https://www.bzysn.top",
-    "status": "offline",
-    "description": "智能物品管理小程序，帮助您轻松管理家中各类物品，让生活更加井然有序",
-    "author": "简具科技(杭州)",
-    "authorGithub": "",
-    "date": "2024 年 12 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "XShorts",
-    "url": "https://xshorts.pro/",
-    "status": "online",
-    "description": "一键将优质 Tweet 转换为数字人短视频。定制化声音、AI背景图片，自动化发布。轻松创作内容优质的短视频",
-    "author": "KIAN",
-    "authorGithub": "",
-    "date": "2024 年 12 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Free Open Graph Generator",
-    "url": "https://og.indiehub.best/",
-    "status": "online",
-    "description": "Open Graph图片制作工具，支持多种布局，支持调整文字+背景，支持导出PNG，免费无水印",
-    "author": "Indie Maker Fox",
-    "authorGithub": "https://github/javayhu",
-    "date": "2024 年 12 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "短剧大王",
-    "url": "https://www.inav.site/v",
-    "status": "online",
-    "description": "短剧爱好者的免费观影神器，带你畅享短剧盛宴！本应用完全免费！即可尽情观看海量短剧。如寻觅无果？别担心！只需轻松留言告知您心仪的短剧名称，我们会尽快为您找到资源 - [API 免费开放](https://www.inav.site/mp#/pageC/api/api)",
-    "author": "前端小周(郑州) - [github](https://github.com/webjuzi), [博客](https://www.inav.site/)",
-    "authorGithub": "",
-    "date": "2024 年 12 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "GitHub Cards",
-    "url": "https://github.cards",
-    "status": "online",
-    "description": "将你的 GitHub 数据转换成漂亮易分享的卡片图",
-    "author": "Corey Chiu - [GitHub](https://github.com/iamcorey), [博客](https://coreychiu.com)",
-    "authorGithub": "",
-    "date": "2024 年 12 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Mkdirs",
-    "url": "https://mkdirs.com/",
-    "status": "online",
-    "description": "最好的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能",
-    "author": "Indie Maker Fox",
-    "authorGithub": "https://github/javayhu",
-    "date": "2024 年 12 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "IndieHub",
-    "url": "https://indiehub.best/",
-    "status": "online",
-    "description": "最好的独立开发者导航站，收录400+独立开发工具，支持开发者提交产品",
-    "author": "Indie Maker Fox",
-    "authorGithub": "https://github/javayhu",
-    "date": "2024 年 12 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "帽子云",
-    "url": "https://www.maoziyun.com/",
-    "status": "online",
-    "description": "GitHub Pages / Cloudflare Pages 的国产替代方案，集成化的静态网站快速创建平台 - [更多介绍](https://www.maoziyun.com/docs/introduction)",
-    "author": "joyoyao(上海)",
-    "authorGithub": "https://github.com/joyoyao",
-    "date": "2024 年 12 月 17 号添加",
-    "category": "main"
-  },
-  {
-    "name": "BlueSky 工具目录站点",
-    "url": "https://bskyinfo.com",
-    "status": "online",
-    "description": "目前最完整的 BlueSky 工具收录站点",
-    "author": "Leo (上海)",
-    "authorGithub": "",
-    "date": "2024 年 12 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "UnblurImage AI",
-    "url": "https://unblurimage.ai/zh",
-    "status": "online",
-    "description": "图片无损放大变清晰网站（免费无广）",
-    "author": "Aining（合肥）",
-    "authorGithub": "",
-    "date": "2024 年 12 月 11 号添加",
-    "category": "main"
-  },
-  {
-    "name": "PodExtra AI",
-    "url": "https://www.podextra.ai/",
-    "status": "online",
-    "description": "播客内容摘要生成器（有文字稿和思维导图） - [更多介绍](https://www.podextra.ai/)",
-    "author": "Terry(上海)",
-    "authorGithub": "https://github.com/jamieme",
-    "date": "2024 年 12 月 11 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Autoppt",
-    "url": "https://autoppt.com",
-    "status": "online",
-    "description": "AI 演示文稿生成工具，彻底改变了您创建演示文稿的方式。凭借丰富的模板和强大的功能，让您轻松在几分钟内制作出令人惊叹的演示文稿",
-    "author": "cuiheng511",
-    "authorGithub": "https://github.com/cuiheng511",
-    "date": "2024 年 12 月 10 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "cuiheng511",
-    "authorGithub": "https://github.com/cuiheng511",
-    "date": "2024 年 12 月 10 号添加",
+    "author": "zijiuok",
+    "authorGithub": "https://github.com/zijiuok",
+    "date": "2025 年 1 月 13 号添加",
     "category": "main"
   },
   {
@@ -17334,9 +17254,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "cuiheng511",
-    "authorGithub": "https://github.com/cuiheng511",
-    "date": "2024 年 12 月 10 号添加",
+    "author": "zijiuok",
+    "authorGithub": "https://github.com/zijiuok",
+    "date": "2025 年 1 月 13 号添加",
     "category": "main"
   },
   {
@@ -17344,9 +17264,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "cuiheng511",
-    "authorGithub": "https://github.com/cuiheng511",
-    "date": "2024 年 12 月 10 号添加",
+    "author": "zijiuok",
+    "authorGithub": "https://github.com/zijiuok",
+    "date": "2025 年 1 月 13 号添加",
     "category": "main"
   },
   {
@@ -17354,9 +17274,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "cuiheng511",
-    "authorGithub": "https://github.com/cuiheng511",
-    "date": "2024 年 12 月 10 号添加",
+    "author": "zijiuok",
+    "authorGithub": "https://github.com/zijiuok",
+    "date": "2025 年 1 月 13 号添加",
     "category": "main"
   }
 ]
