@@ -1,5 +1,65 @@
 [
   {
+    "name": "Rainku",
+    "url": "https://www.rainku.com/zh-CN?ref=cid",
+    "status": "online",
+    "description": "AI 日记，在雨声里写下今天，和你的 AI 聊聊，把乱糟糟的一天变成值得留下的东西；中英日韩等 6 种界面语言，登录后在浏览器里用，有免费额度",
+    "author": "Worldku 团队",
+    "authorGithub": "",
+    "date": "2026 年 10 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Tuneku FM",
+    "url": "https://www.tuneku.com/zh-CN?ref=cid",
+    "status": "online",
+    "description": "私人 AI 电台，把你电脑里的歌变成电台，歌与歌之间你的 AI 时不时像主持人一样聊一两句，打字或用语音点歌；不用下载，登录后在浏览器里听",
+    "author": "Worldku 团队",
+    "authorGithub": "",
+    "date": "2026 年 10 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "这图能改",
+    "url": "https://hugehard.app/apps/this-pic-can-change/",
+    "status": "developing",
+    "description": "iPhone 图片视频工具箱，把任意视频转成可设为动态壁纸的实况照片（Live Photo），还能把图片压缩到指定文件大小、视频压缩、视频转 GIF、格式转换和改尺寸，普通处理全在手机本机完成不上传；iOS 17+，App Store 审核中，现可通过 TestFlight 公开测试免费体验 - [TestFlight 加入链接](https://testflight.apple.com/join/GK8ht2vv)",
+    "author": "HugeHard Studio",
+    "authorGithub": "https://github.com/ilimei",
+    "date": "2026 年 10 月 22 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Notebook Generator",
+    "url": "https://www.notebookgenerator.com/zh-CN/",
+    "status": "online",
+    "description": "免费生成可打印的笔记本、手帐、日历 PDF，100 多种内页模板与多种纸张尺寸，可导出对折装订的小册子，无需注册，PDF 在浏览器本地生成",
+    "author": "tusunsun",
+    "authorGithub": "https://github.com/tusunsun",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SliceLoft",
+    "url": "https://sliceloft.com/",
+    "status": "online",
+    "description": "3D 打印文件工具（免费），全部在浏览器本地运行、不上传文件：把 Bambu Studio / OrcaSlicer 的 3MF 项目按盘或按零件转成 STL，也支持 STL→3MF、OBJ→STL、STEP→STL，在线预览 3MF/STL，还能自定义生成免支撑打印的星形指尖陀螺",
+    "author": "abyssalyanbin",
+    "authorGithub": "https://github.com/abyssalyanbin",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PowerStation Size",
+    "url": "https://powerstationsize.com/",
+    "status": "online",
+    "description": "便携储能计算器，按实际负载分别核对容量、持续功率和逆变器浪涌；X-Boost / Power Lifting / SurgePad 等 boost 峰值不能当作冰箱压缩机启动余量，规格从厂商页抄录并标注核对日期，免费开源 — [源码](https://github.com/rosebsnowden-eng/powerstation-size)",
+    "author": "Chen Jie",
+    "authorGithub": "https://github.com/rosebsnowden-eng",
+    "date": "2026 年 10 月 21 号添加",
+    "category": "main"
+  },
+  {
     "name": "Flux3Max",
     "url": "https://flux3max.net",
     "status": "online",
@@ -17160,93 +17220,13 @@
     "category": "main"
   },
   {
-    "name": "Supametas.AI",
-    "url": "https://supametas.ai",
-    "status": "offline",
-    "description": "从任何非标准化目标处理为适用 LLM RAG 的结构化数据，更方便的搜集、构建、预处理你的行业领域数据集并集成到 LLM RAG 检索知识库 - [更多介绍](https://supametas.ai/zh/blog/4)",
-    "author": "Benson Gao(北京) ",
-    "authorGithub": "",
-    "date": "2025 年 1 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "PhotoG",
-    "url": "https://photog.art/",
-    "status": "online",
-    "description": "专为电商卖家打造的 AI 摄影工具。轻松制作专业级产品图片，自定义背景，优化视觉效果，助力销售增长",
-    "author": "JasmineChzI(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 1 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "优好搜·SEO优化工具",
-    "url": "https://www.uhaoseo.com",
-    "status": "online",
-    "description": "免费精准诊断网站 SEO 状况，提供专业审查报告，致力保障网站和品牌在搜索引擎内的可见性 - [更多介绍](https://www.uhaoseo.com/seo-analyzer)",
-    "author": "wo-zx(广州) ",
-    "authorGithub": "",
-    "date": "2025 年 1 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Minute Timer",
-    "url": "https://minutetimers.net/",
-    "status": "online",
-    "description": "计时器（轻量级且用户友好）",
-    "author": "moldav(上海)",
-    "authorGithub": "https://github.com/HahaHa0099/MinuteTimer",
-    "date": "2025 年 1 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Staying",
-    "url": "https://staying.fun",
-    "status": "online",
-    "description": "交互式可视化 Python & Javascript 代码 - [更多介绍](https://staying.fun/zh/docs/getting-started)",
-    "author": "lezhu(上海)",
-    "authorGithub": "",
-    "date": "2025 年 1 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Image Describer",
-    "url": "https://imagedescriber.app/",
-    "status": "online",
-    "description": "提供对艺术作品的深入分析（背景、寓意、构图元素），帮助用户更深层次地理解和欣赏艺术创作和评价编写",
-    "author": "Sean(成都)",
-    "authorGithub": "https://github.com/ShurshanX",
-    "date": "2025 年 1 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "猫步简历",
-    "url": "https://maobucv.com/",
-    "status": "online",
-    "description": "简历制作神器（开源免费）",
-    "author": "天之蓝源(成都)",
-    "authorGithub": "https://github.com/Hacker233/resume-design",
-    "date": "2025 年 1 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "小报童排行榜",
-    "url": "https://xiaobaoto.com/ranking/",
-    "status": "online",
-    "description": "哪些付费专栏最赚钱",
-    "author": "zijiuok",
-    "authorGithub": "https://github.com/zijiuok",
-    "date": "2025 年 1 月 13 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "zijiuok",
-    "authorGithub": "https://github.com/zijiuok",
-    "date": "2025 年 1 月 13 号添加",
+    "author": "Xibobo(上海) ",
+    "authorGithub": "",
+    "date": "2025 年 1 月 29 号添加",
     "category": "main"
   },
   {
@@ -17254,9 +17234,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "zijiuok",
-    "authorGithub": "https://github.com/zijiuok",
-    "date": "2025 年 1 月 13 号添加",
+    "author": "Xibobo(上海) ",
+    "authorGithub": "",
+    "date": "2025 年 1 月 29 号添加",
     "category": "main"
   },
   {
@@ -17264,9 +17244,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "zijiuok",
-    "authorGithub": "https://github.com/zijiuok",
-    "date": "2025 年 1 月 13 号添加",
+    "author": "Xibobo(上海) ",
+    "authorGithub": "",
+    "date": "2025 年 1 月 29 号添加",
     "category": "main"
   },
   {
@@ -17274,9 +17254,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "zijiuok",
-    "authorGithub": "https://github.com/zijiuok",
-    "date": "2025 年 1 月 13 号添加",
+    "author": "Xibobo(上海) ",
+    "authorGithub": "",
+    "date": "2025 年 1 月 29 号添加",
     "category": "main"
   }
 ]
