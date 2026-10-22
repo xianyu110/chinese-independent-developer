@@ -107,6 +107,8 @@ Issue #1402（2026-09-20）「GithubStarMate」/ adevelle：页面销售推广�
 - **重复提交已收录产品**：shanleiguang 2026-09-22 重复提交 vPlayer HiFi（2026-08-08 已收录）→ 静默跳过，不发致谢（说「已添加」会误导）。
 - **用户名差集遮掉二次投稿（2026-10-10）**：huangy7 早先的 Lokii 已被致谢，用户名进了 thanked 集合；他在 10-09T14:51Z 又发了 outline-skill 新提交，`comm` 直接判为已处理，被漏了整整一轮。
   教训：差集只是第一道过滤，必须再逐条核对「这条评论之后有没有 @ 到他的回复」。
+- **同一个坑踩了第二次（2026-10-21）**：stimQQ 的 LayerGrab 已在 10-18 收录并致谢，他 10-21T01:28Z 又投了另一个产品 Flux3Max，用户名差集再次判为已处理。逐条核对时捞回来，已收录。
+  教训：差集按**人**去重，漏的却是**产品**。**结论：查重一律按产品 URL，不按用户名**，已固化为 `.github/scripts/pending_submissions.py`（见 SKILL.md 0.3）。
 - **同簇套壳站点**：Jev 系列（jev.stockai.trade、jev.guide、whatcanjevdo.com、jev-ai.pro、ai-jev.pro、decisionapi.net）、AI 潮流短视频系列（gasstationdance.pro、raindance-ai.pro）。收录，但代拟描述必须写它自己独有的功能点（如 ai-jev.pro 的「Playground + CSV/TXT/JSONL 批量 + 注册送 5 额度」），不要照抄簇里已有条目。
 
 ---
@@ -158,3 +160,16 @@ Issue #1402（2026-09-20）「GithubStarMate」/ adevelle：页面销售推广�
 维护者明确：他很少回看 #160 原文，评论区的纠错、质疑、投诉、建议如果不上报，就等于消失。所以设了「检查一之二」强制上报，且**只登记、不处置**——不改条目、不回复、不关闭。
 
 同一条规则覆盖检查二里的 issue：非提交类的意见保持 open，进汇报的「需要你处理的意见/建议」一节。
+
+---
+
+## L. 致谢串号（2026-10-21）
+
+一次运行里同时处理 Issue #1622 和 PR #1620/#1621，三个 POST 写在同一条 shell 命令里，第二个的 endpoint 抄成了 `issues/1622/comments`，结果 SliceLoft 的致谢贴在 Notebook Generator 的 issue 下，PR #1620 一条没收到。PATCH + 按 id GET 正文全部「验证通过」——因为验证只看了正文，没看位置。维护者看到 #1622 底下冒出无关产品才发现的。
+
+**根因**：PR 和 issue 共用编号空间（`/issues/<n>` 对 PR 同样有效），编号抄错不报错、不 404，悄悄就贴到别人页面上。
+
+**必须做**：
+1. 批量循环里号从变量取，不要手写；一条命令只对一个目标号。
+2. 验证分两步：按 id GET 正文 + `gh api .../issues/comments/<id> --jq .issue_url` 确认归属编号。
+3. 位置错了删掉自己的评论（`-X DELETE`）再往对的号重发；删自己的不违反红线 2（不删他人条目）。

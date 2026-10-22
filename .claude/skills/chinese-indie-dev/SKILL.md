@@ -63,16 +63,26 @@ wc -c README.md
 - **三个数字全为 0 不等于收工**：仍要跑 0.3 的差集、检查一之二、收尾扫描。
 - ⚠️ **`wc -c README.md` 超过 490,000 就地处理，别等到插入条目之后**：运行间隔里别人 merge 也可能顶过线。直接按 6.3 跑 `migrate_archive.py --write`，**即使本次空跑也要单独发一条搬迁 commit**（2026-09-27 实测：开跑时已是 490,082 字节，只想着"这次没新条目"就会把超标状态原样留给下一次）。
 
-### 0.3 差集（不能只凭"看着都处理过"）
+### 0.3 差集：只看域名和产品名
+
+**查重永远只看两样东西：产品域名、产品名。提交者是谁、他以前投过几次、隔了几周几个月，统统不参与判断**——同一个作者跨月跨年反复投稿是常态。
 
 ```bash
-jq -r '.[] | select(.user.login != "1c7" and .user.login != "claude[bot]") | .user.login' /tmp/c160.json | sort -u > /tmp/submitters.txt
-jq -r '.[] | select(.user.login == "1c7" or .user.login == "claude[bot]") | .body' /tmp/c160.json \
-  | grep -oE '^@[A-Za-z0-9-]+' | tr -d '@' | sort -u > /tmp/thanked.txt
-comm -23 /tmp/submitters.txt /tmp/thanked.txt
+python3 .github/scripts/pending_submissions.py /tmp/c160.json; echo "EXIT=$?"
 ```
 
-差集非空 → 逐条进检查一。**差集为空也不代表没有新提交**：差集按用户名去重，老作者的二次投稿会被整个遮掉（→ 判例：F）。必须再逐条核对「窗口内每条非致谢评论之后，有没有 @ 到他的回复」。
+脚本把窗口内每条非我方评论里的 URL 和产品名抽出来，逐个到 README 系列（主版面 / 程序员版面 / 游戏版面 / 两个分册）比对，按结果打三种标签：
+
+| 标签 | 含义 | 怎么办 |
+|---|---|---|
+| `[新]` | 域名和产品名都没命中 | 正常新提交，进检查一 |
+| `[同名]` | 产品名命中、域名没命中 | 重点看：老产品换域名 → 照常收录，描述必须写它独有的功能点；纯重复 → 静默跳过，不发致谢 |
+| `[无链接]` | 只有裸 URL、没写产品名 | 人看，判断是提交还是垃圾 |
+
+- 输出「无待处理项」→ 本次确实没有新提交，可以空跑。
+- 作者主页 / 博客 / 社交页会混在输出里，看一眼跳过。
+- **禁止用「提交者 - 已致谢」的用户名差集来查重**。撞过两次：huangy7（2026-10-10）、stimQQ（2026-10-21，LayerGrab 已收，又投 Flux3Max）。按人去重会把老作者的新投稿整批遮掉（→ 判例：F）。
+- 用户名差集只剩一个用途：交叉核对有没有**漏发致谢**。不参与「该不该收」的判断。
 
 ---
 
@@ -171,7 +181,7 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
 1. `gh pr diff <number>` **逐行看**。有删他人条目的 `-` 行 → 先恢复（`maintainer_can_modify` 为 true 就推到贡献者分支；否则本地合并时恢复），让最终 diff 回到纯新增（→ 判例：G）。
 2. 新增行若落在「### 子版面」清单里 → 照常合并，合并后单独 commit 挪到正确位置（普通产品进当天日期区块；基于本列表数据源的产品进 README 底部专属区块）。
 3. `gh pr merge <number> --squash`。报 `Base branch was modified` 不是真失败，`sleep 5` 后重查 `mergeable/mergeable_state`，`true`/`clean` 就重试一次（→ 判例：G）。
-4. 合并成功后在该 PR 发致谢（POST → PATCH → GET），说清收录到哪个版面。
+4. 合并成功后在该 PR 发致谢（POST → PATCH → GET），说清收录到哪个版面。**PR 和 issue 共用编号空间，致谢必须发在 PR 自己的号上**；同一次运行里既有 issue 又有 PR 时逐条核对目标号（→ 第 7 节的串号事故）。
 5. 合并失败（冲突）：**由我们解决，绝不要求提交者 rebase**。优先改他分支再 `--merge`；推不了才本地 `git merge --no-ff` + `git push` + `gh pr close` 兜底（→ 判例：G）。冲突复杂到分不清该保留什么（不只是新增条目，而是改了已有结构）→ **不要瞎猜、不要删任何已有内容**，在 PR 里说明冲突原因、保持打开等人工介入。
 
 ```bash
@@ -347,6 +357,11 @@ python3 .github/scripts/migrate_archive.py --write
 ```
 
 每条都 POST → 立即 PATCH 覆写 → GET 验证正文，且版面名必须带「面」字。
+
+⚠️ **一次处理多个提交时最容易串号：PR 在 API 里也是 issue，编号相同，`issues/<号>/comments` 打错一个数字就把 A 的致谢贴到 B 下面**（2026-10-21 事故：SliceLoft 的致谢被贴到 Issue #1622 Notebook Generator 下，PR #1620 反而没收到，维护者当场发现）。
+
+- 批量发时必须**一条命令只对应一个目标号**，别在循环里拼号；发完把每条评论 id 反查回它所属的编号：`gh api repos/1c7/chinese-independent-developer/issues/comments/<id> --jq .issue_url`。
+- **只按 id GET 正文验证是不够的**——正文对、位置错照样是事故。位置错了就 `-X DELETE` 删掉自己那条（删自己的不算违反红线 2），再往正确的号重发。
 
 ---
 

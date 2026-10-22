@@ -24,7 +24,25 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 22 号添加
+
+#### Worldku 团队
+* :white_check_mark: [Rainku](https://www.rainku.com/zh-CN?ref=cid)：AI 日记，在雨声里写下今天，和你的 AI 聊聊，把乱糟糟的一天变成值得留下的东西；中英日韩等 6 种界面语言，登录后在浏览器里用，有免费额度
+* :white_check_mark: [Tuneku FM](https://www.tuneku.com/zh-CN?ref=cid)：私人 AI 电台，把你电脑里的歌变成电台，歌与歌之间你的 AI 时不时像主持人一样聊一两句，打字或用语音点歌；不用下载，登录后在浏览器里听
+
+#### HugeHard Studio - [Github](https://github.com/ilimei)
+* :clock8: [这图能改](https://hugehard.app/apps/this-pic-can-change/)：iPhone 图片视频工具箱，把任意视频转成可设为动态壁纸的实况照片（Live Photo），还能把图片压缩到指定文件大小、视频压缩、视频转 GIF、格式转换和改尺寸，普通处理全在手机本机完成不上传；iOS 17+，App Store 审核中，现可通过 TestFlight 公开测试免费体验 - [TestFlight 加入链接](https://testflight.apple.com/join/GK8ht2vv)
+
 ### 2026 年 10 月 21 号添加
+
+#### tusunsun - [Github](https://github.com/tusunsun)
+* :white_check_mark: [Notebook Generator](https://www.notebookgenerator.com/zh-CN/)：免费生成可打印的笔记本、手帐、日历 PDF，100 多种内页模板与多种纸张尺寸，可导出对折装订的小册子，无需注册，PDF 在浏览器本地生成
+
+#### abyssalyanbin - [Github](https://github.com/abyssalyanbin)
+* :white_check_mark: [SliceLoft](https://sliceloft.com/)：3D 打印文件工具（免费），全部在浏览器本地运行、不上传文件：把 Bambu Studio / OrcaSlicer 的 3MF 项目按盘或按零件转成 STL，也支持 STL→3MF、OBJ→STL、STEP→STL，在线预览 3MF/STL，还能自定义生成免支撑打印的星形指尖陀螺
+
+#### Chen Jie - [Github](https://github.com/rosebsnowden-eng)
+* :white_check_mark: [PowerStation Size](https://powerstationsize.com/)：便携储能计算器，按实际负载分别核对容量、持续功率和逆变器浪涌；X-Boost / Power Lifting / SurgePad 等 boost 峰值不能当作冰箱压缩机启动余量，规格从厂商页抄录并标注核对日期，免费开源 — [源码](https://github.com/rosebsnowden-eng/powerstation-size)
 
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [Flux3Max](https://flux3max.net)：FLUX 3 Max AI 视频生成器，输入一段文字或上传一张图片（也可以给首帧和尾帧两张图），就能生成 5–20 秒带声音的视频，支持 720p / 1080p 和多种画面比例；网页英文界面，Google 登录，新用户可免费生成一次 5 秒视频，之后按秒付费、积分包不订阅不过期
@@ -5432,36 +5450,6 @@
 
 #### Xibobo(上海) 
 * :x: [在线计数器](https://www.clickcounter.online/)：计数器工具，支持手机端和PC端免费使用，可以在线计数并分享，轻量级且用户友好
-
-### 2025 年 1 月 24 号添加
-#### Benson Gao(北京) 
-* :x: [Supametas.AI](https://supametas.ai)：从任何非标准化目标处理为适用 LLM RAG 的结构化数据，更方便的搜集、构建、预处理你的行业领域数据集并集成到 LLM RAG 检索知识库 - [更多介绍](https://supametas.ai/zh/blog/4)
-
-#### JasmineChzI(深圳) 
-* :white_check_mark: [PhotoG](https://photog.art/)：专为电商卖家打造的 AI 摄影工具。轻松制作专业级产品图片，自定义背景，优化视觉效果，助力销售增长
-
-### 2025 年 1 月 23 号添加
-
-#### wo-zx(广州) 
-* :white_check_mark: [优好搜·SEO优化工具](https://www.uhaoseo.com)：免费精准诊断网站 SEO 状况，提供专业审查报告，致力保障网站和品牌在搜索引擎内的可见性 - [更多介绍](https://www.uhaoseo.com/seo-analyzer)
-
-### 2025 年 1 月 22 号添加
-#### moldav(上海) - [Github](https://github.com/HahaHa0099/MinuteTimer) 
-* :white_check_mark: [Minute Timer](https://minutetimers.net/)：计时器（轻量级且用户友好）
-
-### 2025 年 1 月 14 号添加
-#### lezhu(上海)
-* :white_check_mark: [Staying](https://staying.fun)：交互式可视化 Python & Javascript 代码 - [更多介绍](https://staying.fun/zh/docs/getting-started)
-
-#### Sean(成都) - [Github](https://github.com/ShurshanX)
-* :white_check_mark: [Image Describer](https://imagedescriber.app/)：提供对艺术作品的深入分析（背景、寓意、构图元素），帮助用户更深层次地理解和欣赏艺术创作和评价编写
-
-#### 天之蓝源(成都) - [Github](https://github.com/Hacker233/resume-design)
-* :white_check_mark: [猫步简历](https://maobucv.com/)：简历制作神器（开源免费）
-
-### 2025 年 1 月 13 号添加
-#### zijiuok - [Github](https://github.com/zijiuok), [Twitter/X](https://x.com/zijiuok)
-* :white_check_mark: [小报童排行榜](https://xiaobaoto.com/ranking/)：哪些付费专栏最赚钱
 
 ## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
