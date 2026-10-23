@@ -8,6 +8,79 @@
 
 ---
 
+### 2025 年 2 月 24 号添加
+#### Sawana(上海) - [Github](https://github.com/waitlistSawana)
+* :white_check_mark: [高能闪刻 | Highlight Pulse](https://highlightpulse.site/)：实时标记B站直播的高光时刻，一键导出记录数据，查看切片工具箱
+
+#### BHznJNs - [GitHub](https://github.com/BHznJNs)
+* :white_check_mark: [NFC PLinkD (中文名：电纸链接)](https://github.com/BHznJNs/NFC-PLinkD): 能把 NFC 卡片、贴纸当作实体的链接，将电子资料链接到纸质资料中的 App - [更多介绍](https://bhznjns.github.io/#static/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91/%E8%BF%9B%E8%A1%8C%E4%B8%AD/NFC-PLinkD/)
+
+#### Moldav(ShangHai) - [Github](https://github.com/[WebClocks](https://github.com/WebClocks))
+* :white_check_mark: [Online Web Clock](https://webclock.online/)：网页时钟 - 免费在线时钟和时间工具
+
+### 2025 年 2 月 23 号添加
+#### sinpo - [Github](https://github.com/JapaneseNameGenerator/JapaneseNameGenerator)
+* :white_check_mark: [日语名字生成器](https://japanesename-generator.com)：免费 AI 日文名字生成器！生成平假名、片假名、含义和发音
+
+### 2025 年 2 月 22 号添加
+#### Corey Chiu(深圳) - [Github](https://github.com/iamcorey), [博客](https://coreychiu.com/)
+* :white_check_mark: [Image Translate AI](https://imagetranslate.ai)：AI 图片翻译软件，翻译 70 多种语言的图片文本，专为专业人士，电商商家打造。保持图片原始布局，扩大全球影响力，并简化本地化流程
+
+### 2025 年 2 月 20 号添加
+#### Ryan(北京) - [Github](https://github.com/Leochens)
+* :white_check_mark: [小帖](https://apps.apple.com/us/app/xiaotie-batch-image-generator/id6741154916)：iOS 端的模板批量生成图片的工具，支持表格文件和飞书多维表格同步
+
+### 2025 年 2 月 19 号添加
+#### 邱比特(大连) - [Github](https://github.com/MQbit)
+* :white_check_mark: [aiagents42.com](https://aiagents42.com/)：AI Agents 导航站
+
+### 2025 年 2 月 16 号添加
+#### Sen Zheng 郑越升 - [Github](https://github.com/dayinji)
+* :white_check_mark: [freaky-fonts.com](http://freaky-fonts.com/)：怪异字体生成工具，可以把普通的字符变成吸人眼球的字符，发到 Facebook/Instagram/Whatsapp/Twitter 等社交媒体，还有字符变换工具，可以按你喜欢的字体风格随机搭配，自定义字符的映射表/反转文本/打乱文本等
+
+### 2025 年 2 月 12 号添加
+#### nanshan(北京) - [Github](https://github.com/nansshan)
+* :white_check_mark: [图片切割神器 GridMaker ](https://gridmaker.co)：一键切割图片，完美适配社交媒体多图发布！
+
+#### yaolifeng0629 - [Github](https://github.com/yaolifeng0629)
+* :white_check_mark: [INDIE TOOLS](https://www.indietools.work/)：独立开发出海精选、高质量工具 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/476), [开源地址](https://github.com/yaolifeng0629/Awesome-independent-tools)
+
+#### jianpingliu(上海)
+* :x: [WikiTok](https://wikitok.cc)：抖音风格的维基百科文章信息流
+
+### 2025 年 2 月 10 号添加
+#### nanshan(北京) 
+* :white_check_mark: [NavFolders导航站](https://navfolders.com/)： 发现、组织和分享跨类别的最佳网站。您获取重要在线资源的一站式目的地
+
+#### ZHIYA(武汉)
+* :white_check_mark: [视频分割专业版](https://llcut.zhiyakeji.com/)：快速无损精准分割长视频音频, 手机版的 lossless-cut
+
+### 2025 年 2 月 8 号添加
+#### Q-Sansan
+* :white_check_mark: [Al Visibility](https://www.aivisibility.io/)：提供SEO、内容营销、网站分析等领域信息和工具的网站
+
+### 2025 年 2 月 7 号添加
+#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
+* :white_check_mark: [BoilerplateHunt](https://boilerplatehunt.com)：SaaS模板导航站，找到最合适的模板，加速你的SaaS上线。
+
+### 2025 年 2 月 6 号添加
+#### yuesheng zheng(香港)
+* :white_check_mark: [SoBricks](https://sobricks.com/)：上传照片，即可将其转化为独一无二的 3D 积木。用户可以在线 3D 预览积木设计，和自由调整积木模型。平台提供可交互的积木搭建教程网页，帮助用户轻松完成创作，快来体验吧！ - [更多介绍](https://sobricks.com/pages/about-us)
+
+### 2025 年 2 月 4 号添加
+#### 罗一蛋(广州)
+* :white_check_mark: [慢图浏览](https://relaxpic.com/)：安卓相册（快速、简洁），内置相机、隐私空间、文件传输助手等功能，保护用户隐私
+
+#### wmin(北京)
+* :x: [Crop Image](https://cropimage.app)：图片裁剪工具（免费），支持裁剪框缩放、图片缩放、旋转、翻转、上下左右拖动调整位置，可以裁剪不用的图形、圆形、方形、心形、多边形等裁剪形状
+
+### 2025 年 1 月 29 号添加
+#### geektao1024 - [Github](https://github.com/geektao1024)
+* :white_check_mark: [学习 Cursor](https://learn-cursor.com/)：Cursor AI 编程助手学习平台——专业、全面，完全开源！Learn Cursor 是一个致力于帮助中文开发者更好地使用 Cursor AI 编程助手的专业文档平台。无论您是刚接触 Cursor 的新手，还是想深入了解高级功能的资深用户，这里都能为您提供清晰详实的中文教程和实用指南
+
+#### Xibobo(上海) 
+* :x: [在线计数器](https://www.clickcounter.online/)：计数器工具，支持手机端和PC端免费使用，可以在线计数并分享，轻量级且用户友好
+
 ### 2025 年 1 月 24 号添加
 #### Benson Gao(北京) 
 * :x: [Supametas.AI](https://supametas.ai)：从任何非标准化目标处理为适用 LLM RAG 的结构化数据，更方便的搜集、构建、预处理你的行业领域数据集并集成到 LLM RAG 检索知识库 - [更多介绍](https://supametas.ai/zh/blog/4)
