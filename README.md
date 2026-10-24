@@ -24,7 +24,26 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 24 号添加
+#### chenaiqifei - [Github](https://github.com/chenaiqifei)
+* :white_check_mark: [AI Image Combiner](https://ai-image-combiner.com/)：上传 2–5 张照片，用文字把人物、商品或背景组合到同一场景；有同框、家庭合照和商品场景提示词模板，首次免注册免费试用一次，下载无本站水印，之后登录继续使用，更多额度付费
+
 ### 2026 年 10 月 23 号添加
+#### Owen Teng · 滕新阳 — 与 Robinson AI Lab 共建 - [GitHub](https://github.com/Owen-Teng)
+* :clock8: [Companest 伴境](https://github.com/Owen-Teng/companest)：Windows AI 工作伙伴应用，通过房间、角色和事项板组织邮件上下文、回复草稿与后续变化；当前可查看虚构数据演示，安装包与源码尚未公开 - [邮件预览说明](https://github.com/Owen-Teng/companest/blob/main/docs/MAIL-FEATURES.zh-CN.md)
+
+#### 子竹 - [Github](https://github.com/zizhu-ai)
+* :white_check_mark: [AI Dance Generator](https://danceaigenerator.com)：AI 照片跳舞视频生成器，上传一张照片、选一个舞蹈模板，几分钟得到 9:16 竖屏跳舞视频，可直接发 TikTok/Reels/Shorts；网页英文界面
+
+#### xuhaotian29-cell - [Github](https://github.com/xuhaotian29-cell)
+* :white_check_mark: [票号核对台](https://piaoh-offline.xuhaotian29.chatgpt.site/)：跨 Excel/CSV 核对相同发票号码的本地工具，导出原文件、工作表及行号便于复核；离线版 19.9 元一次购买，限量首发，48 小时内人工交付，官网可看合成数据演示
+
+#### Takumi - [Github](https://github.com/VincentL998)
+* :white_check_mark: [匠工具箱 TakumiKit](https://tools.takumikit.com/zh-cn/)：免费在线工具箱，34 个工具含 AI 抠图、HEIC 转 JPG、音视频格式转换、文字转语音和常用计算器，无需注册，图片和音视频文件在浏览器本地处理不上传，支持简繁英日韩 5 种语言
+
+#### potatates - [Github](https://github.com/potatates)
+* :white_check_mark: [字相](https://zixiangfont.com)：收录 237 款可免费商用的简体中文字体，输入任意文字即可在线预览，按笔形、字重等特征找风格相近的字体，最多 4 款并排对比，附授权说明与官方下载链接
+
 #### maysunyoung - [Github](https://github.com/maysunyoung)
 * :white_check_mark: [Pixwit](https://pixwit.ai)：AI 照片转动图/迷因舞蹈特效生成器，上传一张照片即可生成短视频迷因（如乔丹踮脚、Dime Dime Baby），免费额度可用，进阶功能付费
 
@@ -149,8 +168,8 @@
 #### Simon - [Github](https://github.com/simonwong), [博客](https://simonwong.cn)
 * :white_check_mark: [Speaker](https://speaker.moonunder.app)：macOS 原生语音输入工具，BYOK，语音识别可选豆包、OpenAI、千问，macOS 26 及以上可用 Apple 离线识别，不需要 Key；支持多种文字整理模式，也可以自定义；无账号无服务端，会话记录和个人词库只存在本地；免费开源 - [GitHub 仓库](https://github.com/simonwong/speaker)
 
-#### kevinxding - [Github](https://github.com/kevinxding), [推特](https://x.com/whispek_DingXu)
-* :white_check_mark: [Whispek](https://whispek.com)：AI 语音输入桌面应用，按住一个键说话，松开后整理好的文字直接出现在几乎任何应用的光标处，能去掉「嗯」「啊」和重复，还能语音翻译；支持 Windows、macOS、Linux（.deb 和 AppImage），有免费额度，每 7 天刷新
+#### kevinxding - [Github](https://github.com/kevinxding)
+* :white_check_mark: [SayDart](https://saydart.com)：AI 语音输入桌面应用，按住一个键说话，松开后整理好的文字直接出现在几乎任何应用的光标处，能去掉「嗯」「啊」和重复，还能语音翻译；支持 Windows、macOS，有免费额度，每 7 天刷新
 
 #### 董子航 - [Github](https://github.com/ZihangDong)
 * :white_check_mark: [ToolKnit](https://toolknit.com/)：免费、免注册的 PDF、图片、音视频和文本在线工具箱，支持中英文切换；PDF 转图片、图片裁剪等功能在浏览器本地完成，部分工具设有使用额度或文件大小上限
@@ -492,9 +511,6 @@
 
 #### zizhu-ai - [Github](https://github.com/zizhu-ai)
 * :white_check_mark: [Loretypes](https://loretypes.com/)：自我探索测验合集（英文），气场颜色、Archetype、道德阵营、色彩季型、灵动物、前世六套测验，每套 21 到 24 题、约 3 到 4 分钟出完整结果，无需注册免费使用；Archetype 结果页可生成一段 AI 反思，前世测验页面明确标注为虚构，仅供娱乐与自我反思
-
-#### udan520 - [Github](https://github.com/udan520)
-* :white_check_mark: [EaseGen](https://easegen.ai/)：AI 图片与视频创作平台，把 Seedance 2.5、Kling 3、Veo 3.1、Wan 3.0、GPT Image 2.5、Seedream 5.0、Nano Banana 2 等数十个图像与视频模型收在同一工作区切换，支持参考图、首尾帧与参考视频音频，另内置广告图、海报、商品图等成品模板；提供免费额度、订阅与积分包
 
 #### icloudza - [Github](https://github.com/icloudza)
 * :white_check_mark: [Caplo](https://caplo.app/)：Mac 录屏工具，录制时记录点击与指针轨迹，按操作节奏自动生成推近与跟随镜头，可手动增删每个镜头片段；支持 40 种光标样式、点击高亮、多轨时间线剪辑、macOS 离线语音识别字幕、敏感区域打码与章节卡片，导出 MP4 / HEVC / ProRes / GIF，素材与工程只保存在本机；要求 macOS 15 及以上，源码在 GitHub 开源
@@ -935,7 +951,7 @@
 * :white_check_mark: [OPC 情报站](https://opc-radar.pages.dev/)：一人公司（OPC）资讯聚合站，收录 82 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)
 
 #### 宋永昌(上海) - [Github](https://github.com/yajufurniture-debug)
-* :white_check_mark: [慧报价](https://www.swqifu.com/)：AI 外贸报价工具，产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 计价（利润率按售价、保险 110% 加成的实务口径），30 秒生成中英双语报价单 PDF，附免费无需注册的报价计算器
+* :white_check_mark: [慧报价](https://www.swqifu.com/)：AI 外贸报价工具，产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 计价（成本加价率、保险 110% 加成的实务口径），30 秒生成中英双语报价单 PDF，附免费无需注册的报价计算器（完整报价与存档需登录）
 
 #### hypercube67 - [Github](https://github.com/hypercube67-formal)
 * :white_check_mark: [ScribeToAny](https://scribetoany.com)：AI 音视频转录与字幕生成工具，支持说话人识别（区分发言人）、多语言翻译与字级高精度时间戳，长音频高速转文字，一键导出 SRT/VTT/TXT 格式 — 免费试用
@@ -5401,28 +5417,6 @@
 ### 2025 年 3 月 6 号添加
 #### crischr(成都) - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
 * :white_check_mark: [Formulas AI](https://formulas-ai.vercel.app/)：帮助用户生成 Excel 公式，基于 DeepSeek-V3 的 AI 工具产品（需要用户自己填入key）
-
-### 2025 年 2 月 28 号添加
-#### zhaoxiaozhao(杭州) - [Github](https://github.com/zhaoxiaozhao07)
-* :white_check_mark: [mouse-click](https://github.com/zhaoxiaozhao07/mouse-click)：带后台模式的 Windows 自动连点器
-* :white_check_mark: [Dynamic-photo-video-display-wall](https://github.com/zhaoxiaozhao07/Dynamic-photo-video-display-wall)：多宫格动态播放视频/照片
-
-### 2025 年 2 月 27 号添加
-#### Synexa AI - [Github](https://github.com/synexa-ai)
-* :white_check_mark: [Synexa AI](https://synexa.ai/)：一行代码部署 AI 模型 (Replicate 50% 低价平替)，Synexa 是运行无服务器 AI API 最具性价比的解决方案，提供业界最具竞争力的 A100 GPU 价格，相比其他服务商可节省高达 62% 的 AI 算力成本 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/478)
-
-#### SeaEpoch(安徽) - [Github](https://github.com/SeaYJ)
-* :white_check_mark: [MouseClick](https://github.com/SeaYJ/MouseClick)：鼠标连点器和管理工具，软件界面美观，操作直观，支持鼠标行为模拟，让用户在工作和游戏中实现高效自动化 
-
-### 2025 年 2 月 26 号添加
-#### 木易(武汉)
-* :x: [DeepSeek Chat](https://ai-chatbot.top/)：DeepSeek R1/V3 671B 满血版在线免费使用
-
-#### damaodog - [Github](https://github.com/damaodog)
-* :white_check_mark: [Midjourney Sref code 收集](https://mjsrefcode.com/)：Midjourney 的sref（风格一致性代码）收集库，现阶段已收集sref代码3000+
-
-#### Sven(昆明) - [Github](https://github.com/shensven)
-* :white_check_mark: [Swads](https://swads.app/)：群晖 Download Station 客户端，现代、原生、凭直觉再设计，支持 iOS / macOS
 
 ## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
