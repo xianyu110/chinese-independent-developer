@@ -1,5 +1,65 @@
 [
   {
+    "name": "AI Image Combiner",
+    "url": "https://ai-image-combiner.com/",
+    "status": "online",
+    "description": "上传 2–5 张照片，用文字把人物、商品或背景组合到同一场景；有同框、家庭合照和商品场景提示词模板，首次免注册免费试用一次，下载无本站水印，之后登录继续使用，更多额度付费",
+    "author": "chenaiqifei",
+    "authorGithub": "https://github.com/chenaiqifei",
+    "date": "2026 年 10 月 24 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Companest 伴境",
+    "url": "https://github.com/Owen-Teng/companest",
+    "status": "developing",
+    "description": "Windows AI 工作伙伴应用，通过房间、角色和事项板组织邮件上下文、回复草稿与后续变化；当前可查看虚构数据演示，安装包与源码尚未公开 - [邮件预览说明](https://github.com/Owen-Teng/companest/blob/main/docs/MAIL-FEATURES.zh-CN.md)",
+    "author": "Owen Teng · 滕新阳 — 与 Robinson AI Lab 共建 - [GitHub](https://github.com/Owen-Teng)",
+    "authorGithub": "",
+    "date": "2026 年 10 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI Dance Generator",
+    "url": "https://danceaigenerator.com",
+    "status": "online",
+    "description": "AI 照片跳舞视频生成器，上传一张照片、选一个舞蹈模板，几分钟得到 9:16 竖屏跳舞视频，可直接发 TikTok/Reels/Shorts；网页英文界面",
+    "author": "子竹",
+    "authorGithub": "https://github.com/zizhu-ai",
+    "date": "2026 年 10 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "票号核对台",
+    "url": "https://piaoh-offline.xuhaotian29.chatgpt.site/",
+    "status": "online",
+    "description": "跨 Excel/CSV 核对相同发票号码的本地工具，导出原文件、工作表及行号便于复核；离线版 19.9 元一次购买，限量首发，48 小时内人工交付，官网可看合成数据演示",
+    "author": "xuhaotian29-cell",
+    "authorGithub": "https://github.com/xuhaotian29-cell",
+    "date": "2026 年 10 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "匠工具箱 TakumiKit",
+    "url": "https://tools.takumikit.com/zh-cn/",
+    "status": "online",
+    "description": "免费在线工具箱，34 个工具含 AI 抠图、HEIC 转 JPG、音视频格式转换、文字转语音和常用计算器，无需注册，图片和音视频文件在浏览器本地处理不上传，支持简繁英日韩 5 种语言",
+    "author": "Takumi",
+    "authorGithub": "https://github.com/VincentL998",
+    "date": "2026 年 10 月 23 号添加",
+    "category": "main"
+  },
+  {
+    "name": "字相",
+    "url": "https://zixiangfont.com",
+    "status": "online",
+    "description": "收录 237 款可免费商用的简体中文字体，输入任意文字即可在线预览，按笔形、字重等特征找风格相近的字体，最多 4 款并排对比，附授权说明与官方下载链接",
+    "author": "potatates",
+    "authorGithub": "https://github.com/potatates",
+    "date": "2026 年 10 月 23 号添加",
+    "category": "main"
+  },
+  {
     "name": "Pixwit",
     "url": "https://pixwit.ai",
     "status": "online",
@@ -410,10 +470,10 @@
     "category": "main"
   },
   {
-    "name": "Whispek",
-    "url": "https://whispek.com",
+    "name": "SayDart",
+    "url": "https://saydart.com",
     "status": "online",
-    "description": "AI 语音输入桌面应用，按住一个键说话，松开后整理好的文字直接出现在几乎任何应用的光标处，能去掉「嗯」「啊」和重复，还能语音翻译；支持 Windows、macOS、Linux（.deb 和 AppImage），有免费额度，每 7 天刷新",
+    "description": "AI 语音输入桌面应用，按住一个键说话，松开后整理好的文字直接出现在几乎任何应用的光标处，能去掉「嗯」「啊」和重复，还能语音翻译；支持 Windows、macOS，有免费额度，每 7 天刷新",
     "author": "kevinxding",
     "authorGithub": "https://github.com/kevinxding",
     "date": "2026 年 10 月 19 号添加",
@@ -1756,16 +1816,6 @@
     "description": "自我探索测验合集（英文），气场颜色、Archetype、道德阵营、色彩季型、灵动物、前世六套测验，每套 21 到 24 题、约 3 到 4 分钟出完整结果，无需注册免费使用；Archetype 结果页可生成一段 AI 反思，前世测验页面明确标注为虚构，仅供娱乐与自我反思",
     "author": "zizhu-ai",
     "authorGithub": "https://github.com/zizhu-ai",
-    "date": "2026 年 10 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "EaseGen",
-    "url": "https://easegen.ai/",
-    "status": "online",
-    "description": "AI 图片与视频创作平台，把 Seedance 2.5、Kling 3、Veo 3.1、Wan 3.0、GPT Image 2.5、Seedream 5.0、Nano Banana 2 等数十个图像与视频模型收在同一工作区切换，支持参考图、首尾帧与参考视频音频，另内置广告图、海报、商品图等成品模板；提供免费额度、订阅与积分包",
-    "author": "udan520",
-    "authorGithub": "https://github.com/udan520",
     "date": "2026 年 10 月 8 号添加",
     "category": "main"
   },
@@ -3273,7 +3323,7 @@
     "name": "慧报价",
     "url": "https://www.swqifu.com/",
     "status": "online",
-    "description": "AI 外贸报价工具，产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 计价（利润率按售价、保险 110% 加成的实务口径），30 秒生成中英双语报价单 PDF，附免费无需注册的报价计算器",
+    "description": "AI 外贸报价工具，产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 计价（成本加价率、保险 110% 加成的实务口径），30 秒生成中英双语报价单 PDF，附免费无需注册的报价计算器（完整报价与存档需登录）",
     "author": "宋永昌(上海)",
     "authorGithub": "https://github.com/yajufurniture-debug",
     "date": "2026 年 9 月 10 号添加",
@@ -17110,83 +17160,13 @@
     "category": "main"
   },
   {
-    "name": "mouse-click",
-    "url": "https://github.com/zhaoxiaozhao07/mouse-click",
-    "status": "online",
-    "description": "带后台模式的 Windows 自动连点器",
-    "author": "zhaoxiaozhao(杭州)",
-    "authorGithub": "https://github.com/zhaoxiaozhao07",
-    "date": "2025 年 2 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Dynamic-photo-video-display-wall",
-    "url": "https://github.com/zhaoxiaozhao07/Dynamic-photo-video-display-wall",
-    "status": "online",
-    "description": "多宫格动态播放视频/照片",
-    "author": "zhaoxiaozhao(杭州)",
-    "authorGithub": "https://github.com/zhaoxiaozhao07",
-    "date": "2025 年 2 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Synexa AI",
-    "url": "https://synexa.ai/",
-    "status": "online",
-    "description": "一行代码部署 AI 模型 (Replicate 50% 低价平替)，Synexa 是运行无服务器 AI API 最具性价比的解决方案，提供业界最具竞争力的 A100 GPU 价格，相比其他服务商可节省高达 62% 的 AI 算力成本 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/478)",
-    "author": "Synexa AI",
-    "authorGithub": "https://github.com/synexa-ai",
-    "date": "2025 年 2 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "MouseClick",
-    "url": "https://github.com/SeaYJ/MouseClick",
-    "status": "online",
-    "description": "鼠标连点器和管理工具，软件界面美观，操作直观，支持鼠标行为模拟，让用户在工作和游戏中实现高效自动化",
-    "author": "SeaEpoch(安徽)",
-    "authorGithub": "https://github.com/SeaYJ",
-    "date": "2025 年 2 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "DeepSeek Chat",
-    "url": "https://ai-chatbot.top/",
-    "status": "offline",
-    "description": "DeepSeek R1/V3 671B 满血版在线免费使用",
-    "author": "木易(武汉)",
-    "authorGithub": "",
-    "date": "2025 年 2 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Midjourney Sref code 收集",
-    "url": "https://mjsrefcode.com/",
-    "status": "online",
-    "description": "Midjourney 的sref（风格一致性代码）收集库，现阶段已收集sref代码3000+",
-    "author": "damaodog",
-    "authorGithub": "https://github.com/damaodog",
-    "date": "2025 年 2 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Swads",
-    "url": "https://swads.app/",
-    "status": "online",
-    "description": "群晖 Download Station 客户端，现代、原生、凭直觉再设计，支持 iOS / macOS",
-    "author": "Sven(昆明)",
-    "authorGithub": "https://github.com/shensven",
-    "date": "2025 年 2 月 26 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "Sven(昆明)",
-    "authorGithub": "https://github.com/shensven",
-    "date": "2025 年 2 月 26 号添加",
+    "author": "crischr(成都)",
+    "authorGithub": "https://github.com/CrisChr",
+    "date": "2025 年 3 月 6 号添加",
     "category": "main"
   },
   {
@@ -17194,9 +17174,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "Sven(昆明)",
-    "authorGithub": "https://github.com/shensven",
-    "date": "2025 年 2 月 26 号添加",
+    "author": "crischr(成都)",
+    "authorGithub": "https://github.com/CrisChr",
+    "date": "2025 年 3 月 6 号添加",
     "category": "main"
   },
   {
@@ -17204,9 +17184,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "Sven(昆明)",
-    "authorGithub": "https://github.com/shensven",
-    "date": "2025 年 2 月 26 号添加",
+    "author": "crischr(成都)",
+    "authorGithub": "https://github.com/CrisChr",
+    "date": "2025 年 3 月 6 号添加",
     "category": "main"
   },
   {
@@ -17214,9 +17194,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "Sven(昆明)",
-    "authorGithub": "https://github.com/shensven",
-    "date": "2025 年 2 月 26 号添加",
+    "author": "crischr(成都)",
+    "authorGithub": "https://github.com/CrisChr",
+    "date": "2025 年 3 月 6 号添加",
     "category": "main"
   }
 ]
