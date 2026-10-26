@@ -1,4 +1,7 @@
 ## 中国独立开发者项目列表
+
+> **FindAIForMe 镜像说明**：本仓库继续维护「中国独立开发者」全量列表。其中 **AI 相关** 新站会同步到 [findaiforme](https://github.com/xianyu110/findaiforme) 与官网 [findaifor.me「最新 AI」](https://findaifor.me/)。非 AI 项目仍以本列表为准。上游原项目：[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)。
+
 聚合所有中国独立开发者的项目
 
 ### 子版面
