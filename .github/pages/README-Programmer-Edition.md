@@ -16,16 +16,23 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
-### 2026 年 10 月 25 号添加
-#### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
-* :white_check_mark: [apkgo](https://github.com/KevinGong2013/apkgo)：Android APK 多渠道分发 CLI，一条命令并发上传到华为 / 小米 / OPPO / vivo / 荣耀 / 应用宝 / Google Play / Samsung / 蒲公英 / fir.im 等 10+ 应用市场，也支持鸿蒙 .app；输出 JSON 与语义化退出码，适合接 GitHub Actions / GitLab CI，另有 Web GUI、Go 库调用与上传前后 Shell Hook
+### 2026 年 10 月 26 号添加
+#### cobalt-kite12 - [Github](https://github.com/cobalt-kite12)
+* :white_check_mark: [invoice-archiver](https://github.com/cobalt-kite12/invoice-archiver)：邮件发票自动归档命令行工具，从 .eml 或只读 IMAP 取 PDF 发票（含诺诺网链接发票），按「项目-金额-月日」改名、按月归档、按发票号去重并记 CSV 台账；纯 Python 标准库 + pdftotext，MIT 协议
 
+#### Twinkle Model 站长
+* :white_check_mark: [Twinkle Model](https://big-model.smart-agi.com)：AI API 中转站，基于 sub2api、官方订阅渠道，OpenAI 兼容，一个 Key 调 GPT/Claude/Grok/GLM/DeepSeek/Kimi，按倍率计费（GPT 0.1 倍起），支付宝 ¥1 起充可开票
+
+### 2026 年 10 月 25 号添加
 #### Qovia - [Github](https://github.com/qovia)
 * :white_check_mark: [Qovia](https://qovia.ai/zh/)：中文社媒公开数据 API，一个 Key 拿到抖音、小红书、微博、B 站、快手、知乎、淘宝/京东评论等 20 多个平台的帖子、评论、达人资料和热榜，统一 JSON 格式；也可作为 MCP 接入 Claude、Cursor 等 AI 助手，空结果和失败不收费，新用户送 50 次试用
 
 ### 2026 年 10 月 24 号添加
 #### reAPI - [Github](https://github.com/reAPIAI)
 * :white_check_mark: [SeedRouter](https://seedrouter.ai/)：图像、视频、语言、音频模型聚合到一个 API Key，按次计费，失败请求不计费
+
+#### AONIR - [Github](https://github.com/Avarce)
+* :white_check_mark: [AONIR](https://aonir.com/?utm_source=cnindie&utm_medium=github)：ChatGPT 会员充值站，微信支付自助下单，直充到你自己的账号，通常 1–5 分钟到账；Plus ¥168/月，Pro 100、Pro 200 也可自助，无法交付经核实后退款 - [代充怎么选：安全与封号说明](https://github.com/Avarce/gpt-daichong-guide)
 
 ### 2026 年 10 月 23 号添加
 #### anthonyhann - [Github](https://github.com/anthonyhann)
@@ -34,6 +41,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 #### zaylora - [Github](https://github.com/zaylora)
 * :white_check_mark: [连镜](https://canvas.vbing.site)：开源 AI 视觉创作工作台，用无限画布把文本、图片、视频、音频生成连成流程，内置 3D 导演台和画布 Agent，对接可灵、即梦、Vidu、Sora 等多家模型，支持 Docker 自部署 - [更多介绍](https://github.com/zaylora/video-canvas)
+
+#### 小李哥 - [Github](https://github.com/li13203140613)
+* :white_check_mark: [xsub.ai](https://xsub.ai)：Grok 会员代充，在官方结账页开通到你自己的账号，可开发票对公报销，掉订阅质保
 
 ### 2026 年 10 月 22 号添加
 
@@ -742,6 +752,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 #### eatmoreduck(上海) - [Github](https://github.com/eatmoreduck)
 * :white_check_mark: [BOSS直聘爬虫](https://github.com/eatmoreduck/boss-zhipin-scraper)：基于 Chrome CDP 直连本地已登录浏览器的 BOSS直聘爬虫，绕过字体反爬拿到明文薪资，自动生成薪资分布、技能词频和求职材料优化提示词
+
+#### xianyu110 - [Github](https://github.com/xianyu110)
+* :white_check_mark: [GPTGeminiGrok.AI](https://trygrokai.asia/list/#/home)：Grok / SuperGrok 为主的 AI 模型服务入口，同时提供 GPTPlus、GeminiPro、ClaudeProMax 账号及 API 中转
 
 ### 2026 年 7 月 4 号添加
 
