@@ -1,5 +1,55 @@
 [
   {
+    "name": "Quick Image Kit",
+    "url": "https://quickimagekit.com",
+    "status": "online",
+    "description": "免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册",
+    "author": "刘峰",
+    "authorGithub": "https://github.com/mainliufeng",
+    "date": "2026 年 10 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "apkgo / apkgo cloud",
+    "url": "https://apkgo.baici.tech",
+    "status": "online",
+    "description": "一次上传，并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS（App Store）上架；开源 CLI（PolyForm Noncommercial）：https://github.com/KevinGong2013/apkgo - [上手指南](https://apkgo.baici.tech/onboarding)",
+    "author": "KevinGong2013(上海)",
+    "authorGithub": "https://github.com/KevinGong2013",
+    "date": "2026 年 10 月 25 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ShotTide",
+    "url": "https://shottide.com/",
+    "status": "online",
+    "description": "AI 视频创作工作台，可规划和编辑分镜，生成图片与视频，添加中英文旁白和字幕并导出 MP4。支持中英文界面，适合产品展示、社交短视频和视觉故事",
+    "author": "Jianyu Chen",
+    "authorGithub": "https://github.com/CJianYu",
+    "date": "2026 年 10 月 25 号添加",
+    "category": "main"
+  },
+  {
+    "name": "审美工程",
+    "url": "https://leenlbma.github.io/aesthetic-engineering/",
+    "status": "online",
+    "description": "写给 AIGC 创作者与产品团队的 12 篇开源方法随笔，讨论审美判断怎样被描述、落实和检查，CC BY 4.0，附 llms.txt 方便交给 AI 阅读 - [更多介绍](https://github.com/leenlbma/aesthetic-engineering)",
+    "author": "LeenMa",
+    "authorGithub": "https://github.com/leenlbma",
+    "date": "2026 年 10 月 25 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Command Reopen",
+    "url": "https://commandreopen.com/",
+    "status": "online",
+    "description": "Mac 实用小工具，让原生 Cmd+Tab 切换时恢复最小化窗口，并在窗口全部关闭时重新打开窗口；无需辅助功能和录屏权限，14 天免费试用，$9.99 买断或 $5.99/年 - [App Store](https://apps.apple.com/us/app/command-reopen-fix-cmd-tab/id6757333924)",
+    "author": "Feng",
+    "authorGithub": "https://github.com/Feng6611",
+    "date": "2026 年 10 月 25 号添加",
+    "category": "main"
+  },
+  {
     "name": "Aitoword",
     "url": "https://aitoword.online/",
     "status": "online",
@@ -66,16 +116,6 @@
     "description": "图片、视频、音频混合输入合成一条视频，并可只替换片中商品或人物、保留原运镜；可切换 Seedance、Kling、Veo 等模型；第三方站点，非字节跳动官方产品",
     "author": "aivideolab12",
     "authorGithub": "https://github.com/aivideolab12",
-    "date": "2026 年 10 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AONIR",
-    "url": "https://aonir.com/?utm_source=cnindie&utm_medium=github",
-    "status": "online",
-    "description": "ChatGPT 会员充值站，微信支付自助下单，直充到你自己的账号，通常 1–5 分钟到账；Plus ¥168/月，Pro 100、Pro 200 也可自助，无法交付经核实后退款 - [代充怎么选：安全与封号说明](https://github.com/Avarce/gpt-daichong-guide)",
-    "author": "AONIR",
-    "authorGithub": "https://github.com/Avarce",
     "date": "2026 年 10 月 24 号添加",
     "category": "main"
   },
@@ -206,16 +246,6 @@
     "description": "AI 模型/API 报价查询网站（免费），无需登录，可按模型查服务商报价、计费单位和原始来源，区分账户余额与实际费用",
     "author": "2EU55",
     "authorGithub": "https://github.com/2EU55",
-    "date": "2026 年 10 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "xsub.ai",
-    "url": "https://xsub.ai",
-    "status": "online",
-    "description": "Grok 会员代充，在官方结账页开通到你自己的账号，可开发票对公报销，掉订阅质保",
-    "author": "小李哥",
-    "authorGithub": "https://github.com/li13203140613",
     "date": "2026 年 10 月 23 号添加",
     "category": "main"
   },
@@ -6906,16 +6936,6 @@
     "description": "每日更新 Hacker News 热门话题和讨论，支持多语言",
     "author": "zxcHolmes",
     "authorGithub": "https://github.com/zxcHolmes",
-    "date": "2026 年 7 月 6 号添加",
-    "category": "main"
-  },
-  {
-    "name": "GPTGeminiGrok.AI",
-    "url": "https://trygrokai.asia/list/#/home",
-    "status": "online",
-    "description": "Grok / SuperGrok 为主的 AI 模型服务入口，同时提供 GPTPlus、GeminiPro、ClaudeProMax 账号及 API 中转",
-    "author": "xianyu110",
-    "authorGithub": "https://github.com/xianyu110",
     "date": "2026 年 7 月 6 号添加",
     "category": "main"
   },
@@ -17040,163 +17060,13 @@
     "category": "main"
   },
   {
-    "name": "FLUX AI ART",
-    "url": "https://fluxaiart.ai/",
-    "status": "online",
-    "description": "基于 Flux 的图像生成网站",
-    "author": "Ryan",
-    "authorGithub": "https://github.com/Ryan10Yu",
-    "date": "2025 年 3 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Hairstyle",
-    "url": "https://aihairstyle.net/",
-    "status": "offline",
-    "description": "上传照片，用 AI 生成不同发型的图片，帮助您选择合适的发型",
-    "author": "Ryan",
-    "authorGithub": "https://github.com/Ryan10Yu",
-    "date": "2025 年 3 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "海嘉 AI 实验室智能应用",
-    "url": "http://117.72.40.129:8001/",
-    "status": "online",
-    "description": "表格问答，文字 OCR，表格图片结构识别等",
-    "author": "jiangnanboy",
-    "authorGithub": "https://github.com/jiangnanboy",
-    "date": "2025 年 3 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Agents Directory",
-    "url": "https://ai-agents-directory.com",
-    "status": "online",
-    "description": "AI 智能体导航站",
-    "author": "Jeremyym",
-    "authorGithub": "https://github.com/Jeremyymxiao",
-    "date": "2025 年 3 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Chinese Name Generator",
-    "url": "https://chinese-name-generator.com",
-    "status": "online",
-    "description": "给外国人起中文名，基于 DeepSeek V3",
-    "author": "Jeremyym",
-    "authorGithub": "https://github.com/Jeremyymxiao",
-    "date": "2025 年 3 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Learn Kana",
-    "url": "https://learnkana.pro",
-    "status": "online",
-    "description": "学习日语平假名片假名, 基于 DeepSeek V3",
-    "author": "Jeremyym",
-    "authorGithub": "https://github.com/Jeremyymxiao",
-    "date": "2025 年 3 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Death Calculator",
-    "url": "https://aideathcalculator.info",
-    "status": "offline",
-    "description": "用 AI 计算还剩多少寿命",
-    "author": "Jeremyym",
-    "authorGithub": "https://github.com/Jeremyymxiao",
-    "date": "2025 年 3 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "TempMail.Love",
-    "url": "https://tempmail.love/",
-    "status": "online",
-    "description": "即用即走的临时邮箱，保护你的个人隐私安全",
-    "author": "橘子哥",
-    "authorGithub": "",
-    "date": "2025 年 3 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Aigotools",
-    "url": "https://github.com/someu/aigotools/blob/main/README.zh-CN.md",
-    "status": "online",
-    "description": "开源导航站",
-    "author": "Someuxyz",
-    "authorGithub": "github.com/someu/aigotools",
-    "date": "2025 年 3 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Similarlabs",
-    "url": "http://similarlabs.com/",
-    "status": "online",
-    "description": "洞察需求和流量，发现和对比你的下一个心仪工具",
-    "author": "Someuxyz",
-    "authorGithub": "github.com/someu/aigotools",
-    "date": "2025 年 3 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "反斗限免",
-    "url": "https://free.apprcn.com",
-    "status": "online",
-    "description": "软件、游戏限免资讯网站",
-    "author": "jzhone(佛山)",
-    "authorGithub": "",
-    "date": "2025 年 3 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "BFP Calculator",
-    "url": "https://bfpcalculator.com",
-    "status": "online",
-    "description": "免费计算你的体脂率，并提供相应解决方案",
-    "author": "jzhone(佛山)",
-    "authorGithub": "",
-    "date": "2025 年 3 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "涂色乐园",
-    "url": "https://apps.apple.com/us/app/coloringland/id6742505878?platform=ipad",
-    "status": "online",
-    "description": "通过 AI 生成涂画的涂色应用 - [更多介绍](https://www.dyy.im/coloring-land)",
-    "author": "Go7hic",
-    "authorGithub": "https://github.com/Go7hic",
-    "date": "2025 年 3 月 13 号添加",
-    "category": "main"
-  },
-  {
-    "name": "SSH Monitor: SSH终端与服务器监控",
-    "url": "https://apps.apple.com/cn/app/id6479361680",
-    "status": "online",
-    "description": "SSH 远程云服务器/容器监控管理终端",
-    "author": "7SaiWen(成都)",
-    "authorGithub": "",
-    "date": "2025 年 3 月 13 号添加",
-    "category": "main"
-  },
-  {
-    "name": "OpenTerm",
-    "url": "https://apps.apple.com/cn/app/openterm/id1481149807",
-    "status": "online",
-    "description": "终端模拟器, 口袋里的 Linux",
-    "author": "7SaiWen(成都)",
-    "authorGithub": "",
-    "date": "2025 年 3 月 13 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "7SaiWen(成都)",
-    "authorGithub": "",
-    "date": "2025 年 3 月 13 号添加",
+    "author": "Duan",
+    "authorGithub": "https://github.com/duanduanhh",
+    "date": "2025 年 3 月 20 号添加",
     "category": "main"
   },
   {
@@ -17204,9 +17074,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "7SaiWen(成都)",
-    "authorGithub": "",
-    "date": "2025 年 3 月 13 号添加",
+    "author": "Duan",
+    "authorGithub": "https://github.com/duanduanhh",
+    "date": "2025 年 3 月 20 号添加",
     "category": "main"
   },
   {
@@ -17214,9 +17084,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "7SaiWen(成都)",
-    "authorGithub": "",
-    "date": "2025 年 3 月 13 号添加",
+    "author": "Duan",
+    "authorGithub": "https://github.com/duanduanhh",
+    "date": "2025 年 3 月 20 号添加",
     "category": "main"
   },
   {
@@ -17224,9 +17094,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "7SaiWen(成都)",
-    "authorGithub": "",
-    "date": "2025 年 3 月 13 号添加",
+    "author": "Duan",
+    "authorGithub": "https://github.com/duanduanhh",
+    "date": "2025 年 3 月 20 号添加",
     "category": "main"
   }
 ]
