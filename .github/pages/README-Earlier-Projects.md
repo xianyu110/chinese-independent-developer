@@ -1,12 +1,80 @@
-# 更早的项目（2018 年 ~ 2025 年）
+# 2018 ~ 2025 年收录的项目
 
-这里放的是列表头几年收录的中国独立开发者项目。
-
-因主列表过长、超出 GitHub 对单个 README 的渲染上限，这几年的内容另分一册。
+根目录下 README.md 太长就会导致底部被截断无法显示，所以得把超出显示范围的项目放一个单独的文件。
 
 [← 返回主列表](../../README.md)
 
 ---
+
+### 2025 年 4 月 3 号添加
+#### nogeek(杭州) - [Github](https://github.com/nogeek-cn), [博客](https://nogeek.cn)
+* :white_check_mark: [javaguide](https://javaguide.net/)：「Java学习 + 面试指南」涵盖 Java 程序员、架构师需要掌握的核心知识
+* :white_check_mark: [chequewriting](https://chequewriting.com/)：将金额转成大小写的工具站
+* :white_check_mark: [acodenav](https://acodenav.com)：只收集编程导航，程序员导航的导航站
+* :white_check_mark: [atemplate](https://atemplate.com)：只收集完全免费的网页模板的导航站
+
+#### Leochens(北京) - [Github](https://github.com/Leochens) 
+* :white_check_mark: [PNG贴纸切割器](https://tools.xiaotie.top/sticker-crop.html)：贴纸素材不规整，它来帮你自动切割成单个的，省时又省力！
+
+### 2025 年 4 月 2 号添加
+#### Nicole(深圳）
+* :white_check_mark: [Ghibli Meme Generator](https://ghibli-meme.com/)：免费生成吉卜力（Ghibli）风格的梗图（meme）
+
+#### Leochens(北京) - [Github](https://github.com/Leochens)
+* :white_check_mark: [小贴](https://apps.apple.com/cn/app/%E5%B0%8F%E8%B4%B4-%E6%99%BA%E8%83%BD%E8%AE%BE%E8%AE%A1%E6%A8%A1%E6%9D%BF%E5%8D%A1%E7%89%87%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7/id6741154916)：智能设计模板卡片生成工具 (iOS App)
+
+### 2025 年 4 月 1 号添加
+#### Selenium39(广州) - [Github](https://github.com/Selenium39)
+* :white_check_mark: [ChatTempMail](https://chat-tempmail.com)：AI 驱动的临时邮箱服务
+
+#### zeikia(广州)
+* :white_check_mark: [Face Shape AI](https://detectorfaceshape.com/)：AI 脸型检测
+
+#### swiftzl(深圳)
+* :white_check_mark: [snapmail - 临时邮箱](https://snapmail100.com)：临时无限邮箱保护你的隐私安全
+
+#### XuanXu - [官网](https://aiverything.me/)
+* :white_check_mark: [Aiverything](https://aiverything.me/)：本地文件搜索。结合 GPU 并行计算、智能索引和优化排序算法，提供更快、更精准的本地文件搜索体验，有扩展可实现更多功能 - [更多介绍](https://meta.appinn.net/t/topic/66229)
+
+### 2025 年 3 月 29 号添加
+#### jaywongX(广州) 
+* :white_check_mark: [UFreeTools - 你的免费工具集](https://ufreetools.com)：综合工具平台，提供高质量、易用的在线工具，解决开发和设计的各种需求
+
+#### jess(广州)- [Github](https://github.com/4o-image-gen)
+* :white_check_mark: [4oimage](https://4o-image.com/)：文生图网站，基于 Gemini 和 GPT4o
+
+### 2025 年 3 月 28 号添加
+#### zhushen - [Github](https://github.com/zhushen12580)
+* :x: [精准截图](https://puzzledu.com/shot)：智能精准截图工具（更懂内容创作者）
+
+### 2025 年 3 月 27 号添加
+#### Yasuomang(杭州)
+* :white_check_mark: [imghunt](https://imghunt.com/)：图片下载浏览器扩展，能自动检测、批量下载并转换网页上的各类图片格式，并且支持自定义导出尺寸
+
+#### Sawyer(上海) - [Github](https://github.com/Sawyer-G)
+* :white_check_mark: [idiom.today-中文成语学习工具](https://idiom.today/)：帮助英文用户学习中文成语的网站，通过脑图的形式拆分中文成语，提供词义解释，成语故事以及使用案例
+
+### 2025 年 3 月 26 号添加
+#### PixelBear - [GitHub](https://github.com/JobYu)
+* :white_check_mark: [Image2pixel](https://store.steampowered.com/app/3475120/Image2pixelPixelArtGenerator/)：图片转像素画工具，已上架 Steam
+
+#### 超能刚哥 - [Github](https://github.com/margox/)
+* :white_check_mark: [音之梦](https://apps.apple.com/cn/app/%E9%9F%B3%E4%B9%8B%E6%A2%A6-%E5%8A%A9%E4%BD%A0%E4%B8%80%E5%A4%9C%E5%A5%BD%E6%A2%A6/id6742869783)：轻音乐、白噪声和环境声 App，提供数十首轻音乐、几十种环境声，数十亿种搭配混合结果，用于辅助睡眠或者冥想，已上架 iOS App Store - [作者提供了一些兑换码](https://github.com/1c7/chinese-independent-developer/pull/485#issue-2945709859)
+
+#### Lingglee - [Github](https://github.com/lingglee)
+* :x: [Pronunciation Exercises](https://pronunciationexercises.com/)：AI 全球发音训练平台
+
+### 2025 年 3 月 24 号添加
+#### underwoodxie
+* :white_check_mark: [Simpedit](https://simpedit.com/)：提供高质量图像特效的免费在线平台，无论您是专业设计师还是普通用户，都能通过简单几步创造出具有艺术感的图像作品 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-2746268292)
+
+#### 参要字帖 - [Github](https://github.com/giroudg)
+* :white_check_mark: [参要 AI - 诗词字帖](https://canyaoai.com/copybooks?from=1c7_chinese_independent_developer)：用诗词作为练字内容，又练字又温习诗词，双倍收获
+
+### 2025 年 3 月 20 号添加
+#### Duan - [Github](https://github.com/duanduanhh)
+* :white_check_mark: [VIEW PRE](https://viewpre.com/)：中国观景指数预测，当前提供泰山、黄山、武功山云海近三日指数预测，后续扩展更多景点指数预测。期待大家的旅行都不扫兴而归！
+* :x: [Tool Hut](https://tool-hut.com/)：工具箱，内页支持文本 DIFF、JSON 序列化、时间戳转换等小工具，让天下没有难用的工具。
 
 ### 2025 年 3 月 19 号添加
 #### Ryan - [Github](https://github.com/Ryan10Yu)

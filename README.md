@@ -7,7 +7,7 @@
 ### 子版面
 - [程序员版面](./.github/pages/README-Programmer-Edition.md)：使用需要命令行或写代码
 - [游戏版面](./.github/pages/README-Game.md)：都是游戏
-- [更早的项目（2018 ~ 2025 年）](./.github/pages/README-Earlier-Projects.md)：项目太多，从主列表单独分出一册
+- [2018 ~ 2025 年收录的项目](./.github/pages/README-Earlier-Projects.md)：项目太多，从主列表单独分出一册
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -27,7 +27,51 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 27 号添加
+#### 影下独作 IndieShade - [Github](https://github.com/indieshade)
+* :white_check_mark: [回想册 Idea Rewind](https://indieshade.com/products/recollect/)：碎片笔记 App，随手记录文字、照片、录音和视频，用多个收纳箱交叉归类，再以卡片回顾、继续写旧想法；本地记录无需注册，基础功能免费、可选 Pro。iOS 已上线，Android 正在 Google Play 封测 - [App Store](https://apps.apple.com/cn/app/id6806823786)
+
+#### fengyandefeng(佛山) - [Github](https://github.com/fengyandefeng)
+* :white_check_mark: [风言写作](https://www.linkwrite.cn)：面向长篇小说与网文连载的本地写作软件，随正文呈现相关人物与世界观设定，支持设定属性追踪、卷章管理和同一局域网手机续写；书稿保存在自己的电脑，基础创作免费、无需注册
+
+#### Zin - [Github](https://github.com/zina26)
+* :white_check_mark: [Spaceora](https://spaceora.app/)：AI 家居与花园设计工具，上传一张房间或庭院照片即可生成室内改造、虚拟布置、景观和后院设计效果，并可根据 USDA 种植区推荐植物；提供免费使用次数，生成结果用于设计构思而非精确施工图
+
+#### Charlie W - [Github](https://github.com/charliewwdev)
+* :white_check_mark: [OpenMontage Drama Studio](https://openmontage.dtok.io)：开源 AI 短剧与短视频工坊，一句话灵感依次走完剧本、角色、场景、道具、分镜、配音、剪辑 7 个环节，也可用内置电商带货模板做广告片；无需登录可浏览灵感墙和示例，生成需登录并填写自己的模型 Key（Seedream / Seedance 为付费 API），AGPL-3.0 开源、支持 Docker 自部署 - [Github](https://github.com/charliewwdev/OpenMontage)
+
+#### Jazmín - [Github](https://github.com/ljmng7)
+* :white_check_mark: [MacMix](https://macmix.jazminli.com)：Mac 菜单栏音量混音器，支持按应用独立调节音量、自定义 EQ 和多设备输出；基础功能免费，高级功能 ¥29.99 一次性买断，代码全部开源（GPL-3.0） - [GitHub](https://github.com/ljmng7/MacMix)
+
+#### 枯白啃设计 - [Github](https://github.com/kubai087)
+* :white_check_mark: [Lumno](https://lumno.kubai.design/)：浏览器命令栏与新标签页扩展，任意网页一个快捷键同时搜索标签页、书签和历史记录，支持拼音搜中文、40+ 网站站内搜索和直接问 ChatGPT/DeepSeek 等 AI；免费开源（GPL-3.0），本地处理无需注册，支持 Chrome / Edge / Firefox - [GitHub](https://github.com/kubai087/lumno-extension)
+
+#### tumingke0 - [Github](https://github.com/tumingke0)
+* :white_check_mark: [涟漪](https://ripplefocus.github.io/)：安卓上的戒短视频与防沉迷小工具（自己管手或家长管孩子看手机都能用）。自带晚间专注时段与短视频每日时长上限；收紧规则立刻生效，放松规则或卸载得先等 15 分钟～2 小时冷静期或由家长/亲友输入解锁码（支持防卸载、防改系统时间，以及可选的本机无线调试高级保护，杀后台或重启手机都能自己恢复，不影响电话和闹钟）。免费无广告，数据纯本地 - [安装包下载](https://github.com/ripplefocus/ripplefocus.github.io/releases/latest)
+
 ### 2026 年 10 月 26 号添加
+#### Run Cheng - [Github](https://github.com/WuDao0123), [博客](https://dev.to/wudao0123)
+* :white_check_mark: [Space Simulator Online](https://spacesimulator.online/)：浏览器 3D 太阳系与太空探索模拟器，基于 NASA/JPL 真实星历与原生 WebGL2/WebGPU 渲染 6,000+ 系外行星、TESS 凌星光变曲线实验室、N 体星系碰撞与 110 个梅西耶深空天体，支持中英等 10 种语言，免费免安装无需注册 - [更多介绍](https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj)
+
+#### Miracle - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [ReelMorph](https://reelmorph.app/)：面向内容创作者及普通用户的 AI 照片转视频工具，上传照片并描述想要的动态效果，或选择预设特效，用自己的照片创作热门同款视频
+* :white_check_mark: [CarWrapDesign](https://carwrapdesign.app/)：帮助车主和汽车爱好者将车衣创意转化为可视化方案，选择支持车型版本，使用免费的浏览器编辑器或 AI 生成器创作图案，在 3D 车辆上比较五种表面效果，并保存、分享、发布或下载设计成果
+
+#### Jiguang - [Github](https://github.com/indielucas)
+* :white_check_mark: [YIX](https://yix.ai)：AI 图像与视频创作网站，在同一工作台完成图像生成、视频生成、修图、老照片修复和商品视觉制作；生成按积分付费，提供免费提示词工具，注册不赠送积分
+
+#### hankok - [Github](https://github.com/hankok)
+* :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描等浪/斐波那契扩展与缠论买卖点，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器和任意标的的等浪/缠论图 - [每日复盘](https://waveradar.us/zh/daily)
+
+#### zhangwenhao66 - [Github](https://github.com/zhangwenhao66)
+* :white_check_mark: [Ideoy](https://ideoy.ai)：用一张自拍重制本周热门梗视频模板，AI 生成竖屏短视频；免费增值，仅限成年人，输出内容标注 AI 生成
+
+#### 关津 - [Github](https://github.com/bjianhang)
+* :white_check_mark: [关津](https://guanjin.app/)：外贸单证工具站，报关单 PDF 转 Excel、装柜计算、发票装箱单生成、单据核对等 15 个工具，浏览器本地处理，免费无需注册
+
+#### 重庆安星纪科技有限公司 - [Github](https://github.com/MonsterJay)
+* :white_check_mark: [安星纪工具站](https://anxingjilab.com/)：在线处理图片、按 Excel 清单批量改名和核对文件是否收齐；另提供 Windows 截图粘贴存图、剪贴板日记及操作手册生成工具，在线功能需登录开通会员，桌面工具提供 3 天试用、单款 10 元激活
+
 #### 刘峰 - [Github](https://github.com/mainliufeng)
 * :white_check_mark: [Quick Image Kit](https://quickimagekit.com)：免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册
 
@@ -5322,77 +5366,7 @@
 #### rukShen(深圳) - [Github](https://github.com/WtecHtec), [博客](https://iam.xujingyichang.top/)
 * :white_check_mark: [ReplayTact - Form Automation Tester](https://chromewebstore.google.com/detail/replaytact-form-automatio/ohkipcncfnmjoeneihmglaadloddopkg?authuser=0&hl=zh-CN)：自动化填写和测试网页表单的 Chrome 插件，支持动态数据生成和用户操作重放，提升测试效率和覆盖率
 
-### 2025 年 4 月 3 号添加
-#### nogeek(杭州) - [Github](https://github.com/nogeek-cn), [博客](https://nogeek.cn)
-* :white_check_mark: [javaguide](https://javaguide.net/)：「Java学习 + 面试指南」涵盖 Java 程序员、架构师需要掌握的核心知识
-* :white_check_mark: [chequewriting](https://chequewriting.com/)：将金额转成大小写的工具站
-* :white_check_mark: [acodenav](https://acodenav.com)：只收集编程导航，程序员导航的导航站
-* :white_check_mark: [atemplate](https://atemplate.com)：只收集完全免费的网页模板的导航站
-
-#### Leochens(北京) - [Github](https://github.com/Leochens) 
-* :white_check_mark: [PNG贴纸切割器](https://tools.xiaotie.top/sticker-crop.html)：贴纸素材不规整，它来帮你自动切割成单个的，省时又省力！
-
-### 2025 年 4 月 2 号添加
-#### Nicole(深圳）
-* :white_check_mark: [Ghibli Meme Generator](https://ghibli-meme.com/)：免费生成吉卜力（Ghibli）风格的梗图（meme）
-
-#### Leochens(北京) - [Github](https://github.com/Leochens)
-* :white_check_mark: [小贴](https://apps.apple.com/cn/app/%E5%B0%8F%E8%B4%B4-%E6%99%BA%E8%83%BD%E8%AE%BE%E8%AE%A1%E6%A8%A1%E6%9D%BF%E5%8D%A1%E7%89%87%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7/id6741154916)：智能设计模板卡片生成工具 (iOS App)
-
-### 2025 年 4 月 1 号添加
-#### Selenium39(广州) - [Github](https://github.com/Selenium39)
-* :white_check_mark: [ChatTempMail](https://chat-tempmail.com)：AI 驱动的临时邮箱服务
-
-#### zeikia(广州)
-* :white_check_mark: [Face Shape AI](https://detectorfaceshape.com/)：AI 脸型检测
-
-#### swiftzl(深圳)
-* :white_check_mark: [snapmail - 临时邮箱](https://snapmail100.com)：临时无限邮箱保护你的隐私安全
-
-#### XuanXu - [官网](https://aiverything.me/)
-* :white_check_mark: [Aiverything](https://aiverything.me/)：本地文件搜索。结合 GPU 并行计算、智能索引和优化排序算法，提供更快、更精准的本地文件搜索体验，有扩展可实现更多功能 - [更多介绍](https://meta.appinn.net/t/topic/66229)
-
-### 2025 年 3 月 29 号添加
-#### jaywongX(广州) 
-* :white_check_mark: [UFreeTools - 你的免费工具集](https://ufreetools.com)：综合工具平台，提供高质量、易用的在线工具，解决开发和设计的各种需求
-
-#### jess(广州)- [Github](https://github.com/4o-image-gen)
-* :white_check_mark: [4oimage](https://4o-image.com/)：文生图网站，基于 Gemini 和 GPT4o
-
-### 2025 年 3 月 28 号添加
-#### zhushen - [Github](https://github.com/zhushen12580)
-* :x: [精准截图](https://puzzledu.com/shot)：智能精准截图工具（更懂内容创作者）
-
-### 2025 年 3 月 27 号添加
-#### Yasuomang(杭州)
-* :white_check_mark: [imghunt](https://imghunt.com/)：图片下载浏览器扩展，能自动检测、批量下载并转换网页上的各类图片格式，并且支持自定义导出尺寸
-
-#### Sawyer(上海) - [Github](https://github.com/Sawyer-G)
-* :white_check_mark: [idiom.today-中文成语学习工具](https://idiom.today/)：帮助英文用户学习中文成语的网站，通过脑图的形式拆分中文成语，提供词义解释，成语故事以及使用案例
-
-### 2025 年 3 月 26 号添加
-#### PixelBear - [GitHub](https://github.com/JobYu)
-* :white_check_mark: [Image2pixel](https://store.steampowered.com/app/3475120/Image2pixelPixelArtGenerator/)：图片转像素画工具，已上架 Steam
-
-#### 超能刚哥 - [Github](https://github.com/margox/)
-* :white_check_mark: [音之梦](https://apps.apple.com/cn/app/%E9%9F%B3%E4%B9%8B%E6%A2%A6-%E5%8A%A9%E4%BD%A0%E4%B8%80%E5%A4%9C%E5%A5%BD%E6%A2%A6/id6742869783)：轻音乐、白噪声和环境声 App，提供数十首轻音乐、几十种环境声，数十亿种搭配混合结果，用于辅助睡眠或者冥想，已上架 iOS App Store - [作者提供了一些兑换码](https://github.com/1c7/chinese-independent-developer/pull/485#issue-2945709859)
-
-#### Lingglee - [Github](https://github.com/lingglee)
-* :x: [Pronunciation Exercises](https://pronunciationexercises.com/)：AI 全球发音训练平台
-
-### 2025 年 3 月 24 号添加
-#### underwoodxie
-* :white_check_mark: [Simpedit](https://simpedit.com/)：提供高质量图像特效的免费在线平台，无论您是专业设计师还是普通用户，都能通过简单几步创造出具有艺术感的图像作品 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-2746268292)
-
-#### 参要字帖 - [Github](https://github.com/giroudg)
-* :white_check_mark: [参要 AI - 诗词字帖](https://canyaoai.com/copybooks?from=1c7_chinese_independent_developer)：用诗词作为练字内容，又练字又温习诗词，双倍收获
-
-### 2025 年 3 月 20 号添加
-#### Duan - [Github](https://github.com/duanduanhh)
-* :white_check_mark: [VIEW PRE](https://viewpre.com/)：中国观景指数预测，当前提供泰山、黄山、武功山云海近三日指数预测，后续扩展更多景点指数预测。期待大家的旅行都不扫兴而归！
-* :x: [Tool Hut](https://tool-hut.com/)：工具箱，内页支持文本 DIFF、JSON 序列化、时间戳转换等小工具，让天下没有难用的工具。
-
-## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
+## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
 ### 基于本列表数据源的产品
