@@ -1,5 +1,335 @@
 [
   {
+    "name": "Make Dime Dime Baby",
+    "url": "https://makedimedimebaby.com",
+    "status": "online",
+    "description": "一张照片生成约 10 秒 9:16 Dime Dime Baby 派对舞蹈短视频，浏览器直接用、不带水印（独立工具，非官方）；新账号 1 条免费，之后 1 条 $9.99、3 条 $24.99",
+    "author": "wujieli",
+    "authorGithub": "https://github.com/wujieli0207",
+    "date": "2026 年 10 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Squishy Paper",
+    "url": "https://squishypaper.com/",
+    "status": "online",
+    "description": "免费可打印的纸捏捏（Paper Squishy）手工图纸库，支持 4 种语言，单页包含正反面与剪裁线，可直接下载 PDF 与涂色线稿",
+    "author": "Peacoke",
+    "authorGithub": "https://github.com/Peacoke",
+    "date": "2026 年 10 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ReclipMuse",
+    "url": "https://www.reclipmuse.com",
+    "status": "online",
+    "description": "上传 1–3 张照片，选择 Hotel Lobby、Burning Bridges、Fireline 等效果，生成 5–30 秒 AI 说唱短视频（独立工具，非官方）；一次性积分包 $4.90 起",
+    "author": "rudy2steiner",
+    "authorGithub": "https://github.com/rudy2steiner",
+    "date": "2026 年 10 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "airapvideo",
+    "url": "https://ai-rap-video.asia",
+    "status": "online",
+    "description": "人声 + 照片生成 9:16 对口型说唱短视频（独立工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Alors on Danse AI",
+    "url": "https://tryalorsondanse.video",
+    "status": "online",
+    "description": "两张照片生成约 15 秒白棚双人舞短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Bad Times AI",
+    "url": "https://badtimesai.cc",
+    "status": "online",
+    "description": "一张照片生成约 15 秒 9:16 争吵/对口型舞蹈短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "bbywowguy AI",
+    "url": "https://bbywowguyai.cc",
+    "status": "online",
+    "description": "一张照片生成约 10 秒 9:16 quince/concha 梗短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Burning Bridges AI",
+    "url": "https://burningbridgesvideoai.com",
+    "status": "online",
+    "description": "1–2 张照片生成派对模板短视频，银杯与 Where she at 两套素材（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Cat in the Hat AI",
+    "url": "https://catinthehat.cc",
+    "status": "online",
+    "description": "一张照片生成约 10 秒 9:16 门铃万圣节恶搞短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ChatGPT Millionaire AI",
+    "url": "https://chatgptmillionaire.cc",
+    "status": "online",
+    "description": "一张自拍生成约 10–13 秒「Get a job.」梗短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ChatGTT",
+    "url": "https://chatgtt.cc",
+    "status": "online",
+    "description": "一张照片生成约 10–13 秒 9:16 信用卡拒付梗短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Cheba Man AI",
+    "url": "https://chebamanai.cc",
+    "status": "online",
+    "description": "一张全身照生成约 15–17 秒红色舞台 Tecktonik 短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Choosin Texas AI",
+    "url": "https://choosintexas.run",
+    "status": "online",
+    "description": "一张照片生成约 15 秒 9:16 emo 屋顶翻唱短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Chuttamalle Dance AI",
+    "url": "https://trychuttamalle.app",
+    "status": "online",
+    "description": "授权人像生成约 15 秒 9:16 生成式舞蹈短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "coralineai",
+    "url": "https://coralineai.run",
+    "status": "online",
+    "description": "一张自拍生成约 10 秒 9:16 纽扣眼人偶变身短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Corpse Bride AI",
+    "url": "https://corpsebride.cc",
+    "status": "online",
+    "description": "一张照片生成约 10 秒 9:16 鬼新娘/新郎墓园共舞短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Devil Wears Prada AI",
+    "url": "https://pradaai.cc",
+    "status": "online",
+    "description": "一张照片生成约 15 秒 9:16 街头造型焕新短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Flying Roadster AI",
+    "url": "https://flyingcarai.cc",
+    "status": "online",
+    "description": "一张自拍生成约 10–12 秒夜坡垂直喷气翻转短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Hotel Lobby AI",
+    "url": "https://tryhotellobby.app",
+    "status": "online",
+    "description": "两张照片生成约 15 秒酒店大堂双人短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Hug In Heaven AI",
+    "url": "https://huginheaven.cc",
+    "status": "online",
+    "description": "两张照片生成约 12–15 秒天堂楼梯重逢纪念短片，18+（独立纪念工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "JeanPhilAI",
+    "url": "https://jeanphilai.cc",
+    "status": "online",
+    "description": "一张照片生成约 12–15 秒金发波波头加小胡子短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Kiss Cam AI",
+    "url": "https://coldplayaffairai.cc",
+    "status": "online",
+    "description": "1–2 张照片生成约 10 秒体育场 kiss-cam 短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Raindance AI",
+    "url": "https://raindanceai.click",
+    "status": "online",
+    "description": "两张照片生成约 15 秒码头多镜头短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "RemixMeme",
+    "url": "https://remixmeme.com",
+    "status": "online",
+    "description": "用照片生成舞蹈、宠物和搞笑梗短视频，内置模板直接用（独立工具，非官方）",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Rumpelstiltskin Dance AI",
+    "url": "https://rumpelstiltskindance.video",
+    "status": "online",
+    "description": "1–2 张照片生成谷仓踮脚舞蹈短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ShanShenBu AI",
+    "url": "https://shanshenbuai.cc",
+    "status": "online",
+    "description": "一张照片生成约 13–15 秒 9:16 闪身步舞蹈短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Unforgettable Car AI",
+    "url": "https://unforgettablecarai.cc",
+    "status": "online",
+    "description": "一张自拍生成约 10 秒 9:16 纸牌揭车短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Venom Car AI",
+    "url": "https://venomcarai.cc",
+    "status": "online",
+    "description": "一张车照片生成约 15 秒黑液车库组装短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "venommakeup AI",
+    "url": "https://venommakeup.cc",
+    "status": "online",
+    "description": "一张照片生成约 10 秒 9:16 万圣节半脸黑液短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Victoria Secret AI",
+    "url": "https://victoriasecretai.cc",
+    "status": "online",
+    "description": "一张照片生成约 10 秒 9:16 天使翅膀走秀短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "White Chicks AI",
+    "url": "https://whitechicks.cc",
+    "status": "online",
+    "description": "1–2 张照片生成约 10–12 秒 9:16 夜景敞篷车对唱短视频，支持双人或宠物（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "wywmysweetie AI",
+    "url": "https://wywmysweetie.run",
+    "status": "online",
+    "description": "一张照片生成约 13 秒 9:16 jersey-club 舞蹈短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ZombieHug",
+    "url": "https://aizombie.app",
+    "status": "online",
+    "description": "两张照片生成竖屏僵尸爱情故事短视频，多镜头带音效（独立粉丝工具，非官方）；按条付费 $6.99 起",
+    "author": "xianyu110",
+    "authorGithub": "https://github.com/xianyu110",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
     "name": "回想册 Idea Rewind",
     "url": "https://indieshade.com/products/recollect/",
     "status": "online",
@@ -70,6 +400,16 @@
     "category": "main"
   },
   {
+    "name": "DiskWise",
+    "url": "https://github.com/DreamOfXM/diskwise",
+    "status": "online",
+    "description": "Mac 磁盘清理工具，把整块盘画成一个环，每一段写明是什么、删了会怎样；node_modules、Xcode、Docker 和 AI 工具缓存能按项目列出来，删除只进废纸篓、随时可撤销；免费开源、无订阅、不联网 - [App Store](https://apps.apple.com/cn/app/id6813265402)",
+    "author": "DreamOfXM",
+    "authorGithub": "https://github.com/DreamOfXM",
+    "date": "2026 年 10 月 27 号添加",
+    "category": "main"
+  },
+  {
     "name": "Space Simulator Online",
     "url": "https://spacesimulator.online/",
     "status": "online",
@@ -113,7 +453,7 @@
     "name": "Wave Radar",
     "url": "https://waveradar.us",
     "status": "online",
-    "description": "美股、A股、港股研究工具，全市场扫描等浪/斐波那契扩展与缠论买卖点，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器和任意标的的等浪/缠论图 - [每日复盘](https://waveradar.us/zh/daily)",
+    "description": "美股、A股、港股研究工具，全市场扫描 75 个技术信号并给出每个信号在 7000 多只股票上的历史胜率，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器 - [每日复盘](https://waveradar.us/zh/daily)",
     "author": "hankok",
     "authorGithub": "https://github.com/hankok",
     "date": "2026 年 10 月 26 号添加",
@@ -16750,243 +17090,13 @@
     "category": "main"
   },
   {
-    "name": "Clone UI",
-    "url": "https://cloneui.org",
-    "status": "online",
-    "description": "Web 网页克隆工具，只需上传网站截图、UI 设计图或网站链接就能还原 80% 前端代码设计",
-    "author": "Allen(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 5 月 2 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Style Ai",
-    "url": "https://styleai.art",
-    "status": "online",
-    "description": "免费 GPT-4o 绘画工具，轻松将图片转成吉卜力、史努比、3D 盲盒等功能",
-    "author": "Allen(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 5 月 2 号添加",
-    "category": "main"
-  },
-  {
-    "name": "CFA Essentials",
-    "url": "https://apps.apple.com/us/app/cfa-essentials-l1-3-exam-prep/id6745157137",
-    "status": "online",
-    "description": "高效复习 CFA 考试的手机 App，可以随时随地学习的笔记内容",
-    "author": "dodid",
-    "authorGithub": "https://github.com/dodid",
-    "date": "2025 年 4 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Canvave",
-    "url": "https://canvave.com",
-    "status": "online",
-    "description": "简单图形设计和动画制作平台。无须专业技能也能做出任意尺寸的精美设计；最高支持图片 3x 或动画 240 FPS 导出；内置基于 Flux 的 AI 文生图、图生图；适合电商卖家、广告设计、社媒运营、独立开发等有设计需求的群体",
-    "author": "vzt7",
-    "authorGithub": "https://github.com/vzt7/canvave",
-    "date": "2025 年 4 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "ProxyPin",
-    "url": "https://github.com/wanghongenpin/proxypin/blob/main/README_CN.md",
-    "status": "online",
-    "description": "全平台系统开源免费抓包软件",
-    "author": "wanghongenpin(北京)",
-    "authorGithub": "https://github.com/wanghongenpin",
-    "date": "2025 年 4 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Action Figure AI Generator",
-    "url": "https://actionfigureai.co/",
-    "status": "online",
-    "description": "将您的照片转成动作人偶玩具图像。只需上传照片，添加配件和产品名称，选择喜欢的风格，即可生成专业级别的动作人偶包装盒效果图，适合收藏、分享或用作创意礼物",
-    "author": "handsometong",
-    "authorGithub": "https://github.com/handsometong2020",
-    "date": "2025 年 4 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Pet To Human",
-    "url": "https://pettohuman.com/",
-    "status": "online",
-    "description": "用人工智能把你的宠物照片变成人像，保留宠物独有的表情与个性",
-    "author": "FluxStrive",
-    "authorGithub": "https://github.com/fluxstrive",
-    "date": "2025 年 4 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Character Headcanon Generator",
-    "url": "https://characterheadcanongenerator.online/",
-    "status": "online",
-    "description": "角色文本生成网站",
-    "author": "Ayden-123",
-    "authorGithub": "https://github.com/Ayden-123",
-    "date": "2025 年 4 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Action Figure AI",
-    "url": "https://actionfigureai.online",
-    "status": "online",
-    "description": "用 AI 将照片转成手办图",
-    "author": "Sean",
-    "authorGithub": "https://github.com/ShurshanX",
-    "date": "2025 年 4 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Qwikrank",
-    "url": "https://qwikrank.com/",
-    "status": "online",
-    "description": "自动调研 SEO 关键词、生成高质量 SEO 长文章、发布到博客、获取自然搜索流量，并且添加图片、内链、外链。适合独立创业者，无需 SEO 知识",
-    "author": "jianpingliu",
-    "authorGithub": "",
-    "date": "2025 年 4 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "SupportMatic",
-    "url": "https://supportmatic.co/",
-    "status": "offline",
-    "description": "基于邮件的智能客服，自动索引历史邮件、支持添加知识库、免费 Help Desk 网站，大幅降低邮件客服工作量",
-    "author": "jianpingliu",
-    "authorGithub": "",
-    "date": "2025 年 4 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "ImageToAny",
-    "url": "https://imagetoany.com/",
-    "status": "offline",
-    "description": "图片转化类型网站",
-    "author": "Ayden",
-    "authorGithub": "https://github.com/Ayden-123",
-    "date": "2025 年 4 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "报告汇",
-    "url": "https://www.vicsdf.com/",
-    "status": "online",
-    "description": "各行各业的电子书、论文等数据报告",
-    "author": "lizhichao",
-    "authorGithub": "https://github.com/lizhichao",
-    "date": "2025 年 4 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "教育类 AI 应用目录",
-    "url": "https://aiteach.tools/",
-    "status": "offline",
-    "description": "教育类 AI 应用目录",
-    "author": "Leo(上海)",
-    "authorGithub": "",
-    "date": "2025 年 4 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Gitto",
-    "url": "https://www.gitto.ltd/",
-    "status": "offline",
-    "description": "基于 Git 理念开发的 Todo 类 App",
-    "author": "inno(上海)",
-    "authorGithub": "",
-    "date": "2025 年 4 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Affiliate 分销目录",
-    "url": "https://aiaffiliatelist.com/",
-    "status": "online",
-    "description": "收录支持 Affiliate 分销的 AI 应用",
-    "author": "Leo (上海)",
-    "authorGithub": "",
-    "date": "2025 年 4 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "免费在线 AI 卡通图片生成工具",
-    "url": "https://aicartoongenerator.org/zh",
-    "status": "online",
-    "description": "将文本和照片转换为令人惊艳的卡通风格图像。它提供多种艺术风格、丰富的自定义选项和高质量的输出，让用户轻松创建独特的头像、社交媒体内容和品牌插画",
-    "author": "vampirewyi",
-    "authorGithub": "",
-    "date": "2025 年 4 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "动猫相机",
-    "url": "https://apps.apple.com/cn/app/%E5%8A%A8%E7%8C%AB%E7%9B%B8%E6%9C%BA/id6449184105",
-    "status": "online",
-    "description": "一键拍猫表情包的相机 APP",
-    "author": "Link (广州)",
-    "authorGithub": "https://github.com/LinkTBF",
-    "date": "2025 年 4 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "策引",
-    "url": "https://www.myinvestpilot.com/",
-    "status": "online",
-    "description": "全球市场技术分析工具，可以创建多个市场的模拟组合并做深度回测分析。同时正在开发 AI Agent 功能，可帮助用户使用大模型自动生成基于不同交易策略的模拟组合。",
-    "author": "i365dev",
-    "authorGithub": "https://github.com/madawei2699",
-    "date": "2025 年 4 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Logent AI",
-    "url": "https://logent.ai/zh",
-    "status": "online",
-    "description": "全球首个 AI Agent Logo 生成器；只需要输入产品名称/主要功能，自动生成合适的精美 Logo",
-    "author": "疯狂的小波(武汉)",
-    "authorGithub": "",
-    "date": "2025 年 4 月 7 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Voice Cloning",
-    "url": "https://aiclonevoicefree.com/",
-    "status": "online",
-    "description": "只需要5秒语音，就可以免费克隆你的声音，无需等待。",
-    "author": "Jay",
-    "authorGithub": "",
-    "date": "2025 年 4 月 7 号添加",
-    "category": "main"
-  },
-  {
-    "name": "PhotoG V2",
-    "url": "https://photog.art/",
-    "status": "online",
-    "description": "世界上第一个人工智能营销代理：从一张图片生成广告、视频和 SEO 内容 — 您的电子商务成功永远在线的团队",
-    "author": "JasmineChzI(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 4 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "ReplayTact - Form Automation Tester",
-    "url": "https://chromewebstore.google.com/detail/replaytact-form-automatio/ohkipcncfnmjoeneihmglaadloddopkg?authuser=0&hl=zh-CN",
-    "status": "online",
-    "description": "自动化填写和测试网页表单的 Chrome 插件，支持动态数据生成和用户操作重放，提升测试效率和覆盖率",
-    "author": "rukShen(深圳)",
-    "authorGithub": "https://github.com/WtecHtec",
-    "date": "2025 年 4 月 4 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "rukShen(深圳)",
-    "authorGithub": "https://github.com/WtecHtec",
-    "date": "2025 年 4 月 4 号添加",
+    "author": "Bobo Cao(合肥)",
+    "authorGithub": "https://github.com/bo0-bo0",
+    "date": "2025 年 5 月 6 号添加",
     "category": "main"
   },
   {
@@ -16994,9 +17104,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "rukShen(深圳)",
-    "authorGithub": "https://github.com/WtecHtec",
-    "date": "2025 年 4 月 4 号添加",
+    "author": "Bobo Cao(合肥)",
+    "authorGithub": "https://github.com/bo0-bo0",
+    "date": "2025 年 5 月 6 号添加",
     "category": "main"
   },
   {
@@ -17004,9 +17114,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "rukShen(深圳)",
-    "authorGithub": "https://github.com/WtecHtec",
-    "date": "2025 年 4 月 4 号添加",
+    "author": "Bobo Cao(合肥)",
+    "authorGithub": "https://github.com/bo0-bo0",
+    "date": "2025 年 5 月 6 号添加",
     "category": "main"
   },
   {
@@ -17014,9 +17124,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "rukShen(深圳)",
-    "authorGithub": "https://github.com/WtecHtec",
-    "date": "2025 年 4 月 4 号添加",
+    "author": "Bobo Cao(合肥)",
+    "authorGithub": "https://github.com/bo0-bo0",
+    "date": "2025 年 5 月 6 号添加",
     "category": "main"
   }
 ]
