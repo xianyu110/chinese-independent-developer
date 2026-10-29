@@ -1,5 +1,95 @@
 [
   {
+    "name": "馆长（NCurator）",
+    "url": "https://www.guanzhangai.cn/zh",
+    "status": "online",
+    "description": "用自然语言读取、创建和编辑本地 DOCX、XLSX、PPTX 的开源 AI 办公助手，支持查看文件修改差异、PDF 阅读和本地知识库检索，软件免费、自备模型 API Key，Windows、macOS 可用 — [开源仓库](https://github.com/Yoan98/Ncurator)",
+    "author": "Yoan98",
+    "authorGithub": "https://github.com/Yoan98",
+    "date": "2026 年 10 月 29 号添加",
+    "category": "main"
+  },
+  {
+    "name": "知周 ZhiZhou",
+    "url": "https://zhizhou.app/",
+    "status": "online",
+    "description": "八字和紫微斗数排盘网站，按出生地经度、均时差和各地历史夏令时自动换算真太阳时，免登录排盘；可免费生成 AI 写的命盘报告，前两节免费读，全文 US$9.90，有简繁两版 - [真太阳时换算器](https://zhizhou.app/true-solar)",
+    "author": "goodlettdummett-alt",
+    "authorGithub": "https://github.com/goodlettdummett-alt",
+    "date": "2026 年 10 月 29 号添加",
+    "category": "main"
+  },
+  {
+    "name": "闪电全能下载",
+    "url": "https://github.com/chenmozhe008/shandian-download",
+    "status": "online",
+    "description": "Mac 下载工具，磁力、种子、网页文件和 YouTube、B 站、抖音、小红书视频放在一个窗口下载，复制链接按 ⌘V 即开始，抖音小红书无水印，电影可边下边看，免费开源",
+    "author": "沉默者之二",
+    "authorGithub": "https://github.com/chenmozhe008",
+    "date": "2026 年 10 月 29 号添加",
+    "category": "main"
+  },
+  {
+    "name": "小清",
+    "url": "https://github.com/chenmozhe008/qingo",
+    "status": "online",
+    "description": "Mac 清理工具，识别剪映、达芬奇、Adobe 和 Cursor、Claude Code 等 60 余款剪辑与 AI 工具的缓存，只清能自动重建的部分、不碰项目和对话，一键清理可撤销，免费开源不联网",
+    "author": "沉默者之二",
+    "authorGithub": "https://github.com/chenmozhe008",
+    "date": "2026 年 10 月 29 号添加",
+    "category": "main"
+  },
+  {
+    "name": "周五追账排序器 Friday Invoice Chase Ranker",
+    "url": "https://sirmem.github.io/friday-invoice-chase-tool/",
+    "status": "online",
+    "description": "打开网页粘贴欠款清单，按 Current / 1–30 / 31–60 / 60+ 排出本周五该催的 Top3，本地运行无需注册，免费开源 — [源码](https://github.com/SirMem/friday-invoice-chase-tool)",
+    "author": "SirMem",
+    "authorGithub": "https://github.com/SirMem",
+    "date": "2026 年 10 月 29 号添加",
+    "category": "main"
+  },
+  {
+    "name": "JoJo Characters",
+    "url": "https://jojocharacters.com/",
+    "status": "online",
+    "description": "独立的《JOJO的奇妙冒险》人物百科，按部数和作品浏览人物、已有配图与替身资料，支持姓名和别名搜索，附来源及剧情防剧透",
+    "author": "guetyitudabian",
+    "authorGithub": "https://github.com/guetyitudabian",
+    "date": "2026 年 10 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ZoopFizz",
+    "url": "https://zoopfizz.com/",
+    "status": "online",
+    "description": "选模板或写提示词，上传照片或输入文字，在同一积分工作区用 Seedance / Veo / Wan 等模型生成 TikTok/Reels 短视频；草稿免费，新验证账号送 100 积分（30 天），月付从 $29.99 起 - [模型与积分](https://zoopfizz.com/models.md)",
+    "author": "Koroo",
+    "authorGithub": "https://github.com/CClishan",
+    "date": "2026 年 10 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "铝构AI BeamJoin",
+    "url": "https://forgepane.com",
+    "status": "online",
+    "description": "在线铝型材设计工具，用自然语言辅助搭建和修改桌架、工作台、置物架等三维方案，并整理型材切割长度、材料与加工清单，支持 PDF、Excel 导出",
+    "author": "Nolan",
+    "authorGithub": "https://github.com/NolanSoloBuilder",
+    "date": "2026 年 10 月 28 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Me2Cloud",
+    "url": "https://m2c.1ms.dog",
+    "status": "online",
+    "description": "云服务器延迟测试工具，打开网页就能测你家网络到 AWS、阿里云等 17 家云厂商 361 个区域的延迟、抖动和丢包，买服务器前先挑最快的区域，免费开源无需注册",
+    "author": "yt1988",
+    "authorGithub": "https://github.com/yt1988",
+    "date": "2026 年 10 月 28 号添加",
+    "category": "main"
+  },
+  {
     "name": "Make Dime Dime Baby",
     "url": "https://makedimedimebaby.com",
     "status": "online",
@@ -16920,183 +17010,13 @@
     "category": "main"
   },
   {
-    "name": "在线工具箱",
-    "url": "https://tools.cmdragon.cn/zh",
-    "status": "online",
-    "description": "满足各种任务需求的在线工具，强大的AI驱动工具，提升您的工作效率",
-    "author": "cmdragon(广州)",
-    "authorGithub": "https://[github.com/Amd794](https://github.com/Amd794",
-    "date": "2025 年 5 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FacelessVideos.APP",
-    "url": "https://facelessvideos.app",
-    "status": "online",
-    "description": "将一个 idea 转化成短视频 ，自动加上语音，可以定制化背景音乐和字幕，发布在 youtube 频道中。",
-    "author": "Jacky(南京) ",
-    "authorGithub": "",
-    "date": "2025 年 5 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "ImagesArt.ai",
-    "url": "https://imagesart.ai",
-    "status": "online",
-    "description": "生成完美的AI艺术提示词。使用这个工具为Flux、Midjourney和Stable Diffusion模型生成并优化图像提示词。",
-    "author": "Jacky(南京) ",
-    "authorGithub": "",
-    "date": "2025 年 5 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Flux2Klein.io",
-    "url": "https://flux2klein.io/",
-    "status": "online",
-    "description": "在 0.5 秒内生成照片级真实图像。基于 Flux2 Klein 9B 模型，提供统一的图像生成和编辑功能。无需注册即可免费生成 2 次。",
-    "author": "Jacky(南京) ",
-    "authorGithub": "",
-    "date": "2025 年 5 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "PapyrusFont.com",
-    "url": "https://papyrusfont.com/",
-    "status": "online",
-    "description": "用 Papyrus 字体创建精美的文字设计，可保存为 PNG",
-    "author": "sing1ee",
-    "authorGithub": "https://github.com/sing1ee",
-    "date": "2025 年 5 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "免费在线 AI 角色脑洞生成工具",
-    "url": "https://characterheadcanongen.com/zh",
-    "status": "online",
-    "description": "借助先进 AI 技术，一键生成多维度角色设定——性格、成长经历、人际关系、价值观等一应俱全。无需注册，完全免费，适用于小说、漫画、游戏等创作场景，智能解析人物特征，助你轻松突破瓶颈，打造鲜活立体的角色。",
-    "author": "vampirewy",
-    "authorGithub": "https://github.com/vampirewy",
-    "date": "2025 年 5 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Calligraphy Font Generator",
-    "url": "https://calligraphyfontgenerator.org/",
-    "status": "online",
-    "description": "免费在线书法字体生成工具，一键将普通文字转换为优雅的艺术字体，提供50多种风格选择，适用于设计、社交媒体等多种场景。",
-    "author": "Ayden",
-    "authorGithub": "https://github.com/Ayden-123",
-    "date": "2025 年 5 月 11 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Bilibili “换一换” 历史插件",
-    "url": "https://chromewebstore.google.com/detail/bilibili-%E2%80%9D%E6%8D%A2%E4%B8%80%E6%8D%A2%E2%80%9C-%E5%8E%86%E5%8F%B2/npfopljnjbamegincfjelhjhnonnjloo",
-    "status": "online",
-    "description": "查看 B 站首页的换一换历史。有时不小心点太快导致错过了想看的视频，这个插件可以让你往回走，查看前几组推荐视频",
-    "author": "Qiwei - [GitHub](https://github.com/qiweiii)",
-    "authorGithub": "",
-    "date": "2025 年 5 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Addsubtitle",
-    "url": "https://addsubtitle.ai/",
-    "status": "online",
-    "description": "视频一键翻译编辑加字幕，超高效视频处理，精准翻译，还原情感；语音克隆与自然配音；自动字幕生成，高效省时；即时在线编辑",
-    "author": "Christine(上海)",
-    "authorGithub": "https://github.com/liuyinjiwen06",
-    "date": "2025 年 5 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "TabBoost（Chrome 扩展）",
-    "url": "https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe",
-    "status": "online",
-    "description": "提高浏览器标签效率，灵感来自 Arc 浏览器和开发者的实际体验 - [更多介绍](https://github.com/samzong/chrome-tabboost)",
-    "author": "samzong(上海):",
-    "authorGithub": "",
-    "date": "2025 年 5 月 9 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Best Bra Size Calculator",
-    "url": "https://bestbrasizecalculator.com",
-    "status": "online",
-    "description": "根据体态计算用户适合穿戴什么文胸以及相关保养提示",
-    "author": "jzhone(佛山) ",
-    "authorGithub": "",
-    "date": "2025 年 5 月 9 号添加",
-    "category": "main"
-  },
-  {
-    "name": "信风 AI 外贸获客智能体",
-    "url": "https://www.trade-wind.co",
-    "status": "online",
-    "description": "每周 AI 全网实时搜索获取高质量线索，自动化拓展终端客户/经销商/合作伙伴，快速布局海外市场 - [更多介绍](https://www.trade-wind.co/compare)",
-    "author": "Alex Li(苏州) ",
-    "authorGithub": "",
-    "date": "2025 年 5 月 9 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Free AI Beauty Test",
-    "url": "https://aibeautytest.org/",
-    "status": "online",
-    "description": "AI 颜值测试，提供给你个性化的建议",
-    "author": "underwoodxie",
-    "authorGithub": "https://github.com/underwoodxie",
-    "date": "2025 年 5 月 9 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Doll Generator",
-    "url": "https://ai-doll-generator.net",
-    "status": "online",
-    "description": "使用 AI 技术将人像转成玩具盒子风格！",
-    "author": "jerrybi(深圳)",
-    "authorGithub": "https://github.com/jerrybi",
-    "date": "2025 年 5 月 7 号添加",
-    "category": "main"
-  },
-  {
-    "name": "4oimg.org",
-    "url": "https://4oimg.org",
-    "status": "online",
-    "description": "基于 OpenAI 最新图像技术的创作平台，支持多风格生成和精确文本渲染的 AI 绘图工具",
-    "author": "Caron77",
-    "authorGithub": "https://github.com/Caron77ai",
-    "date": "2025 年 5 月 7 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Notion style illustration",
-    "url": "https://illustration.imglab.dev",
-    "status": "online",
-    "description": "专注于 Notion 风格插画生成网站，一句话提示词就能生成 Notion 风格插画/Flat style illustration",
-    "author": "yiquan00 - [GitHub](https://github.com/yiquan00)",
-    "authorGithub": "",
-    "date": "2025 年 5 月 6 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Labubu Wallpaper",
-    "url": "https://labubuwallpaper.com/",
-    "status": "online",
-    "description": "下载 4K Labubu 壁纸，针对 iPhone, 笔记本和移动设备优化",
-    "author": "Bobo Cao(合肥)",
-    "authorGithub": "https://github.com/bo0-bo0",
-    "date": "2025 年 5 月 6 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "Bobo Cao(合肥)",
-    "authorGithub": "https://github.com/bo0-bo0",
-    "date": "2025 年 5 月 6 号添加",
+    "author": "Brice(南京) ",
+    "authorGithub": "",
+    "date": "2025 年 5 月 13 号添加",
     "category": "main"
   },
   {
@@ -17104,9 +17024,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "Bobo Cao(合肥)",
-    "authorGithub": "https://github.com/bo0-bo0",
-    "date": "2025 年 5 月 6 号添加",
+    "author": "Brice(南京) ",
+    "authorGithub": "",
+    "date": "2025 年 5 月 13 号添加",
     "category": "main"
   },
   {
@@ -17114,9 +17034,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "Bobo Cao(合肥)",
-    "authorGithub": "https://github.com/bo0-bo0",
-    "date": "2025 年 5 月 6 号添加",
+    "author": "Brice(南京) ",
+    "authorGithub": "",
+    "date": "2025 年 5 月 13 号添加",
     "category": "main"
   },
   {
@@ -17124,9 +17044,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "Bobo Cao(合肥)",
-    "authorGithub": "https://github.com/bo0-bo0",
-    "date": "2025 年 5 月 6 号添加",
+    "author": "Brice(南京) ",
+    "authorGithub": "",
+    "date": "2025 年 5 月 13 号添加",
     "category": "main"
   }
 ]
