@@ -6,6 +6,59 @@
 
 ---
 
+### 2025 年 5 月 12 号添加
+#### cmdragon(广州) - [Github](https://[github.com/Amd794](https://github.com/Amd794))
+* :white_check_mark: [在线工具箱](https://tools.cmdragon.cn/zh)：满足各种任务需求的在线工具，强大的AI驱动工具，提升您的工作效率
+
+#### Jacky(南京) 
+* :white_check_mark: [FacelessVideos.APP](https://facelessvideos.app)：将一个 idea 转化成短视频 ，自动加上语音，可以定制化背景音乐和字幕，发布在 youtube 频道中。
+* :white_check_mark: [ImagesArt.ai](https://imagesart.ai)：生成完美的AI艺术提示词。使用这个工具为Flux、Midjourney和Stable Diffusion模型生成并优化图像提示词。
+* :white_check_mark: [Flux2Klein.io](https://flux2klein.io/)：在 0.5 秒内生成照片级真实图像。基于 Flux2 Klein 9B 模型，提供统一的图像生成和编辑功能。无需注册即可免费生成 2 次。
+
+#### sing1ee - [Github](https://github.com/sing1ee)
+* :white_check_mark: [PapyrusFont.com](https://papyrusfont.com/): 用 Papyrus 字体创建精美的文字设计，可保存为 PNG
+
+#### vampirewy - [Github](https://github.com/vampirewy)
+* :white_check_mark: [免费在线 AI 角色脑洞生成工具](https://characterheadcanongen.com/zh)：借助先进 AI 技术，一键生成多维度角色设定——性格、成长经历、人际关系、价值观等一应俱全。无需注册，完全免费，适用于小说、漫画、游戏等创作场景，智能解析人物特征，助你轻松突破瓶颈，打造鲜活立体的角色。
+
+### 2025 年 5 月 11 号添加
+#### Ayden - [Github](https://github.com/Ayden-123)
+* :white_check_mark: [Calligraphy Font Generator](https://calligraphyfontgenerator.org/)：免费在线书法字体生成工具，一键将普通文字转换为优雅的艺术字体，提供50多种风格选择，适用于设计、社交媒体等多种场景。
+
+### 2025 年 5 月 10 号添加
+#### Qiwei - [GitHub](https://github.com/qiweiii)
+* :white_check_mark: [Bilibili “换一换” 历史插件](https://chromewebstore.google.com/detail/bilibili-%E2%80%9D%E6%8D%A2%E4%B8%80%E6%8D%A2%E2%80%9C-%E5%8E%86%E5%8F%B2/npfopljnjbamegincfjelhjhnonnjloo)：查看 B 站首页的换一换历史。有时不小心点太快导致错过了想看的视频，这个插件可以让你往回走，查看前几组推荐视频
+
+#### Christine(上海) - [Github](https://github.com/liuyinjiwen06)
+* :white_check_mark: [Addsubtitle](https://addsubtitle.ai/)：视频一键翻译编辑加字幕，超高效视频处理，精准翻译，还原情感；语音克隆与自然配音；自动字幕生成，高效省时；即时在线编辑
+
+### 2025 年 5 月 9 号添加
+#### samzong(上海):
+* :white_check_mark: [TabBoost（Chrome 扩展）](https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe)： 提高浏览器标签效率，灵感来自 Arc 浏览器和开发者的实际体验 - [更多介绍](https://github.com/samzong/chrome-tabboost)
+
+#### jzhone(佛山) 
+* :white_check_mark: [Best Bra Size Calculator](https://bestbrasizecalculator.com)：根据体态计算用户适合穿戴什么文胸以及相关保养提示
+
+#### Alex Li(苏州) 
+* :white_check_mark: [信风 AI 外贸获客智能体](https://www.trade-wind.co)：每周 AI 全网实时搜索获取高质量线索，自动化拓展终端客户/经销商/合作伙伴，快速布局海外市场 - [更多介绍](https://www.trade-wind.co/compare)
+
+#### underwoodxie - [Github](https://github.com/underwoodxie)
+* :white_check_mark: [Free AI Beauty Test](https://aibeautytest.org/): AI 颜值测试，提供给你个性化的建议
+
+### 2025 年 5 月 7 号添加
+#### jerrybi(深圳) - [Github](https://github.com/jerrybi)
+* :white_check_mark: [AI Doll Generator](https://ai-doll-generator.net)：使用 AI 技术将人像转成玩具盒子风格！
+
+#### Caron77 - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [4oimg.org](https://4oimg.org)：基于 OpenAI 最新图像技术的创作平台，支持多风格生成和精确文本渲染的 AI 绘图工具
+
+### 2025 年 5 月 6 号添加
+#### yiquan00 - [GitHub](https://github.com/yiquan00)
+* :white_check_mark: [Notion style illustration](https://illustration.imglab.dev)：专注于 Notion 风格插画生成网站，一句话提示词就能生成 Notion 风格插画/Flat style illustration 
+
+#### Bobo Cao(合肥) - [Github](https://github.com/bo0-bo0), [博客](https://indiepa.ge/bo0bo0)
+* :white_check_mark: [Labubu Wallpaper](https://labubuwallpaper.com/)：下载 4K Labubu 壁纸，针对 iPhone, 笔记本和移动设备优化
+
 ### 2025 年 5 月 2 号添加
 #### Allen(深圳) 
 * :white_check_mark: [Clone UI](https://cloneui.org)：Web 网页克隆工具，只需上传网站截图、UI 设计图或网站链接就能还原 80% 前端代码设计
