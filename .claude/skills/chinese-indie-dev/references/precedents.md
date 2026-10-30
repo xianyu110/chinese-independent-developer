@@ -112,6 +112,11 @@ EveFab（evefab.com / gexiansen007）提交的是一条 B2B 制造业站点：�
   结论：状态是作者对自家产品的陈述，我们只做标点空格和重复链接的清理，不改状态、不改口径。
 - **缺分隔符事故（2026-09-02 StitchCraft）**：提交者写 `…描述[更多介绍](url)`，漏了「 - 」，被维护者纠正。标准格式是 `…描述 - [更多介绍](url)`。
 - **语序误改事故（2026-08-27 PR #1314 Vault Keeper）**：提交者写在句首的「Obsidian vault 自动运维插件：…」被机械套用「形态后置」规则挪到句尾，被维护者要求回退。提交者已定稿的句子，语序一律不动。
+- **「一X」开头（2026-10-29 Pixsolo + 存量 8 处）**：Pixsolo 写成「一款面向 iOS / Android 开发者的免安装 Web 端应用商店截图设计平台」，维护者："我不是和你说过很多次吗，产品描述不要开头是『一个』『一款』『一X』之类的"。
+  处理原则由维护者当场给定：**只删开头的量词，句子其余部分原样保留，不要借机重写整句**。`一款真正意义上的 LLM 操作系统` → `真正意义上的 LLM 操作系统`；`一个数据结构可视化组件库` → `数据结构可视化组件库`；`一款结合了像素艺术与轻松玩法的网页游戏` → `结合了像素艺术与轻松玩法的网页游戏`。
+  同日已清存量 8 处：SpritePixel、SoulCut、hippoxOS、Pdf To MD Converter、FLUX.1 Kontext（主版面）、ink-cartridge、DSVisual（程序员版面）、PixelArtGame（游戏版面）。
+  **句首「一站式 / 一体化」同样要删**（2026-10-29 维护者二次确认："我也觉得『一站式』和『一体化』包含的信息很少"），存量 16 条当日已清：Ausar AI、Hevzo、Fullmira、卡网大全、Dramily、VisioArt、aniv、Zuss AI、WMHub、fluxchat、nbpro.io、musci、nanobana.net、Vidgo AI、原牛、Free AI Image Generator。
+  但**只删句首**：句中「AI 图像、视频一站式生成平台」这类保留原样，共 15 处不动——那是提交者的行文，不是我们的句式问题。
 
 ---
 
