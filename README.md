@@ -29,6 +29,17 @@
 
 ### 2026 年 10 月 30 号添加
 
+#### yehyakin - [Github](https://github.com/yehyakin)
+* :white_check_mark: [IPZOR](https://ipzor.com/)：IP 地址查询与网络检测工具，查公网 IP、大致地区、ASN 和运营网络，还能对比网站出口、DNS、WebRTC 检测结果，每条数据都标明来源，免费无需注册
+* :white_check_mark: [HKDone 香港办事指南](https://hkdone.com/)：给内地短期访港用户的办事指南，整理 33 项香港银行开户、电话卡、支付和交通服务的办理条件、所需材料和步骤，没有香港身份证也能提前准备
+* :white_check_mark: [VAQIRA · 独立产品收入榜](https://vaqira.com/)：独立开发者真实收入排行榜，每个数字都附创始人公开的原文出处，不估算、不换算，每天更新，数据按 CC BY 4.0 开放下载 - [收录规则](https://vaqira.com/method/)
+
+#### pydaxing - [Github](https://github.com/pydaxing)
+* :white_check_mark: [食愿小灶](https://github.com/pydaxing/shiyuan#readme)：面向两个人或一家人的家庭餐食协作微信小程序，一起选菜、安排每餐、调整备菜用量、整理采购清单；微信搜索「食愿小灶」使用 - [更多介绍与小程序码](https://github.com/pydaxing/shiyuan#readme)
+
+#### KorlynShae - [Github](https://github.com/KorlynShae)
+* :white_check_mark: [Asteriadne](https://korlyn.xyz)：实用网站与在线工具导航，每个网站都实际打开核实过并配有中文介绍和截图，按主题分类浏览，免费无需注册
+
 #### wlmosv - [Github](https://github.com/wlmosv-png)
 * :white_check_mark: [WPAForge](https://wlmosv.dpdns.org/wpaforge/)：Android 上的 Wi-Fi 网络审计工具，在手机本地逐条试出你自己路由器的 WPA/WPA2 口令，每条候选都真实发起一次关联、以 4-Way Handshake 是否完成为判据而非靠猜，附带 WPS 拆半攻击与离线 .cap/.hc22000 校验 - [开源仓库](https://github.com/wlmosv-png/wpaforge)
 
@@ -5271,36 +5282,6 @@
 
 #### worminone - [Github](https://github.com/worminone)
 * :white_check_mark: [AI Image Editor](https://aiimageeditor.me/)：AI 图片处理工具，支持图片增强、去水印、抠图、风格转换、线稿提取等十余种功能。无需下载软件，无需注册，上传图片即可一键生成专业效果。适用于电商设计、社交内容创作、摄影后期、教育教学等多种场景，让图片编辑变得更智能、更高效、更简单！
-
-### 2025 年 5 月 17 号添加
-#### SAM-TTS-Tool - [Github](https://github.com/SAM-TTS-Tool)
-* :white_check_mark: [Microsoft SAM TTS](https://samtts.com/)：复刻 Microsoft SAM 的文本转语音工具，支持文字输入并生成极具复古感的电子语音。用户可自定义音高、语速、嘴型、喉咙共鸣等参数，还可下载生成的语音（WAV 格式），无需登录，适合内容创作、游戏配音、搞笑语音等多种场景。
-
-### 2025 年 5 月 16 号添加
-#### apple1413 - [Github](https://github.com/apple1413)
-* :white_check_mark: [Free Voice Cloning](https://aiclonevoicefree.com/)：仅需 5 秒音频样本，即可克隆你的声音 无需登录 免费无限制使用
-
-#### Ayden - [Github](https://github.com/Ayden-123)
-* :white_check_mark: [Image to Image AI](https://imgtoimgai.org/)：将您的普通照片转换为令人惊叹的艺术作品。是艺术家、设计师和创意专业人士重新构想视觉内容的理想工具
-
-### 2025 年 5 月 15 号添加
-#### lwj973 - [Github](https://github.com/lwj973)
-* :white_check_mark: [SafeWrite AI](https://safewrite.ai/)：结合 AI Humanizer 与 AI 检测功能的写作工具，帮助用户生成更自然、难以被检测为 AI 的内容。支持训练私有化的 Humanizer，模拟个人文风并确保隐私不泄露。同时整合 GPTZero、Turnitin 等检测器，一键获取多平台检测结果。通过“改写-检测-再改写”的自动流程，有效提升内容通过率，适用于学生、自由写手及内容创作者。
-
-#### Sarkory(广州)
-* :white_check_mark: [FramePack AI](https://frame-pack.video)：AI 视频生成
-
-### 2025 年 5 月 14 号添加
-#### bear-clicker - [Github](https://github.com/bear-clicker) 
-* :white_check_mark: [ACE-Step](https://acestep.app/)：音乐生成，文本转音乐 歌词生成
-
-#### lkunxyz - [Github](https://github.com/lkunxyz) 
-* :white_check_mark: [Graffitiart app](https://graffitiart.app/)：涂鸦生成工具，可以生成各种不同风格的涂鸦
-* :white_check_mark: [Musci](https://musci.app)：AI 音乐生成，文本转音乐 歌词生成
-
-### 2025 年 5 月 13 号添加
-#### Brice(南京) 
-* :white_check_mark: [Attractiveness Scale](https://attractivenessscale.com/)：颜值打分网站（基于 AI）
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
