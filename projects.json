@@ -1,5 +1,145 @@
 [
   {
+    "name": "DisconfirmAI",
+    "url": "https://disconfirmai.com/zh",
+    "status": "online",
+    "description": "AI 投资研究与阅读平台，下结论前先找可能推翻自己判断的证据。每天整理公开来源的 AI 与投资资讯，每条附原文链接；可以对着财报和数据做研究，让雷达按你写下的条件定时扫描变化，也能写下自己的投资体系，另有 AI 100 榜单和产业地图。阅读和投资体系永久免费，注册送 400 积分，不提供买卖建议",
+    "author": "tumingke0",
+    "authorGithub": "https://github.com/tumingke0",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Kyna Player",
+    "url": "https://kyna.fynxlab.com/",
+    "status": "online",
+    "description": "Windows 视频播放器，支持 GPU 播放、DLSS 画质增强和 AI 字幕工具",
+    "author": "z4none",
+    "authorGithub": "https://github.com/z4none",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Logo Animation AI",
+    "url": "https://logoanimationai.com/",
+    "status": "online",
+    "description": "上传静态 Logo，选择动效模板或用文字描述效果，生成用于品牌展示、视频片头和社交媒体的 Logo 动画，无需掌握剪辑或关键帧",
+    "author": "kian",
+    "authorGithub": "https://github.com/BossChow",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Pic2SVG",
+    "url": "https://pic2svg.com/",
+    "status": "online",
+    "description": "上传普通图片（JPG/PNG 等），转成可编辑的 SVG 路径，浏览器本地运行、文件不上传，2 MB 以内免费无需注册，另附 SVG 结构检查器 - [SVG checker](https://pic2svg.com/svg-cut-file-checker/)",
+    "author": "szj2ys",
+    "authorGithub": "https://github.com/szj2ys",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Big Walk Guide",
+    "url": "https://thebigwalk.world/en/protocols",
+    "status": "online",
+    "description": "Big Walk 非官方中英攻略，浏览器内信号码规划器、坐标查询与谜题 walkthrough，免费无需注册",
+    "author": "szj2ys",
+    "authorGithub": "https://github.com/szj2ys",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Roam Radio",
+    "url": "https://roamradios.com/",
+    "status": "online",
+    "description": "全球网络电台目录与播放器，按国家、音乐流派、语言或在 3D 地球上找台，浏览器直接收听，每个电台有独立详情页，免费无需注册",
+    "author": "Li Wen",
+    "authorGithub": "https://github.com/wenliabc2007",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "湾区 AI 日历",
+    "url": "https://wqai.ltd/",
+    "status": "online",
+    "description": "粤港澳大湾区 AI 活动与赛事日历，把深圳、广州、中国香港、东莞、珠海的 AI 大会、行业沙龙和黑客松按城市和日期排好，每天核对一次，每场都带主办方与官方报名入口，可一键订阅到手机日历",
+    "author": "湾区AI日历(广东)",
+    "authorGithub": "https://github.com/tgchtggn29-bit",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Magic Resume",
+    "url": "https://www.magic-resume.cn/",
+    "status": "online",
+    "description": "开源 AI 简历工作台，支持实时预览、按目标岗位获取建议，逐条采纳或跳过 AI 修改；提供中英文、可自定义模板及 PDF/JSON 导出，云端版提供免费和付费计划 - [源码](https://github.com/Magic-Resume/Magic-Resume)",
+    "author": "LinMoQC",
+    "authorGithub": "https://github.com/LinMoQC",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ReferralCodes Canada",
+    "url": "https://referralcodescanada.com/",
+    "status": "online",
+    "description": "加拿大推荐码与注册奖励目录，查找、比较并分享各种服务的推荐码，了解奖励详情、资格要求和分享规则，帮助用户在加拿大获取更多优惠",
+    "author": "Linky",
+    "authorGithub": "https://github.com/Linky-AIinlink",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KanaCraft 卡娜日语 / 卡娜英语",
+    "url": "https://kanacraft.cn/library",
+    "status": "online",
+    "description": "面向中文用户的日语与英语自学网站，日语从零基础五十音与听写入门，覆盖 JLPT N5–N1 词汇和教材词书，英语用打字、听写、卡片与连连看背单词并带语法知识库，覆盖四六级、考研与雅思托福词库；基础功能免费、会员可选 — 浏览器即可用，适配手机、平板与电脑 - [卡娜英语](https://english.kanacraft.cn/)",
+    "author": "18841144913",
+    "authorGithub": "https://github.com/18841144913",
+    "date": "2026 年 10 月 31 号添加",
+    "category": "main"
+  },
+  {
+    "name": "豆门",
+    "url": "https://doumen.work/",
+    "status": "online",
+    "description": "面向拼豆爱好者的图纸识别与制作 App，导入现成图纸或照片后核对网格与颜色，编辑导出并记录制作进度；免费、无需注册，支持 iOS / iPadOS 与 Android - [原创图纸与入门教程](https://doumen.work/blog/beginner-guide/)",
+    "author": "ceasarXuu",
+    "authorGithub": "https://github.com/ceasarXuu",
+    "date": "2026 年 10 月 31 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ChanScout",
+    "url": "https://chanscout.com/",
+    "status": "online",
+    "description": "中文 Telegram 公开资源目录，收录可核验的频道、群组与机器人，支持分类浏览与持续核验，免费使用",
+    "author": "Jun Dong",
+    "authorGithub": "https://github.com/dj05305",
+    "date": "2026 年 10 月 31 号添加",
+    "category": "main"
+  },
+  {
+    "name": "BGX",
+    "url": "https://bgx.itea.dev/",
+    "status": "online",
+    "description": "AI 抠图工具，内置 U2Net / ISNet / BRIA RMBG 等 9 个模型，全部在浏览器本地推理、图片不上传，可导出透明 PNG、白底 JPG 或 WebP，另有 Windows 桌面版可离线使用，免费无需注册 - [开源仓库](https://github.com/isixe/bgx)",
+    "author": "isixe",
+    "authorGithub": "https://github.com/isixe",
+    "date": "2026 年 10 月 31 号添加",
+    "category": "main"
+  },
+  {
+    "name": "bg2x",
+    "url": "https://bg2x.itea.dev/",
+    "status": "online",
+    "description": "AI 图片无损放大工具，Real-ESRGAN / Swin2SR / Real-CUGAN 共 10 个模型本地推理，最高 4 倍放大、GPU 加速、批量导出 ZIP，图片不上传、首次下载模型后可离线，免费开源 - [开源仓库](https://github.com/isixe/bg2x)",
+    "author": "isixe",
+    "authorGithub": "https://github.com/isixe",
+    "date": "2026 年 10 月 31 号添加",
+    "category": "main"
+  },
+  {
     "name": "IPZOR",
     "url": "https://ipzor.com/",
     "status": "online",
@@ -16800,233 +16940,13 @@
     "category": "main"
   },
   {
-    "name": "Transmonkey",
-    "url": "https://www.transmonkey.ai/",
-    "status": "online",
-    "description": "所有您所需的翻译工具，一应俱全 - [更多介绍](https://www.transmonkey.ai/faq)",
-    "author": "Charlie(上海)",
-    "authorGithub": "https://github.com/weight567",
-    "date": "2025 年 5 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "TeachAny",
-    "url": "https://www.teachany.com/",
-    "status": "online",
-    "description": "使用 TeachAny AI 工具，简化您的教学 - [更多功能](https://www.teachany.com/tools)",
-    "author": "Charlie(上海)",
-    "authorGithub": "https://github.com/weight567",
-    "date": "2025 年 5 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Imgkits",
-    "url": "https://www.imgkits.com/",
-    "status": "online",
-    "description": "全能 AI 图像、视频编辑器：使用 Imgkits 创建令人惊艳的照片和视频 - [更多功能](https://www.imgkits.com/create/image)",
-    "author": "Charlie(上海)",
-    "authorGithub": "https://github.com/weight567",
-    "date": "2025 年 5 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AgentHunter",
-    "url": "https://www.agenthunter.io/",
-    "status": "online",
-    "description": "每日更新的 AI Agent 目录和新闻",
-    "author": "zane",
-    "authorGithub": "https://github.com/littleblackone",
-    "date": "2025 年 5 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "English Daily",
-    "url": "https://englishdaily.ai/",
-    "status": "online",
-    "description": "AI 每日英语学习平台",
-    "author": "Lingglee",
-    "authorGithub": "https://github.com/lingglee",
-    "date": "2025 年 5 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI 今日热榜",
-    "url": "https://aihot.today",
-    "status": "online",
-    "description": "汇集全球顶尖来源的最新 AI 新闻、研究和趋势，为您节省宝贵时间",
-    "author": "羊上上(杭州)",
-    "authorGithub": "https://github.com/yangbishang/",
-    "date": "2025 年 5 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Board Foot Calculator",
-    "url": "https://boardfootcalculator.cc/",
-    "status": "online",
-    "description": "简便的在线版英尺计算器，用来计算木材的体积和对应的价格，面向木工爱好者，或者要购买木材的买家",
-    "author": "Sawana Huang",
-    "authorGithub": "",
-    "date": "2025 年 5 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "mksaas.com",
-    "url": "https://mksaas.com",
-    "status": "online",
-    "description": "最好的 AI SaaS 模板，只需1个周末就可以上线你的 AI SaaS",
-    "author": "Indie Maker Fox",
-    "authorGithub": "https://github/javayhu",
-    "date": "2025 年 5 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "video2ppt.com",
-    "url": "https://video2ppt.com",
-    "status": "online",
-    "description": "将任意来源的视频转换为 PPT 演示文档",
-    "author": "Axis Wang(深圳)",
-    "authorGithub": "https://github/wangxs404",
-    "date": "2025 年 5 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Doll",
-    "url": "https://ai-doll.online/",
-    "status": "online",
-    "description": "用 AI 将人像照片转换成玩具人偶",
-    "author": "Rns",
-    "authorGithub": "https://github.com/rnsss",
-    "date": "2025 年 5 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "TarotDreamHub",
-    "url": "https://www.tarotdreamhub.com/",
-    "status": "online",
-    "description": "免费 AI 塔罗牌占卜。想好您想占卜的问题，在线抽牌后就可以一键解牌啦！",
-    "author": "hanlaoshinb",
-    "authorGithub": "https://github.com/hanlaoshinb",
-    "date": "2025 年 5 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "bratgenerator",
-    "url": "https://bratgenerator.dev/",
-    "status": "online",
-    "description": "可以设置字体，背景颜色等",
-    "author": "Lee",
-    "authorGithub": "https://github.com/lkunxyz",
-    "date": "2025 年 5 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "WriteHybrid",
-    "url": "https://writehybrid.com/",
-    "status": "online",
-    "description": "可绕过所有顶级 AI 检测器的 AI 人性化工具",
-    "author": "HuzefaUsama25",
-    "authorGithub": "https://github.com/HuzefaUsama25",
-    "date": "2025 年 5 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Firsto",
-    "url": "https://firsto.co/",
-    "status": "online",
-    "description": "你的产品，从这里出发",
-    "author": "Leo(上海)",
-    "authorGithub": "",
-    "date": "2025 年 5 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Raffle Blue",
-    "url": "https://raffle.blue/",
-    "status": "online",
-    "description": "针对 bluesky post 的抽奖工具",
-    "author": "Leo(上海)",
-    "authorGithub": "",
-    "date": "2025 年 5 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI teach tools",
-    "url": "https://aiteach.tools/",
-    "status": "offline",
-    "description": "教育类 AI 工具的目录站点",
-    "author": "Leo(上海)",
-    "authorGithub": "",
-    "date": "2025 年 5 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "BlueSky SDK",
-    "url": "https://bskyinfo.com/sdks/",
-    "status": "online",
-    "description": "Bluesky & AT Protocol SDKs Directory",
-    "author": "Leo(上海)",
-    "authorGithub": "",
-    "date": "2025 年 5 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "TarotQA",
-    "url": "https://tarotqa.com",
-    "status": "online",
-    "description": "AI 塔罗占卜平台，提供多位 AI 塔罗师风格、智能牌阵推荐、每日运势和语音解读等",
-    "author": "Will(杭州)",
-    "authorGithub": "https://github.com/will-deeplearn",
-    "date": "2025 年 5 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FaceRatingAI",
-    "url": "https://faceratingai.com/",
-    "status": "online",
-    "description": "AI 颜值打分网站，包括不同维度评分、整体排名等",
-    "author": "Rainlin",
-    "authorGithub": "https://github.com/Rainlin007",
-    "date": "2025 年 5 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AIPoemGenerator",
-    "url": "https://aipoemgenerator.cc/",
-    "status": "online",
-    "description": "AI 写诗网站",
-    "author": "Rainlin",
-    "authorGithub": "https://github.com/Rainlin007",
-    "date": "2025 年 5 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Tool Kit",
-    "url": "https://aitoolkit.io/",
-    "status": "online",
-    "description": "AI 工具聚合站，通过不同类别找到你想要的 AI 工具",
-    "author": "lkunemail",
-    "authorGithub": "https://github.com/lkunemail",
-    "date": "2025 年 5 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Image Editor",
-    "url": "https://aiimageeditor.me/",
-    "status": "online",
-    "description": "AI 图片处理工具，支持图片增强、去水印、抠图、风格转换、线稿提取等十余种功能。无需下载软件，无需注册，上传图片即可一键生成专业效果。适用于电商设计、社交内容创作、摄影后期、教育教学等多种场景，让图片编辑变得更智能、更高效、更简单！",
-    "author": "worminone",
-    "authorGithub": "https://github.com/worminone",
-    "date": "2025 年 5 月 18 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "worminone",
-    "authorGithub": "https://github.com/worminone",
-    "date": "2025 年 5 月 18 号添加",
+    "author": "ShownHacks",
+    "authorGithub": "https://github.com/ShawnHacks",
+    "date": "2025 年 5 月 30 号添加",
     "category": "main"
   },
   {
@@ -17034,9 +16954,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "worminone",
-    "authorGithub": "https://github.com/worminone",
-    "date": "2025 年 5 月 18 号添加",
+    "author": "ShownHacks",
+    "authorGithub": "https://github.com/ShawnHacks",
+    "date": "2025 年 5 月 30 号添加",
     "category": "main"
   },
   {
@@ -17044,9 +16964,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "worminone",
-    "authorGithub": "https://github.com/worminone",
-    "date": "2025 年 5 月 18 号添加",
+    "author": "ShownHacks",
+    "authorGithub": "https://github.com/ShawnHacks",
+    "date": "2025 年 5 月 30 号添加",
     "category": "main"
   },
   {
@@ -17054,9 +16974,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "worminone",
-    "authorGithub": "https://github.com/worminone",
-    "date": "2025 年 5 月 18 号添加",
+    "author": "ShownHacks",
+    "authorGithub": "https://github.com/ShawnHacks",
+    "date": "2025 年 5 月 30 号添加",
     "category": "main"
   }
 ]
