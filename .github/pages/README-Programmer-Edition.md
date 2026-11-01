@@ -16,6 +16,20 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 1 号添加
+#### OakcoderX - [Github](https://github.com/OakcoderX)
+* :clock8: [SoloPup Memory](https://github.com/OakcoderX/solopup-memory)：DeepSeek Harness 原生文本记忆插件，按项目/全局保存决定与工作偏好，记录出处、条件和修订；MIT 公开测试版，需 Node 24.9+、DSH >=0.2.1-rc.0 <0.3.0，配置的模型 API 可另计费
+
+### 2026 年 10 月 31 号添加
+#### YeefyisOK - [Github](https://github.com/YeefyisOK)
+* :white_check_mark: [jev-subtitle-translator](https://github.com/GeekLinkDev/jev-subtitle-translator)：开源 SRT 字幕翻译工具，用结构化 LLM 输出（OpenRouter，可选 GPT/Claude/Gemini/DeepSeek 等）翻译字幕，保留每条字幕的序号和时间轴，漏译自动按 ID 重试，并用 Jev 自动质检，提供本地网页界面和 CLI。是 GeekLink 字幕软件开源出来的翻译引擎
+
+#### rowink - [Github](https://github.com/rowink)
+* :white_check_mark: [Iris Analytics](https://github.com/rowink/IrisAnalytics)：轻量开源的网站流量分析面板，基于 Cloudflare Pages + Analytics Engine，无需数据库，部署后一条 script 标签即可统计访问数据，支持密码保护、站点白名单和 IP 黑名单过滤，免费自托管
+
+#### Kris Yang - [Github](https://github.com/krisyangdev)
+* :white_check_mark: [Motionboard](https://motionboard.app)：发布片镜头配方库，38 个 Apple、Linear 等官方发布片镜头的 HyperFrames 复刻，附 agent skill，npx skills add 一行安装让 Claude Code 做发布片
+
 ### 2026 年 10 月 30 号添加
 #### AloneMonkey - [Github](https://github.com/AloneMonkey)
 * :white_check_mark: [HotRepo](https://hotrepo.ai/zh)：GitHub 热门项目发现网站，提供中英双语 AI 解读，可按日、周、月及历史榜单查看项目，网页版免费浏览、无需登录

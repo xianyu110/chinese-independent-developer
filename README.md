@@ -27,6 +27,48 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 1 号添加
+
+#### tumingke0 - [Github](https://github.com/tumingke0)
+* :white_check_mark: [DisconfirmAI](https://disconfirmai.com/zh)：AI 投资研究与阅读平台，下结论前先找可能推翻自己判断的证据。每天整理公开来源的 AI 与投资资讯，每条附原文链接；可以对着财报和数据做研究，让雷达按你写下的条件定时扫描变化，也能写下自己的投资体系，另有 AI 100 榜单和产业地图。阅读和投资体系永久免费，注册送 400 积分，不提供买卖建议
+
+#### z4none - [Github](https://github.com/z4none)
+* :white_check_mark: [Kyna Player](https://kyna.fynxlab.com/)：Windows 视频播放器，支持 GPU 播放、DLSS 画质增强和 AI 字幕工具
+
+#### kian - [Github](https://github.com/BossChow)
+* :white_check_mark: [Logo Animation AI](https://logoanimationai.com/)：上传静态 Logo，选择动效模板或用文字描述效果，生成用于品牌展示、视频片头和社交媒体的 Logo 动画，无需掌握剪辑或关键帧
+
+#### szj2ys - [Github](https://github.com/szj2ys)
+* :white_check_mark: [Pic2SVG](https://pic2svg.com/)：上传普通图片（JPG/PNG 等），转成可编辑的 SVG 路径，浏览器本地运行、文件不上传，2 MB 以内免费无需注册，另附 SVG 结构检查器 - [SVG checker](https://pic2svg.com/svg-cut-file-checker/)
+* :white_check_mark: [Big Walk Guide](https://thebigwalk.world/en/protocols)：Big Walk 非官方中英攻略，浏览器内信号码规划器、坐标查询与谜题 walkthrough，免费无需注册
+
+#### Li Wen - [Github](https://github.com/wenliabc2007)
+* :white_check_mark: [Roam Radio](https://roamradios.com/)：全球网络电台目录与播放器，按国家、音乐流派、语言或在 3D 地球上找台，浏览器直接收听，每个电台有独立详情页，免费无需注册
+
+#### 湾区AI日历(广东) - [Github](https://github.com/tgchtggn29-bit)
+* :white_check_mark: [湾区 AI 日历](https://wqai.ltd/)：粤港澳大湾区 AI 活动与赛事日历，把深圳、广州、中国香港、东莞、珠海的 AI 大会、行业沙龙和黑客松按城市和日期排好，每天核对一次，每场都带主办方与官方报名入口，可一键订阅到手机日历
+
+#### LinMoQC - [Github](https://github.com/LinMoQC)
+* :white_check_mark: [Magic Resume](https://www.magic-resume.cn/)：开源 AI 简历工作台，支持实时预览、按目标岗位获取建议，逐条采纳或跳过 AI 修改；提供中英文、可自定义模板及 PDF/JSON 导出，云端版提供免费和付费计划 - [源码](https://github.com/Magic-Resume/Magic-Resume)
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [ReferralCodes Canada](https://referralcodescanada.com/)：加拿大推荐码与注册奖励目录，查找、比较并分享各种服务的推荐码，了解奖励详情、资格要求和分享规则，帮助用户在加拿大获取更多优惠
+
+### 2026 年 10 月 31 号添加
+
+#### 18841144913 - [Github](https://github.com/18841144913)
+* :white_check_mark: [KanaCraft 卡娜日语 / 卡娜英语](https://kanacraft.cn/library)：面向中文用户的日语与英语自学网站，日语从零基础五十音与听写入门，覆盖 JLPT N5–N1 词汇和教材词书，英语用打字、听写、卡片与连连看背单词并带语法知识库，覆盖四六级、考研与雅思托福词库；基础功能免费、会员可选 — 浏览器即可用，适配手机、平板与电脑 - [卡娜英语](https://english.kanacraft.cn/)
+
+#### ceasarXuu - [Github](https://github.com/ceasarXuu)
+* :white_check_mark: [豆门](https://doumen.work/)：面向拼豆爱好者的图纸识别与制作 App，导入现成图纸或照片后核对网格与颜色，编辑导出并记录制作进度；免费、无需注册，支持 iOS / iPadOS 与 Android - [原创图纸与入门教程](https://doumen.work/blog/beginner-guide/)
+
+#### Jun Dong - [Github](https://github.com/dj05305)
+* :white_check_mark: [ChanScout](https://chanscout.com/)：中文 Telegram 公开资源目录，收录可核验的频道、群组与机器人，支持分类浏览与持续核验，免费使用
+
+#### isixe - [Github](https://github.com/isixe)
+* :white_check_mark: [BGX](https://bgx.itea.dev/)：AI 抠图工具，内置 U2Net / ISNet / BRIA RMBG 等 9 个模型，全部在浏览器本地推理、图片不上传，可导出透明 PNG、白底 JPG 或 WebP，另有 Windows 桌面版可离线使用，免费无需注册 - [开源仓库](https://github.com/isixe/bgx)
+* :white_check_mark: [bg2x](https://bg2x.itea.dev/)：AI 图片无损放大工具，Real-ESRGAN / Swin2SR / Real-CUGAN 共 10 个模型本地推理，最高 4 倍放大、GPU 加速、批量导出 ZIP，图片不上传、首次下载模型后可离线，免费开源 - [开源仓库](https://github.com/isixe/bg2x)
+
 ### 2026 年 10 月 30 号添加
 
 #### yehyakin - [Github](https://github.com/yehyakin)
@@ -5212,76 +5254,6 @@
 * :white_check_mark: [AIHuntList](https://aihuntlist.com/)：发现最佳 AI 产品和工具的搜索导航
 * :white_check_mark: [NestSaaS](https://nestsaas.com): 构建内容驱动的网站和SaaS应用的现代框架，配备强大的管理工具
 * :white_check_mark: [SnapReader](https://chromewebstore.google.com/detail/snapreader/mogfnnfmcbchdciddfejbkfgahklegpp)：立即快速保存在线内容，稍后轻松阅读，SnapReader 是一款轻量级的浏览器扩展，旨在帮助你以最小的阻力捕获在线内容
-
-### 2025 年 5 月 29 号添加
-#### Charlie(上海) - [Github](https://github.com/weight567)
-* :white_check_mark: [Transmonkey](https://www.transmonkey.ai/)：所有您所需的翻译工具，一应俱全 - [更多介绍](https://www.transmonkey.ai/faq)
-* :white_check_mark: [TeachAny](https://www.teachany.com/)：使用 TeachAny AI 工具，简化您的教学 - [更多功能](https://www.teachany.com/tools)
-* :white_check_mark: [Imgkits](https://www.imgkits.com/)：全能 AI 图像、视频编辑器：使用 Imgkits 创建令人惊艳的照片和视频 - [更多功能](https://www.imgkits.com/create/image)
-
-#### zane - [Github](https://github.com/littleblackone)
-* :white_check_mark: [AgentHunter](https://www.agenthunter.io/)：每日更新的 AI Agent 目录和新闻
-
-
-### 2025 年 5 月 28 号添加
-#### Lingglee - [Github](https://github.com/lingglee)
-* :white_check_mark: [English Daily](https://englishdaily.ai/)：AI 每日英语学习平台
-
-### 2025 年 5 月 26 号添加
-#### 羊上上(杭州) - [Github](https://github.com/yangbishang/)
-* :white_check_mark: [AI 今日热榜](https://aihot.today)：汇集全球顶尖来源的最新 AI 新闻、研究和趋势，为您节省宝贵时间
-
-### 2025 年 5 月 25 号添加
-#### 3d-animation - [Github](https://github.com/3d-animation)
-- :x: [buzz-cut AI](https://buzz-cut.me)：上传您的照片，用 AI 变成"寸头"(buzz cut）发型。预览发型效果
-
-##### Sarkory(广州)
-- :white_check_mark: [Veo 3 AI](https://veo3ai.org)：Veo 3 AI 视频生成
-
-### 2025 年 5 月 22 号添加
-#### Sawana Huang
-* :white_check_mark: [Board Foot Calculator](https://boardfootcalculator.cc/)：简便的在线版英尺计算器，用来计算木材的体积和对应的价格，面向木工爱好者，或者要购买木材的买家
-
-#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
-* :white_check_mark: [mksaas.com](https://mksaas.com)：最好的 AI SaaS 模板，只需1个周末就可以上线你的 AI SaaS
-
-### 2025 年 5 月 21 号添加
-#### Axis Wang(深圳) - [Github](https://github/wangxs404)
-* :white_check_mark: [video2ppt.com](https://video2ppt.com)：将任意来源的视频转换为 PPT 演示文档
-
-#### Rns - [Github](https://github.com/rnsss)
-* :white_check_mark: [AI Doll](https://ai-doll.online/)：用 AI 将人像照片转换成玩具人偶
-
-#### hanlaoshinb - [Github](https://github.com/hanlaoshinb)
-* :white_check_mark: [TarotDreamHub](https://www.tarotdreamhub.com/)：免费 AI 塔罗牌占卜。想好您想占卜的问题，在线抽牌后就可以一键解牌啦！
-
-### 2025 年 5 月 20 号添加
-#### Lee - [Github](https://github.com/lkunxyz)
-* :white_check_mark: [bratgenerator](https://bratgenerator.dev/)：可以设置字体，背景颜色等
-
-#### HuzefaUsama25 - [Github](https://github.com/HuzefaUsama25)
-* :white_check_mark: [WriteHybrid](https://writehybrid.com/)：可绕过所有顶级 AI 检测器的 AI 人性化工具
-
-#### Leo(上海)
-* :white_check_mark: [Firsto](https://firsto.co/)：你的产品，从这里出发
-* :white_check_mark: [Raffle Blue](https://raffle.blue/)：针对 bluesky post 的抽奖工具
-* :x: [AI teach tools](https://aiteach.tools/)：教育类 AI 工具的目录站点
-* :white_check_mark: [BlueSky SDK](https://bskyinfo.com/sdks/)：Bluesky & AT Protocol SDKs Directory
-  
-### 2025 年 5 月 19 号添加
-#### Will(杭州) - [Github](https://github.com/will-deeplearn)
-* :white_check_mark: [TarotQA](https://tarotqa.com)：AI 塔罗占卜平台，提供多位 AI 塔罗师风格、智能牌阵推荐、每日运势和语音解读等
-
-### 2025 年 5 月 18 号添加
-#### Rainlin - [Github](https://github.com/Rainlin007)
-* :white_check_mark: [FaceRatingAI](https://faceratingai.com/)：AI 颜值打分网站，包括不同维度评分、整体排名等
-* :white_check_mark: [AIPoemGenerator](https://aipoemgenerator.cc/)：AI 写诗网站
-
-#### lkunemail - [Github](https://github.com/lkunemail)
-* :white_check_mark: [AI Tool Kit](https://aitoolkit.io/)：AI 工具聚合站，通过不同类别找到你想要的 AI 工具
-
-#### worminone - [Github](https://github.com/worminone)
-* :white_check_mark: [AI Image Editor](https://aiimageeditor.me/)：AI 图片处理工具，支持图片增强、去水印、抠图、风格转换、线稿提取等十余种功能。无需下载软件，无需注册，上传图片即可一键生成专业效果。适用于电商设计、社交内容创作、摄影后期、教育教学等多种场景，让图片编辑变得更智能、更高效、更简单！
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
