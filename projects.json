@@ -1,5 +1,105 @@
 [
   {
+    "name": "QuickPix",
+    "url": "https://obelisk.club/quickpix?lang=zh",
+    "status": "online",
+    "description": "Mac 图片压缩与格式转换 App，支持 HEIC 和 RAW，画质可调，图片全程在本机处理不上传，免费下载",
+    "author": "Peter Zhang",
+    "authorGithub": "https://github.com/peterzhang0216",
+    "date": "2026 年 11 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "QuickVid",
+    "url": "https://obelisk.club/quickvid?lang=zh",
+    "status": "online",
+    "description": "Mac 视频压缩 App，拖入视频即可压到适合邮件和聊天发送的大小，用 Apple 芯片硬件编码，文件留在本机",
+    "author": "Peter Zhang",
+    "authorGithub": "https://github.com/peterzhang0216",
+    "date": "2026 年 11 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "饮品咖啡因速查",
+    "url": "https://obelisk.club/caffeine-in?lang=zh",
+    "status": "online",
+    "description": "咖啡、茶、奶茶、能量饮料和汽水的咖啡因含量对照，附份量、入睡时间和每日上限参考，免费无需注册",
+    "author": "Peter Zhang",
+    "authorGithub": "https://github.com/peterzhang0216",
+    "date": "2026 年 11 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ShotMap",
+    "url": "https://ixiehao.github.io/ShotMap/zh/",
+    "status": "online",
+    "description": "macOS 视频拼图工具，自动或手动选帧，批量导出带时间码的分镜图，视频在本机处理；免费、MIT 开源，macOS 13+ - [源码与下载](https://github.com/ixiehao/ShotMap)",
+    "author": "ixiehao",
+    "authorGithub": "https://github.com/ixiehao",
+    "date": "2026 年 11 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "MP4Flow",
+    "url": "https://ixiehao.github.io/MP4Flow/",
+    "status": "online",
+    "description": "macOS 视频处理工具，批量转 MP4、截取片段、裁切画面、旋转和合并；免费、MIT 开源，macOS 13+，需另装 FFmpeg 和 ffprobe - [源码与安装说明](https://github.com/ixiehao/MP4Flow)",
+    "author": "ixiehao",
+    "authorGithub": "https://github.com/ixiehao",
+    "date": "2026 年 11 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "LumaView",
+    "url": "https://ixiehao.github.io/LumaView/",
+    "status": "online",
+    "description": "macOS 轻量看图工具，直接浏览文件夹、缩放旋转、查看 EXIF 和多页 PDF；免费、MIT 开源，macOS 12+，通用版 DMG 约 2.5 MB - [源码与下载](https://github.com/ixiehao/LumaView)",
+    "author": "ixiehao",
+    "authorGithub": "https://github.com/ixiehao",
+    "date": "2026 年 11 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Nihongo to Japan",
+    "url": "https://www.nihongotojapan.com/zh-cn",
+    "status": "online",
+    "description": "日语自学网站，从五十音到 JLPT N1，650+ 篇文法解说、191 课自学教材、程度测验与动词变化表，支持简体中文等 9 种界面；核心内容免费无需注册，另有可选支持方案（额外练习与 PDF），网站含广告",
+    "author": "Hsiao-Yi Yang - [网站](https://www.nihongotojapan.com/zh-cn)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 2 号添加",
+    "category": "main"
+  },
+  {
+    "name": "TrustBible Bible Word Counter",
+    "url": "https://trustbible.org/zh-cn/bible-word-counter/",
+    "status": "online",
+    "description": "KJV 与和合本全文词频统计，输出命中经文、旧约/新约分部计数并支持 CSV 导出；中英双语界面，无需注册，按字面字符匹配、不做神学解释",
+    "author": "Jeff Song - [About](https://trustbible.org/en/about/)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "旅伴 TripMate",
+    "url": "https://111.230.133.155/",
+    "status": "online",
+    "description": "家庭出游 AI 行程工具，按目的地、预算和同行需求整理可编辑的每日安排、交通与费用，网页和 Windows 可导出 PDF；支持网页、Windows 和安卓（Beta），游客预览第 1 天，AI 生成使用额度 - [介绍与下载](https://github.com/xuantingjiang39/TripMate)",
+    "author": "xuantingjiang39",
+    "authorGithub": "https://github.com/xuantingjiang39",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "听笺",
+    "url": "https://tingjian.art/",
+    "status": "online",
+    "description": "粘贴中英文文章或导入公众号链接，自动提炼 AI 文字要点，点击后生成语音，先听重点再听原文，支持倍速播放、七天账号记录和跨设备续听",
+    "author": "clarkloveProduct",
+    "authorGithub": "https://github.com/clarkloveProduct",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
     "name": "DisconfirmAI",
     "url": "https://disconfirmai.com/zh",
     "status": "online",
@@ -44,6 +144,16 @@
     "url": "https://thebigwalk.world/en/protocols",
     "status": "online",
     "description": "Big Walk 非官方中英攻略，浏览器内信号码规划器、坐标查询与谜题 walkthrough，免费无需注册",
+    "author": "szj2ys",
+    "authorGithub": "https://github.com/szj2ys",
+    "date": "2026 年 11 月 1 号添加",
+    "category": "main"
+  },
+  {
+    "name": "imgmov Image Prep",
+    "url": "https://imgmov.com/resize-image-for-ai-video",
+    "status": "online",
+    "description": "浏览器内图片预处理工具，为 AI 视频首帧裁剪或补边到指定比例，本地导出 JPEG / PNG，免费、无需注册",
     "author": "szj2ys",
     "authorGithub": "https://github.com/szj2ys",
     "date": "2026 年 11 月 1 号添加",
@@ -16750,203 +16860,13 @@
     "category": "main"
   },
   {
-    "name": "AI 取名网",
-    "url": "https://bbname.cc/",
-    "status": "online",
-    "description": "用 AI 帮助宝宝取名服务，依据中国传统命理学为您的宝宝提供最为合适的名字。这款扩展功能融合了八字、生肖、五行以及三才五格等多种传统命理因素，为您的宝宝量身打造吉祥如意的好名字 - [更多介绍](https://bbname.cc/about)",
-    "author": "CodaPrime ",
-    "authorGithub": "",
-    "date": "2025 年 6 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FLUX.1 Kontext Image Generator",
-    "url": "https://flux1kontextimagegenerator.online/",
-    "status": "online",
-    "description": "具有上下文理解、角色一致性和本地编辑功能的 AI 图像生成器",
-    "author": "rns",
-    "authorGithub": "",
-    "date": "2025 年 6 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Baby Generator",
-    "url": "https://aibabygenerator.art/",
-    "status": "online",
-    "description": "基于 AI 的宝宝长相预测工具",
-    "author": "Ryan",
-    "authorGithub": "",
-    "date": "2025 年 6 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "台灣解夢",
-    "url": "https://twjiemeng.com/",
-    "status": "online",
-    "description": "融合 AI 技术与传统解梦学说，为用户提供免费梦境解析服务，无需注册即可一直免费使用 - [更多介绍](https://twjiemeng.com/about)",
-    "author": "dy ",
-    "authorGithub": "",
-    "date": "2025 年 6 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI 随机图片生成器",
-    "url": "https://randomimagegenerator.info/index.html",
-    "status": "online",
-    "description": "随机图片生成工具（免费），支持数字艺术、抽象背景、概念插图等多种风格",
-    "author": "mao wei",
-    "authorGithub": "https://github.com/mw138",
-    "date": "2025 年 6 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Bypass Turnitin",
-    "url": "https://bypassturnitin.net/",
-    "status": "offline",
-    "description": "将 AI 生成的内容转换为自然的文本，绕过 Turnitin 和 AI 检测，同时保留原文的含义和质量",
-    "author": "Anna",
-    "authorGithub": "https://github.com/fluxstrive",
-    "date": "2025 年 6 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "product-rule",
-    "url": "https://product-rule.com",
-    "status": "offline",
-    "description": "探索并发现最具创新性的人工智能产品、工具和解决方案，以改变您的工作流程并提升生产力，汇聚了大量的优秀 AI 产品",
-    "author": "aipromptdirectory",
-    "authorGithub": "https://github.com/aipromptdirectory",
-    "date": "2025 年 6 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Line Art Generator",
-    "url": "https://lineart.app/",
-    "status": "online",
-    "description": "功能强大的 AI 线稿生成平台，为用户提供多样化的线稿创作与获取服务 - [更多介绍](https://lineart.app/about)",
-    "author": "dy ",
-    "authorGithub": "",
-    "date": "2025 年 6 月 4 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Proof of Awesome",
-    "url": "https://proof-of-awesome.app",
-    "status": "online",
-    "description": "AI 辅助的学术同行评审的共识机制，将你的真实成就永久记录在区块链上，用有意义的人类成就取代传统挖矿 - [更多介绍](https://proof-of-awesome.app/call-for-achievement)",
-    "author": "Amyang",
-    "authorGithub": "https://github.com/AmyangXYZ",
-    "date": "2025 年 6 月 3 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FLUX Kontext",
-    "url": "https://kontextflux.com",
-    "status": "online",
-    "description": "FLUX 图片生成工具，简单图文指令实现专业级视觉创作",
-    "author": "Allen(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 6 月 2 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Veo3 video",
-    "url": "https://veo3.directory/",
-    "status": "online",
-    "description": "收集 Veo3 生成的最新视频，每天更新",
-    "author": "sing1ee",
-    "authorGithub": "https://github.com/sing1ee",
-    "date": "2025 年 6 月 2 号添加",
-    "category": "main"
-  },
-  {
-    "name": "LoraAI",
-    "url": "https://loraai.io/",
-    "status": "online",
-    "description": "flux lora 图片生成工具，用户可以选择不同的 lora 风格实时生成对应的风格图片，价格便宜",
-    "author": "[Github](https://github.com/bear-clicker)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 2 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Ask Me Anything",
-    "url": "https://ama.stockai.trade/",
-    "status": "online",
-    "description": "世界上最简单的问答网站，内置实时联网搜索，你可以问它任何问题，还可以查询任何推特/X用户的最新动态，例如输入@elonmusk即可获得马斯克的最新X动态",
-    "author": "yvonuk - [推特](https://x.com/mcwangcn)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 2 号添加",
-    "category": "main"
-  },
-  {
-    "name": "NoteGen",
-    "url": "https://notegen.top/",
-    "status": "online",
-    "description": "跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁",
-    "author": "NoteGen",
-    "authorGithub": "https://github.com/codexu/note-gen",
-    "date": "2025 年 5 月 30 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Mii Maker",
-    "url": "https://miimaker.net/",
-    "status": "online",
-    "description": "角色创建者（免费），可以让你设计个性化的 Mii 化身。创建具有可定制功能的独特虚拟角色，包括脸型、发型、眼睛、衣服和配饰",
-    "author": "Anna",
-    "authorGithub": "https://github.com/fluxstrive",
-    "date": "2025 年 5 月 30 号添加",
-    "category": "main"
-  },
-  {
-    "name": "JSON Merge",
-    "url": "https://jsonmerge.com/",
-    "status": "online",
-    "description": "JSON 合并工具",
-    "author": "Corey Chiu",
-    "authorGithub": "https://github.com/iamcorey",
-    "date": "2025 年 5 月 30 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AIHuntList",
-    "url": "https://aihuntlist.com/",
-    "status": "online",
-    "description": "发现最佳 AI 产品和工具的搜索导航",
-    "author": "ShownHacks",
-    "authorGithub": "https://github.com/ShawnHacks",
-    "date": "2025 年 5 月 30 号添加",
-    "category": "main"
-  },
-  {
-    "name": "NestSaaS",
-    "url": "https://nestsaas.com",
-    "status": "online",
-    "description": "构建内容驱动的网站和SaaS应用的现代框架，配备强大的管理工具",
-    "author": "ShownHacks",
-    "authorGithub": "https://github.com/ShawnHacks",
-    "date": "2025 年 5 月 30 号添加",
-    "category": "main"
-  },
-  {
-    "name": "SnapReader",
-    "url": "https://chromewebstore.google.com/detail/snapreader/mogfnnfmcbchdciddfejbkfgahklegpp",
-    "status": "online",
-    "description": "立即快速保存在线内容，稍后轻松阅读，SnapReader 是一款轻量级的浏览器扩展，旨在帮助你以最小的阻力捕获在线内容",
-    "author": "ShownHacks",
-    "authorGithub": "https://github.com/ShawnHacks",
-    "date": "2025 年 5 月 30 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "ShownHacks",
-    "authorGithub": "https://github.com/ShawnHacks",
-    "date": "2025 年 5 月 30 号添加",
+    "author": "Schopenlaam - [博客](https://schopenlaam.com/)",
+    "authorGithub": "",
+    "date": "2025 年 6 月 6 号添加",
     "category": "main"
   },
   {
@@ -16954,9 +16874,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "ShownHacks",
-    "authorGithub": "https://github.com/ShawnHacks",
-    "date": "2025 年 5 月 30 号添加",
+    "author": "Schopenlaam - [博客](https://schopenlaam.com/)",
+    "authorGithub": "",
+    "date": "2025 年 6 月 6 号添加",
     "category": "main"
   },
   {
@@ -16964,9 +16884,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "ShownHacks",
-    "authorGithub": "https://github.com/ShawnHacks",
-    "date": "2025 年 5 月 30 号添加",
+    "author": "Schopenlaam - [博客](https://schopenlaam.com/)",
+    "authorGithub": "",
+    "date": "2025 年 6 月 6 号添加",
     "category": "main"
   },
   {
@@ -16974,9 +16894,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "ShownHacks",
-    "authorGithub": "https://github.com/ShawnHacks",
-    "date": "2025 年 5 月 30 号添加",
+    "author": "Schopenlaam - [博客](https://schopenlaam.com/)",
+    "authorGithub": "",
+    "date": "2025 年 6 月 6 号添加",
     "category": "main"
   }
 ]
