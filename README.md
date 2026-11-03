@@ -27,7 +27,41 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 3 号添加
+
+#### Lucius Miao - [Github](https://github.com/suicuLsi)
+* :white_check_mark: [Linger](https://withlinger.com/zh/)：macOS 本地优先私人灵感库，保存图片、网页出处与自己的笔记，用关键词和筛选找回参考；支持 Apple Silicon，提供 14 天试用，之后一次性购买 - [在线体验](https://withlinger.com/demo/)
+
+#### Wen - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [Clarpex](https://clarpex.ai/)：AI 照片修复工具，上传模糊、低清或老照片即可增强、去模糊、放大与上色，浏览器内完成，每日免费额度无需注册
+
+#### phinn - [Github](https://github.com/phinn)
+* :white_check_mark: [KinetMagicDisk](https://apps.apple.com/cn/app/id6813423397)：Mac 磁盘空间清理 App，可视化查看磁盘占用、快速定位大文件并安全清理，本地处理不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6813423397)
+* :white_check_mark: [KinetFlashFind](https://apps.apple.com/cn/app/id6808698046)：Mac 文件搜索 App，按名称或内容秒级定位文件并支持预览，本地索引不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6808698046)
+* :white_check_mark: [DriftDesk](https://apps.apple.com/cn/app/id6817377455)：Mac 专注氛围声 App，内置雨声、白噪等声景与极简桌面组件，帮助专注与放松 - [更多介绍](https://apps.apple.com/cn/app/id6817377455)
+
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [绘页](https://huiye.org)：生成绘本轮播视频，把文字做成一页一页切换的竖屏故事，30 多种手绘风格 — Web 应用 - [更多介绍](https://huiye.org/zh/about)
+
 ### 2026 年 11 月 2 号添加
+
+#### 88slash(北京) - [Github](https://github.com/88slash)
+* :white_check_mark: [Particle Logo](https://particlelogo.com/zh)：Logo 粒子动画在线工具，上传 PNG、SVG、JPG 或 WebP，从 9 种粒子效果里选一种，导出视频、GIF 或零依赖的 HTML 文件、Vue 3 与 React 组件；图片只在浏览器里处理不上传，免费版可预览全部效果，Pro 去水印并提供 4K 视频和透明背景
+
+#### fansion(北京) - [GitHub](https://github.com/yafanisonya)
+* :white_check_mark: [RapMotion](https://rapmotion.app)：AI 双人 Rap 视频生成工具。上传两张人物照片并选择预设风格，即可生成两人同台 Rap、带原创歌词与节拍且口型同步的竖屏短视频，适合制作朋友合拍、生日祝福和社交媒体内容；无需写提示词、安装 App 或剪辑视频 - [更多介绍](https://rapmotion.app)
+
+#### 259007 - [Github](https://github.com/259007)
+* :white_check_mark: [Dayfly Mail](https://dayfly.email/zh-CN)：临时邮箱网站，适合临时接收验证邮件或开发应用时测试收信，免费、无需注册也不用填手机号，有效期 10 分钟、1 小时、24 小时和 3 天可选，邮箱前缀随机生成或自己填写，支持查看文本和 HTML 邮件、用完手动销毁；只收不发、不保存附件
+
+#### Cody - [Github](https://github.com/cody147)
+* :white_check_mark: [virtual ring try on](https://aijewelrymodel.app/virtual-ring-try-on)（AI Jewelry Model）：上传手部照片和戒指图片，生成戒指佩戴预览，适合珠宝商品视觉展示；不是戒围或真实尺寸测量工具
+* :white_check_mark: [AI fashion model generator](https://modelsnap.app/)（ModelSnap）：将服装商品照片转为模特穿着的展示图，适合电商详情页和穿搭素材，发布前需核对服装细节
+* :white_check_mark: [AI lyric video maker](https://lyricfast.com/)（LyricFast）：上传歌曲并整理歌词，制作带歌词字幕的音乐视频，适合歌曲发布和社交分享，需使用有权处理的音频与歌词
+* :white_check_mark: [AI clothes changer](https://samemuse.com/)（SameMuse）：用人物照片和服装参考图生成换装预览，适合比较穿搭视觉效果，不保证真实试穿合身度
+
+#### Nico - [Github](https://github.com/niyongsheng)
+* :white_check_mark: [AudioScript 声稿](https://audioscript.looplooptech.com/)：离线优先的实时同传字幕工具，监听系统声音并在悬浮窗中流式显示原文与译文，音频全程在本机处理，支持 macOS / Windows / Linux，免费开源 - [源码](https://github.com/niyongsheng/AudioScript)
 
 #### Peter Zhang - [Github](https://github.com/peterzhang0216), [博客](https://obelisk.club/blog?lang=zh)
 * :white_check_mark: [QuickPix](https://obelisk.club/quickpix?lang=zh)：Mac 图片压缩与格式转换 App，支持 HEIC 和 RAW，画质可调，图片全程在本机处理不上传，免费下载
@@ -5187,41 +5221,6 @@
 
 #### chasays
 * :x: [veo3 AI video generator](https://zacose.com/veo3_ai_video_generator)：通过 AI 生成的音频和视觉完全同步，效果彻底改变视频的创作，使用VEO 3 AI API解锁视频创建的未来 - 与音频同步的无缝视频生成
-
-### 2025 年 6 月 10 号添加
-#### dfyfc
-* :white_check_mark: [Face To Many](https://facetomany.fun/)：用 AI 把您的脸部照片转换成不同的艺术风格，不同种族，不同角色
-
-#### zhugezifang
-* :white_check_mark: [临时邮箱](https://tempmailto.online/zh/)：安全且匿名的临时电子邮件服务，告别垃圾邮件，保护您的隐私，免费、安全、私密的一次性邮箱服务！
-
-#### Bobo Cao(合肥) - [Github](https://github.com/bo0-bo0), [博客](https://indiepa.ge/bo0bo0)
-* :white_check_mark: [Imagetopixel](https://imagetopixel.art)：把图片转换成像素画
-
-#### 萝卜(南昌)
-* :x: [Ruleta.games](https://ruleta.games)：大转盘工具，适合抽奖、决定谁上台发言、选惩罚任务、做课堂游戏
-
-#### wtechtec(深圳) - [Github](https://github.com/WtecHtec)
-* :white_check_mark: [在线二维码🧨](https://xujingyichang.top/)：专业的二维码生成工具，为用户提供免费、高质量的QR码制作服务。 支持多种内容类型和自定义样式，满足各种使用场景需求
-
-#### Chris
-* :white_check_mark: [Brat Generator](https://www.brat-generator.pro/)：图像生成工具，灵感来自流行歌手 Charli XCX 的专辑《BRAT》的视觉风格。只需输入一句话，即可一键生成具有“BRAT”美学的专辑风封面图，包括标志性的荧光绿背景、极简无衬线字体和强烈的视觉冲击力。
-
-### 2025 年 6 月 6 号添加
-#### xxuan - [Github](https://github.com/xuanxuan96)
-* :white_check_mark: [Image Converter](https://image-1.org/): 从图片中提取文字。还可以翻译图片
-
-#### pytpo 
-* :white_check_mark: [壁響桌布](https://wallecho.com/ )：可以根据任意文本，免费生成手机或电脑桌布的工具 只需要短短十几秒就可以完成心中想要的手机或电脑壁纸 - [更多介绍](https://wallecho.com/about)
-
-#### sagasu - [Github](https://github.com/s87343472)
-* :white_check_mark: [特殊符号复制工具](https://special-characters.aitoolshubs.com/)：专业的特殊符号复制工具，包含1000+特殊字符，支持数学符号、货币符号、箭头、希腊字母等多种分类。一键复制，提升Word文档编辑效率。
-
-#### FINE（赣州） - [Github](https://github.com/fine54)
-* :white_check_mark: [OC Maker](https://ocmaker.app)：基于 GPT4o 的 OC（原创角色）生成器，出图质量好，效果不错
-
-#### Schopenlaam - [博客](https://schopenlaam.com/)
-* :white_check_mark: [Mouse Pro](https://mousepro.app)：鼠标高亮、放大、聚焦、阅读，适用于视频会议屏幕共享、演示和视频教程录制等
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 11 月 2 号添加
+#### zannezheng - [Github](https://github.com/zannezheng)
+* :white_check_mark: [OpenTandem](https://github.com/opentandem/opentandem)：多台电脑上的 AI 编程工具管理工具，用手机指挥 Claude Code、Codex、OpenCode 等 18 个 Agent，任务中途可换 Agent 和模型，还能远程预览电脑上的 localhost；命令行和 Runner 开源（AGPL-3.0） - [更多介绍](https://opentandem.org/zh)
+
 #### Peter Zhang - [Github](https://github.com/peterzhang0216)
 * :white_check_mark: [Swift 与 App Store 开发者工具](https://obelisk.club/toolkit?lang=zh)：iOS / Mac 应用上架前用的免费浏览器工具，Info.plist 检查、ITMS 上传报错查询、隐私政策生成、App Store 链接生成等，无需注册，文件不上传
 
@@ -48,7 +51,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### xxapi
 * :white_check_mark: [xxapi](https://xxapi.ai/)：Claude Code / Codex API 中转站，一个账号调用 Claude（Opus 5.5、Sonnet 5.5 等）和 GPT（GPT-6.1、GPT-5.6 等）模型；Claude Code 填 `https://xxapi.ai`，Codex 等 OpenAI 兼容工具填 `https://xxapi.ai/v1`；支付宝、微信、Stripe 充值 ¥1 = $1，余额不过期，按量计费，无月费 - [中文教程](https://docs.xxapi.ai/)
 
-#### 瑶瑶 - [Github](https://github.com/yaoyao-ai-trainer)
+#### 瑶瑶 - [Github](https://github.com/yaoyao-chat)
 * :white_check_mark: [瑶瑶 AI 会员代充](https://kw.yaoyao.chat/?utm_source=cnindie&utm_medium=github)：ChatGPT Plus / Pro、Claude Pro / Max、SuperGrok、Gemini 会员人民币代充，不用海外信用卡，支付宝付款，付款后平均 2 分钟到账；订阅有质保、掉会员补，24 小时客服；Plus ¥129/月；独立第三方，非官方 - [开通教程](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi)
 
 ### 2026 年 10 月 28 号添加
