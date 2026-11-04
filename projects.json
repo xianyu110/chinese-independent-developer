@@ -1,5 +1,95 @@
 [
   {
+    "name": "Tapemoon",
+    "url": "https://tapemoon.com",
+    "status": "online",
+    "description": "AI 音乐视频生成器，上传一首歌（适合 Suno、Udio 生成的 AI 歌曲），自动生成分镜并按人声对齐歌词，渲染前可逐镜修改，可选 Seedance 或 Kling 出 16:9 / 9:16 MV；新用户送免费积分可预览，另有免费的逐字同步歌词视频工具",
+    "author": "suio03",
+    "authorGithub": "https://github.com/suio03",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SoulPaw",
+    "url": "https://soulpaw.art/",
+    "status": "online",
+    "description": "在线 AI 宠物写真工具，上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像",
+    "author": "Linhao Cui",
+    "authorGithub": "https://github.com/cuilinhao",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "FlyingCar AI Video",
+    "url": "https://flyingcaraivideo.app/",
+    "status": "online",
+    "description": "AI 飞车视频生成工具，上传汽车或产品照片，选择模板即可生成炫酷的飞行特效视频",
+    "author": "Masker99",
+    "authorGithub": "https://github.com/Masker99",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "12 Axes Test",
+    "url": "https://12axestest.site/",
+    "status": "online",
+    "description": "在线多维价值观测试（免费），通过回答问题探索自己的政治观点与价值观倾向",
+    "author": "Masker99",
+    "authorGithub": "https://github.com/Masker99",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "HackerTube Guide",
+    "url": "https://hackertube.top/",
+    "status": "online",
+    "description": "HackerTube 介绍与资源导航站，提供使用指南、常见问题解答及相关项目推荐",
+    "author": "Masker99",
+    "authorGithub": "https://github.com/Masker99",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "BizPeel",
+    "url": "https://bizpeel.com/zh/",
+    "status": "online",
+    "description": "有真实收入的海外产品数据库，可按 MRR、近 30 天收入、增长速度和赛道筛选，每家都有增长拆解：流量从哪来、做了哪些营销动作、用户为什么付钱，适合找出海生意点子",
+    "author": "熠辉(北京)",
+    "authorGithub": "https://github.com/yihui-dev",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PicYep",
+    "url": "https://picyep.com/zh",
+    "status": "online",
+    "description": "上传一张参考照或写一句描述，生成真人感头像、证件照、自拍与宠物写真；注册送免费积分、无需绑卡，付费计划从 $12/月起",
+    "author": "Liujiacheng-yuexin",
+    "authorGithub": "https://github.com/Liujiacheng-yuexin",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Hookai",
+    "url": "https://hookai.io/",
+    "status": "online",
+    "description": "上传一张或两张人物照片，生成带人声演唱与节拍的竖屏说唱短视频，5-15 秒，无需剪辑；示例免费观看，实际生成需注册和点数",
+    "author": "hwlvipone",
+    "authorGithub": "https://github.com/hwlvipone",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "BayesChat",
+    "url": "https://bayeschat.xyz",
+    "status": "online",
+    "description": "iPhone / iPad 上的 AI 聊天客户端，自带 API Key 接任意 OpenAI / Anthropic 兼容模型（含本机 Ollama），可挂远程 MCP 服务器调用工具；对话和 Key 只存本机、无需注册，MCP 工具属一次性买断",
+    "author": "fan3cn",
+    "authorGithub": "https://github.com/fan3cn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
     "name": "Linger",
     "url": "https://withlinger.com/zh/",
     "status": "online",
@@ -1504,7 +1594,7 @@
     "url": "https://songfromvideo.com/",
     "status": "online",
     "description": "视频识曲工具，粘贴 TikTok/YouTube/Instagram/Facebook/X 链接或上传音视频就能找出背景音乐，登录后首次识别免费",
-    "author": "蚊子",
+    "author": "Wen",
     "authorGithub": "https://github.com/coderWenzi",
     "date": "2026 年 10 月 21 号添加",
     "category": "main"
@@ -4744,7 +4834,7 @@
     "url": "https://geminiomni.video/",
     "status": "online",
     "description": "免费生成和编辑视频，保持角色一致性，音频同步",
-    "author": "coderWenzi",
+    "author": "Wen",
     "authorGithub": "https://github.com/coderWenzi",
     "date": "2026 年 9 月 5 号添加",
     "category": "main"
@@ -5814,7 +5904,7 @@
     "url": "https://vidlux.ai/",
     "status": "online",
     "description": "AI 视频生成与编辑平台，支持文生视频、图生视频、参考生视频和视频编辑",
-    "author": "蚊子",
+    "author": "Wen",
     "authorGithub": "https://github.com/coderWenzi",
     "date": "2026 年 8 月 5 号添加",
     "category": "main"
@@ -9474,7 +9564,7 @@
     "url": "https://gptimage2app.com/",
     "status": "online",
     "description": "AI 图像与视频创作平台",
-    "author": "Poge(广州)",
+    "author": "Wen",
     "authorGithub": "https://github.com/coderWenzi",
     "date": "2026 年 5 月 15 号添加",
     "category": "main"
@@ -16740,123 +16830,13 @@
     "category": "main"
   },
   {
-    "name": "Veo3 AI Video Generator",
-    "url": "https://veo-3.art",
-    "status": "online",
-    "description": "支持文本转视频和图像转视频，配备原生音频生成和精准唇形同步，2-5秒完成专业级视频创作。",
-    "author": "Caron77",
-    "authorGithub": "https://github.com/Caron77ai",
-    "date": "2025 年 6 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Flux Kontext AI Image Editor ",
-    "url": "https://flux-kontext.xyz",
-    "status": "online",
-    "description": "基于 Black Forest Labs 多模态技术的专业图像转换工具，支持风格迁移、背景替换等功能，2-5秒完成高质量编辑。",
-    "author": "Caron77",
-    "authorGithub": "https://github.com/Caron77ai",
-    "date": "2025 年 6 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "KeyTone",
-    "url": "https://keytone.xuanhall.com/",
-    "status": "online",
-    "description": "简单易用、高度可定制的开源按键声音应用，帮助你通过载入自制音频打造独一无二的键音体验，支持多合一 ***高级声音*** 的随机或顺序触发，支持 ***高级声音*** 间的 ***组合与继承***，力求每次敲击都充满创意，释放你的键音艺术。 - [更多介绍](https://github.com/LuSrackhall/KeyTone)",
-    "author": "LuSrackhall(深圳)",
-    "authorGithub": "https://github.com/LuSrackhall",
-    "date": "2025 年 6 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "md2card",
-    "url": "https://www.md2card.online/",
-    "status": "online",
-    "description": "MD2Card 在线工具，支持多主题，一键将 Markdown 拆分并生成知识卡片，支持 AI 魔幻卡片和长文智能拆分功能，可编辑，可导出 PNG/SVG/PDF，适合笔记分享与社媒传播",
-    "author": "md2card (深圳)",
-    "authorGithub": "https://github.com/JsonChao",
-    "date": "2025 年 6 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Kuakua夸夸",
-    "url": "https://kuakua.app/",
-    "status": "online",
-    "description": "全网最全的心理学资源网站，用简单心理学与AI工具带来幸福激发内在力量 | 成为更好的自己 | 简单心理学，目前还在持续更新中，做更多可体验的心理学内容 - [更多介绍](https://github.com/C-Jeril/kuakua)",
-    "author": "Alex",
-    "authorGithub": "https://github.com/C-Jeril",
-    "date": "2025 年 6 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Labubu Wallpaper",
-    "url": "https://labubulivewallpaper.com/",
-    "status": "online",
-    "description": "下载高级 Labubu 动态壁纸合集，免费获取精美动画 Labubu 动态壁纸设计。适用于所有设备的高品质 Labubu 动态壁纸，动画流畅。",
-    "author": "handsometom",
-    "authorGithub": "",
-    "date": "2025 年 6 月 16 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Seedance AI Video Generator",
-    "url": "https://seedanceai.net/",
-    "status": "online",
-    "description": "用 文字/图片 生成视频，Seedance AI 将您的想法转化为令人惊叹的视频（Seedance 1.0 Pro 模型）",
-    "author": "Anna",
-    "authorGithub": "https://github.com/fluxstrive",
-    "date": "2025 年 6 月 13 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Random Letter Generator",
-    "url": "https://randomlettergenerator.app/",
-    "status": "online",
-    "description": "随机生成指定数量的序列,适用密码生成、游戏开发中的随机元素序列等等",
-    "author": "sing1ee",
-    "authorGithub": "https://github.com/sing1ee",
-    "date": "2025 年 6 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "职场沟通小诸葛",
-    "url": "https://procommai.com/",
-    "status": "online",
-    "description": "告别职场说错话焦虑，AI助你掌握高效沟通技巧，提升职场表达力。",
-    "author": "TuShenmei",
-    "authorGithub": "https://github.com/TuShenmei-xiannv",
-    "date": "2025 年 6 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Veo3 AI",
-    "url": "https://aiveo3.net/",
-    "status": "online",
-    "description": "根据文本提示或图像生成专业视频（使用 Veo3），并提供本地音频和逼真的物理效果",
-    "author": "Anna",
-    "authorGithub": "https://github.com/fluxstrive",
-    "date": "2025 年 6 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "veo3 AI video generator",
-    "url": "https://zacose.com/veo3_ai_video_generator",
-    "status": "offline",
-    "description": "通过 AI 生成的音频和视觉完全同步，效果彻底改变视频的创作，使用VEO 3 AI API解锁视频创建的未来 - 与音频同步的无缝视频生成",
-    "author": "chasays",
-    "authorGithub": "",
-    "date": "2025 年 6 月 12 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "chasays",
-    "authorGithub": "",
-    "date": "2025 年 6 月 12 号添加",
+    "author": "vladelaina",
+    "authorGithub": "https://github.com/vladelaina",
+    "date": "2025 年 6 月 19 号添加",
     "category": "main"
   },
   {
@@ -16864,9 +16844,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "chasays",
-    "authorGithub": "",
-    "date": "2025 年 6 月 12 号添加",
+    "author": "vladelaina",
+    "authorGithub": "https://github.com/vladelaina",
+    "date": "2025 年 6 月 19 号添加",
     "category": "main"
   },
   {
@@ -16874,9 +16854,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "chasays",
-    "authorGithub": "",
-    "date": "2025 年 6 月 12 号添加",
+    "author": "vladelaina",
+    "authorGithub": "https://github.com/vladelaina",
+    "date": "2025 年 6 月 19 号添加",
     "category": "main"
   },
   {
@@ -16884,9 +16864,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "chasays",
-    "authorGithub": "",
-    "date": "2025 年 6 月 12 号添加",
+    "author": "vladelaina",
+    "authorGithub": "https://github.com/vladelaina",
+    "date": "2025 年 6 月 19 号添加",
     "category": "main"
   }
 ]
