@@ -27,7 +27,32 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 4 号添加
+
+#### suio03 - [Github](https://github.com/suio03)
+* :white_check_mark: [Tapemoon](https://tapemoon.com)：AI 音乐视频生成器，上传一首歌（适合 Suno、Udio 生成的 AI 歌曲），自动生成分镜并按人声对齐歌词，渲染前可逐镜修改，可选 Seedance 或 Kling 出 16:9 / 9:16 MV；新用户送免费积分可预览，另有免费的逐字同步歌词视频工具
+
+#### Linhao Cui - [Github](https://github.com/cuilinhao)
+* :white_check_mark: [SoulPaw](https://soulpaw.art/)：在线 AI 宠物写真工具，上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像
+
+#### Masker99 - [Github](https://github.com/Masker99)
+* :white_check_mark: [FlyingCar AI Video](https://flyingcaraivideo.app/)：AI 飞车视频生成工具，上传汽车或产品照片，选择模板即可生成炫酷的飞行特效视频
+* :white_check_mark: [12 Axes Test](https://12axestest.site/)：在线多维价值观测试（免费），通过回答问题探索自己的政治观点与价值观倾向
+* :white_check_mark: [HackerTube Guide](https://hackertube.top/)：HackerTube 介绍与资源导航站，提供使用指南、常见问题解答及相关项目推荐
+
+#### 熠辉(北京) - [Github](https://github.com/yihui-dev)
+* :white_check_mark: [BizPeel](https://bizpeel.com/zh/)：有真实收入的海外产品数据库，可按 MRR、近 30 天收入、增长速度和赛道筛选，每家都有增长拆解：流量从哪来、做了哪些营销动作、用户为什么付钱，适合找出海生意点子
+
+#### Liujiacheng-yuexin - [Github](https://github.com/Liujiacheng-yuexin)
+* :white_check_mark: [PicYep](https://picyep.com/zh)：上传一张参考照或写一句描述，生成真人感头像、证件照、自拍与宠物写真；注册送免费积分、无需绑卡，付费计划从 $12/月起
+
 ### 2026 年 11 月 3 号添加
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [Hookai](https://hookai.io/)：上传一张或两张人物照片，生成带人声演唱与节拍的竖屏说唱短视频，5-15 秒，无需剪辑；示例免费观看，实际生成需注册和点数
+
+#### fan3cn - [Github](https://github.com/fan3cn)
+* :white_check_mark: [BayesChat](https://bayeschat.xyz)：iPhone / iPad 上的 AI 聊天客户端，自带 API Key 接任意 OpenAI / Anthropic 兼容模型（含本机 Ollama），可挂远程 MCP 服务器调用工具；对话和 Key 只存本机、无需注册，MCP 工具属一次性买断
 
 #### Lucius Miao - [Github](https://github.com/suicuLsi)
 * :white_check_mark: [Linger](https://withlinger.com/zh/)：macOS 本地优先私人灵感库，保存图片、网页出处与自己的笔记，用关键词和筛选找回参考；支持 Apple Silicon，提供 14 天试用，之后一次性购买 - [在线体验](https://withlinger.com/demo/)
@@ -412,7 +437,7 @@
 #### fisher-byte - [Github](https://github.com/fisher-byte)
 * :white_check_mark: [AjaxModel Release Tracker](https://ajaxmodel.dev/)：Ajax 模型发布追踪站，汇总官方来源、发布时间线和本地运行指南，免登录查看；非官方项目，不提供未发布模型的权重下载
 
-#### 蚊子 - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [SongFromVideo](https://songfromvideo.com/)：视频识曲工具，粘贴 TikTok/YouTube/Instagram/Facebook/X 链接或上传音视频就能找出背景音乐，登录后首次识别免费
 
 ### 2026 年 10 月 20 号添加
@@ -1318,7 +1343,7 @@
 * :white_check_mark: [DTCwise](https://dtcwise.com/?utm_source=cnindie&utm_medium=github)：DTC/跨境电商独立站卖家的运营工具目录与评测站，数据驱动收录 104 个工具（Sellvia、Mangools、Spocket 等），含对比评分与佣金返利链接，免费无需注册
 * :white_check_mark: [CrossTool](https://crosstool.online/?utm_source=cnindie&utm_medium=github)：跨境卖家本地隐私工具箱，52 个工具 100% 在浏览器内运行（视频压缩、图片转 PDF、成本计算等），零上传零服务器，面向 Amazon/TikTok Shop/Shopify 卖家，免费无需注册
 
-#### coderWenzi - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [Gemini Omni](https://geminiomni.video/)：免费生成和编辑视频，保持角色一致性，音频同步
 
 
@@ -1659,7 +1684,7 @@
 #### PigFetch Team - [Github](https://github.com/my-name-7)
 * :white_check_mark: [PigFetch](https://pigfetch.com)：Windows 视频链接下载工具，粘贴分享链接后可选择可用画质下载到电脑，适合素材留存与本地整理；新用户注册可使用 100 次，会员可无限下载
 
-#### 蚊子 - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [VidLux AI](https://vidlux.ai/)：AI 视频生成与编辑平台，支持文生视频、图生视频、参考生视频和视频编辑
 
 ### 2026 年 8 月 4 号添加
@@ -2760,7 +2785,7 @@
 
 ### 2026 年 5 月 15 号添加
 
-#### Poge(广州) - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [GPT Image 2 AI](https://gptimage2app.com/)：AI 图像与视频创作平台
 
 #### zjg678 - [Github](https://github.com/zjg678)
@@ -5181,46 +5206,6 @@
 
 #### vladelaina - [Github](https://github.com/vladelaina), [博客](https://vladelaina.com/blog)
 * :white_check_mark: [Catime](https://github.com/vladelaina/Catime)：极致轻量的 Windows 倒计时工具，具有番茄工作法功能、透明界面和丰富自定义选项，只需几 MB 内存且几乎不占用 CPU 资源，便可在 Windows 上优雅掌控时间 - [更多介绍](https://vladelaina.github.io/Catime/)
-
-### 2025 年 6 月 18 号添加
-#### Caron77 - [Github](https://github.com/Caron77ai)
-* :white_check_mark: [Veo3 AI Video Generator](https://veo-3.art)：支持文本转视频和图像转视频，配备原生音频生成和精准唇形同步，2-5秒完成专业级视频创作。
-* :white_check_mark: [Flux Kontext AI Image Editor ](https://flux-kontext.xyz)：基于 Black Forest Labs 多模态技术的专业图像转换工具，支持风格迁移、背景替换等功能，2-5秒完成高质量编辑。
-
-#### LuSrackhall(深圳) - [Github](https://github.com/LuSrackhall)
-* :white_check_mark: [KeyTone](https://keytone.xuanhall.com/)：简单易用、高度可定制的开源按键声音应用，帮助你通过载入自制音频打造独一无二的键音体验，支持多合一 ***高级声音*** 的随机或顺序触发，支持 ***高级声音*** 间的 ***组合与继承***，力求每次敲击都充满创意，释放你的键音艺术。 - [更多介绍](https://github.com/LuSrackhall/KeyTone)
-
-#### md2card (深圳) - [Github](https://github.com/JsonChao)、[博客](https://juejin.cn/user/4318537403878167/posts)
-* :white_check_mark: [md2card](https://www.md2card.online/)：MD2Card 在线工具，支持多主题，一键将 Markdown 拆分并生成知识卡片，支持 AI 魔幻卡片和长文智能拆分功能，可编辑，可导出 PNG/SVG/PDF，适合笔记分享与社媒传播
-
-#### Alex - [Github](https://github.com/C-Jeril)
-* :white_check_mark: [Kuakua夸夸](https://kuakua.app/)： 全网最全的心理学资源网站，用简单心理学与AI工具带来幸福激发内在力量 | 成为更好的自己 | 简单心理学，目前还在持续更新中，做更多可体验的心理学内容 - [更多介绍](https://github.com/C-Jeril/kuakua)
-
-### 2025 年 6 月 16 号添加
-#### handsometom
-* :white_check_mark: [Labubu Wallpaper](https://labubulivewallpaper.com/)：下载高级 Labubu 动态壁纸合集，免费获取精美动画 Labubu 动态壁纸设计。适用于所有设备的高品质 Labubu 动态壁纸，动画流畅。
-
-### 2025 年 6 月 13 号添加
-#### Anna - [Github](https://github.com/fluxstrive)
-* :white_check_mark: [Seedance AI Video Generator](https://seedanceai.net/)：用 文字/图片 生成视频，Seedance AI 将您的想法转化为令人惊叹的视频（Seedance 1.0 Pro 模型）
-
-### 2025 年 6 月 12 号添加
-#### sing1ee - [Github](https://github.com/sing1ee)
-* :white_check_mark: [Random Letter Generator](https://randomlettergenerator.app/)：随机生成指定数量的序列,适用密码生成、游戏开发中的随机元素序列等等
-
-#### TuShenmei - [Github](https://github.com/TuShenmei-xiannv)
-* :white_check_mark: [职场沟通小诸葛](https://procommai.com/)：告别职场说错话焦虑，AI助你掌握高效沟通技巧，提升职场表达力。  
-如果你是以下人群，那么职场沟通小诸葛将是你的得力助手：  
-职场新人/下属：面对领导和前辈，常常在汇报工作、提出请求时感到压力，担心言辞不妥，显得不专业或冒犯。  
-团队管理者/上级：需要向下属布置任务、提供反馈甚至批评，希望能做到既清晰有力，又不打击团队士气。  
-跨部门协作者：在与不同背景的同事沟通时，需要频繁切换沟通风格，以确保信息准确传达，并推动项目顺利进行。  
-所有追求高效的职场人：厌倦了将宝贵的时间浪费在遣词造句的内耗上，希望将精力聚焦于更有创造性的核心工作。  
-
-#### Anna - [Github](https://github.com/fluxstrive)
-* :white_check_mark: [Veo3 AI](https://aiveo3.net/)：根据文本提示或图像生成专业视频（使用 Veo3），并提供本地音频和逼真的物理效果
-
-#### chasays
-* :x: [veo3 AI video generator](https://zacose.com/veo3_ai_video_generator)：通过 AI 生成的音频和视觉完全同步，效果彻底改变视频的创作，使用VEO 3 AI API解锁视频创建的未来 - 与音频同步的无缝视频生成
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
