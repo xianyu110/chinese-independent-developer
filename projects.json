@@ -1,5 +1,145 @@
 [
   {
+    "name": "dola",
+    "url": "https://dolaai.video/",
+    "status": "online",
+    "description": "AI 视频与图片生成器，用文字、首尾帧或参考图生成短片，Seedance 2.5 最高 1080p，导出不带水印，按次扣额度、无免费试用",
+    "author": "bob(深圳)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "CrestGeo",
+    "url": "https://crestgeo.com",
+    "status": "online",
+    "description": "想知道豆包、DeepSeek、Kimi 等 AI 回答问题时会不会提到你的网站或店铺、说得对不对、推荐了谁？输入网址或品牌名/店铺名先看分数，并给出可执行的修改建议",
+    "author": "sdupig",
+    "authorGithub": "https://github.com/sdupig",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "InkByYou",
+    "url": "https://inkbyyou.com/",
+    "status": "online",
+    "description": "AI 纹身设计工具，用文字或参考图生成纹身草图，支持多种风格、AI 修改、线稿提取和上身预览；提供免费预览，高清原创图下载需付费",
+    "author": "Jayden-tong - [GitHub](https://github.com/Jayden-tong)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "WordStar 词光",
+    "url": "https://www.wordstar.cc",
+    "status": "online",
+    "description": "面向雅思备考者的词汇学习网站，通过插画、英美发音、例句、拼写练习和间隔复习记单词；免费试学 100 词，完整词表文件免费下载，全词库在线学习需会员",
+    "author": "Jayden-tong - [GitHub](https://github.com/Jayden-tong)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "TATOOLS",
+    "url": "https://tatools.cn/",
+    "status": "online",
+    "description": "面向人文社科研究者的中文在线文本分析平台，无需编程即可做词频统计、情感分析与主题建模，按算力点数收费 - [更多介绍与教程](https://tatools.cn/article)",
+    "author": "leafiy",
+    "authorGithub": "https://github.com/leafiy",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PDF-Editor",
+    "url": "https://wei2hu0.github.io/PDF-Editor/",
+    "status": "online",
+    "description": "免费开源的网页 PDF 编辑器，可在浏览器内改文字和图片、批注及合并页面，文件无需上传",
+    "author": "JhuoW",
+    "authorGithub": "https://github.com/JhuoW",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "OpenMathpix",
+    "url": "https://github.com/JhuoW/OpenMathpix/releases/latest",
+    "status": "online",
+    "description": "Windows 公式截图工具（免费），首次下载模型后可在本机离线将单个公式截图转为 LaTeX",
+    "author": "JhuoW",
+    "authorGithub": "https://github.com/JhuoW",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "涂装知识网站",
+    "url": "https://muse.ai/s/tu-zhuang-zhi-shi-wang-zhan-xjf6h2xd3fxfxdxv/M__w8toiRYQ-oNAQlbmG5XnqVvhQwcJugMiT_gZIXQA",
+    "status": "online",
+    "description": "免费涂装知识库，面向工业涂装工程师，涵盖涂装理论、22 条缺陷诊断、涂膜性能要求、28 种检测方法与露点、膜厚、涂布率等车间计算工具，简体中文",
+    "author": "Anthony",
+    "authorGithub": "https://github.com/CoatingKnowledgeHub",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Mandarin Recall",
+    "url": "https://mandarinrecall.com",
+    "status": "online",
+    "description": "HSK 3.0 词汇站，2025 考纲每个词带拼音、发音和旧新级别对照；间隔重复免费且不用注册，写自己的句子可以得到 AI 反馈",
+    "author": "Wujie Li",
+    "authorGithub": "https://github.com/wujieli0207",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "题伴",
+    "url": "https://tiban.momoai.pro/app",
+    "status": "online",
+    "description": "中文截图与文字练习助手，粘贴题目或上传截图，查看编程题、选择题、填空及主观题的答案和解析；需登录，新账号赠送 10 次体验，后续按次付费 - [更多介绍](https://tiban.momoai.pro/)",
+    "author": "air158",
+    "authorGithub": "https://github.com/air158",
+    "date": "2026 年 11 月 5 号添加",
+    "category": "main"
+  },
+  {
+    "name": "OnTrend AI",
+    "url": "https://ontrendai.com",
+    "status": "online",
+    "description": "趣味 AI 短视频生成工具，面向普通用户与年轻人，无需编写提示词或掌握剪辑，挑选正在流行的爆款模板并上传 1-2 张照片，即可把静态照片变成带原版音乐与动作卡点的 9:16 搞笑短视频",
+    "author": "Robin Ma",
+    "authorGithub": "https://github.com/Maaaaph",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ResumeInvited",
+    "url": "https://resumeinvited.com/",
+    "status": "online",
+    "description": "英文简历制作工具（免费），支持模板、实时预览和 PDF 或可编辑 Word 导出，无需注册",
+    "author": "Bowen Guo",
+    "authorGithub": "",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Live Face Swap",
+    "url": "https://live-face-swap.net/",
+    "status": "online",
+    "description": "在浏览器里用摄像头实时试换脸、画面风格和服装造型，录下片段后可直接回看并下载；摄像头预览免费，实时 AI 生成需登录并消耗积分",
+    "author": "Qing Shao",
+    "authorGithub": "https://github.com/aloow",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PosterSheet",
+    "url": "https://postersheet.com/",
+    "status": "online",
+    "description": "海报打印工具，将图片拆分成多张纸打印，再拼接成大幅海报，用家用打印机制作墙面装饰和活动海报",
+    "author": "djyou32",
+    "authorGithub": "https://github.com/djyou32",
+    "date": "2026 年 11 月 4 号添加",
+    "category": "main"
+  },
+  {
     "name": "Tapemoon",
     "url": "https://tapemoon.com",
     "status": "online",
@@ -134,6 +274,166 @@
     "url": "https://apps.apple.com/cn/app/id6817377455",
     "status": "online",
     "description": "Mac 专注氛围声 App，内置雨声、白噪等声景与极简桌面组件，帮助专注与放松 - [更多介绍](https://apps.apple.com/cn/app/id6817377455)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetAios",
+    "url": "https://apps.apple.com/cn/app/id6809450051",
+    "status": "online",
+    "description": "macOS 本地优先 AI Agent 工作台，多引擎会话、40+ 内置工具、长期记忆，数据全程留在本机，另有同款开源版 - [更多介绍](https://github.com/phinn/KinetAios)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetBrief",
+    "url": "https://apps.apple.com/cn/app/id6782778566",
+    "status": "online",
+    "description": "AI 会议纪要 App，开完会纪要即有，录音转写与要点提取全在本地完成 - [更多介绍](https://apps.apple.com/cn/app/id6782778566)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetMinutes",
+    "url": "https://apps.apple.com/cn/app/id6813593104",
+    "status": "online",
+    "description": "AI 会议记录 App，开完会纪要即有，本地转写不上传 - [更多介绍](https://apps.apple.com/cn/app/id6813593104)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetMemory",
+    "url": "https://apps.apple.com/cn/app/id6815923723",
+    "status": "online",
+    "description": "间隔复习 App，按遗忘曲线安排复习，该忘的才忘 - [更多介绍](https://apps.apple.com/cn/app/id6815923723)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetStudy",
+    "url": "https://apps.apple.com/cn/app/id6797004663",
+    "status": "online",
+    "description": "错题管理 App，错题有人管，家长不用猜 - [更多介绍](https://apps.apple.com/cn/app/id6797004663)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetMorning",
+    "url": "https://apps.apple.com/cn/app/id6779978181",
+    "status": "online",
+    "description": "远程报平安 App，一声平安远程可见 - [更多介绍](https://apps.apple.com/cn/app/id6779978181)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Clasp Focus",
+    "url": "https://apps.apple.com/cn/app/id6820942179",
+    "status": "online",
+    "description": "专注锁机 App，合上盖子就开始专注 - [更多介绍](https://apps.apple.com/cn/app/id6820942179)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "M5Chat",
+    "url": "https://apps.apple.com/cn/app/id6820196518",
+    "status": "online",
+    "description": "口袋里的多引擎 AI 助手，一个 App 切换多家大模型 - [更多介绍](https://apps.apple.com/cn/app/id6820196518)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetFit",
+    "url": "https://apps.apple.com/cn/app/id6773755689",
+    "status": "online",
+    "description": "健康管理 App，先把身体打开 - [更多介绍](https://apps.apple.com/cn/app/id6773755689)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetSoul",
+    "url": "https://apps.apple.com/cn/app/id6780600464",
+    "status": "online",
+    "description": "AI 心理日记，给情绪一个出口 - [更多介绍](https://apps.apple.com/cn/app/id6780600464)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetRain",
+    "url": "https://apps.apple.com/cn/app/id6814033986",
+    "status": "online",
+    "description": "氛围声 App，想下雨就下雨 - [更多介绍](https://apps.apple.com/cn/app/id6814033986)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetElf",
+    "url": "https://apps.apple.com/cn/app/id6807457522",
+    "status": "online",
+    "description": "口袋宠物精灵，会长大的桌面伙伴 - [更多介绍](https://apps.apple.com/cn/app/id6807457522)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "KinetTask",
+    "url": "https://apps.apple.com/us/app/kinettask-private-ai-tasks/id6780944289",
+    "status": "online",
+    "description": "端侧 AI 任务管理器，数据全程本地 SQLite，不上云不建账号 - [更多介绍](https://apps.apple.com/us/app/kinettask-private-ai-tasks/id6780944289)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Promptside",
+    "url": "https://apps.apple.com/us/app/promptside/id6820624868",
+    "status": "online",
+    "description": "AI 短片创作台，一个人就是整个剧组 - [更多介绍](https://apps.apple.com/us/app/promptside/id6820624868)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "FurChart",
+    "url": "https://apps.apple.com/us/app/furchart-pet-health-records/id6817339084",
+    "status": "online",
+    "description": "宠物健康记录，毛孩子病历不翻抽屉 - [更多介绍](https://apps.apple.com/us/app/furchart-pet-health-records/id6817339084)",
+    "author": "phinn",
+    "authorGithub": "https://github.com/phinn",
+    "date": "2026 年 11 月 3 号添加",
+    "category": "main"
+  },
+  {
+    "name": "DuoFolio",
+    "url": "https://apps.apple.com/cn/app/id6823855712",
+    "status": "online",
+    "description": "为折叠屏而生的书 - [更多介绍](https://apps.apple.com/cn/app/id6823855712)",
     "author": "phinn",
     "authorGithub": "https://github.com/phinn",
     "date": "2026 年 11 月 3 号添加",
@@ -4773,7 +5073,7 @@
     "name": "法脉 LawPulse",
     "url": "https://lttxzmj.github.io/lawpulse-site/",
     "status": "online",
-    "description": "给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实；数据全在本机不上云。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）",
+    "description": "给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）",
     "author": "lttxzmj",
     "authorGithub": "https://github.com/lttxzmj",
     "date": "2026 年 9 月 7 号添加",
@@ -16560,283 +16860,13 @@
     "category": "main"
   },
   {
-    "name": "AI Instagram Username Generator",
-    "url": "https://instagramusername.org/",
-    "status": "offline",
-    "description": "生成用户名的网站，输入关键词并选择风格快速生成创意名称。",
-    "author": "hjiayu799",
-    "authorGithub": "",
-    "date": "2025 年 6 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Asphalt Calculator",
-    "url": "https://asphaltcalculatorhub.com/",
-    "status": "online",
-    "description": "沥青价格计算器",
-    "author": "leo(上海)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "KKV AI",
-    "url": "https://kkv.ai",
-    "status": "online",
-    "description": "KKV 是一站式 AI 创作平台，提供视频生成、图像创作、照片编辑、趣味滤镜、AI 聊天助手等功能，无障碍访问 Veo 3、Flux、Claude Opus 4 等 100+ 顶级模型",
-    "author": "Ethan Sunray",
-    "authorGithub": "",
-    "date": "2025 年 6 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI  Dog Olympics Generator",
-    "url": "https://www.dogolympics.net/",
-    "status": "online",
-    "description": "制作独一无二、爆火的动物奥运会 AI 视频",
-    "author": "erickkkyt",
-    "authorGithub": "https://github.com/erickkkyt",
-    "date": "2025 年 6 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FantasyGen",
-    "url": "https://fantasygen.net/",
-    "status": "online",
-    "description": "AI 生成奇幻地图和人物",
-    "author": "toby(南京)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Curate Click",
-    "url": "https://curateclick.com/",
-    "status": "online",
-    "description": "导航站，收录产品和工具。",
-    "author": "sing1ee(上海)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FLUX Kontext",
-    "url": "https://kontextflux.com ",
-    "status": "online",
-    "description": "上下文感知智能图像编辑平台，内置 FLUX.1 Kontext ，Gpt4o image 图像编辑器。能够保持人物一致性，对画面精修",
-    "author": "Allen(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 6 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Headcanon 生成器 - 创作同人小说创意",
-    "url": "https://headcanongenerator.fun/",
-    "status": "online",
-    "description": "为您喜爱的角色创作独特的同人小说创意",
-    "author": "rns",
-    "authorGithub": "",
-    "date": "2025 年 6 月 26 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Amazon Downloader",
-    "url": "https://www.leawo.org/save-video/",
-    "status": "online",
-    "description": "Amazon 的点播视频下载工具",
-    "author": "DT986(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 6 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "免费的5合1播放器软件",
-    "url": "https://www.leawo.com/",
-    "status": "online",
-    "description": "可播放 4K 蓝光、蓝光、DVD、视频与音频",
-    "author": "DT986(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 6 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Kmail临时邮箱",
-    "url": "https://kmail.pw/",
-    "status": "online",
-    "description": "免费安全的临时邮箱，保护您的个人隐私，告别广告垃圾邮件的骚扰",
-    "author": "HongZhong(北京)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "My Ringtone",
-    "url": "https://myringtone.app/zh-cn/",
-    "status": "online",
-    "description": "免费无注册的 100w+ 铃声资源 在线下载工具，只要你想要，没有你搜不到的铃声 - [更多介绍](https://myringtone.app/zh-cn/about)",
-    "author": "Poiybro",
-    "authorGithub": "",
-    "date": "2025 年 6 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "whisperkeyboard",
-    "url": "https://whisperkeyboard.app/",
-    "status": "online",
-    "description": "灵动岛 + LLM + whisper 语音输入",
-    "author": "wtechtec(深圳)",
-    "authorGithub": "https://github.com/WtecHtec",
-    "date": "2025 年 6 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "金句盲盒",
-    "url": "http://jinju.yotooapp.com",
-    "status": "online",
-    "description": "趣站，页面定时随机推荐一条影视、歌曲或书籍等精彩文字内容，自定义配图或AI生成配图，可复制链接或创建卡片分享。",
-    "author": "zhucm",
-    "authorGithub": "https://github.com/zhucm",
-    "date": "2025 年 6 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Labubu Live Wallpaper",
-    "url": "https://labubulivewallpaper.cc",
-    "status": "online",
-    "description": "专为 Labubu 爱好者打造的免费高清动态壁纸宝库，收录超过100款动态壁纸，让可爱的 Labubu 在你的屏幕上动起来，网站提供免费下载获取精美动画 Labubu 动态壁纸设计，并适用于所有设备。",
-    "author": "Horatio (广州)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "WhatsMyName",
-    "url": "https://whatsmyname.me/",
-    "status": "online",
-    "description": "在互联网上搜索用户名足迹的网站。它可覆盖主流社交媒体、论坛、代码托管平台等进行全局搜索，借助高效算法快速出结果 - [更多介绍](https://whatsmyname.me/about)",
-    "author": "z3674313",
-    "authorGithub": "",
-    "date": "2025 年 6 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "asmrvideo.ai",
-    "url": "https://asmrvideo.ai/",
-    "status": "online",
-    "description": "用 Veo3 生成高质量的 ASMR 视频",
-    "author": "james(杭州)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Rap Generator",
-    "url": "https://rapgenerator.io/",
-    "status": "offline",
-    "description": "Rap 歌曲生成器",
-    "author": "DeepBlue-杭州",
-    "authorGithub": "",
-    "date": "2025 年 6 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Vogue Veo 3 Generator",
-    "url": "https://www.vogueai.net/veo-3-generator",
-    "status": "online",
-    "description": "最便宜的 Veo3 文本生成视频",
-    "author": "kkkk-杭州",
-    "authorGithub": "",
-    "date": "2025 年 6 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Coast FIRE Calculator",
-    "url": "https://coast-fire-calculator.com/",
-    "status": "online",
-    "description": "退休储蓄计算器",
-    "author": "leo(上海)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Free AI Image Generator",
-    "url": "https://ai-image-generator.co",
-    "status": "online",
-    "description": "聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)",
-    "author": "monsoonw(杭州)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "CleverGet Free Recorder",
-    "url": "https://www.leawo.org/cleverget-recorder/",
-    "status": "online",
-    "description": "免费录制在线视频并可过滤广告的工具",
-    "author": "DamonTsang986(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 6 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "免费录屏器",
-    "url": "https://www.leawo.com/free-screen-recorder/",
-    "status": "online",
-    "description": "4 合 1 屏幕录制软件（免费）",
-    "author": "DamonTsang986(深圳) ",
-    "authorGithub": "",
-    "date": "2025 年 6 月 21 号添加",
-    "category": "main"
-  },
-  {
-    "name": "sound effect generator",
-    "url": "https://soundeffectgenerator.org/",
-    "status": "online",
-    "description": "音效生成网站, 生成自定义音效",
-    "author": "smkwls(深圳)",
-    "authorGithub": "https://github.com/smkwls",
-    "date": "2025 年 6 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Lip Sync",
-    "url": "https://lipsync.studio/",
-    "status": "online",
-    "description": "视频和音频嘴形同步，将视频中人的嘴形进行改变以适配音频",
-    "author": "smkwls(深圳)",
-    "authorGithub": "https://github.com/smkwls",
-    "date": "2025 年 6 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Quit Porn AI",
-    "url": "https://quitporn.ai/",
-    "status": "online",
-    "description": "帮助人们戒除色情成瘾",
-    "author": "smkwls(深圳)",
-    "authorGithub": "https://github.com/smkwls",
-    "date": "2025 年 6 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Catime",
-    "url": "https://github.com/vladelaina/Catime",
-    "status": "online",
-    "description": "极致轻量的 Windows 倒计时工具，具有番茄工作法功能、透明界面和丰富自定义选项，只需几 MB 内存且几乎不占用 CPU 资源，便可在 Windows 上优雅掌控时间 - [更多介绍](https://vladelaina.github.io/Catime/)",
-    "author": "vladelaina",
-    "authorGithub": "https://github.com/vladelaina",
-    "date": "2025 年 6 月 19 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "vladelaina",
-    "authorGithub": "https://github.com/vladelaina",
-    "date": "2025 年 6 月 19 号添加",
+    "author": "Dylan Tao(合肥)",
+    "authorGithub": "",
+    "date": "2025 年 6 月 29 号添加",
     "category": "main"
   },
   {
@@ -16844,9 +16874,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "vladelaina",
-    "authorGithub": "https://github.com/vladelaina",
-    "date": "2025 年 6 月 19 号添加",
+    "author": "Dylan Tao(合肥)",
+    "authorGithub": "",
+    "date": "2025 年 6 月 29 号添加",
     "category": "main"
   },
   {
@@ -16854,9 +16884,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "vladelaina",
-    "authorGithub": "https://github.com/vladelaina",
-    "date": "2025 年 6 月 19 号添加",
+    "author": "Dylan Tao(合肥)",
+    "authorGithub": "",
+    "date": "2025 年 6 月 29 号添加",
     "category": "main"
   },
   {
@@ -16864,9 +16894,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "vladelaina",
-    "authorGithub": "https://github.com/vladelaina",
-    "date": "2025 年 6 月 19 号添加",
+    "author": "Dylan Tao(合肥)",
+    "authorGithub": "",
+    "date": "2025 年 6 月 29 号添加",
     "category": "main"
   }
 ]
