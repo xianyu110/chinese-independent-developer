@@ -16,6 +16,23 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 6 号添加
+#### supertj - [Github](https://github.com/supertj)
+* :white_check_mark: [UsageRail](https://usagerail.com/)：API 计费与限流工具，几行中间件给自己的 API 发 Key、按套餐限流和配额，用量通过你自己的 Stripe 按量扣费；Key 和限额在你的服务进程里校验，请求不经过第三方；每月经它计费 1000 美元以内免费 - [文档](https://usagerail.com/docs)
+
+#### PDBen-Auto - [GitHub](https://github.com/PDBen-Auto)
+* :white_check_mark: [卖家图片策划 Free](https://github.com/PDBen-Auto/seller-image-brief-free)：电商商品图策划 Agent Skill，将商品资料和有权使用的评论整理成最多三张拍摄与设计任务单，含 FABE、构图、短文案及证据缺口；只做策划不生图，免费使用但非开源，需自备兼容 Agent、模型并承担运行费用 - [说明与合成教学案例](https://pdben-auto.github.io/seller-image-brief-free/)
+
+### 2026 年 11 月 5 号添加
+#### Shiqi Cao - [Github](https://github.com/shiqicao)
+* :white_check_mark: [gh-pull](https://github.com/shiqicao/gh-pull)：免费、MIT 开源的 GitHub CLI 扩展，在本地浏览器中集中查看多个仓库的 PR，保存搜索与分组，查看堆叠 PR 依赖、CI 状态和已解决／总评审线程数 - [演示视频](https://youtu.be/4LBga5H5Wwk)
+
+#### YKLovePython - [GitHub](https://github.com/YKLovePython)
+* :white_check_mark: [halfsize](https://github.com/YKLovePython/halfsize)：开源的视频压缩命令行工具（自带本地网页界面），把视频精确压到指定大小（微信 / Discord 20 MB、邮件 20 MB 等），并用 VMAF/SSIM 报告画质损失；一条命令、文件不上传、无需账号，Windows / macOS / Linux 都能用 - [更多介绍](https://github.com/YKLovePython/halfsize#readme)
+
+#### 王乐
+* :white_check_mark: [小羊Plus](https://xiaoyangplus.com/)：国内 ChatGPT 代充平台，支持使用 Account ID 充值，无需账号密码，无需验证码，可开正规公司发票，充值失败全额退款
+
 ### 2026 年 11 月 4 号添加
 #### 欧克元
 * :white_check_mark: [ChatGPT礼品卡](https://aicardhub.shop/)：ChatGPT 多面值礼品卡，可直充自己账户
