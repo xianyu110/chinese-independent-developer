@@ -1,5 +1,15 @@
 [
   {
+    "name": "Pettenderly",
+    "url": "https://pettenderly.com/",
+    "status": "online",
+    "description": "在线 AI 宠物写真工具，上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像",
+    "author": "Linhao Cui",
+    "authorGithub": "https://github.com/cuilinhao",
+    "date": "2026 年 11 月 6 号添加",
+    "category": "main"
+  },
+  {
     "name": "dola",
     "url": "https://dolaai.video/",
     "status": "online",
@@ -1281,9 +1291,9 @@
   },
   {
     "name": "OpenMontage Drama Studio",
-    "url": "https://openmontage.dtok.io",
+    "url": "https://github.com/charliewwdev/OpenMontage",
     "status": "online",
-    "description": "开源 AI 短剧与短视频工坊，一句话灵感依次走完剧本、角色、场景、道具、分镜、配音、剪辑 7 个环节，也可用内置电商带货模板做广告片；无需登录可浏览灵感墙和示例，生成需登录并填写自己的模型 Key（Seedream / Seedance 为付费 API），AGPL-3.0 开源、支持 Docker 自部署 - [Github](https://github.com/charliewwdev/OpenMontage)",
+    "description": "可自己部署的 AI 短剧工作台，剧本→角色→场景→道具→分镜→配音→剪辑一条线走完，角色和场景参考图跨镜头复用保持人物一致；Docker Compose 部署，接任意 OpenAI 兼容大模型，图像视频走 Seedream/Seedance（付费 API）或自己的 ComfyUI，AGPL-3.0 开源 - [在线体验](https://openmontage.dtok.io)",
     "author": "Charlie W",
     "authorGithub": "https://github.com/charliewwdev",
     "date": "2026 年 10 月 27 号添加",
