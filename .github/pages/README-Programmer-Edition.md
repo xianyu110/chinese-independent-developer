@@ -16,7 +16,15 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 7 号添加
+#### Harrison - [Github](https://github.com/harrison-ming)
+* :white_check_mark: [chuhai-skills](https://github.com/harrison-ming/chuhai-skills)：MIT 开源的出海电商 Agent Skills（Claude Code / Codex / Cursor 可用，`npx skills add` 一行安装），拆解任意公开 Shopify 独立站的店龄、商品价格带、上新节奏、主题应用与政策一致性，每条结论标注证据等级，输出中文 PDF 报告和商品 CSV；只读公开数据，无需 API key - [中文说明](https://github.com/harrison-ming/chuhai-skills/blob/main/README.zh-CN.md)
+* :white_check_mark: [moveset](https://moveset.io/zh)：出海电商 Agent Skill 商店，每个 Skill 写明适配哪些 agent、实测过哪些、联不联网和读哪些文件；免费版登录即可领取，Pro 版付费（一次性，含 12 个月更新，跑不通 14 天内退款），也收录通过自动审核的社区 Skill
+
 ### 2026 年 11 月 6 号添加
+#### 欧八同学 - [GitHub](https://github.com/ouxxyy)
+* :white_check_mark: [ouba-classmate](https://github.com/ouxxyy/ouba-classmate)：免费、MIT 开源的中文求职与创作 Agent Skills 套件（支持 Claude Code / Codex / Cursor 一行命令安装），覆盖多平台岗位搜索、简历与 JD 可复算匹配评分（内置本地零依赖 MCP Server）、中文经历面试追问与 Offer 前公司证据调查，附 12 个主流求职 Skill 实测公开横评数据 - [横评报告与在线数据页](https://ouxxyy.github.io/ouba-classmate/)
+
 #### supertj - [Github](https://github.com/supertj)
 * :white_check_mark: [UsageRail](https://usagerail.com/)：API 计费与限流工具，几行中间件给自己的 API 发 Key、按套餐限流和配额，用量通过你自己的 Stripe 按量扣费；Key 和限额在你的服务进程里校验，请求不经过第三方；每月经它计费 1000 美元以内免费 - [文档](https://usagerail.com/docs)
 
@@ -412,7 +420,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2026 年 9 月 8 号添加
 
 #### yangzhou-chaofan - [Github](https://github.com/yangzhou-chaofan)
-* :white_check_mark: [TeamoRouter](https://teamorouter.cn)：多模型 AI API 中转网关，GPT-6 Astra / Claude / Gemini 用一个 Key 调用，Codex 和 Claude Code 改 base_url 即用，支持支付宝/微信充值、按量计费 - [Astra + Codex 配置教程](https://teamorouter.cn/blogs/gpt-6-astra-codex-cursor-setup)
+* :white_check_mark: [TeamoRouter](https://teamorouter.cn)：多模型 AI API 网关，一个 Key 调用 DeepSeek、Kimi、GLM、Qwen、MiniMax、豆包等国产模型，兼容 OpenAI / Anthropic 协议，Claude Code、Codex、CC Switch、Cherry Studio 改 base_url 即用，支持支付宝/微信充值、按量计费 - [接入文档](https://teamorouter.cn/zh/docs/api-integration)
 
 ### 2026 年 9 月 6 号添加
 
@@ -844,7 +852,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 7 月 4 号添加
 
-#### blammectrappora - [Github](https://github.com/teamorouter)
+#### blammectrappora - [Github](https://github.com/blammectrappora)
 * :white_check_mark: [TeamoRouter](https://teamorouter.com)：AI 编程 API 智能路由网关，一个 Key 接入 Claude/GPT/Gemini/DeepSeek，国内可直连，微信/支付宝充值
 
 #### nichenqin - [Github](https://github.com/nichenqin)
