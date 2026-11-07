@@ -1,5 +1,25 @@
 [
   {
+    "name": "妙比特 funnybit",
+    "url": "https://funnybit.cn/",
+    "status": "online",
+    "description": "Vibe Coding 作品与 AI 应用灵感发现平台，汇集独立开发者创作的 AI 应用和实际作品案例，包含官方开发的一些应用，支持分类浏览与作品探索，并提供原创 AI 日报和周报",
+    "author": "Sphinx-Shawn",
+    "authorGithub": "https://github.com/Sphinx-Shawn",
+    "date": "2026 年 11 月 6 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AllInOneIME",
+    "url": "https://allinoneime.com/zh/",
+    "status": "online",
+    "description": "Mac 输入法，在任何 App 的输入框句首打 @improve、@translate 或 @question 再按回车，就地润色、翻译或提问，选中结果直接上屏，不用复制到聊天窗口；自带 Rime 雾凇拼音，免费，每天 20 次免费 AI，也可以用自己的 Claude / Gemini / DeepSeek key",
+    "author": "Weijian Zhang",
+    "authorGithub": "https://github.com/MicroZ-LLC/AllInOneIME",
+    "date": "2026 年 11 月 6 号添加",
+    "category": "main"
+  },
+  {
     "name": "Pettenderly",
     "url": "https://pettenderly.com/",
     "status": "online",
@@ -16810,73 +16830,13 @@
     "category": "main"
   },
   {
-    "name": "Converters.pro",
-    "url": "https://www.converters.pro",
-    "status": "online",
-    "description": "基于 AI 的图片和视频转换网站，可以帮你做背景修复、老照片恢复、虚拟换衣",
-    "author": "tao(杭州)",
-    "authorGithub": "https://github.com/nietao2018",
-    "date": "2025 年 7 月 2 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Quitar Fondo",
-    "url": "https://quitarfondo.cc/",
-    "status": "online",
-    "description": "（西班牙语产品，无中文或英文版）用 AI 删除图片背景",
-    "author": "rns",
-    "authorGithub": "",
-    "date": "2025 年 7 月 1 号添加",
-    "category": "main"
-  },
-  {
-    "name": "MARS AI",
-    "url": "https://marsai.site/",
-    "status": "online",
-    "description": "MARS AI 提供免费的 AI 视频生成和图像生成，用文本或图片创建专业视频和图片，把点子转为视觉内容",
-    "author": "iam-tin",
-    "authorGithub": "https://github.com/iam-tin",
-    "date": "2025 年 7 月 1 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AIRI",
-    "url": "https://github.com/moeru-ai/airi",
-    "status": "online",
-    "description": "包含 AI 老婆/虚拟角色灵魂的容器，将它们带入我们的世界，希望达到 Neuro-sama 的高度，完全由 LLM 和 AI 驱动，能够进行实时语音聊天、玩 Minecraft、玩Factorio。可在浏览器或桌面运行。",
-    "author": "RainbowBird | 洛灵 (上海)",
-    "authorGithub": "https://github.com/luoling8192",
-    "date": "2025 年 7 月 1 号添加",
-    "category": "main"
-  },
-  {
-    "name": "相机水印生成器",
-    "url": "https://exifframe.org",
-    "status": "online",
-    "description": "在线为图片添加相机水印。相机水印包含相机品牌 / 型号 / 拍摄时间 / 拍摄地点 / 光圈 / 快门 / ISO 等信息。优雅的展示你的摄影作品。无需注册登录，免费导出。",
-    "author": "seeeeal（西安）",
-    "authorGithub": "https://github.com/seeeeal",
-    "date": "2025 年 6 月 30 号添加",
-    "category": "main"
-  },
-  {
-    "name": "SaaSGree",
-    "url": "https://saasgree.com",
-    "status": "online",
-    "description": "SaaSGree 专为企业间签订各类 SaaS 合同的场景而设计，帮助用户通过专业合同模板快速生成协议，无需高价聘请律师，也避免使用低质量模板带来的法律风险。",
-    "author": "Dylan Tao(合肥)",
-    "authorGithub": "",
-    "date": "2025 年 6 月 29 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "Dylan Tao(合肥)",
+    "author": "wdh(杭州) ",
     "authorGithub": "",
-    "date": "2025 年 6 月 29 号添加",
+    "date": "2025 年 7 月 3 号添加",
     "category": "main"
   },
   {
@@ -16884,9 +16844,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "Dylan Tao(合肥)",
+    "author": "wdh(杭州) ",
     "authorGithub": "",
-    "date": "2025 年 6 月 29 号添加",
+    "date": "2025 年 7 月 3 号添加",
     "category": "main"
   },
   {
@@ -16894,9 +16854,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "Dylan Tao(合肥)",
+    "author": "wdh(杭州) ",
     "authorGithub": "",
-    "date": "2025 年 6 月 29 号添加",
+    "date": "2025 年 7 月 3 号添加",
     "category": "main"
   },
   {
@@ -16904,9 +16864,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "Dylan Tao(合肥)",
+    "author": "wdh(杭州) ",
     "authorGithub": "",
-    "date": "2025 年 6 月 29 号添加",
+    "date": "2025 年 7 月 3 号添加",
     "category": "main"
   }
 ]
