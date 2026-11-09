@@ -27,7 +27,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 9 号添加
+
+#### lingki1 - [Github](https://github.com/lingki1)
+* :white_check_mark: [Lingki AI](https://lingki.info/app?utm_source=chinese-indie-dev&utm_medium=list&utm_campaign=lingki-ai-2026-11)：网页版 AI 角色扮演聊天，兼容酒馆（SillyTavern）V2/V3 角色卡导入导出，聊天记录存在自己浏览器里；自带模型 API Key 免费，内置模型按 token 付费 - [更多介绍](https://lingki.info/ai)
+
+#### nicoinvest - [网站](https://invest-nav.com/)
+* :white_check_mark: [投资导航](https://invest-nav.com/)：专为大陆用户写的投资理财实操教程站。怎么投资美股（券商开户、入金、买 ETF）、怎么投资加密货币（交易所注册、买币、出入金和安全）、怎么开通香港银行卡、CRS 税务怎么理解，以及大陆用户投资理财相关的方方面面，都会在教程里配实操截图一步步讲清楚。网站还有多款免费投资工具：[QDII 额度宝](https://invest-nav.com/tools/qdii-quota/)（每天更新 QDII 基金申购额度）、[ETF 对比](https://invest-nav.com/tools/etf/compare/)、[定投计算器](https://invest-nav.com/tools/dca-calculator/)
+
 ### 2026 年 11 月 8 号添加
+
+#### JackMa
+* :white_check_mark: [InvestorTube](https://www.investortube.org/)：投资人物访谈视频索引，整理 YouTube 与 B站上的投资人访谈、演讲和对谈，可按投资流派、人物、平台和时长筛选，中文界面，免费无需注册（独立整理，不构成投资建议）
+
+#### quven1990
+* :white_check_mark: [出海找需求](https://zhaoxuqiu.online/)：面向独立开发者的海外产品机会研究站，可免费浏览需求概况、美国月搜和关键词难度，并用图文指南和虚构样板练习需求验证。完整研究报告按份付费 - [研究方法](https://zhaoxuqiu.online/methodology)
 
 #### craftboat - [Github](https://github.com/craftboat)
 * :white_check_mark: [职页 KeenPage](https://keenpage.com/zh)：按职业找 AI 提示词卡，输入职业（已收录 2,054 个）、选一项工作、点选补一句，就拼好能直接发给任何 AI 的提示词，附结果示例；免费、不用注册，中英双语
@@ -5151,32 +5165,6 @@
 ### 2025 年 7 月 7 号添加
 #### sk(广州)
 * :x: [摸鱼地图](https://moyumap.com/)：记录和可视化大家"摸鱼"次数的趣味网站。包括摸鱼区域热力图，摸鱼排行榜，看看今天谁在一起摸鱼。
-
-### 2025 年 7 月 6 号添加
-#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks)
-* :white_check_mark: [Gemlink.app](https://gemlink.app)：集内容收集、整理与社交分享于一体的平台。可以作为“稍后阅读”替代使用。旨在解决信息过载、跨平台内容割裂和深度阅读缺失的问题，打造“个性化互联网精华库与思想交流空间” - [配套浏览器插件](https://chromewebstore.google.com/detail/gemlink-your-space-for-sm/pickcibaiaapcbobgbjgmomocmcdpmmn)
-
-#### Margox(北京) - [Github](http://github.com/margox)
-* :white_check_mark: [晚星](https://dream.sayhi.cc/): 简约纯粹的白噪音App，包含上百种自然音效和轻音乐，可自由搭配组合，辅助睡眠、放松情绪，缓解压力。
-
-### 2025 年 7 月 5 号添加
-#### zgcoder
-* :white_check_mark: [图片压缩神器](https://www.zgcoder.com/tic/)：对图片进行快速高效的批量压缩和格式转换
-
-### 2025 年 7 月 4 号添加
-#### Orion - [Github](https://github.com/OrionTyce)
-* :white_check_mark: [Ries.AI](https://ries.ai/zh/learn-english?c=sP0B)：颠覆你对学英语的认知！英语学不好的最大原因是接触的太少！我们创新地将高频词汇融入你看的视频和文章，把每天接触的大量中文改造一部分成英语接触，渐进低压拓展语言边界。
-
-#### james（武汉）
-* :white_check_mark: [实时工资计时器](https://www.realtimesalary.info/)：输入你的年薪或月薪，即可实时看到每一秒赚了多少钱。支持多种货币和实时汇率转换，适合远程工作者、自由职业者等，随时感受赚钱的爽感！比如干远程的小伙伴，赚的是美金，可以实时转换成人民币，干活的时候，非常的有爽感。
-
-### 2025 年 7 月 3 号添加
-#### ChillWay
-* :white_check_mark: [TwitterDown](https://twitterdown.com/): 下载 Twitter 视频
-* :white_check_mark: [KuaishouVideoDownload](https://kuaishou-video-download.com/): 下载快手视频
-
-#### wdh(杭州) 
-* :white_check_mark: [Veegen](https://veegen.ai/)：图片生成视频工具
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
