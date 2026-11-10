@@ -27,7 +27,37 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 10 号添加
+
+#### Wujie Li - [Github](https://github.com/wujieli0207)
+* :white_check_mark: [EmoteLoop](https://emoteloop.com/)：AI Twitch emote 生成器，写一句话或上传一张自拍，大约 20 秒得到透明背景、无限循环的 512px GIF，动作按描述生成，不是给静态表情套预设动画
+
+#### Samuel Shek - [Github](https://github.com/Samuel-Shek)
+* :white_check_mark: [Models Rank 模型榜](https://modelsrank.org/)：AI 大模型榜单，汇总 Artificial Analysis 等第三方公开评测，把能力分、单任务成本和速度放在一张表里比较，每个模型有标注来源的详情页，每周更新，中英双语
+
+#### 高剑辉 - [Github](https://github.com/Jeffgao222)
+* :white_check_mark: [课伴](https://apps.apple.com/cn/app/id6790702626)：面向独立家教的 iOS App，学生档案、排课、课时包、收款与 AI 起草家长反馈一条线，本地优先，免费可管约 5 名学生
+
+#### NextJSON(多伦多) - [网站](https://nextjson.com/)
+* :white_check_mark: [NextJSON](https://nextjson.com/)：免费 JSON 工具箱，可解析嵌套/转义的 JSON 字符串、格式化与查看、对比两份 JSON、生成 JSON Schema，全部在浏览器里运行，无需注册
+
+#### Bill Chan(香港) - [Github](https://github.com/billpwchan)
+* :white_check_mark: [知音](https://zhiyin.billpwchan.art/card?ref=1c7)：贴网易云「我喜欢的音乐」或 QQ 音乐主页的分享链接，不用登录，Claude 给你的口味起个名字、锐评一句，再按每首歌点喜欢的月份画成一张能分享的唱片；用 YouTube Music 的话还是一个每周更新的私人电台，每首歌都说为什么选它 - [GitHub 仓库](https://github.com/billpwchan/zhiyin)
+
+#### Tao Wang - [Github](https://github.com/hellotaotao)
+* :white_check_mark: [TypeAloud](https://typealoud.app/zh)：Mac/Windows 语音输入工具，在任意应用里按住快捷键说话、松手文字就出现在光标处，用千问 Qwen3-ASR 在本机转写，中英混说也能识别；免费开源，本地转写无需注册或 API Key - [更多介绍](https://github.com/hellotaotao/typealoud)
+
+#### ClapClip - [Github](https://github.com/ClapClip)
+* :white_check_mark: [ClapClip AI](https://www.clapclip.net/)：在自己的 Windows 10/11 电脑上给照片和长视频换脸，4 个模型可选，实时预览，NVIDIA/AMD/Intel 显卡加速，素材不上传；安装和预览免费，导出需订阅
+
 ### 2026 年 11 月 9 号添加
+
+#### Torres
+* :white_check_mark: [OK JLPT](https://okjlpt.com/zh-Hans)：日语能力考试（JLPT）练习网站，N5–N1 按年份整理的 104 套整卷练习（2010–2026），带听力音频，在线作答、交卷自动估分并给出中文解析；另有免费的[估分计算器](https://okjlpt.com/zh-Hans/tools/score)和助词、动词变形练习。N5、N4 全部免费，N3–N1 各一套免费，其余需会员
+
+#### bellefly-god - [Github](https://github.com/bellefly-god)
+* :white_check_mark: [THE JURY](https://jury.pagecleans.com)：匿名困境盲投裁决社区，发私人两难陌生人盲投，满 30 票且单项严格过半才结案生成可分享裁决卡，浏览和投稿无需注册
+* :white_check_mark: [OurYearbook](https://ouryearbook.pagecleans.com)：同学共同书写的线上班级纪念册，回忆由不同同学补充各自视角，设定日期才解锁的未来信件，隐私优先仅开放示例班
 
 #### lingki1 - [Github](https://github.com/lingki1)
 * :white_check_mark: [Lingki AI](https://lingki.info/app?utm_source=chinese-indie-dev&utm_medium=list&utm_campaign=lingki-ai-2026-11)：网页版 AI 角色扮演聊天，兼容酒馆（SillyTavern）V2/V3 角色卡导入导出，聊天记录存在自己浏览器里；自带模型 API Key 免费，内置模型按 token 付费 - [更多介绍](https://lingki.info/ai)
@@ -593,7 +623,7 @@
 * :white_check_mark: [Weather Trip](https://weather-trip.aicake.io)：按未来天气筛选旅行目的地的工具站，支持按温度、降雨、湿度等条件查找全球城市，通过天气地图比较城市预报，提供中英文界面 - [GitHub 仓库](https://github.com/xiaomingio/weather-trip)
 
 #### ikeisthere - [Github](https://github.com/ikeisthere)
-* :white_check_mark: [夸夸跨境](https://kuakuakua.com/pricing-calculator/)：面向中国 Ozon 跨境卖家的免费定价计算器（免登录，按类目佣金、rFBS/FBP 物流资费、汇率与目标利润反推建议售价）与中文实操教程；可选多店体检工作台 — Web 应用
+* :white_check_mark: [夸夸跨境](https://kuakuakua.com/tools/pricing-calculator/)：面向中国 Ozon 跨境卖家的免费定价计算器（免登录，按类目佣金、rFBS/FBP 物流资费、汇率与目标利润反推建议售价）与中文实操教程；可选多店体检工作台 — Web 应用
 
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [LayerGrab](https://layergrab.com)：AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素；有 Figma 插件和 Chrome 扩展，网页英文界面，每个账号可免费试用一次 - [更多介绍](https://github.com/layergrab/layergrab-plugins)
@@ -5115,56 +5145,6 @@
 ### 2025 年 7 月 16 号添加
 #### james（武汉）- [Github](https://github.com/JamesHuang22)
 * :white_check_mark: [去留助手AI](https://www.huiguo.info/)：专为海外留学生和海外发展的华人打造的智能决策辅助工具。通过 AI 大模型分析，根据每个人不同的情况，评估“回国发展”与“留在海外”两种路径的优劣，助力做出更明智的职业与人生选择。并且能通过大数据分析，智能计算与同龄人平均水平的位置。
-
-### 2025 年 7 月 14 号添加
-#### heyjude(上海）
-* :white_check_mark: [TmpMail](https://www.tmpmail.online): 免费临时邮箱TmpMail
-* :x: [Posterfy](https://www.posterfy.art/): 生成音乐海报
-* :white_check_mark: [Avatify](https://www.avatify.online/): 生成头像
-
-#### Selenium39(广州) - [Selenium39](http://github.com/Selenium39)
-* :white_check_mark: [LLMOCR](https://llmocr.com)：基于 AI 的 OCR 服务
-* :white_check_mark: [FWFW](https://fwfw.app)：Find Websites From World
-
-### 2025 年 7 月 13 号添加
-#### nogeek(杭州)
-* :white_check_mark: [stater best](https://starterbest.com/)：收集一下发布的产品，可以作为导航站、发布站
-
-### 2025 年 7 月 12 号添加
-#### fanison(北京)
-* :white_check_mark: [melhorar imagem](https://melhorarimagem.org)：专注巴西市场的在线图像处理工具，用 AI 帮助用户提升图片分辨率、增强画质、修复模糊和噪点，让您的照片焕然一新。
-
-#### hjiayu799
-* :white_check_mark: [魔镜歌词网](https://mojigeci.com/)：500 万歌词库，专业歌词搜索平台 - [更多介绍](https://mojigeci.com/about)
-
-#### Amyang(美国) - [Github](https://github.com/AmyangXYZ)
-* :white_check_mark: [PoPo](https://popo.love)：LLM 在线生成 MMD 纸片人姿势
-
-#### SSShooter - [GitHub](https://github.com/SSShooter)
-* :white_check_mark: [SS 工具箱](https://tools.mind-elixir.com/)：SS 工具箱是一个集成 40+ 实用在线工具的综合平台，专为提升你的工作效率和创造力而设计。所有工具完全在浏览器中运行，无需上传数据，确保完全的隐私和安全
-
-### 2025 年 7 月 10 号添加
-#### liunice (深圳)
-* :white_check_mark: [KissPixel](https://kisspixel.ai/)：AI 图像生成平台，集成六大核心工具：文本生成图像、图像风格转换、AI 换脸、智能图像替换、图像扩展和图像放大。平台采用积分制运营模式，新用户注册即可获得免费积分。支持多种订阅计划，满足不同用户需求。所有生成的图像均享有商业使用许可，可用于个人和商业项目。无论您是内容创作者、设计师还是营销专业人士，KissPixel 都能为您提供专业的 AI 图像创作解决方案。
-
-#### 李恩泽 - [GitHub](https://github.com/enzeberg)
-* :white_check_mark: [铜钟](https://tonzhon.whamon.com/)：专注听歌，无广告和社交，下载 歌曲/歌词，创建歌单，资源丰富，UI 清爽 - [更多介绍](https://about-tonzhon.netlify.app/)
-
-#### hcc(北京)
-* :white_check_mark: [分身宝](https://clone.youchong.club)：Android 应用多开工具，支持微信、QQ、抖音、小红书、淘宝、京东、拼多多、美团、快手、咸鱼等绝大多数主流应用以及各类游戏，轻松管理多个账号。
-
-#### asui(泉州)
-* :white_check_mark: [客群采集-微信小程序](https://my-works.oss-cn-beijing.aliyuncs.com/images/download.jpg)：拓客小工具，基于地理位置以及一些开放的api去采集商户信息，并围绕这些信息提供了一系列的小功能，例如：数据导入导出、拨打电话、保存通讯录、导航等等
-
-### 2025 年 7 月 8 号添加
-#### iam-tin - [Github](https://github.com/iam-tin)
-* :white_check_mark: [Humanizar Text](https://humanizartexto.app/)：一键优化 AI 生成的文本，让AI无法检测到文本是AI所生成，AI时代下“去AI”的本文神器。
-* :white_check_mark: [HIDream AI](https://hidream.online/)：HiDream 大模型在线生成图像，让图像更清晰更逼真。
-* :white_check_mark: [MORSE CODE](https://morsecode-translator.app/)：一键把内容生成对应的摩斯电码的平台，可以通过摩斯电码表达爱意，或者让莫斯电码成为两个人之间的“加密”语言。
-
-### 2025 年 7 月 7 号添加
-#### sk(广州)
-* :x: [摸鱼地图](https://moyumap.com/)：记录和可视化大家"摸鱼"次数的趣味网站。包括摸鱼区域热力图，摸鱼排行榜，看看今天谁在一起摸鱼。
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
