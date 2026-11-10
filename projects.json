@@ -1,5 +1,105 @@
 [
   {
+    "name": "EmoteLoop",
+    "url": "https://emoteloop.com/",
+    "status": "online",
+    "description": "AI Twitch emote 生成器，写一句话或上传一张自拍，大约 20 秒得到透明背景、无限循环的 512px GIF，动作按描述生成，不是给静态表情套预设动画",
+    "author": "Wujie Li",
+    "authorGithub": "https://github.com/wujieli0207",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Models Rank 模型榜",
+    "url": "https://modelsrank.org/",
+    "status": "online",
+    "description": "AI 大模型榜单，汇总 Artificial Analysis 等第三方公开评测，把能力分、单任务成本和速度放在一张表里比较，每个模型有标注来源的详情页，每周更新，中英双语",
+    "author": "Samuel Shek",
+    "authorGithub": "https://github.com/Samuel-Shek",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "课伴",
+    "url": "https://apps.apple.com/cn/app/id6790702626",
+    "status": "online",
+    "description": "面向独立家教的 iOS App，学生档案、排课、课时包、收款与 AI 起草家长反馈一条线，本地优先，免费可管约 5 名学生",
+    "author": "高剑辉",
+    "authorGithub": "https://github.com/Jeffgao222",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "NextJSON",
+    "url": "https://nextjson.com/",
+    "status": "online",
+    "description": "免费 JSON 工具箱，可解析嵌套/转义的 JSON 字符串、格式化与查看、对比两份 JSON、生成 JSON Schema，全部在浏览器里运行，无需注册",
+    "author": "NextJSON(多伦多) - [网站](https://nextjson.com/)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "知音",
+    "url": "https://zhiyin.billpwchan.art/card?ref=1c7",
+    "status": "online",
+    "description": "贴网易云「我喜欢的音乐」或 QQ 音乐主页的分享链接，不用登录，Claude 给你的口味起个名字、锐评一句，再按每首歌点喜欢的月份画成一张能分享的唱片；用 YouTube Music 的话还是一个每周更新的私人电台，每首歌都说为什么选它 - [GitHub 仓库](https://github.com/billpwchan/zhiyin)",
+    "author": "Bill Chan(香港)",
+    "authorGithub": "https://github.com/billpwchan",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "TypeAloud",
+    "url": "https://typealoud.app/zh",
+    "status": "online",
+    "description": "Mac/Windows 语音输入工具，在任意应用里按住快捷键说话、松手文字就出现在光标处，用千问 Qwen3-ASR 在本机转写，中英混说也能识别；免费开源，本地转写无需注册或 API Key - [更多介绍](https://github.com/hellotaotao/typealoud)",
+    "author": "Tao Wang",
+    "authorGithub": "https://github.com/hellotaotao",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ClapClip AI",
+    "url": "https://www.clapclip.net/",
+    "status": "online",
+    "description": "在自己的 Windows 10/11 电脑上给照片和长视频换脸，4 个模型可选，实时预览，NVIDIA/AMD/Intel 显卡加速，素材不上传；安装和预览免费，导出需订阅",
+    "author": "ClapClip",
+    "authorGithub": "https://github.com/ClapClip",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "OK JLPT",
+    "url": "https://okjlpt.com/zh-Hans",
+    "status": "online",
+    "description": "日语能力考试（JLPT）练习网站，N5–N1 按年份整理的 104 套整卷练习（2010–2026），带听力音频，在线作答、交卷自动估分并给出中文解析；另有免费的[估分计算器](https://okjlpt.com/zh-Hans/tools/score)和助词、动词变形练习。N5、N4 全部免费，N3–N1 各一套免费，其余需会员",
+    "author": "Torres",
+    "authorGithub": "",
+    "date": "2026 年 11 月 9 号添加",
+    "category": "main"
+  },
+  {
+    "name": "THE JURY",
+    "url": "https://jury.pagecleans.com",
+    "status": "online",
+    "description": "匿名困境盲投裁决社区，发私人两难陌生人盲投，满 30 票且单项严格过半才结案生成可分享裁决卡，浏览和投稿无需注册",
+    "author": "bellefly-god",
+    "authorGithub": "https://github.com/bellefly-god",
+    "date": "2026 年 11 月 9 号添加",
+    "category": "main"
+  },
+  {
+    "name": "OurYearbook",
+    "url": "https://ouryearbook.pagecleans.com",
+    "status": "online",
+    "description": "同学共同书写的线上班级纪念册，回忆由不同同学补充各自视角，设定日期才解锁的未来信件，隐私优先仅开放示例班",
+    "author": "bellefly-god",
+    "authorGithub": "https://github.com/bellefly-god",
+    "date": "2026 年 11 月 9 号添加",
+    "category": "main"
+  },
+  {
     "name": "Lingki AI",
     "url": "https://lingki.info/app?utm_source=chinese-indie-dev&utm_medium=list&utm_campaign=lingki-ai-2026-11",
     "status": "online",
@@ -2181,7 +2281,7 @@
   },
   {
     "name": "夸夸跨境",
-    "url": "https://kuakuakua.com/pricing-calculator/",
+    "url": "https://kuakuakua.com/tools/pricing-calculator/",
     "status": "online",
     "description": "面向中国 Ozon 跨境卖家的免费定价计算器（免登录，按类目佣金、rFBS/FBP 物流资费、汇率与目标利润反推建议售价）与中文实操教程；可选多店体检工作台 — Web 应用",
     "author": "ikeisthere",
@@ -16650,193 +16750,13 @@
     "category": "main"
   },
   {
-    "name": "TmpMail",
-    "url": "https://www.tmpmail.online",
-    "status": "online",
-    "description": "免费临时邮箱TmpMail",
-    "author": "heyjude(上海）",
-    "authorGithub": "",
-    "date": "2025 年 7 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Posterfy",
-    "url": "https://www.posterfy.art/",
-    "status": "offline",
-    "description": "生成音乐海报",
-    "author": "heyjude(上海）",
-    "authorGithub": "",
-    "date": "2025 年 7 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Avatify",
-    "url": "https://www.avatify.online/",
-    "status": "online",
-    "description": "生成头像",
-    "author": "heyjude(上海）",
-    "authorGithub": "",
-    "date": "2025 年 7 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "LLMOCR",
-    "url": "https://llmocr.com",
-    "status": "online",
-    "description": "基于 AI 的 OCR 服务",
-    "author": "Selenium39(广州) - [Selenium39](http://github.com/Selenium39)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "FWFW",
-    "url": "https://fwfw.app",
-    "status": "online",
-    "description": "Find Websites From World",
-    "author": "Selenium39(广州) - [Selenium39](http://github.com/Selenium39)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 14 号添加",
-    "category": "main"
-  },
-  {
-    "name": "stater best",
-    "url": "https://starterbest.com/",
-    "status": "online",
-    "description": "收集一下发布的产品，可以作为导航站、发布站",
-    "author": "nogeek(杭州)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 13 号添加",
-    "category": "main"
-  },
-  {
-    "name": "melhorar imagem",
-    "url": "https://melhorarimagem.org",
-    "status": "online",
-    "description": "专注巴西市场的在线图像处理工具，用 AI 帮助用户提升图片分辨率、增强画质、修复模糊和噪点，让您的照片焕然一新。",
-    "author": "fanison(北京)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "魔镜歌词网",
-    "url": "https://mojigeci.com/",
-    "status": "online",
-    "description": "500 万歌词库，专业歌词搜索平台 - [更多介绍](https://mojigeci.com/about)",
-    "author": "hjiayu799",
-    "authorGithub": "",
-    "date": "2025 年 7 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "PoPo",
-    "url": "https://popo.love",
-    "status": "online",
-    "description": "LLM 在线生成 MMD 纸片人姿势",
-    "author": "Amyang(美国)",
-    "authorGithub": "https://github.com/AmyangXYZ",
-    "date": "2025 年 7 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "SS 工具箱",
-    "url": "https://tools.mind-elixir.com/",
-    "status": "online",
-    "description": "SS 工具箱是一个集成 40+ 实用在线工具的综合平台，专为提升你的工作效率和创造力而设计。所有工具完全在浏览器中运行，无需上传数据，确保完全的隐私和安全",
-    "author": "SSShooter - [GitHub](https://github.com/SSShooter)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "KissPixel",
-    "url": "https://kisspixel.ai/",
-    "status": "online",
-    "description": "AI 图像生成平台，集成六大核心工具：文本生成图像、图像风格转换、AI 换脸、智能图像替换、图像扩展和图像放大。平台采用积分制运营模式，新用户注册即可获得免费积分。支持多种订阅计划，满足不同用户需求。所有生成的图像均享有商业使用许可，可用于个人和商业项目。无论您是内容创作者、设计师还是营销专业人士，KissPixel 都能为您提供专业的 AI 图像创作解决方案。",
-    "author": "liunice (深圳)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "铜钟",
-    "url": "https://tonzhon.whamon.com/",
-    "status": "online",
-    "description": "专注听歌，无广告和社交，下载 歌曲/歌词，创建歌单，资源丰富，UI 清爽 - [更多介绍](https://about-tonzhon.netlify.app/)",
-    "author": "李恩泽 - [GitHub](https://github.com/enzeberg)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "分身宝",
-    "url": "https://clone.youchong.club",
-    "status": "online",
-    "description": "Android 应用多开工具，支持微信、QQ、抖音、小红书、淘宝、京东、拼多多、美团、快手、咸鱼等绝大多数主流应用以及各类游戏，轻松管理多个账号。",
-    "author": "hcc(北京)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "客群采集-微信小程序",
-    "url": "https://my-works.oss-cn-beijing.aliyuncs.com/images/download.jpg",
-    "status": "online",
-    "description": "拓客小工具，基于地理位置以及一些开放的api去采集商户信息，并围绕这些信息提供了一系列的小功能，例如：数据导入导出、拨打电话、保存通讯录、导航等等",
-    "author": "asui(泉州)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Humanizar Text",
-    "url": "https://humanizartexto.app/",
-    "status": "online",
-    "description": "一键优化 AI 生成的文本，让AI无法检测到文本是AI所生成，AI时代下“去AI”的本文神器。",
-    "author": "iam-tin",
-    "authorGithub": "https://github.com/iam-tin",
-    "date": "2025 年 7 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "HIDream AI",
-    "url": "https://hidream.online/",
-    "status": "online",
-    "description": "HiDream 大模型在线生成图像，让图像更清晰更逼真。",
-    "author": "iam-tin",
-    "authorGithub": "https://github.com/iam-tin",
-    "date": "2025 年 7 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "MORSE CODE",
-    "url": "https://morsecode-translator.app/",
-    "status": "online",
-    "description": "一键把内容生成对应的摩斯电码的平台，可以通过摩斯电码表达爱意，或者让莫斯电码成为两个人之间的“加密”语言。",
-    "author": "iam-tin",
-    "authorGithub": "https://github.com/iam-tin",
-    "date": "2025 年 7 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "摸鱼地图",
-    "url": "https://moyumap.com/",
-    "status": "offline",
-    "description": "记录和可视化大家\"摸鱼\"次数的趣味网站。包括摸鱼区域热力图，摸鱼排行榜，看看今天谁在一起摸鱼。",
-    "author": "sk(广州)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 7 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "sk(广州)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 7 号添加",
+    "author": "james（武汉）",
+    "authorGithub": "https://github.com/JamesHuang22",
+    "date": "2025 年 7 月 16 号添加",
     "category": "main"
   },
   {
@@ -16844,9 +16764,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "sk(广州)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 7 号添加",
+    "author": "james（武汉）",
+    "authorGithub": "https://github.com/JamesHuang22",
+    "date": "2025 年 7 月 16 号添加",
     "category": "main"
   },
   {
@@ -16854,9 +16774,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "sk(广州)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 7 号添加",
+    "author": "james（武汉）",
+    "authorGithub": "https://github.com/JamesHuang22",
+    "date": "2025 年 7 月 16 号添加",
     "category": "main"
   },
   {
@@ -16864,9 +16784,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "sk(广州)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 7 号添加",
+    "author": "james（武汉）",
+    "authorGithub": "https://github.com/JamesHuang22",
+    "date": "2025 年 7 月 16 号添加",
     "category": "main"
   }
 ]
