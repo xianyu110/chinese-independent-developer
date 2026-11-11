@@ -1,5 +1,75 @@
 [
   {
+    "name": "Mole",
+    "url": "https://mole.fit",
+    "status": "online",
+    "description": "Mac 和 Windows 上的原生清理工具，清理电脑残留垃圾、连同残留一起卸载 App、看清磁盘空间被谁占了，删之前都先列出来让你确认，一次买断 - [Windows 版](https://mole.fit/windows)",
+    "author": "Tw93",
+    "authorGithub": "https://github.com/tw93",
+    "date": "2026 年 11 月 11 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Pake",
+    "url": "https://pake.run/",
+    "status": "online",
+    "description": "把常用网站变成 Mac、Windows 和 Linux 上的桌面 App，从画廊挑一个或贴上网址就能生成，有自己的图标和窗口，不用装 Node.js 或 Rust，免费做 2 个，之后一次买断",
+    "author": "Tw93",
+    "authorGithub": "https://github.com/tw93",
+    "date": "2026 年 11 月 11 号添加",
+    "category": "main"
+  },
+  {
+    "name": "vvid",
+    "url": "https://vvid.tv/home",
+    "status": "online",
+    "description": "给特斯拉车机浏览器用的网页应用，手机上把 YouTube、B站、抖音链接加进媒体库，车机浏览器打开同一账号就能播，无需安装 App",
+    "author": "Opie Studio(多伦多) - [网站](https://vvid.tv/home)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 11 号添加",
+    "category": "main"
+  },
+  {
+    "name": "FlyDesk 飞桌",
+    "url": "https://desk.flychat.work/",
+    "status": "online",
+    "description": "远程桌面软件，在手机上输入设备 ID 与访问码连接自己的电脑，支持触控、键盘操作、同账号设备管理和云收藏；普通单人连接免费，含 VIP 付费权益 - [下载](https://desk.flychat.work/downloads) · [开发方介绍与体验招募](https://zhuanlan.zhihu.com/p/2103291767672026342)",
+    "author": "FlyDesk 飞桌开发团队（成都）",
+    "authorGithub": "https://github.com/lyingjack",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "wmfree",
+    "url": "https://wmfree.com/",
+    "status": "online",
+    "description": "网页图片去水印工具，在浏览器里涂抹或框选即可修复、打码或裁剪，本地处理不上传，打开即用、无需注册 - [更多介绍](https://github.com/pamelaaaaa1218/watermark-remover)",
+    "author": "Pamela",
+    "authorGithub": "https://github.com/pamelaaaaa1218",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "EarlyLore",
+    "url": "https://earlylore.com",
+    "status": "online",
+    "description": "产品调研网站，写下想法或粘贴网址，对照真实在线软件看竞争、定价和获客后再决定是否动手；流量为估算，免费可用，提供中日文界面",
+    "author": "Kai Jiang",
+    "authorGithub": "https://github.com/jiangqizheng",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Lyrics to Song AI",
+    "url": "https://lyricstosongai.org",
+    "status": "online",
+    "description": "AI 歌词成曲工具，把你写好的歌词做成带人声的完整歌曲，可选风格并一次生成多个版本对比",
+    "author": "kiya0908",
+    "authorGithub": "https://github.com/kiya0908",
+    "date": "2026 年 11 月 10 号添加",
+    "category": "main"
+  },
+  {
     "name": "EmoteLoop",
     "url": "https://emoteloop.com/",
     "status": "online",
@@ -16660,103 +16730,13 @@
     "category": "main"
   },
   {
-    "name": "怼怼侠",
-    "url": "https://www.duiduixia.com/",
-    "status": "online",
-    "description": "小网站，用 AI 帮你优雅回怼阴阳怪气，不带脏话",
-    "author": "Patrick (顺德)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "好有链接 数字名片",
-    "url": "https://links.haoyou.tech",
-    "status": "offline",
-    "description": "数字名片工具，支持多身份名片管理和中文口令分享。它帮助你为每一个社交身份创建独立的名片，分别绑定不同的社交账号、内容卡片和联系方式。在不同场合，分享不同的自己，让对方快速了解你，无需反复自我介绍。除了支持微信分享你的名片。你还可以给每张卡片都绑定中文口令。通过口令搜索和分享卡片，轻巧、便捷，也更有趣 - [小程序二维码](https://links.haoyou.tech/Drawing_bed/Slide_16_9_-_25.png)",
-    "author": "Q.Jin",
-    "authorGithub": "https://github.com/qijin-3",
-    "date": "2025 年 7 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "会员次卡通",
-    "url": "https://emember.hnher.com",
-    "status": "online",
-    "description": "会员计次卡管理系统",
-    "author": "Hnher(郑州) - [博客](https://www.hnher.com)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "互游侠",
-    "url": "https://egame.hnher.com",
-    "status": "online",
-    "description": "游戏卡册收集器",
-    "author": "Hnher(郑州) - [博客](https://www.hnher.com)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "ContactHelper",
-    "url": "https://apps.apple.com/us/app/contacthelper/id6738916060",
-    "status": "online",
-    "description": "编辑通讯录联系人属性，让 iPhone 支持T9拨号以及非中文系统下的通讯录排序",
-    "author": "fx(深圳)",
-    "authorGithub": "https://github.com/limxfx",
-    "date": "2025 年 7 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Gone & Left",
-    "url": "https://apps.apple.com/us/app/gone-left/id6744050306",
-    "status": "online",
-    "description": "时间可视化，感受每一刻时间的流逝，支持 iPhone 小组件",
-    "author": "fx(深圳)",
-    "authorGithub": "https://github.com/limxfx",
-    "date": "2025 年 7 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Omnigen2",
-    "url": "https://omnigen2.org/",
-    "status": "online",
-    "description": "智源开源的 7B 统一多模态图像生成模型，一句话精准完成风格转换、元素增删、背景替换等高阶 PS 级操作。",
-    "author": "ziwu(广州)",
-    "authorGithub": "https://github.com/ziwu7",
-    "date": "2025 年 7 月 17 号添加",
-    "category": "main"
-  },
-  {
-    "name": "水印相机",
-    "url": "https://camera.hnher.com/",
-    "status": "online",
-    "description": "可以拍带水印照片并分享给微信好友。",
-    "author": "hnher(郑州)",
-    "authorGithub": "",
-    "date": "2025 年 7 月 17 号添加",
-    "category": "main"
-  },
-  {
-    "name": "去留助手AI",
-    "url": "https://www.huiguo.info/",
-    "status": "online",
-    "description": "专为海外留学生和海外发展的华人打造的智能决策辅助工具。通过 AI 大模型分析，根据每个人不同的情况，评估“回国发展”与“留在海外”两种路径的优劣，助力做出更明智的职业与人生选择。并且能通过大数据分析，智能计算与同龄人平均水平的位置。",
-    "author": "james（武汉）",
-    "authorGithub": "https://github.com/JamesHuang22",
-    "date": "2025 年 7 月 16 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "james（武汉）",
-    "authorGithub": "https://github.com/JamesHuang22",
-    "date": "2025 年 7 月 16 号添加",
+    "author": "fanison(北京) ",
+    "authorGithub": "",
+    "date": "2025 年 7 月 21 号添加",
     "category": "main"
   },
   {
@@ -16764,9 +16744,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "james（武汉）",
-    "authorGithub": "https://github.com/JamesHuang22",
-    "date": "2025 年 7 月 16 号添加",
+    "author": "fanison(北京) ",
+    "authorGithub": "",
+    "date": "2025 年 7 月 21 号添加",
     "category": "main"
   },
   {
@@ -16774,9 +16754,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "james（武汉）",
-    "authorGithub": "https://github.com/JamesHuang22",
-    "date": "2025 年 7 月 16 号添加",
+    "author": "fanison(北京) ",
+    "authorGithub": "",
+    "date": "2025 年 7 月 21 号添加",
     "category": "main"
   },
   {
@@ -16784,9 +16764,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "james（武汉）",
-    "authorGithub": "https://github.com/JamesHuang22",
-    "date": "2025 年 7 月 16 号添加",
+    "author": "fanison(北京) ",
+    "authorGithub": "",
+    "date": "2025 年 7 月 21 号添加",
     "category": "main"
   }
 ]
