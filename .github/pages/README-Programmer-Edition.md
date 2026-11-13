@@ -16,6 +16,17 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 13 号添加
+
+#### bebincas - [Github](https://github.com/bebincas)
+* :white_check_mark: [Github加速器](https://github.com/bebincas/IPOptimize)：免费开源 Windows 本地工具，通过优选 IP 来加速 GitHub 和 Cloudflare CDN 网站（非 VPN）
+
+#### 阿東 - [GitHub](https://github.com/antonailog)
+* :white_check_mark: [skills](https://github.com/antonailog/skills)：Claude Code / Codex 用的 Agent Skill 合集，做调研报告、播客笔记、公众号和小红书稿、生图 prompt 和新 Skill，每个附一个真实跑过的例子
+
+#### 卡站 KAZHAN
+* :white_check_mark: [卡站 AI 会员选购助手](https://kazhan.store/choose?utm_source=github_chinese_independent_developer&utm_campaign=launch_20261113)：AI 会员选购与比价网站，按平台和预算筛选套餐，支持最多 3 件商家报价同屏对比，选购比价免费且无需注册
+
 ### 2026 年 11 月 12 号添加
 
 #### Skillπ - [GitHub](https://github.com/Findskills)

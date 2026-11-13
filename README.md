@@ -27,7 +27,33 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 13 号添加
+
+#### Kan - [Github](https://github.com/kanlac)
+* :white_check_mark: [Tutti](https://tutti-studio.com)：乐谱 PDF 转 MusicXML 工具，直接读取 Sibelius 等打谱软件导出 PDF 里的音符数据，而不是靠图像识别，转完可在 MuseScore、Dorico、Sibelius 里继续编辑，每周 5 页免费
+
+#### AutoResearch
+* :white_check_mark: [AutoResearch](https://autoresearch.me/zh/)：浏览器端 AI 科研系统，将文献探索、科研想法、模型实现、GPU 实验与论文写作连在同一流程。完整系统目前为内测：需在官网提交申请，经管理员审核通过后，按邮件引导设置密码并登录；获批成员获赠 5,000 初始 credits。官方说明内测期间免费，但这是有限额度，不是无限免费；后续方案已在价格页预览，具体价格尚未公布
+
+#### aiyo407(广州)
+* :white_check_mark: [SeekPhoto](https://www.seekphoto.cn)：Windows 本地 AI 搜图工具，用一句中文描述（如「海滩日落」「孩子笑脸」）就能在几万张照片里找到那张，还能以图搜图、搜照片上的文字；照片和 AI 都在自己电脑上跑、不上传云端，直接在原有文件夹建索引，免费版永久可用，Pro 一次性买断
+
+#### 阿東 - [GitHub](https://github.com/antonailog)
+* :white_check_mark: [国内AI活动追踪](https://antonailog.com/more/ai-events/)：每天汇总国内 AI 大会、分享会和黑客松，合并重复活动，按日历、城市和线上线下查看，可订阅每日邮件简报
+
+#### gessov 的开发者
+* :white_check_mark: [gessov](https://apps.apple.com/cn/app/id6815108797)：英英词汇 iPhone app，先读英文例句理解语境，再看全英文解释，不给中文释义；无需注册，进度只存在手机上 - [更多介绍](https://gessov.com)
+
+#### lhq1363511234 - [Github](https://github.com/lhq1363511234)
+* :white_check_mark: [inspace](https://opctoai.com/inspace)：地点攻略与故事网站，按地点查阅内容，并用一个空间链接分享攻略和记录 - [更多介绍](https://gist.github.com/lhq1363511234/fa7deee0b07eb516ddd03f4fd6b8cce1)
+
+#### CoderLim(北京) - [Github](https://github.com/CoderLim), [博客](https://limbuilder.hashnode.dev/)
+* :white_check_mark: [AI Photo Editor](https://getaiphotoeditor.com/)：免费在线 AI 图片编辑器，无需注册
+
 ### 2026 年 11 月 12 号添加
+
+#### frank(上海) - [Github](https://github.com/fxxqq)
+* :white_check_mark: [造梦橱窗](https://zm94.com/)：独立开发者作品收录榜，免费投稿网站、小程序、软件，按每周数据打分选出精选作品上榜展示
 
 #### wujm12138 - [GitHub](https://github.com/wujm12138)
 * :white_check_mark: [AI秒记账](https://gist.githubusercontent.com/wujm12138/1cad024149ad8528c03a4286dcffcb58/raw/a097ee5ce7d86bf9b005d657c24d14fc53c8d8b4/ai-miaojizhang.jpg)：给经常出差、先替公司垫钱的人用的微信小程序。每趟出差单开一个账本，路上说一句或传张票就能记一笔，回来按趟导出 Excel
@@ -5075,33 +5101,6 @@
 ### 2025 年 8 月 13 号添加
 #### Ethan Sunray
 * :white_check_mark: [Wplace Tool](https://wplacetool.com)：基于浏览器的工具集，帮助 wplace.live 玩家设计像素艺术、匹配官方调色板颜色、监控服务器状态，并协调团队构建
-
-### 2025 年 8 月 12 号添加
-#### jammy24 - [Github](https://github.com/chenminjie24)
-* :white_check_mark: [PromptArk](https://promptark.net/)：帮助用户优化提示词，用户输入简单的提示词，AI 辅助生成更结构化，更详细的提示词
-
-#### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [LLM from URL](https://818233.xyz/)：通过网址直接使用大模型，完全免费，只需把提问放在 [818233.xyz](https://818233.xyz/) 之后作为新的网址即可获得大模型的回答，支持中文，也支持从 Linux/Mac 终端通过 wget 调用
-
-#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
-* :white_check_mark: [TweetCloner](https://tweetcloner.com/)：为使用 X/Twitter 设计的创意工具。克隆任何推文创意，翻译或再创作，将其改造成你自己的全新原创内容，再发布到 X/Twitter
-
-#### heyjude(上海）- [Github](https://github.com/heyjude1817)
-* :white_check_mark: [MP3TO](https://www.mp3to.cc): mp3 格式转换工具网站
-* :white_check_mark: [MP4TO](https://www.mp4to.cc): mp4 格式转换工具网站
-
-### 2025 年 8 月 8 号添加
-#### lio(广东) - [Github](https://github.com/31702160136/ComfyUI-GrsAI)
-* :white_check_mark: [GrsAi](https://grsai.com/)：GrsAI 国外主流 AI 模型 API 平台。提供价格便宜（全网最低价）稳定的 GPT-4o、Gemini、Flux 和 Veo3 AI API，GPT-4o 图像生成仅需 0.02 一张图
-
-#### Leochens(北京)
-* :white_check_mark: [状态栏小本本 (macOS)](https://apps.apple.com/us/app/%E7%8A%B6%E6%80%81%E6%A0%8F%E5%B0%8F%E6%9C%AC%E6%9C%AC/id6749236800)：可以在状态栏调起的小本本，查看备忘或者速记灵感，不需要回到主页面，在任何屏幕上方都可以直接调起。支持富文本编辑、快捷键调出。
-
-#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
-* :white_check_mark: [WebsiteScreenshot.online](https://websitescreenshot.online/)：免费在线网站截图工具。支持 PNG、JPEG、PDF 格式，支持自定义分辨率，支持移动端和桌面端视图。无需注册，立即使用！ - [更多介绍](https://websitescreenshot.online/zh-CN#features)
-
-#### monoonw(杭州)
-* :white_check_mark: [Discord Timestamp Generator](https://discordtimestampgenerator.net)：简化了在 Disord 中创建特殊格式信息的过程，这些信息会以每个查看者的当地时区显示日期和时间，从而使跨时区的活动协调变得更加容易。
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
