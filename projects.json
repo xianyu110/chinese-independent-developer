@@ -1,5 +1,85 @@
 [
   {
+    "name": "Tutti",
+    "url": "https://tutti-studio.com",
+    "status": "online",
+    "description": "乐谱 PDF 转 MusicXML 工具，直接读取 Sibelius 等打谱软件导出 PDF 里的音符数据，而不是靠图像识别，转完可在 MuseScore、Dorico、Sibelius 里继续编辑，每周 5 页免费",
+    "author": "Kan",
+    "authorGithub": "https://github.com/kanlac",
+    "date": "2026 年 11 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AutoResearch",
+    "url": "https://autoresearch.me/zh/",
+    "status": "online",
+    "description": "浏览器端 AI 科研系统，将文献探索、科研想法、模型实现、GPU 实验与论文写作连在同一流程。完整系统目前为内测：需在官网提交申请，经管理员审核通过后，按邮件引导设置密码并登录；获批成员获赠 5,000 初始 credits。官方说明内测期间免费，但这是有限额度，不是无限免费；后续方案已在价格页预览，具体价格尚未公布",
+    "author": "AutoResearch",
+    "authorGithub": "",
+    "date": "2026 年 11 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "SeekPhoto",
+    "url": "https://www.seekphoto.cn",
+    "status": "online",
+    "description": "Windows 本地 AI 搜图工具，用一句中文描述（如「海滩日落」「孩子笑脸」）就能在几万张照片里找到那张，还能以图搜图、搜照片上的文字；照片和 AI 都在自己电脑上跑、不上传云端，直接在原有文件夹建索引，免费版永久可用，Pro 一次性买断",
+    "author": "aiyo407(广州)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "国内AI活动追踪",
+    "url": "https://antonailog.com/more/ai-events/",
+    "status": "online",
+    "description": "每天汇总国内 AI 大会、分享会和黑客松，合并重复活动，按日历、城市和线上线下查看，可订阅每日邮件简报",
+    "author": "阿東 - [GitHub](https://github.com/antonailog)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "gessov",
+    "url": "https://apps.apple.com/cn/app/id6815108797",
+    "status": "online",
+    "description": "英英词汇 iPhone app，先读英文例句理解语境，再看全英文解释，不给中文释义；无需注册，进度只存在手机上 - [更多介绍](https://gessov.com)",
+    "author": "gessov 的开发者",
+    "authorGithub": "",
+    "date": "2026 年 11 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "inspace",
+    "url": "https://opctoai.com/inspace",
+    "status": "online",
+    "description": "地点攻略与故事网站，按地点查阅内容，并用一个空间链接分享攻略和记录 - [更多介绍](https://gist.github.com/lhq1363511234/fa7deee0b07eb516ddd03f4fd6b8cce1)",
+    "author": "lhq1363511234",
+    "authorGithub": "https://github.com/lhq1363511234",
+    "date": "2026 年 11 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI Photo Editor",
+    "url": "https://getaiphotoeditor.com/",
+    "status": "online",
+    "description": "免费在线 AI 图片编辑器，无需注册",
+    "author": "CoderLim(北京)",
+    "authorGithub": "https://github.com/CoderLim",
+    "date": "2026 年 11 月 13 号添加",
+    "category": "main"
+  },
+  {
+    "name": "造梦橱窗",
+    "url": "https://zm94.com/",
+    "status": "online",
+    "description": "独立开发者作品收录榜，免费投稿网站、小程序、软件，按每周数据打分选出精选作品上榜展示",
+    "author": "frank(上海)",
+    "authorGithub": "https://github.com/fxxqq",
+    "date": "2026 年 11 月 12 号添加",
+    "category": "main"
+  },
+  {
     "name": "AI秒记账",
     "url": "https://gist.githubusercontent.com/wujm12138/1cad024149ad8528c03a4286dcffcb58/raw/a097ee5ce7d86bf9b005d657c24d14fc53c8d8b4/ai-miaojizhang.jpg",
     "status": "online",
@@ -16640,103 +16720,13 @@
     "category": "main"
   },
   {
-    "name": "PromptArk",
-    "url": "https://promptark.net/",
-    "status": "online",
-    "description": "帮助用户优化提示词，用户输入简单的提示词，AI 辅助生成更结构化，更详细的提示词",
-    "author": "jammy24",
-    "authorGithub": "https://github.com/chenminjie24",
-    "date": "2025 年 8 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "LLM from URL",
-    "url": "https://818233.xyz/",
-    "status": "online",
-    "description": "通过网址直接使用大模型，完全免费，只需把提问放在 [818233.xyz](https://818233.xyz/) 之后作为新的网址即可获得大模型的回答，支持中文，也支持从 Linux/Mac 终端通过 wget 调用",
-    "author": "yvonuk - [推特](https://x.com/mcwangcn)",
-    "authorGithub": "",
-    "date": "2025 年 8 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "TweetCloner",
-    "url": "https://tweetcloner.com/",
-    "status": "online",
-    "description": "为使用 X/Twitter 设计的创意工具。克隆任何推文创意，翻译或再创作，将其改造成你自己的全新原创内容，再发布到 X/Twitter",
-    "author": "ShawnHacks(北京)",
-    "authorGithub": "https://github.com/ShawnHacks",
-    "date": "2025 年 8 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "MP3TO",
-    "url": "https://www.mp3to.cc",
-    "status": "online",
-    "description": "mp3 格式转换工具网站",
-    "author": "heyjude(上海）",
-    "authorGithub": "https://github.com/heyjude1817",
-    "date": "2025 年 8 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "MP4TO",
-    "url": "https://www.mp4to.cc",
-    "status": "online",
-    "description": "mp4 格式转换工具网站",
-    "author": "heyjude(上海）",
-    "authorGithub": "https://github.com/heyjude1817",
-    "date": "2025 年 8 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "GrsAi",
-    "url": "https://grsai.com/",
-    "status": "online",
-    "description": "GrsAI 国外主流 AI 模型 API 平台。提供价格便宜（全网最低价）稳定的 GPT-4o、Gemini、Flux 和 Veo3 AI API，GPT-4o 图像生成仅需 0.02 一张图",
-    "author": "lio(广东)",
-    "authorGithub": "https://github.com/31702160136/ComfyUI-GrsAI",
-    "date": "2025 年 8 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "状态栏小本本 (macOS)",
-    "url": "https://apps.apple.com/us/app/%E7%8A%B6%E6%80%81%E6%A0%8F%E5%B0%8F%E6%9C%AC%E6%9C%AC/id6749236800",
-    "status": "online",
-    "description": "可以在状态栏调起的小本本，查看备忘或者速记灵感，不需要回到主页面，在任何屏幕上方都可以直接调起。支持富文本编辑、快捷键调出。",
-    "author": "Leochens(北京)",
-    "authorGithub": "",
-    "date": "2025 年 8 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "WebsiteScreenshot.online",
-    "url": "https://websitescreenshot.online/",
-    "status": "online",
-    "description": "免费在线网站截图工具。支持 PNG、JPEG、PDF 格式，支持自定义分辨率，支持移动端和桌面端视图。无需注册，立即使用！ - [更多介绍](https://websitescreenshot.online/zh-CN#features)",
-    "author": "ShawnHacks(北京)",
-    "authorGithub": "https://github.com/ShawnHacks",
-    "date": "2025 年 8 月 8 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Discord Timestamp Generator",
-    "url": "https://discordtimestampgenerator.net",
-    "status": "online",
-    "description": "简化了在 Disord 中创建特殊格式信息的过程，这些信息会以每个查看者的当地时区显示日期和时间，从而使跨时区的活动协调变得更加容易。",
-    "author": "monoonw(杭州)",
-    "authorGithub": "",
-    "date": "2025 年 8 月 8 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "monoonw(杭州)",
+    "author": "Ethan Sunray",
     "authorGithub": "",
-    "date": "2025 年 8 月 8 号添加",
+    "date": "2025 年 8 月 13 号添加",
     "category": "main"
   },
   {
@@ -16744,9 +16734,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "monoonw(杭州)",
+    "author": "Ethan Sunray",
     "authorGithub": "",
-    "date": "2025 年 8 月 8 号添加",
+    "date": "2025 年 8 月 13 号添加",
     "category": "main"
   },
   {
@@ -16754,9 +16744,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "monoonw(杭州)",
+    "author": "Ethan Sunray",
     "authorGithub": "",
-    "date": "2025 年 8 月 8 号添加",
+    "date": "2025 年 8 月 13 号添加",
     "category": "main"
   },
   {
@@ -16764,9 +16754,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "monoonw(杭州)",
+    "author": "Ethan Sunray",
     "authorGithub": "",
-    "date": "2025 年 8 月 8 号添加",
+    "date": "2025 年 8 月 13 号添加",
     "category": "main"
   }
 ]
