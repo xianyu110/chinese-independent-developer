@@ -27,7 +27,33 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 15 号添加
+
+#### Quanneng BI - [GitHub](https://github.com/biquanneng)
+* :white_check_mark: [GSC Vault](https://gscvault.app/zh)：给网站站长的 Chrome 扩展，打开即用：批量对照 Search Console 官方数据，列出 Sitemap 里哪些页面没被 Google 收录以及原因，并把 GSC 数据自动备份到自己的 Google Drive，不怕超过 16 个月被删除。3 个站点以内免费
+
+#### jiangweiqi001
+* :white_check_mark: [运动营养健康指南](https://jiangweiqi001.github.io/sports-nutrition-health/search.html)：给普通成年人的中文问答网站，免费、免登录，可直接搜索 465 条关于跑步、力量训练、营养和训练健康的问题。回答优先参考权威指南、专业学会的立场声明和系统综述，每条都标注证据等级并附参考出处 - [项目介绍](https://github.com/jiangweiqi001/sports-nutrition-health)
+
+#### tusunsun - [GitHub](https://github.com/tusunsun)
+* :white_check_mark: [iching.tools](https://iching.tools/zh-CN)：在线易经占卜，水墨风界面里点屏幕逐爻掷铜钱起卦，附 64 卦与 384 爻原文解读，可免费 AI 解卦，支持简繁英日韩等 10 种语言
+
 ### 2026 年 11 月 14 号添加
+
+#### Nathan - [GitHub](https://github.com/siuserxiaowei)
+* :white_check_mark: [giffgaff 保号提醒工具](https://getgiffgaff.com/tools/keep-number-reminder/)：境外卡保号日历提醒工具，输入上次使用日期在浏览器本地计算第 5 个月缓冲期并导出 .ics 日历文件，防范跨国号码因逾期未用被注销；纯本地计算不收集号码，免费免注册 - [开源仓库](https://github.com/siuserxiaowei/keep-number-reminder)
+
+#### Lorraine（新加坡） - [Github](https://github.com/LorraineLiuNUS)
+* :white_check_mark: [灵犀 Lyncis](https://lyncis.app)：国学版 MBTI，输入生日，测出你在《周易》64 卦里的本命卦、身份名和本命神，还能拉朋友合一卦，看你们是什么组合；不算命、不断吉凶，每一句都有古籍出处，支持中英文，网页直接用
+
+#### 数字生命卡兹克 - [Github](https://github.com/KKKKhazix)
+* :white_check_mark: [AIHOT](https://aihot.news/)：中文 AI 资讯网站，把模型发布、新产品、研究和行业动态整理成精选与日、周、月报，每条保留原文链接，也可以按主题跟踪进展。打开即读，无需注册
+
+#### CrabMen - [GitHub](https://github.com/CrabMen)
+* :white_check_mark: [農民曆](https://nongminli.tw/)：面向台湾的农历、宜忌与国定假日查询网站，附资料来源；提供免费的假日行事历订阅，目前包含 2026、2027 年，无需注册即可使用 - [订阅教学](https://github.com/CrabMen/nongminli.tw/blob/main/docs/calendar-subscription.md)
+
+#### Alwzc - [GitHub](https://github.com/Alwzc)
+* :white_check_mark: [光梦 AlphaDrama](https://www.getalphadrama.com/)：AI 短剧漫剧与带货视频工作台，把网文小说或商品图一键改写成 60 秒 9:16 竖屏剧本、生成角色正侧背三视图锁脸、拆解 12–18 镜分镜表，接 Seedance / 可灵 / 海螺 / Wan / Veo 批量生视频并配音压字幕导出成片；也支持粘贴爆款短视频链接按镜拆解复刻。新注册送免费体验额度 - [国内直连](https://ad.yosweet.cn/)
 
 #### jayyaj642111-bit - [GitHub](https://github.com/jayyaj642111-bit)
 * :white_check_mark: [PixBloom](https://pixbloom.org)：上传一张商品实拍，一次出齐白底主图、使用场景图、材质细节图和多角度图（电商套图）；也能一句话生成小红书封面、春节海报、头像和壁纸。按张消耗积分（每张 10 积分），首单 ¥9.9 可生成 4 张，生成失败自动退回积分
@@ -5057,31 +5083,6 @@
 ### 2025 年 8 月 26 号添加
 #### Lizer(重庆) - [Github](https://github.com/Loverz55)
 * :white_check_mark: [数字生命管](https://news.lizer.cc/)：抖音热搜时间轴， 一小时自动抓取一次，通过工作流全网搜关于这个事件的时间线，然后  AI 梳理，AI 配图
-
-### 2025 年 8 月 25 号添加
-#### 北纬27度
-* :white_check_mark: [ARR (Annual Recurring Revenue) （年度经常性收入）排行榜](https://arrfounder.com)：爬取了全网公开的 ARR 营收数据做的 founder ARR 榜单，会定期更新，感兴趣的朋友可以看看，说不定你也在这份榜单上面
-
-#### YILS-LIN - [Github](https://github.com/YILS-LIN)
-* :white_check_mark: [AI Short Video Factory - 短视频工厂](https://github.com/YILS-LIN/short-video-factory)：一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具
-
-#### AskTao - [Github](https://github.com/ask-tao)
-* :white_check_mark: [Image Splitter](https://github.com/ask-tao/image-splitter)：图集拆分工具。帮助`游戏开发者`或`UI设计师`快速、方便地从一张雪碧图 (`Sprite Sheet`) 中，提取出所有独立的精灵icon资源，或按网格分割图片得到其切片。平台支持：mac/win/linux/web
-
-### 2025 年 8 月 24 号添加
-#### hackun666 - [Github](https://github.com/hackun666)
-* :white_check_mark: [AI 软著生成器](https://ruanzhu.pro)：AI 快速生成软件著作权（软著）申请所需的文档材料
-
-### 2025 年 8 月 23 号添加
-#### 辣条（北京）
-* :white_check_mark: [picture to drawing](https://picturetodrawing.org/) ：图片转手绘风格网站（免费/无需注册）
-
-#### SUOWU(杭州) 
-* :white_check_mark: [morse code translator](https://morsecodetranslator.best/)：摩斯码翻译器，用来将英文或者日语转为摩斯码，有可视化功能
-
-### 2025 年 8 月 22 号添加
-#### monsoonw(杭州)
-* :white_check_mark: [Free Qwen Image Edit AI](https://qwen-image.co)：Qwen Image Edit 网站。高级 AI 图像编辑与完美文本渲染，完美支持中英文文本渲染。
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
