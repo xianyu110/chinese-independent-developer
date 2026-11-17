@@ -27,7 +27,43 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 17 号添加
+
+#### JonathanOwenTJ - [GitHub](https://github.com/JonathanOwenTJ)
+* :white_check_mark: [资料星球](https://resources.packscena.com/)：中文学习与创作资料导航，按语言学习、AI、内容创作等主题查找资料，先看目录预览，再跳转夸克网盘免费领取，浏览无需注册
+
+#### chilayt - [GitHub](https://github.com/chilayt)
+* :white_check_mark: [Bazi Diff](https://bazi-diff.pages.dev/chart/?time=range&utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=birth_time_zh)：免注册的四柱八字试算网站，出生时间只记得大概时，也能按时段比较五种排盘设置，查看哪些柱一致、哪些可能变化，出生资料在浏览器内计算 - [中文说明](https://bazi-diff.pages.dev/guides/bazi-without-exact-birth-time/zh-hans/)
+
+#### BlynkAI
+* :white_check_mark: [Telo](https://telo.ferryman.app/)：iPhone 和 Apple Watch 上的 AI 健康助手，把 Apple 健康里的睡眠、运动与心率变异性放在一起，方便查看每日状态，也能用语音、照片或文字记录健康事件 - [中国区 App Store](https://apps.apple.com/cn/app/id6761092493)
+
 ### 2026 年 11 月 16 号添加
+
+#### 老钱
+* :white_check_mark: [52出海](https://woaichuhai.com/)：联盟营销和出海工具导航，按联盟平台、VPS、域名建站、AI 工具、指纹浏览器、虚拟卡和收款分类，每类附站内中文教程，免费无需注册
+
+#### LWJUOLPENNCJBS - [Github](https://github.com/LWJUOLPENNCJBS)
+* :white_check_mark: [HumanPen](https://humanpen.net)：AI 文档处理与翻译平台，支持 12 种语言文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT 保留原排版）、DOCX/PPTX/TXT 文档级润色（Humanize）、DOCX 精简与引文格式校正，注册即赠 100 积分（按积分计费的商业服务）
+
+#### Perry Lei - [GitHub](https://github.com/meekr)
+* :white_check_mark: [拾页 Shiye](https://shiye.leiping.dev/)：K12 亲子学习工具，输入知识点，一键生成一页纸互动学习手账
+
+#### listone075-sys - [GitHub](https://github.com/listone075-sys)
+* :white_check_mark: [ToolCraft](https://toolcraftbox.com)：PDF 转 JPG、图片压缩、PDF 合并等 50 个文件工具，全部在浏览器里处理——文件不上传、无需登录、不限次数，装成 PWA 后断网也能用
+
+#### Robin2027 - [GitHub](https://github.com/Robin2027)
+* :white_check_mark: [Face Rate](https://facerate.co/face-symmetry-test/)：面部对称度测试，用面部关键点比对左右两侧并给出比例数据，分析在浏览器本地完成，图片 2 小时内删除，结果仅供娱乐参考
+
+#### Arron-byte - [GitHub](https://github.com/Arron-byte)
+* :white_check_mark: [同事AI 订单 CSV 自查](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/tools/order-csv-check)：免费订单表格自查工具，在浏览器内找出重复或空白的订单编号以及空白金额，导出带原表行号的异常清单，免注册
+
+#### Caspian - [Github](https://github.com/dohooo)
+* :white_check_mark: [iForgot](https://iforgot.ai/zh?s=cnindie)：点赞收藏同步 App，把小红书、抖音里点过赞、收藏过的帖子同步到一处，以前攒的也会补上；授权一次后，Claude、ChatGPT 这类 AI 就能照着你收藏过的东西推荐吃的玩的，目前只有 iPhone 版 - [App Store](https://apps.apple.com/cn/app/id6740919579)
+
+#### Stanley J（澳洲） - [Github](https://github.com/todanley)
+* :white_check_mark: [SRT 字幕检查器](https://todanley.github.io/srt-subtitle-checker/)：浏览器里校对 SRT 字幕，检查行长和阅读速度，还能做简繁转换，文件留在本地不上传
+* :white_check_mark: [App 上架字数统计](https://todanley.github.io/app-store-listing-counter/)：按 App Store / Google Play 官方字段限制统计上架文案字数，含关键词检查，文案留在浏览器不上传
 
 #### Alex - [GitHub](https://github.com/zxcHolmes)
 * :white_check_mark: [English Dialogue](https://english-dialogue.com/zh)：沉浸式英语学习网站（免费），提供 600+ 真实生活场景、3,300+ 对话课程和 2,800+ 高频词汇，支持中英双语对照、AI 口语评分、听说读写互动练习及间隔重复复习，无需注册
@@ -5021,46 +5057,6 @@
 ### 2025 年 9 月 7 号添加
 #### Prompt2Tool - [Github](https://github.com/prompt-2-tool)
 * :white_check_mark: [AI 驱动的免费在线工具平台](https://prompt2tool.com/)：提供 300+ 实用工具，无需注册即可使用
-
-### 2025 年 9 月 6 号添加
-#### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
-* :white_check_mark: [PDF 编辑器](https://pdf-editor.uyidev.com)：简易的 PDF 编辑器
-* :white_check_mark: [GIF 助手](https://gif.uyidev.com)：GIF 合并与分解
-
-#### Jazz Jay
-* :white_check_mark: [AI ASMR视频生成器](https://asmrvideo.ai)：AI ASMR视频生成器（采用先进 Veo3 技术）
-
-#### Jammy(上海) - [Github](https://github.com/chenminjie24)
-* :white_check_mark: [AI Miniatur](https://aiminiatur.com/)：一键制作微缩模型的 AI 图片网站，用户不需要操心提示词，通过预制的提示词模板能快速制作微缩模型图片。
-
-#### tianqi - [Github](https://github.com/allenalston)
-* :white_check_mark: [Imagable AI](https://imagable.ai/)：人工智能 图片编辑和生成工具，用户可以不需要设计的技术即可通过提示词一键生成和编辑照片或图片。
-
-### 2025 年 9 月 5 号添加
-#### Jazz Jay
-* :white_check_mark: [Runway Aleph](https://runwayaleph.net/)：人工智能 视频编辑平台，用简单的文本提示转换视频内容。用户可以在几分钟内添加/删除对象，生成新的相机角度，应用风格转移，并修改具有专业质量结果的照明
-
-#### Galen Dai - [Github](https://github.com/galendai)
-* :white_check_mark: [Copy My Text](https://www.copymytxt.com)：将你的 Markdown 文本秒变海报或短链，安全、优雅地分享。
-
-#### leftshine(成都) - [Github](https://github.com/leftshine), [gitee](https://gitee.com/leftshine)
-* :white_check_mark: [APKExport](https://github.com/leftshine/APKExport)：APK 导出工具，可以非常方便的导出和分享 apk 文件 - [更多介绍](https://leftshine.gitlab.io/apkexport)
-
-
-### 2025 年 9 月 4 号添加
-#### AprDeci - [Github](https://github.com/AprDeci)
-* :white_check_mark: [OnePractice](https://moon.onepractice.top)：英语四六级真题网站
-
-#### Ethan Sunray
-* :white_check_mark: [Brave Pink Hero Green](https://bravepinkherogreen.com)：用粉色和绿色双色调照片滤镜美化照片。处理快速、私密，并且完全在您的浏览器中完成。
-
-### 2025 年 9 月 3 号添加
-#### wbshm(泉州)
-* :white_check_mark: [三角形简易计算器](https://wbshm.github.io/show/mini_triangle/mini_triangle.html)：输入任意三个参数（边长、角度）既可以绘制出对应的三角形，并计算出其他的参数。欢迎体验和吐槽
-
-### 2025 年 9 月 2 号添加
-#### Jay6343 - [Github](https://github.com/Jay6343)
-* :white_check_mark: [nanobanana.co](https://nanobanana.co/)：Nanobanana.co 是革命性的人工智能图像编辑平台，通过智能文本驱动编辑改变创意工作流程。无论您是数字艺术家，内容创作者还是营销专业人士，每次都可以零学习曲线和完美结果体验 AI 图像编辑的未来。
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
