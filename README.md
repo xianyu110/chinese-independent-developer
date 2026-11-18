@@ -27,13 +27,30 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 18 号添加
+
+#### zerosoul - [GitHub](https://github.com/zerosoul)
+* :white_check_mark: [动动乐园](https://dongdongpark.com)：儿童体感运动游戏网站，用电脑自带摄像头就能玩，孩子跳、蹲、挥手，游戏跟着动；111 个游戏覆盖 3～18 岁，支持双人对战和班级轮流，适合室内体育课和雨天大课间；不用手柄不用安装，画面只在本机识别不上传，可以免费玩（另有可选会员） - [英文版](https://dongdongpark.com/en)
+
 ### 2026 年 11 月 17 号添加
+
+#### 22109906 - [GitHub](https://github.com/22109906)
+* :white_check_mark: [叮当小宝CS](https://dingdang.asia/?ch=cnindie)：给中小电商卖家的 Windows AI 客服助手，支持千牛（淘宝/天猫）、拼多多、京东、抖店、快手、小红书、微信、闲鱼 8 个平台自动回复；买家发图片能识别，可设为「人工检查后发送」，知识库保存在本机不上云；注册免费，每天 30 条 AI 接待额度 - [GitHub 发布页](https://github.com/22109906/DingDangCS)
+
+#### Dean Chen - [GitHub](https://github.com/DeanChensj), [博客](https://deanchen.me)
+* :white_check_mark: [江山时序](https://deanchen.me/jiangshan-map/)：中国历史交互地图网站，拖动时间轴浏览战国至现代 2400 年疆域分合与古海岸线演变，支持点击古城查看 18 朝政区沿革、同屏追踪百余位历史人物行迹与战役沙盘，纯浏览器运行免费无需注册 - [GitHub 源码](https://github.com/DeanChensj/jiangshan-map)
+
+#### Open Books - [Github](https://github.com/kaixiangliuran)
+* :white_check_mark: [刊讯](https://books.sanzhigou.cn/)：技术期刊目录与更新订阅网站，聚合 RSS/Atom 更新，支持按日、周、月浏览新刊；登录后可关注期刊，在收件箱、日历和邮件摘要中跟踪更新
+
+#### jasonxu610 - [GitHub](https://github.com/jasonxu610)
+* :white_check_mark: [AntShot](https://antshot.com/zh/)：Chrome / Edge 整页截图扩展，一键截整页，网页里自己滚动的表格、列表、看板也能整块截下来，截图只在本机处理不上传，免账号，免费版无水印 - [更多介绍](https://microsoftedge.microsoft.com/addons/detail/ijhjpbbanmcggdokkdkfjadgkngfligj)
 
 #### JonathanOwenTJ - [GitHub](https://github.com/JonathanOwenTJ)
 * :white_check_mark: [资料星球](https://resources.packscena.com/)：中文学习与创作资料导航，按语言学习、AI、内容创作等主题查找资料，先看目录预览，再跳转夸克网盘免费领取，浏览无需注册
 
 #### chilayt - [GitHub](https://github.com/chilayt)
-* :white_check_mark: [Bazi Diff](https://bazi-diff.pages.dev/chart/?time=range&utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=birth_time_zh)：免注册的四柱八字试算网站，出生时间只记得大概时，也能按时段比较五种排盘设置，查看哪些柱一致、哪些可能变化，出生资料在浏览器内计算 - [中文说明](https://bazi-diff.pages.dev/guides/bazi-without-exact-birth-time/zh-hans/)
+* :white_check_mark: [Bazi Diff](https://bazi-diff.pages.dev/chart/?time=range&utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=birth_time_zh)：免注册的四柱八字试算网站，出生时间只记得大概时，也能按时段比较五种排盘设置，查看哪些柱一致、哪些可能变化，出生资料在浏览器内计算 - [中文说明](https://bazi-diff.pages.dev/guides/bazi-without-exact-birth-time/zh-hans/) · [两岗事业样稿](https://bazi-diff.pages.dev/sample-report/career/zh-hans/?utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=career_sample_zh)
 
 #### BlynkAI
 * :white_check_mark: [Telo](https://telo.ferryman.app/)：iPhone 和 Apple Watch 上的 AI 健康助手，把 Apple 健康里的睡眠、运动与心率变异性放在一起，方便查看每日状态，也能用语音、照片或文字记录健康事件 - [中国区 App Store](https://apps.apple.com/cn/app/id6761092493)
@@ -44,7 +61,7 @@
 * :white_check_mark: [52出海](https://woaichuhai.com/)：联盟营销和出海工具导航，按联盟平台、VPS、域名建站、AI 工具、指纹浏览器、虚拟卡和收款分类，每类附站内中文教程，免费无需注册
 
 #### LWJUOLPENNCJBS - [Github](https://github.com/LWJUOLPENNCJBS)
-* :white_check_mark: [HumanPen](https://humanpen.net)：AI 文档处理与翻译平台，支持 12 种语言文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT 保留原排版）、DOCX/PPTX/TXT 文档级润色（Humanize）、DOCX 精简与引文格式校正，注册即赠 100 积分（按积分计费的商业服务）
+* :white_check_mark: [HumanPen](https://humanpen.net)：AI 文档处理与翻译平台，支持 12 种语言文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT 尽量保留原排版）、DOCX/PPTX/TXT 文档级润色（Humanize）、DOCX 精简与引文格式校正，注册即赠 100 积分（按积分计费的商业服务）
 
 #### Perry Lei - [GitHub](https://github.com/meekr)
 * :white_check_mark: [拾页 Shiye](https://shiye.leiping.dev/)：K12 亲子学习工具，输入知识点，一键生成一页纸互动学习手账
@@ -3985,7 +4002,7 @@
 * :white_check_mark: [steamvai](https://steamvai.com/)：专注文案转视频，根据文案内容生产处优质的视频资源，叙事镜头、1080P视频音频视频效果都不错。
 
 #### Yuzu-Peel(上海) - [Github](https://github.com/Yuzu-Peel)
-* :white_check_mark: [CookLLM](https://cookllm.com/)：带你从头训练一个 LLM
+* :white_check_mark: [CookLLM](https://cookllm.com/)：中文大模型训练课程，带你从零训练一个 3.07 亿参数的中英双语小模型（会员付费）；另有免费的 AI 岗位看板，收录 1,400 多家 AI 公司官网上的岗位
 
 ### 2026 年 2 月 12 号添加
 ####  托马(杭州)
@@ -5024,39 +5041,6 @@
 
 #### Carys - [Github](https://github.com/Caron77ai)
 * :white_check_mark: [AIToolsss](https://www.aitoolsss.com/)：AI 工具导航，收录全球 AI 产品与应用
-
-### 2025 年 9 月 10 号添加
-#### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [Proxied Web from URL](https://web.818233.xyz)：代理服务器，完全免费，把任何网址放在 https://web.818233.xyz/ 后面，这个新的网址就可以作为代理服务器获取原网站的内容，目前只支持内容获取，不支持网站交互操作。
-
-#### George(北京) 
-* :white_check_mark: [AI miniatur](https://aiminiatur.org/)：将照片转换为 AI 手办模型
-
-#### godow(杭州) - [Github](http://github.com/godow),
-* :white_check_mark: [1desk](https://www.1desk.app/zh-CN)：您的私人订制在线桌面：可添加多个页面空间，每个页面空间可添加并自定义卡片位置与尺寸，添加多种卡片如笔记本、Rss、书签、自定义搜索引擎等 - [更多介绍](https://www.1desk.app/zh-CN)
-
-#### Susu(南京) - Github
-* :white_check_mark: [Backlink Manager](https://backlinkmanager.net)：专注于外链提交管理、SEO 问题检测及权重提升
-
-### 2025 年 9 月 8 号添加
-#### asui(泉州市) - [Github](https://github.com/xingxingc/stray_avatar)
-* :white_check_mark:  [潦草头像馆](https://avatar-gen.oss-cn-hangzhou.aliyuncs.com/image/%E6%BD%A6%E8%8D%89%E5%A4%B4%E5%83%8F%E9%A6%86.jpeg)：随机生成多种搞怪风格头像的微信小程序，让你的头像不再 “撞衫” - [更多介绍](https://developers.weixin.qq.com/community/develop/doc/0006a652bc0ac077bed3e03606180c)   
-
-#### 景彬(武汉) - [Github](https://github.com/youlookwhat)
-* :white_check_mark: [所思笔记](https://apps.apple.com/cn/app/id1668533045)：日有所思夜有所梦，记录白天的所思和晚上的梦。
-
-#### xbaicai0 - [Github](https://github.com/xbaicai0)
-* :x: [Discordtags](https://discordtags.net)：使用高级标签查找 Discord 服务器，浏览游戏、学习小组、创意社区。通过智能标签发现符合您兴趣的服务器。
-
-#### wangbing-coder - [Github](https://github.com/wangbing-coder)
-* :x: [AI 驱动的智能图片描述生成器](https://image-describer.org/)：提交任意图片，生成对这张图片的详细描述文字
-
-#### leah626888 - [Github](https://github.com/leah626888)
-* :white_check_mark: [Pixel Art Generator](https://imgtopixel.art/)：像素画生成器，将任意图片一键转换为复古风格的像素艺术，支持 JPG、PNG、WebP、GIF、BMP、TIFF 等多种格式，你可以自定义像素尺寸、颜色数量、调色板风格（如 Pico-8、Game Boy、NES 等），还可实时预览转换效果，轻松下载高质量像素画，适合用于社交媒体、游戏、周边设计等场景。
-
-### 2025 年 9 月 7 号添加
-#### Prompt2Tool - [Github](https://github.com/prompt-2-tool)
-* :white_check_mark: [AI 驱动的免费在线工具平台](https://prompt2tool.com/)：提供 300+ 实用工具，无需注册即可使用
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
