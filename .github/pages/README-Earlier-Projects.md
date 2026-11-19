@@ -6,6 +6,96 @@
 
 ---
 
+### 2025 年 9 月 24 号添加
+#### Ryan10Yu - [Github](https://github.com/Ryan10Yu)
+* :white_check_mark: [Image to Image AI](https://imagetoimage.tech/)：基于 AI 的图片修改和重绘工具
+
+#### pillow(重庆) 
+* :white_check_mark: [赛博朋克AI](https://cyberpunkai.art)：将任意照片转换为令人惊叹的赛博朋克杰作
+* :white_check_mark: [反应速度测试](https://reaction-time-test.online)：快速测试你的反应速度
+* :white_check_mark: [鼠标灵敏度转换](https://sens-converter.online)：将你熟练的鼠标灵敏度进行转换
+* :white_check_mark: [色盲检测](https://color-blindness-test.com)：测试你是否是色盲 
+
+#### BOS1980 - [Github](https://github.com/BOS1980)
+* :white_check_mark: [GPU 性能测试工具](https://www.volumeshader.dev/)：检测显卡性能。测试和评估你电脑显卡（GPU）的3D渲染性能。目标用户：想要了解自己电脑显卡3D渲染能力、对比不同设备性能，或者开发者需要测试WebGL渲染效果的人群
+
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [White Pic - 白色背景图片](https://whitepic.online)：下载任意分辨率白色背景图片
+
+### 2025 年 9 月 23 号添加
+#### Sean(成都) 
+* :white_check_mark: [Mushroom Identification](https://mushroomidentification.online)：蘑菇 AI 识别工具（快速、准确)，结果包含毒性、高危相似种警告
+
+### 2025 年 9 月 22 号添加
+#### 萝卜卜(南昌)
+* :white_check_mark: [WheelPage - 在线转盘](https://wheelpage.com/zh/)：转盘，支持抽奖、游戏和快速决策（简洁好用）
+
+#### Horace - [Github](https://github.com/lianhr12)
+* :white_check_mark: [SmartCV](https://smartcv.cc)：AI 智能简历制作平台，提供简历模板、AI优化建议、多种格式导出等功能
+
+### 2025 年 9 月 19 号添加
+#### 嗡嗡鱼 - [Github](https://github.com/kindtree)
+* :white_check_mark: [SimpleThumbnail](https://simplethumbnail.com)：YouTube 视频缩略图下载工具（免费)，支持多分辨率提取，界面简洁无广告
+* :white_check_mark: [YouTubeTitles](https://youtubetitles.com)：YouTube 标题生成器（AI 驱动），提供快速模式与进阶模式，助力提升视频点击率
+
+
+#### xmm（东莞） - [Github](https://github.com/XMM17879829028)
+* :white_check_mark: [Mental Age Test](https://mentalage.org)：心理年龄测试工具，通过科学量表评估用户心理年龄与实际年龄的对比，提供详细且有趣分析报告
+
+#### NINGSHIQI(深圳)
+* :white_check_mark: [NanoEditor](https://nanoeditor.app/)：对话式 AI 生图平台
+
+### 2025 年 9 月 17 号添加
+#### Red - [Github](https://github.com/CrisChr/json-translator), [博客](https://red666.vercel.app/)
+* :white_check_mark: [JSON Translator](https://jsontrans.fun)：国际化（i18n）翻译工具（为前端开发者打造），上传 json 文件，通过 AI（支持 DeepSeek、Gemini、OpenAI、Anthropic）翻译后直接导出 json，支持 70+ 个国家语言，助力产品出海
+
+#### sing1ee - [Github](https://github.com/sing1ee)
+* :white_check_mark: [Foto Miniatur](https://fotominiatur.com/)：nano banana 图片生成器，提供常用 prompt
+
+#### 饭特稀
+* :white_check_mark: [Thumbnail Downloader](https://thumbnaildownloader.cc)：下载视频网站封面的工具，支持 Youtube，Facebook，Ted，支持网站在逐步添加中
+
+### 2025 年 9 月 15 号添加
+#### 小金子(杭州) - [Github](https://github.com/xiaojinzi123), [博客](https://blog.csdn.net/u011692041)
+* :white_check_mark: [一刻记账](https://yike.icxj.cn/)：纯净的记账 App - [更多介绍](https://github.com/xiaojinzi123/yike-app)
+
+#### yangjuzi - [Github](https://github.com/yangjuzi)
+* :white_check_mark: [版权符号](https://copyrightsymbol.app/)：版权符号的网站，可以复制版权符号及相关的符号©, ®,℗, and ™. ，生成页面footer的版权，版权符号的各种css、alt code、怎么输入在windows、mac、iphone，在word、excel中输入
+
+#### Corey（深圳） - [Github](https://github.com/iamcorey)
+* :white_check_mark: [Seedream AI](https://seedreamai.run/)：Seedream AI 4.0 AI 图片生成器（最新，免费）
+* :white_check_mark: [DR Checker](https://drchecker.org/)：检查并展示任何网站的 Domain rating，并且一键生成可展示的DR徽章
+
+#### Ronny（深圳）
+* :white_check_mark: [Vidgo AI](https://vidgo.ai)：图片、视频生成平台
+* :x: [Video Translator](https://videotranslator.io/)：短剧视频翻译工具
+* :white_check_mark: [Doculator](https://doculator.org/)：集文档，视频，图片翻译于一身的平台
+
+### 2025 年 9 月 14 号添加
+#### 饭特稀
+* :white_check_mark: [去掉图片里的文字](https://textremoverfromimage.com/)
+
+### 2025 年 9 月 12 号添加
+#### OD-Ice(深圳) - [Github](https://github.com/OD-Ice)
+* :white_check_mark: [Verbord](https://apps.apple.com/us/app/verbord-private-voice-diary/id6751261198)：录音笔记 iOS 应用(纯净、私密），帮你轻松记录生活点滴和创作灵感
+
+#### licon(深圳) - [Github]( https://github.com/licon)
+* :white_check_mark: [EZQuiz](https://ezquiz.online)：AI 智能实时测验，让你快速创建、分享并与观众通过实时互动测验进行互动
+* :white_check_mark: [EZ-translate](https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=item-share-cb)：AI 浏览器翻译插件(免费)，支持页面内翻译，截图翻译，自动检测语言 - [开源仓库](https://github.com/licon/llm-translate)
+
+#### 饭特稀 - [Github](https://github.com/shineforever)
+* :white_check_mark: [SiteData](https://sitedata.dev)：网站流量查询与 SEO/Google Ads 情报工具，支持任意网站流量估算、Reverse AdSense 反查（发现同发布者的站点网络）、Google Ads 广告主与关键词分析、域名信息与 DR 查询，并提供 Chrome/Edge 浏览器插件 - [浏览器插件](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)
+
+#### Ryan - [Github](https://github.com/Ryan10Yu)
+* :white_check_mark: [AI Song](https://aisong.tech/)：AI 生成歌曲、歌词的音乐网站
+
+### 2025 年 9 月 11 号添加
+#### ai77 - [网站](https://www.ai77.dev)
+* :white_check_mark: [AI 赛事通](https://www.competehub.dev/zh)：全球 AI 竞赛聚合平台，收录涵盖数据算法竞赛、AI 大模型竞赛、AI Agent 挑战赛、工程开发竞赛等多个领域，让你不会错过任何一场 AI 赛事，提升技能，赢取奖金
+
+#### Carys - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [AIToolsss](https://www.aitoolsss.com/)：AI 工具导航，收录全球 AI 产品与应用
+
 ### 2025 年 9 月 10 号添加
 #### yvonuk - [推特](https://x.com/mcwangcn)
 * :white_check_mark: [Proxied Web from URL](https://web.818233.xyz)：代理服务器，完全免费，把任何网址放在 https://web.818233.xyz/ 后面，这个新的网址就可以作为代理服务器获取原网站的内容，目前只支持内容获取，不支持网站交互操作。
