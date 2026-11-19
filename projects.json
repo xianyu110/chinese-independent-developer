@@ -1,5 +1,175 @@
 [
   {
+    "name": "blubiu",
+    "url": "https://blubiu.ai",
+    "status": "online",
+    "description": "AI 动画视频生成工具，主打「角色每一镜都是同一个」：角色的设定卡、三视图、场景和道具先存进资产库，之后做每条视频都直接取用，不用重新描述。剧本、角色图、镜头、配音都是画布上的节点，连起来就是一条工作流，哪一步不满意只重跑那一步；也可以对内置的 Agent 说一句想做什么，它来加节点、连线、写提示词。一份积分通用 24 个图片和视频模型（Seedance 2.0、Kling 4.0、VEO 3.1 Fast、GPT Image 2.6 等），另有照片动起来、照片说话、吉祥物设计、AI 跳舞、火柴人动画等现成工具。网页英文界面，可切换中文，Google 登录，免费档每月送 75 积分，之后月订阅 $14.9 起，也有积分包（$89.9 一包永不过期），生成失败自动退还积分",
+    "author": "stimQQ",
+    "authorGithub": "https://github.com/stimQQ",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "红鸦 AI",
+    "url": "https://hy.ithinkai.cn/",
+    "status": "online",
+    "description": "给小红书运营和电商商家使用的网页版图文工具，输入主题或上传商品实拍图，先核对标题、正文与每页配图大纲，再批量生成图片；生成按账号积分计费",
+    "author": "红鸦团队",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI Pet Meme",
+    "url": "https://aipetmeme.org/",
+    "status": "online",
+    "description": "宠物梗视频工具，一张猫或狗的照片即可生成跳舞、唱歌、说话或反应类的带声音短视频",
+    "author": "Ldmts",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Rap AI Video",
+    "url": "https://airapvideoai.org/",
+    "status": "online",
+    "description": "说唱短视频工具，上传两张照片并选择舞台，生成带嘻哈节奏和说唱人声的竖屏片段",
+    "author": "Ldmts",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "EffectClick",
+    "url": "https://effectclick.com/",
+    "status": "online",
+    "description": "模板视频工具，选热门模板、上传一张照片，即可生成带声音的竖屏短视频，不用写提示词",
+    "author": "Ldmts",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI Image Editor",
+    "url": "https://image-editor-ai.com/",
+    "status": "online",
+    "description": "AI 修图工具，支持提示词编辑，以及去背景、去文字水印、老照片修复、上色和放大",
+    "author": "Ldmts",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Image to Image AI",
+    "url": "https://imagetoimageai.io/",
+    "status": "online",
+    "description": "图生图编辑工具，上传照片后用提示词做风格迁移、细节修改和去背景",
+    "author": "Ldmts",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Grok Imagine",
+    "url": "https://imaginegrok.org/",
+    "status": "online",
+    "description": "图像和短视频生成工具，支持文生图、图生视频，提供 Normal、Fun、Spicy 三种模式，无需 X 账号",
+    "author": "Ldmts",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "letsmkvideo",
+    "url": "https://letsmkvideo.com/",
+    "status": "online",
+    "description": "文生视频和图生视频工具，既可以从提示词或照片生成，也可以用舞蹈、动漫、电影感等模板直接出片",
+    "author": "Ldmts",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Viral Video AI",
+    "url": "https://viralvideoai.ai/",
+    "status": "online",
+    "description": "网页版短视频生成工具，上传自己的照片套用热门模板，或粘贴公开的 TikTok、YouTube、Instagram 视频链接作为参考，省去手动下载和重传；生成前可查看积分消耗，生成需要 Google 登录和付费积分",
+    "author": "Viral Video AI 团队",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Ruxget 拾影",
+    "url": "https://hidaydream.cloud/ruxget/?utm_source=github_cn_independent",
+    "status": "online",
+    "description": "Windows 下载器与浏览器插件，桌面版可保存 YouTube 视频，插件可保存 B站等受支持平台的视频",
+    "author": "白日梦想家 Hi Daydream",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Tapaste",
+    "url": "https://hidaydream.cloud/tapaste/?utm_source=github_cn_independent",
+    "status": "online",
+    "description": "手机和电脑在同一 Wi-Fi 下双向发送照片、文件和文字，手机扫码打开网页",
+    "author": "白日梦想家 Hi Daydream",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Lightable",
+    "url": "https://hidaydream.cloud/lightable/?utm_source=github_cn_independent",
+    "status": "online",
+    "description": "Windows 看图软件，支持浏览常见 RAW 照片、打星选片和全屏放幻灯片",
+    "author": "白日梦想家 Hi Daydream",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Leafable",
+    "url": "https://hidaydream.cloud/leafable/?utm_source=github_cn_independent",
+    "status": "online",
+    "description": "在 Windows 本地查看、合并和压缩 PDF，可以拖动缩略图调整页序",
+    "author": "白日梦想家 Hi Daydream",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Twinline",
+    "url": "https://hidaydream.cloud/twinline/?utm_source=github_cn_independent",
+    "status": "online",
+    "description": "在电脑 Chrome 中给已有字幕的 YouTube 视频加一行中文译文，也可逐段翻译网页",
+    "author": "白日梦想家 Hi Daydream",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ClassyGit",
+    "url": "https://classygit.dev",
+    "status": "online",
+    "description": "基于 GitHub 的个人主页与博客网站，将公开数据渲染成 System 6、8-bit、Windows 98、DOS 四套复古主题；输入任意公开用户名即可看效果，不用部署、不用注册、不用服务器 - [GitHub 仓库](https://github.com/Dnevend/classy-github)",
+    "author": "小学后生(杭州) - [GitHub](https://github.com/Dnevend), [个人主页](https://dnevend.site/)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Angry Dance",
+    "url": "https://angrydance.com/zh",
+    "status": "online",
+    "description": "单张照片生成 AI 跳舞与整活竖屏视频的网站，无需剪辑经验或写英文提示词，上传人像、猫狗或爱车照片即可直出 9:16 无水印成片（内置愤怒之舞、狗狗跳舞、小狗大战美容师、微缩工人洗车等 23 款特效，复杂场景自动串联两步定帧与运镜）；支持中英文，采用一次性积分包计费免包月订阅，生成失败自动退还积分 - [英文版](https://angrydance.com) · [开源提示词配方库](https://github.com/siuserxiaowei/ai-photo-to-video-prompt-recipes)",
+    "author": "Nathan - [GitHub](https://github.com/siuserxiaowei)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 18 号添加",
+    "category": "main"
+  },
+  {
     "name": "动动乐园",
     "url": "https://dongdongpark.com",
     "status": "online",
@@ -63,7 +233,7 @@
     "name": "Bazi Diff",
     "url": "https://bazi-diff.pages.dev/chart/?time=range&utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=birth_time_zh",
     "status": "online",
-    "description": "免注册的四柱八字试算网站，出生时间只记得大概时，也能按时段比较五种排盘设置，查看哪些柱一致、哪些可能变化，出生资料在浏览器内计算 - [中文说明](https://bazi-diff.pages.dev/guides/bazi-without-exact-birth-time/zh-hans/) · [两岗事业样稿](https://bazi-diff.pages.dev/sample-report/career/zh-hans/?utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=career_sample_zh)",
+    "description": "免费八字与紫微斗数排盘，可比较出生时段内哪些八字柱会变，也可用两张虚构盘对照夫妻宫。免注册，出生资料在浏览器内计算 - [中文说明](https://bazi-diff.pages.dev/guides/bazi-without-exact-birth-time/zh-hans/) · [紫微夫妻宫算例](https://bazi-diff.pages.dev/guides/relationship-reflection/zh-hans/?utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=spouse_example_zh#relationship-empty-star) · [两岗事业样稿](https://bazi-diff.pages.dev/sample-report/career/zh-hans/?utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=career_sample_zh)",
     "author": "chilayt - [GitHub](https://github.com/chilayt)",
     "authorGithub": "",
     "date": "2026 年 11 月 17 号添加",
@@ -4241,7 +4411,7 @@
   },
   {
     "name": "Beav",
-    "url": "https://github.com/Jamailar/Beav",
+    "url": "https://beav.pro/",
     "status": "online",
     "description": "为不同社媒账号分别整理素材、稿件和长期偏好，让 AI 检索引用资料并辅助写稿；复用带文字变量和参考图的模板，为小红书等平台制作不同选题的图文 — 本地优先 AI 社媒工作台，素材库定位类似面向社媒和 AI 的 Eagle - [更多介绍](https://github.com/Jamailar/Beav#readme)",
     "author": "Jamailar",
@@ -16280,323 +16450,13 @@
     "category": "main"
   },
   {
-    "name": "Image to Image AI",
-    "url": "https://imagetoimage.tech/",
-    "status": "online",
-    "description": "基于 AI 的图片修改和重绘工具",
-    "author": "Ryan10Yu",
-    "authorGithub": "https://github.com/Ryan10Yu",
-    "date": "2025 年 9 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "赛博朋克AI",
-    "url": "https://cyberpunkai.art",
-    "status": "online",
-    "description": "将任意照片转换为令人惊叹的赛博朋克杰作",
-    "author": "pillow(重庆) ",
-    "authorGithub": "",
-    "date": "2025 年 9 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "反应速度测试",
-    "url": "https://reaction-time-test.online",
-    "status": "online",
-    "description": "快速测试你的反应速度",
-    "author": "pillow(重庆) ",
-    "authorGithub": "",
-    "date": "2025 年 9 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "鼠标灵敏度转换",
-    "url": "https://sens-converter.online",
-    "status": "online",
-    "description": "将你熟练的鼠标灵敏度进行转换",
-    "author": "pillow(重庆) ",
-    "authorGithub": "",
-    "date": "2025 年 9 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "色盲检测",
-    "url": "https://color-blindness-test.com",
-    "status": "online",
-    "description": "测试你是否是色盲",
-    "author": "pillow(重庆) ",
-    "authorGithub": "",
-    "date": "2025 年 9 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "GPU 性能测试工具",
-    "url": "https://www.volumeshader.dev/",
-    "status": "online",
-    "description": "检测显卡性能。测试和评估你电脑显卡（GPU）的3D渲染性能。目标用户：想要了解自己电脑显卡3D渲染能力、对比不同设备性能，或者开发者需要测试WebGL渲染效果的人群",
-    "author": "BOS1980",
-    "authorGithub": "https://github.com/BOS1980",
-    "date": "2025 年 9 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "White Pic - 白色背景图片",
-    "url": "https://whitepic.online",
-    "status": "online",
-    "description": "下载任意分辨率白色背景图片",
-    "author": "iam-tin",
-    "authorGithub": "https://github.com/iam-tin",
-    "date": "2025 年 9 月 24 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Mushroom Identification",
-    "url": "https://mushroomidentification.online",
-    "status": "online",
-    "description": "蘑菇 AI 识别工具（快速、准确)，结果包含毒性、高危相似种警告",
-    "author": "Sean(成都) ",
-    "authorGithub": "",
-    "date": "2025 年 9 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "WheelPage - 在线转盘",
-    "url": "https://wheelpage.com/zh/",
-    "status": "online",
-    "description": "转盘，支持抽奖、游戏和快速决策（简洁好用）",
-    "author": "萝卜卜(南昌)",
-    "authorGithub": "",
-    "date": "2025 年 9 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "SmartCV",
-    "url": "https://smartcv.cc",
-    "status": "online",
-    "description": "AI 智能简历制作平台，提供简历模板、AI优化建议、多种格式导出等功能",
-    "author": "Horace",
-    "authorGithub": "https://github.com/lianhr12",
-    "date": "2025 年 9 月 22 号添加",
-    "category": "main"
-  },
-  {
-    "name": "SimpleThumbnail",
-    "url": "https://simplethumbnail.com",
-    "status": "online",
-    "description": "YouTube 视频缩略图下载工具（免费)，支持多分辨率提取，界面简洁无广告",
-    "author": "嗡嗡鱼",
-    "authorGithub": "https://github.com/kindtree",
-    "date": "2025 年 9 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "YouTubeTitles",
-    "url": "https://youtubetitles.com",
-    "status": "online",
-    "description": "YouTube 标题生成器（AI 驱动），提供快速模式与进阶模式，助力提升视频点击率",
-    "author": "嗡嗡鱼",
-    "authorGithub": "https://github.com/kindtree",
-    "date": "2025 年 9 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Mental Age Test",
-    "url": "https://mentalage.org",
-    "status": "online",
-    "description": "心理年龄测试工具，通过科学量表评估用户心理年龄与实际年龄的对比，提供详细且有趣分析报告",
-    "author": "xmm（东莞）",
-    "authorGithub": "https://github.com/XMM17879829028",
-    "date": "2025 年 9 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "NanoEditor",
-    "url": "https://nanoeditor.app/",
-    "status": "online",
-    "description": "对话式 AI 生图平台",
-    "author": "NINGSHIQI(深圳)",
-    "authorGithub": "",
-    "date": "2025 年 9 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "JSON Translator",
-    "url": "https://jsontrans.fun",
-    "status": "online",
-    "description": "国际化（i18n）翻译工具（为前端开发者打造），上传 json 文件，通过 AI（支持 DeepSeek、Gemini、OpenAI、Anthropic）翻译后直接导出 json，支持 70+ 个国家语言，助力产品出海",
-    "author": "Red",
-    "authorGithub": "https://github.com/CrisChr/json-translator",
-    "date": "2025 年 9 月 17 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Foto Miniatur",
-    "url": "https://fotominiatur.com/",
-    "status": "online",
-    "description": "nano banana 图片生成器，提供常用 prompt",
-    "author": "sing1ee",
-    "authorGithub": "https://github.com/sing1ee",
-    "date": "2025 年 9 月 17 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Thumbnail Downloader",
-    "url": "https://thumbnaildownloader.cc",
-    "status": "online",
-    "description": "下载视频网站封面的工具，支持 Youtube，Facebook，Ted，支持网站在逐步添加中",
-    "author": "饭特稀",
-    "authorGithub": "",
-    "date": "2025 年 9 月 17 号添加",
-    "category": "main"
-  },
-  {
-    "name": "一刻记账",
-    "url": "https://yike.icxj.cn/",
-    "status": "online",
-    "description": "纯净的记账 App - [更多介绍](https://github.com/xiaojinzi123/yike-app)",
-    "author": "小金子(杭州)",
-    "authorGithub": "https://github.com/xiaojinzi123",
-    "date": "2025 年 9 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "版权符号",
-    "url": "https://copyrightsymbol.app/",
-    "status": "online",
-    "description": "版权符号的网站，可以复制版权符号及相关的符号©, ®,℗, and ™. ，生成页面footer的版权，版权符号的各种css、alt code、怎么输入在windows、mac、iphone，在word、excel中输入",
-    "author": "yangjuzi",
-    "authorGithub": "https://github.com/yangjuzi",
-    "date": "2025 年 9 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Seedream AI",
-    "url": "https://seedreamai.run/",
-    "status": "online",
-    "description": "Seedream AI 4.0 AI 图片生成器（最新，免费）",
-    "author": "Corey（深圳）",
-    "authorGithub": "https://github.com/iamcorey",
-    "date": "2025 年 9 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "DR Checker",
-    "url": "https://drchecker.org/",
-    "status": "online",
-    "description": "检查并展示任何网站的 Domain rating，并且一键生成可展示的DR徽章",
-    "author": "Corey（深圳）",
-    "authorGithub": "https://github.com/iamcorey",
-    "date": "2025 年 9 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Vidgo AI",
-    "url": "https://vidgo.ai",
-    "status": "online",
-    "description": "图片、视频生成平台",
-    "author": "Ronny（深圳）",
-    "authorGithub": "",
-    "date": "2025 年 9 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Video Translator",
-    "url": "https://videotranslator.io/",
-    "status": "offline",
-    "description": "短剧视频翻译工具",
-    "author": "Ronny（深圳）",
-    "authorGithub": "",
-    "date": "2025 年 9 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Doculator",
-    "url": "https://doculator.org/",
-    "status": "online",
-    "description": "集文档，视频，图片翻译于一身的平台",
-    "author": "Ronny（深圳）",
-    "authorGithub": "",
-    "date": "2025 年 9 月 15 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Verbord",
-    "url": "https://apps.apple.com/us/app/verbord-private-voice-diary/id6751261198",
-    "status": "online",
-    "description": "录音笔记 iOS 应用(纯净、私密），帮你轻松记录生活点滴和创作灵感",
-    "author": "OD-Ice(深圳)",
-    "authorGithub": "https://github.com/OD-Ice",
-    "date": "2025 年 9 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "EZQuiz",
-    "url": "https://ezquiz.online",
-    "status": "online",
-    "description": "AI 智能实时测验，让你快速创建、分享并与观众通过实时互动测验进行互动",
-    "author": "licon(深圳)",
-    "authorGithub": " https://github.com/licon",
-    "date": "2025 年 9 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "EZ-translate",
-    "url": "https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=item-share-cb",
-    "status": "online",
-    "description": "AI 浏览器翻译插件(免费)，支持页面内翻译，截图翻译，自动检测语言 - [开源仓库](https://github.com/licon/llm-translate)",
-    "author": "licon(深圳)",
-    "authorGithub": " https://github.com/licon",
-    "date": "2025 年 9 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "SiteData",
-    "url": "https://sitedata.dev",
-    "status": "online",
-    "description": "网站流量查询与 SEO/Google Ads 情报工具，支持任意网站流量估算、Reverse AdSense 反查（发现同发布者的站点网络）、Google Ads 广告主与关键词分析、域名信息与 DR 查询，并提供 Chrome/Edge 浏览器插件 - [浏览器插件](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)",
-    "author": "饭特稀",
-    "authorGithub": "https://github.com/shineforever",
-    "date": "2025 年 9 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Song",
-    "url": "https://aisong.tech/",
-    "status": "online",
-    "description": "AI 生成歌曲、歌词的音乐网站",
-    "author": "Ryan",
-    "authorGithub": "https://github.com/Ryan10Yu",
-    "date": "2025 年 9 月 12 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI 赛事通",
-    "url": "https://www.competehub.dev/zh",
-    "status": "online",
-    "description": "全球 AI 竞赛聚合平台，收录涵盖数据算法竞赛、AI 大模型竞赛、AI Agent 挑战赛、工程开发竞赛等多个领域，让你不会错过任何一场 AI 赛事，提升技能，赢取奖金",
-    "author": "ai77 - [网站](https://www.ai77.dev)",
-    "authorGithub": "",
-    "date": "2025 年 9 月 11 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AIToolsss",
-    "url": "https://www.aitoolsss.com/",
-    "status": "online",
-    "description": "AI 工具导航，收录全球 AI 产品与应用",
-    "author": "Carys",
-    "authorGithub": "https://github.com/Caron77ai",
-    "date": "2025 年 9 月 11 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "Carys",
-    "authorGithub": "https://github.com/Caron77ai",
-    "date": "2025 年 9 月 11 号添加",
+    "author": "皮皮卡",
+    "authorGithub": "",
+    "date": "2025 年 9 月 25 号添加",
     "category": "main"
   },
   {
@@ -16604,9 +16464,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "Carys",
-    "authorGithub": "https://github.com/Caron77ai",
-    "date": "2025 年 9 月 11 号添加",
+    "author": "皮皮卡",
+    "authorGithub": "",
+    "date": "2025 年 9 月 25 号添加",
     "category": "main"
   },
   {
@@ -16614,9 +16474,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "Carys",
-    "authorGithub": "https://github.com/Caron77ai",
-    "date": "2025 年 9 月 11 号添加",
+    "author": "皮皮卡",
+    "authorGithub": "",
+    "date": "2025 年 9 月 25 号添加",
     "category": "main"
   },
   {
@@ -16624,9 +16484,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "Carys",
-    "authorGithub": "https://github.com/Caron77ai",
-    "date": "2025 年 9 月 11 号添加",
+    "author": "皮皮卡",
+    "authorGithub": "",
+    "date": "2025 年 9 月 25 号添加",
     "category": "main"
   }
 ]
