@@ -2,6 +2,24 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 20 号添加
+
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [晚灯书店](https://wyanhub.com/bookshop/)：三维网页寻物游戏。可以在书店等场景里找藏物，也可以自己藏一封信，把链接发给朋友来找
+* :white_check_mark: [算独方格](https://wyanhub.com/sudoku/)：网页版数独练习与解题工具。可以自己做题，也可以逐步查看解题推理、整理题本和打印题目
+* :white_check_mark: [微言松弛休闲](https://tools.wyanhub.com/relax)：浏览器益智与怀旧小游戏合集（免费），收录扫雷、推箱子、数独、2048 等经典玩法，也有旋镜引光、落叶归湾等原创短局。打开网页即可玩
+
+#### liuzhen264 - [GitHub](https://github.com/liuzhen264)
+* :white_check_mark: [GuessCrowd](https://guesscrowd.com/)：英文每日问答网页游戏。每天五道生活类问题，每题有 20 秒输入你认为最多人会给出的答案，越常见的答案得分越高。作答后可看答案排名，初期由预估答案生成，再随真实作答更新。每天当地时间零点换题，往期可以重玩。免费，手机和电脑浏览器打开就能玩，无需注册
+
+#### Ted151951 - [GitHub](https://github.com/Ted151951)
+* :white_check_mark: [pubgspot](https://pubgspot.com/zh/)：《绝地求生》九张互动地图，可查密室和载具点位。在艾伦格和米拉玛点选密室，就能对照游戏实景找到入口。手机浏览器可直接使用
+
+### 2026 年 11 月 19 号添加
+
+#### yjin94606-art - [GitHub](https://github.com/yjin94606-art)
+* :white_check_mark: [深矿 Deepmine](https://github.com/yjin94606-art/deepmine)：在自己电脑上玩的像素挖掘游戏。打开仓库 README，按系统下载并启动，选一个用 Codex 或 Claude Code 做过的项目：那天消耗的 token 会驱动钻头，画过的肖像、做过的网页就可能从岩层里蹦出来；沿矿道往上翻，还能找到以前的作品 - [中文试玩（免安装，虚构样例）](https://yjin94606-art.github.io/deepmine/?lang=zh-CN) · [18 秒中文实机演示](https://yjin94606-art.github.io/deepmine/watch/zh/)
+
 ### 2026 年 11 月 18 号添加
 
 #### stimQQ - [Github](https://github.com/stimQQ)
