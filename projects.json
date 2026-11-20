@@ -1,5 +1,145 @@
 [
   {
+    "name": "微境沙盘",
+    "url": "https://wyanhub.com/microcosm/",
+    "status": "online",
+    "description": "浏览器里的互动科学沙盘。可以拨动摆球观察摆波、调整棱镜看白光分色，也可以种植物观察生长过程，免登录 - [直接体验摆波](https://wyanhub.com/microcosm/lab/pendulum/)",
+    "author": "微言 - [GitHub](https://github.com/lxshwyan)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "微言桌面 WyanDesk",
+    "url": "https://desk.wyanhub.com/",
+    "status": "online",
+    "description": "浏览器里的个人桌面，可以把常用网站、待办和便签放在同一页，并按自己的习惯调整布局",
+    "author": "微言 - [GitHub](https://github.com/lxshwyan)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI指南站",
+    "url": "https://taofai.com",
+    "status": "online",
+    "description": "把免费 GPU、免费服务器、免费大模型 API 的额度信息逐条核实后整理成清单，标明额度、领取条件和核实日期，失效就下架，帮开发者省去自己逐个验证真伪的时间 - [开源仓库](https://github.com/wodeai956-ops/awesome-free-ai-resources)（179 条清单，每日自动同步）",
+    "author": "wodeai956-ops - [GitHub](https://github.com/wodeai956-ops)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "观象",
+    "url": "https://hexa.gavin.pub",
+    "status": "online",
+    "description": "中国古籍研读网站，85 部典籍原文逐段配白话译文，难字点开有注释，另有朝代时间轴、人物志与诸子对辩，免费免登录无广告",
+    "author": "Gao Jiasheng",
+    "authorGithub": "https://github.com/GaoJiasheng",
+    "date": "2026 年 11 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "红果桌面端",
+    "url": "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
+    "status": "online",
+    "description": "适用于 Windows 10 / 11 x64 的免费第三方短剧客户端，在电脑上搜索、选集、收藏和接着本机进度看。由渠道有数独立维护，非红果官方出品。另有 Mac 和 Android TV 测试版 - [Windows 下载与安装](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/blob/main/docs/WINDOWS-INSTALL.md)",
+    "author": "渠道有数 - [GitHub](https://github.com/waligoraamodio288-rgb)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 20 号添加",
+    "category": "main"
+  },
+  {
+    "name": "DemoReady",
+    "url": "https://demoready.bitwonder.app/",
+    "status": "online",
+    "description": "输入网页链接直接录制产品演示视频，支持 localhost 和线上网站，可选视频比例、设备 Mockup 与莫奈、葛饰北斋等艺术画作背景，实时预览最终画面后直接录制下载，全程在浏览器里完成，不用安装",
+    "author": "qijin-3 - [GitHub](https://github.com/qijin-3)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "小陪班 PetWaits",
+    "url": "https://petwaits.com/zh",
+    "status": "online",
+    "description": "用一张自家猫狗的照片做一个会唱歌、会跳舞的桌宠，让它在 Mac 或 Windows 桌面上陪你工作。每只宠物一次付费",
+    "author": "ZHANG LINGQING",
+    "authorGithub": "",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "BeatMusic",
+    "url": "https://beatmusic.ai/",
+    "status": "online",
+    "description": "AI 音乐生成工具，输入一句想法或粘贴歌词，几分钟生成原创、免版税的完整歌曲，还支持 100+ 种声音风格的 AI 翻唱、50+ 种风格的 AI 混音和人声分离，不会乐器也能用",
+    "author": "Haoxiang Chen",
+    "authorGithub": "",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "BeatMV",
+    "url": "https://beatmv.ai/",
+    "status": "online",
+    "description": "AI 音乐视频生成工具，上传一首歌就能生成跟着节拍走的音乐 MV，支持固定角色、分镜生成、Suno/Udio 歌曲转视频和歌词视频，可导出到 YouTube、TikTok、Reels",
+    "author": "Haoxiang Chen",
+    "authorGithub": "",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "构图AI",
+    "url": "https://draw.lzkz.top/",
+    "status": "online",
+    "description": "基于 Excalidraw 引擎的 AI 手绘风格技术图表工具，一句话生成架构图、时序图、流程图、思维导图、拓扑图、ER 图等 12 种技术图表，生成后可在画布上继续拖拽编辑或框选局部让 AI 精修，支持导出 PNG / SVG / .excalidraw 源文件；内置 20+ 可二次编辑的示例模板，登录可免费体验（另有会员档与 MIT 开源版可自带 API Key 本地运行） - [开源仓库](https://github.com/co-pine/ai-excalidraw)",
+    "author": "松柏 - [GitHub](https://github.com/co-pine)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "松果看板",
+    "url": "https://songguo.lzkz.top",
+    "status": "online",
+    "description": "面向自媒体创作者与内容运营的多平台数据看板与 AI 复盘工作台，把微信公众号、小红书、B站、抖音、微信视频号五个平台的阅读/播放、点赞、收藏、评论、互动率与粉丝数据收进同一张表，按各平台自身篇均倍数自动标记爆款、生成最佳发布时段热力图、支持一键 AI 复盘及通过远程/本地 MCP 接入 Claude、Cursor 直接查数据写复盘；登录态仅保存在本地浏览器，服务器不存 Cookie。免费版可先连接 1 个平台，内置免登录公众号 Markdown 排版工具永久免费 - [公众号 Markdown 排版器](https://songguo.lzkz.top/tools/wechat-formatter)",
+    "author": "松柏 - [GitHub](https://github.com/co-pine)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "Earlyfollow",
+    "url": "https://earlyfollow.com/",
+    "status": "online",
+    "description": "AI 创业公司发现榜单，每天盯 500 多位风投、天使投资人在 X 上刚开始关注的新 AI 公司，每条信号都能看到是谁、在哪天关注的；免费看延后 14 天的榜单，Pro 去掉延迟并提供完整关注者名单、CSV 与 API",
+    "author": "Wujie Li",
+    "authorGithub": "https://github.com/wujieli0207",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "My Face Analyzer",
+    "url": "https://myfaceanalyzer.com/zh-cn",
+    "status": "online",
+    "description": "脸部分析网站，上传一张自拍免费测脸型、眼型、下颌线、左右对称、黄金比例和眼角倾斜，测量线直接画在照片上；478 个面部关键点在浏览器本地计算，照片不上传、无需注册；详细报告一次性付费 $7.99 起（含 AI 发型试戴图和 PDF），支持简繁中文、英文、日文 - [英文版](https://myfaceanalyzer.com)",
+    "author": "deepblue1991",
+    "authorGithub": "",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
+    "name": "7 Deadly Sins Test",
+    "url": "https://7-deadly-sins-test.org/?utm_source=github.com&utm_medium=referral&utm_campaign=directory_listing&utm_content=website_link",
+    "status": "online",
+    "description": "免费七宗罪网页测验，答完 28 道题可查看七项得分，分享结果后可与朋友在同一张图上对比，无需注册",
+    "author": "finalgod2003 - [GitHub](https://github.com/finalgod2003)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 19 号添加",
+    "category": "main"
+  },
+  {
     "name": "blubiu",
     "url": "https://blubiu.ai",
     "status": "online",
@@ -16340,123 +16480,13 @@
     "category": "main"
   },
   {
-    "name": "实用小工具：时间格式转换和计算器",
-    "url": "https://time-to-decimal.org/",
-    "status": "online",
-    "description": "支持时分秒格式和小数表示法双向转换、分钟/秒/天不同单位相互转换、考勤打卡时间四舍五入，工资计算等",
-    "author": "pandaupup(广州)",
-    "authorGithub": "https://github.com/pandaupup",
-    "date": "2025 年 9 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "PMoS",
-    "url": "https://pmos.lohhhha.cn",
-    "status": "offline",
-    "description": "神经网络模型可视化定义平台 - [更多介绍](https://github.com/LoHhhha/pmos_nn)",
-    "author": "0x4c48",
-    "authorGithub": "https://github.com/LoHhhha",
-    "date": "2025 年 9 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Git Stars",
-    "url": "https://git-stars.org/",
-    "status": "online",
-    "description": "发掘最热门，Stars 数最多的 GitHub 开源项目仓库",
-    "author": "zxcHolmes",
-    "authorGithub": "",
-    "date": "2025 年 9 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "scream ai",
-    "url": "https://screamai.art//",
-    "status": "online",
-    "description": "把你的自拍照转化为电影感十足的千禧年（Y2K）恐怖风照片",
-    "author": "anywhereto(beijing)",
-    "authorGithub": "https://github.com/anywhereto",
-    "date": "2025 年 9 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "在线 GPU 性能测试网站 - 毒蘑菇显卡测试",
-    "url": "https://volumeshaderbm.org/benchmark",
-    "status": "online",
-    "description": "在浏览器里运行3D体积着色器测试GPU渲染能力。实时显示压测性能数据：包括实时的帧率（FPS）、帧时间（Frame Time）和显卡型号。可多渠道分享测试结果，用户点击可使用相同参数进行渲染测试。",
-    "author": "pandaupup",
-    "authorGithub": "https://github.com/pandaupup",
-    "date": "2025 年 9 月 29 号添加",
-    "category": "main"
-  },
-  {
-    "name": "banana nana ai",
-    "url": "https://bananananoai.net/",
-    "status": "online",
-    "description": "AI 图片工具, AI 换脸，AI 清除背景， AI y2k 风格人像",
-    "author": "anywhereto(beijing)",
-    "authorGithub": "https://github.com/anywhereto",
-    "date": "2025 年 9 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Image to Pixel Art",
-    "url": "https://pixelartvillage.org/",
-    "status": "online",
-    "description": "图像到像素艺术转换器 – 通过即时预览和调色板控件将 PNG 或 JPG 图像转换为像素艺术，并进行图像到像素的转换帮我生成跟图像那样的",
-    "author": "elng12(柳州)",
-    "authorGithub": "https://github.com/elng12",
-    "date": "2025 年 9 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "PDFLance",
-    "url": "https://www.pdflance.com",
-    "status": "online",
-    "description": "PDF 工具集，全部在浏览器里本地运行。你的文件不会被上传到其他地方。免费合并，拆分，编辑，转换 PDF，我们重视您的隐私",
-    "author": "ljxyaly(深圳)",
-    "authorGithub": "https://github.com/ljxyaly",
-    "date": "2025 年 9 月 28 号添加",
-    "category": "main"
-  },
-  {
-    "name": "EZHolo",
-    "url": "https://github.com/POPCORNBOOM/EZHolodotNet/releases/latest",
-    "status": "online",
-    "description": "轻易从照片和其他平面图像创建手工绘制或机器打印的刮擦全息路径 - [更多介绍](https://github.com/POPCORNBOOM/EZHolodotNet)",
-    "author": "PopcornBoom(深圳)",
-    "authorGithub": "https://github.com/POPCORNBOOM",
-    "date": "2025 年 9 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "opus to mp3",
-    "url": "https://opustomp3.online",
-    "status": "online",
-    "description": "免费在线音乐格式转换网站。支持全球各地多个语言，免费使用、无需注册、无需下载 APP 即可使用、方便快捷是我们的口号。专为 opus 格式转换 mp3 而生，让每一个人都能听到声音",
-    "author": "虾米 - [博客](https://blog.2pp.link)",
-    "authorGithub": "",
-    "date": "2025 年 9 月 27 号添加",
-    "category": "main"
-  },
-  {
-    "name": "AI Image Editor",
-    "url": "https://aiimageeditor.photos/",
-    "status": "online",
-    "description": "通过文字指令编辑你的照片，AI 图像编辑器是一款由提示词驱动的智能新一代工具，它能让您使用自然语言编辑照片——无需像传统照片编辑器那样进行复杂的手动操作",
-    "author": "皮皮卡",
-    "authorGithub": "",
-    "date": "2025 年 9 月 25 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "皮皮卡",
-    "authorGithub": "",
-    "date": "2025 年 9 月 25 号添加",
+    "author": "Yuzu-Peel(北京)",
+    "authorGithub": "https://github.com/Yuzu-Peel",
+    "date": "2025 年 10 月 1 号添加",
     "category": "main"
   },
   {
@@ -16464,9 +16494,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "皮皮卡",
-    "authorGithub": "",
-    "date": "2025 年 9 月 25 号添加",
+    "author": "Yuzu-Peel(北京)",
+    "authorGithub": "https://github.com/Yuzu-Peel",
+    "date": "2025 年 10 月 1 号添加",
     "category": "main"
   },
   {
@@ -16474,9 +16504,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "皮皮卡",
-    "authorGithub": "",
-    "date": "2025 年 9 月 25 号添加",
+    "author": "Yuzu-Peel(北京)",
+    "authorGithub": "https://github.com/Yuzu-Peel",
+    "date": "2025 年 10 月 1 号添加",
     "category": "main"
   },
   {
@@ -16484,9 +16514,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "皮皮卡",
-    "authorGithub": "",
-    "date": "2025 年 9 月 25 号添加",
+    "author": "Yuzu-Peel(北京)",
+    "authorGithub": "https://github.com/Yuzu-Peel",
+    "date": "2025 年 10 月 1 号添加",
     "category": "main"
   }
 ]
