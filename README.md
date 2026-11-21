@@ -27,7 +27,39 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 21 号添加
+
+#### ixiehao - [Github](https://github.com/ixiehao)
+* :white_check_mark: [Any2WebP](https://ixiehao.github.io/Any2WebP/zh/)：本地图片转换工具，把图片批量转为 WebP 或 GIF，也能把多张图片或短视频片段制成动图并逐帧对比；免费、MIT 开源 - [源码与下载](https://github.com/ixiehao/Any2WebP)
+* :white_check_mark: [ezNTFS](https://ixiehao.github.io/ezNTFS/zh/)：Mac 外接 NTFS 磁盘读写工具，支持按磁盘自动挂载、安全推出和 SHA-256 复制校验；免费开源，需 macFUSE - [源码与安装要求](https://github.com/ixiehao/ezNTFS)
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Site Templates Hub](https://sitetemplateshub.com/)：免费 Google Sites 网站模板库，挑一个复制到自己的 Google Drive，替换文字和照片即可发布；无需写代码，托管免费，可绑定自定义域名
+
+#### Jianyu Chen - [Github](https://github.com/CJianYu)
+* :white_check_mark: [Photo to 3D Model](https://phototo3dmodel.org/)：拍一张物品照片，在浏览器里生成可旋转查看、可下载的 3D 模型（GLB），登录可免费生成一次无纹理模型，带纹理版本按积分付费
+* :white_check_mark: [StmtPilot](https://stmtpilot.com/zh)：将 PDF 银行对账单转为 CSV 或 Excel，保留每笔交易的来源页，方便会计在导出前核对金额和标记行
+
+#### Kuber - [GitHub](https://github.com/iam-tin)
+* :white_check_mark: [Textless](https://textless.video/?utm_source=github&utm_medium=referral&utm_campaign=cn_indie)：AI去除视频文字、字幕、水印。上传视频后框出文字、字幕或水印的位置，AI 重建画面；支持 MP4/MOV/AVI/MKV/WebM，免费可处理 10 秒视频，免登录先试 1 次
+* :white_check_mark: [PawO](https://pawoai.com/?utm_source=github&utm_medium=referral&utm_campaign=cn_indie)：让你的宠物照片动起来！内置了很多AI模板，只需要上传一张宠物照片，就可以让宠物跳舞、模仿人说话、以及特殊搞笑场景模仿
+
 ### 2026 年 11 月 20 号添加
+
+#### zhangmnn - [GitHub](https://github.com/zhangmnn)
+* :white_check_mark: [面试领航员 InterPilot](https://interpilot.cn)：线上面试时实时识别面试官的问题，结合简历和岗位给出可以直接说出口的回答，支持飞书、钉钉、腾讯会议等网页版，按分钟计费，新用户注册送 20 分钟 - [使用说明](https://interpilot.cn/guide.html)
+
+#### Haoxiang Chen
+* :white_check_mark: [GuruTrans](https://gurutrans.app/)：AI 翻译与文本工具网站，支持中英、日英、希腊语等语言互译，还能把英文改写成莎士比亚等历史风格，以及转换摩斯码，粘贴文字就能用
+
+#### Yuzu-Peel - [GitHub](https://github.com/Yuzu-Peel)
+* :white_check_mark: [TattooTryOn](https://tattootryon.app/)：纹之前，先在自己身上看看效果。上传一张照片，AI 把纹身画进你的皮肤，摆放预览免费
+
+#### z850672062 - [GitHub](https://github.com/z850672062)
+* :white_check_mark: [书本记账](https://github.com/z850672062/shubenjizhang)：AI 语音记账微信小程序，说一句话自动识别金额、分类与标签，可按标签归类与多选筛选统计，支持从其他记账应用迁移数据
+
+#### jpnotes - [GitHub](https://github.com/Ralphbupt)
+* :white_check_mark: [jpnotes 日语备考](https://jpnotes.dev/)：JLPT 日语能力考试备考网站，N5–N1 全部免费：4000+ 道练习题（含带音频的听力题）、整套模拟考、93 课语法笔记和单词卡，答完可让 AI 讲解，点生词加入生词本按间隔复习；免注册，登录后进度多设备同步，中英双语界面
 
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [微境沙盘](https://wyanhub.com/microcosm/)：浏览器里的互动科学沙盘。可以拨动摆球观察摆波、调整棱镜看白光分色，也可以种植物观察生长过程，免登录 - [直接体验摆波](https://wyanhub.com/microcosm/lab/pendulum/)
@@ -4909,71 +4941,6 @@
 * :white_check_mark: [Image Inverter](https://imageinverter.app/) ： 图片颜色反转工具，可将黑色转为白色、创建照片负片效果,无需注册即可在浏览器中即时处理
 * :x: [Circle Crop Image](https://circle-crop-image.net/)：圆形裁剪工具，可快速制作完美的圆形头像和社交媒体图片,支持透明背景导出
 * :white_check_mark: [Grayscale Image](https://grayscaleimage.org/)：图片灰度转换工具，可将彩色照片转为黑白灰度图像,适合制作复古效果和减小文件大小
-
-### 2025 年 10 月 16 号添加
-#### lanmo(武汉) - [Github](https://github.com/oddboy0152-create)
-* :white_check_mark: [Veo 3.1 AI](https://veo3-1.co/zh)：使用 Veo3.1 创作电影级视频，配备 1080p 原生音频、首尾帧控制及免费试用额度
-
-### 2025 年 10 月 15 号添加
-#### oddboy(杭州) - [Github](https://github.com/liuShuZhu), [博客](http://www.oddboy.top)
-* :white_check_mark: [Sora2 AI](https://sora2-ai.net/)：体验 Sora 2 视频生成 – 创建 1080p 无水印视频，配备同步音频
-
-### 2025 年 10 月 14 号添加
-#### xiaobin(北京) - [Github](https://github.com/pangxiaobin)
-* :white_check_mark: [灵象工具箱](https://www.lingxiangtools.top/)：AI 智能图像处理工具，视频抠图换背景、视频去水印、AI抠图、智能擦除、截图美化、OCR文字识别、在线拼图、视频智能镜头分割、图片压缩、图片格式转换，几乎所有功能都支持批量操作，不限制文件数量和大小（支持 win 和 mac 平台，所有处理都是本地模式保证用户隐私） - [更多介绍](https://www.lingxiangtools.top/#features)
-
-### 2025 年 10 月 12 号添加
-#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
-* :white_check_mark: [Bulk Resize Images Online](https://bulkresizeimages.online/)：批量调整多张图片的大小。快速、安全，完全在浏览器中运行——无需上传 - [更多介绍](https://bulkresizeimages.online/zh/about)
-
-#### sing1ee(上海) - [Github](https://github.com/sing1ee)
-* :x: [Sora Video Downloader](https://soravideodownloader.com/)：从共享链接下载 Sora AI 生成的视频。获取原始提示和高质量视频文件
-
-### 2025 年 10 月 10 号添加
-#### Leo(成都) 
-* :white_check_mark: [Gemini Storybook Gallery](https://geministorybook.gallery/)：Gemini Storybook 汇总，分类，保留原生的交互式阅读体验
-
-#### Ethan Sunray
-* :white_check_mark: [TO MD](https://tomd.io)：将 Word、PDF、表格、演示、网页、图片、音频、压缩包、代码、RSS 和网址转成结构化的 Markdown，秒级转换，无需注册，长期免费，注重隐私与安全。
-
-#### Archer(北京)
-* :white_check_mark: [AI照片渲染](https://www.aimage.top/)：🔥上传任意照片就能快速生成各种风格的头像，轻松满足所有社交平台的头像需求
-
-### 2025 年 10 月 9 号添加
-#### 黑查理(长沙) - [Github](https://github.com/clhey), [博客](https://ruanzhubao.com)
-* :white_check_mark: [软著宝](https://ruanzhubao.com)：AI 生成全套软著材料（包括 8 张软件截图、详细图文文档鉴别材料、60 页原创源代码等）- [更多介绍](https://ruanzhubao.com/blogs/ruanzhubao-shuomingshu)
-
-### 2025 年 10 月 7 号添加
-#### Ryan
-* :white_check_mark: [图像去模糊](https://unblurimg.ai/)：用人工智能技术消除图像模糊，恢复清晰度和细节。即时提升照片清晰度，修复模糊照片，提高分辨率
-
-#### Jali - [Github](https://github.com/qqxufo)
-* :white_check_mark: [NanaVis](https://nanavis.com/zh)：Nano Banana 驱动的 AI 图片编辑工具
-
-### 2025 年 10 月 5 号添加
-#### Leon(杭州)
-* :white_check_mark: [AI-NanoBanana](https://www.ai-nanobanana.net/)：AI 图像工作室，让你轻松把创意变成高质量视觉作品
-
-### 2025 年 10 月 4 号添加
-#### pillow(重庆)
-* :white_check_mark: [Teleprompter](https://teleprompteronline.org)：提词器，适用于视频创作者、演讲者和教育工作者
-
-#### 詹姆斯 周
-* :white_check_mark: [sora2ai.ai](https://sora2ai.ai)：最新的 AI 视频生成模型。创建具有同步音频、对话和效果的逼真且物理准确的视频。
-
-#### fanison(北京)
-* :white_check_mark: [NanoImg](https://nanoimg.net/)：基于 Nano Banana 的 AI 图像引擎，带来简单高效的图片编辑体验。上传图片，输入需求，即刻生成你想要的视觉效果。
-
-### 2025 年 10 月 2 号添加
-#### SUNJL（长春）：
-* :white_check_mark: [AI Lyrics Generator](https://ai-lyrics-generator.net/)：AI 歌词生成 & 改进
-
-#### Margox(北京) - [Github](https://github.com/margox)
-* :white_check_mark: [萌宠计划（iOS）](https://apps.apple.com/cn/app/%E8%90%8C%E5%AE%A0%E8%AE%A1%E5%88%92-%E5%AE%A0%E7%89%A9%E6%97%A5%E8%AE%B0%E4%B8%8E%E6%B6%88%E8%B4%B9%E8%AE%B0%E8%B4%A6/id6748669989)：清新易用的宠物陪伴管家，包含宠物档案、图文日记、消费记账等功能
-
-### 2025 年 10 月 1 号添加
-#### Yuzu-Peel(北京) - [Github](https://github.com/Yuzu-Peel)
-* :white_check_mark: [Beardstyle AI](https://beardstyle.org/)：虚拟试戴胡子
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
