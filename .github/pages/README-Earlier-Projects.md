@@ -6,6 +6,78 @@
 
 ---
 
+### 2025 年 11 月 10 号添加
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+* :white_check_mark: [musci](https://musci.io)：music 生成平台
+
+#### randompaga - [Github](https://github.com/randompaga)
+* :white_check_mark: [Sora 2](https://forvideo.ai/sora2)：For Video AI 一站式视频生成平台，使用Sora 2、Sora 2 Pro、Sora 2 Storyboard、Veo 3.1、Veo 3、Wan 2.5、Wan 2.2、Kling AI、Hailuo AI、Midjourney Video创建带音频的视频。
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :white_check_mark: [nanobana.net](https://github.com/1c7/chinese-independent-developer/issues/url)：AI 图像、视频生成平台网站，集合了目前世界最先进的模型，如：Nano banana、sora2 等
+
+### 2025 年 11 月 8 号添加
+#### Ri-vai - [Github](https://github.com/Ri-vai)
+* :white_check_mark: [ai world generator](https://aiworldgenerator.com/)：用文本和照片生成自然风光视频的 AI 工具网站
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [novavideo.ai](https://novavideo.ai/)：使用领先的图片转视频 AI 模型和热门视频特效模板，将照片转化为视频
+
+#### ncgg-cyber - [Github](https://github.com/ncgg-cyber)
+* :white_check_mark: [gempix-2](https://gempix-2.org/)：收录最新的 gempix-2 模型新闻，并第一时间提供 gempix-2（nano banana2) 模型体验
+
+#### zhang xinke - [Github](https://github.com/zxk1323)
+* :white_check_mark: [photo to prompt](https://phototoprompt.org/)：将图片转化为提示词，以及图像生成
+
+#### 菩提尘埃(厦门) - [Github](https://github.com/waterlines)
+* :white_check_mark: [TAO tracker](https://taotracker.org)：TAO 子网交易监控与快捷导航工具
+
+### 2025 年 11 月 5 号添加
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [Telegram AI助手](https://t.me/iMessageAI_bot)：Telegram ChatGPT 机器人(完全免费、没有广告)，GPT-4o-mini 模型，支持图片识别，在 Telegram 中给 @iMessageAI_bot 发消息即可使用。
+
+#### Shawn (北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
+* :white_check_mark: [Syncvoice](https://www.syncvoice.ai/)：声音克隆(超逼真)，文本转语音，支持 8 种语言，不同语言转语音保留克隆声音的独特音色
+
+#### xxk1323
+* :white_check_mark: [ai image combine](https://aiimagecombine.com/) : AI 图像站，预设了一些场景的 prompt ，不用编写复杂的 prompt 直接使用
+
+#### 翟应康(深圳)
+* :white_check_mark: [Create Custom Graffiti Art Online ](https://graffiti-generator.org)：自定义涂鸦艺术(免费，不限次数)
+
+### 2025 年 11 月 4 号添加
+#### ljxyaly(深圳)
+* :white_check_mark: [Rednote Video Download](https://www.rednote-video-download.com)：Rednote (小红书) 视频、图片去水印下载（免费、不限次数）
+
+#### Roger Zhang (上海)
+* :white_check_mark: [StreamWindow](https://apps.apple.com/cn/app/streamwindow/id6752313155?mt=12) : macOS 平台全新设计的 3D 窗口管理应用，基于轻量级 3D 办公理念，直观，所见即所得，拥有更漂亮、更炫酷的界面，丰富可玩性，增加乐趣。
+
+#### 出逃向量（杭州）
+* :white_check_mark: [厕所淘金](https://github.com/user-attachments/assets/c9dc2625-202b-4bb6-96af-7ed4e5d4c23c)：带薪拉屎计薪器，记录你每一次拉屎摸鱼所得报酬，可视化每一次拉屎的价值 - [更多介绍](https://apps.apple.com/cn/app/toilet-pay/id6752701889)
+
+### 2025 年 11 月 3 号添加
+#### Ricky Lee(深圳) 
+* :white_check_mark: [KidsBedroomIdeas](https://kidsbedroomideas.org/)：AI 驱动的儿童房设计工具，根据孩子的年龄、兴趣和喜好颜色，即时生成个性化创意儿童房设计
+
+### 2025 年 11 月 2 号添加
+#### Lee - [GitHub](https://github.com/lkunxyz)
+* :white_check_mark: [Seedream Image Generator](https://seedreamimage.com/)：Seedream 图片生成
+
+#### LexTang(上海) - [Github](https://github.com/lexrus)
+* :white_check_mark: [SwiftyMenu](https://apps.apple.com/app/swiftymenu/id1567748223)：Finder 扩展自定义菜单，脚本执行、快速打开各种命令行工具。
+* :white_check_mark: [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814)：快捷键开关 Mac 蓝牙设备，脚本触发，低电量提醒。
+* :white_check_mark: [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762)：为 Mac 提供 command+x, command+v 剪切文件的功能。
+* :white_check_mark: [LiveExtractor](https://apps.apple.com/app/liveextractor/id6746672642)：导出实况照片里的照片和视频的小工具。
+* :white_check_mark: [RegEx+](https://apps.apple.com/app/regex/id1511763524)：调试正则表达试的 app。
+
+### 2025 年 11 月 1 号添加
+#### Yif(上海)
+* :white_check_mark: [Magic Animal Generator](https://animalgenerator.net/)：尽情发挥你的想象力 用 AI 混合两种动物，创造前所未见的新物种
+
+### 2025 年 10 月 31 号添加
+#### dodid
+* :x: [ReadTube](https://apps.apple.com/cn/app/readtube-youtube-video-summary/id6752214777)：Youtube 视频转文字总结、幻灯片总结、AI 优化文字稿
+
 ### 2025 年 10 月 30 号添加
 #### zxcHolmes
 * :white_check_mark: [FilingInsight](https://filing-insight.com/)：快速解读美股财报的 AI 工具，1 万多份财报解读，多语言支持，免费阅读
