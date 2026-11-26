@@ -16,7 +16,29 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 26 号添加
+
+#### zhayujie - [GitHub](https://github.com/zhayujie)
+* :white_check_mark: [CowAgent](https://cowagent.cn/)：开源的个人 AI 助理与 Agent Harness，能规划任务、调用工具和技能，靠长期记忆与知识自进化；支持多智能体协作，可接入微信、飞书、钉钉等聊天工具和 DeepSeek、Claude、Qwen 等模型，桌面客户端、手机 App 或源码自部署皆可 — 免费开源
+
+#### Hejk - [Github](https://github.com/Hejk)
+* :white_check_mark: [K3.1 Studio](https://kimik3pro.com)：面向前端开发者的独立 AI 工作台，可将界面截图转成 React 代码，也支持上传项目源码进行跨文件审查
+
+#### SocialToAI 团队 - [GitHub](https://github.com/social-to-ai)
+* :white_check_mark: [SocialToAI](https://socialtoai.com)：给 AI 用的社媒数据 MCP 服务，在 Claude、ChatGPT、Cursor 里登录授权就能读小红书、抖音、微博、B 站、Reddit、X 等 18 个平台的公开内容，不用复制 Key - [更多介绍](https://socialtoai.com/mcp/)
+
+#### Jack Yang(北京) - [GitHub](https://github.com/apivale)
+* :white_check_mark: [APIVALE](https://apivale.com)：面向开发者的 OpenAI/Anthropic 兼容 AI API 网关，一个端点按量调用 DeepSeek-V4.1 Flash、Qwen 3.8 Max、GLM-5.3 与 Kimi K3，支持 PayPal 与国际信用卡 - [使用指南与示例](https://github.com/apivale/apivale-guides)
+* :white_check_mark: [esp32-deepseek-client](https://github.com/bshx2024/esp32-deepseek-client)：ESP32 / ESP32-S3 轻量级大模型客户端（PlatformIO C++ 与 MicroPython 双版本），内置内存防溢出控制，MIT 开源
+
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [@hmkit/validator](https://ohpm.openharmony.cn/#/cn/detail/@hmkit%2Fvalidator)：面向 HarmonyOS NEXT 和 OpenHarmony 的开源校验库，用一套 Schema 校验表单、嵌套对象和接口数据，支持异步规则，也能在 ArkUI 表单里按字段展示错误；核心库无第三方运行时依赖，可通过 ohpm install @hmkit/validator 安装 - [GitHub 源码](https://github.com/lxshwyan/harmony-validator)
+* :white_check_mark: [微言物联网平台](https://gitee.com/lxsh_wyan/wyan-iot)：面向中小项目的开源物联网平台。可以定义设备要上报哪些数据，接入设备后查看实时值和历史曲线、配置告警，也能下发控制命令并查看设备回读。支持自行部署，目前为 0.1.x 预发布版
+
 ### 2026 年 11 月 25 号添加
+
+#### WestlakeNLP（西湖大学） - [GitHub](https://github.com/LikC1606)
+* :white_check_mark: [TheoremOS](https://github.com/HuggingMath/theorem-os)：开源 Lean 4 数学研究工作台与 Linux CLI，可对照原题和 Lean 陈述、查看证明候选的报错，配有无需模型密钥的本地复跑示例 - [更多介绍](https://github.com/HuggingMath/theorem-os/blob/caca289fd74c611d3b13f066d9380693d43485da/docs/web-workbench.md)
 
 #### fubuki363 - [Github](https://github.com/fubuki363)
 * :white_check_mark: [CSV 明细对账](https://skillpay.alipay.com/shelf/product?productId=P0806000214839841&merchantCode=csv-data-tools)：在本机按 SKU 或订单号核对两份 CSV，需要 Python 3.9 或更新版本，9.90 元买断
