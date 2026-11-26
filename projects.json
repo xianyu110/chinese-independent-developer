@@ -1,5 +1,135 @@
 [
   {
+    "name": "OhMyShot",
+    "url": "https://www.ohmyshot.org/",
+    "status": "online",
+    "description": "原生 macOS 截图、录屏、标注、贴图与端侧 OCR 工具，内置 Studio 自动缩放剪辑、四向滚动截屏、公式转 LaTeX 与 CleanShot X 兼容 URL 自动化，免费且 GPL-3.0 开源（Apple 芯片，macOS 26+） - [GitHub](https://github.com/MMFoundation/OhMyShot)",
+    "author": "Morax - [GitHub](https://github.com/fzlzjerry), [博客](https://moraxcheng.me)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "泊记 ParkMemo",
+    "url": "https://apps.apple.com/us/app/id6839172847",
+    "status": "online",
+    "description": "iPhone 与 Apple Watch 停车记录 App，保存照片、楼层、区域和备注，照片文字在 iPhone 本机识别；手表可独立记录文字与可用坐标，恢复连接后同步；无账号、广告和订阅，简体中文界面，美区 US$1.99 一次买断（仅提供美区下载入口） - [更多介绍](https://parkmemo-support.netlify.app/)",
+    "author": "Javon - [GitHub](https://github.com/hellocodesha)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "MRR Bench",
+    "url": "https://mrrbench.com",
+    "status": "online",
+    "description": "把四千多个 SaaS 的定价页每天读一遍，记录每一档价格和改价日期。可以查一个工具改过几次价、是涨还是降、中位入门价多少，也能按价格区间找同类工具。免费查看，不用注册",
+    "author": "liuqianyu885 - [GitHub](https://github.com/liuqianyu885)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AutoMD",
+    "url": "https://automd.macnie.com",
+    "status": "online",
+    "description": "本地 Markdown 阅读器与轻量编辑器，免费、无广告，把文件夹收成工作区做知识库，支持静读、Git 提交与推送，可导出 PDF、Word、HTML、长图和 TXT — Windows",
+    "author": "东林先生（侯哥）",
+    "authorGithub": "",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "锦囊匣（Jnbox）",
+    "url": "https://liangyouyiji.com/product/workbench?utm_source=github_indiecn",
+    "status": "online",
+    "description": "给运营、销售和客服用的网页自动化工作台。收到表单后可按条件分派，交负责人确认，再写入台账并查看运行结果",
+    "author": "锦囊匣团队 - [GitHub](https://github.com/liangyouyiji-dev)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "ImageToPrompts",
+    "url": "https://imagetoprompts.io/",
+    "status": "online",
+    "description": "AI 图片转提示词工具，上传图片或输入公开图片 URL，即可生成可编辑的绘图提示词；支持 Midjourney、FLUX、JSON 等格式，每天无需登录可免费生成 3 条",
+    "author": "zty5678",
+    "authorGithub": "https://github.com/zty5678",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "PayChacha",
+    "url": "https://paychacha.com/zh/",
+    "status": "online",
+    "description": "网站收款进件自查工具，输入网址即可看到 Stripe、PayPal 等支付机构可能把网站归为哪类商户（MCC）、有哪些风险标记、经营主体和退款政策等进件资料还缺什么，并按访客所在市场推荐当地常用的支付方式，免费使用，中英双语",
+    "author": "Phillip - [GitHub](https://github.com/imphillip)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "LogoXD",
+    "url": "https://logoxd.com",
+    "status": "online",
+    "description": "AI Logo 设计工具，先看风格示例，再填写品牌名称、行业、图形构想和配色。生成前可查看所需积分，完成后可下载 PNG。目前已开放内测",
+    "author": "Sunzenki - [GitHub](https://github.com/Sunzenki)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "StagePeek",
+    "url": "https://stagepeek.live/zh-CN/",
+    "status": "online",
+    "description": "演唱会 2D 座位图与 3D 舞台视野模拟器，覆盖全球 201 座体育场与巨蛋，购票前输入区排座即可预览 1.18 米坐姿视线与 1x–10x 手机变焦视角，免登录免费浏览 - [GitHub](https://github.com/Hinstein/StagePeek)",
+    "author": "Hinstein - [GitHub](https://github.com/Hinstein)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "English in Telugu Typing",
+    "url": "https://englishintelugutyping.com/",
+    "status": "online",
+    "description": "免费泰卢固语 Unicode 输入工具，用英文字母拼写 Telugu 单词、选择候选后复制，或下载 TXT / 可编辑 DOCX；英文界面，无需注册",
+    "author": "zhangxingmao（项目维护者） - [GitHub](https://github.com/zhangxingmao)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "一篇 V2Note",
+    "url": "https://v2note.cn/",
+    "status": "online",
+    "description": "音视频转图文工具。上传口播录音或视频，也可粘贴抖音、小红书、B 站等第三方平台的公开视频链接，生成可编辑的文章初稿。每篇可自选风格，免费生成首张精美封面",
+    "author": "wyx2333333",
+    "authorGithub": "https://github.com/wyx2333333",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "圆明园数字复原计划",
+    "url": "https://ivan666jjj.github.io/yuanmingyuan-restoration/",
+    "status": "online",
+    "description": "把 1860 年前的圆明园一块一块拼回来的开放复原图册，77 景清单已复原 15 景，每景附史料出处与生成提示词",
+    "author": "严毓焕(北京)",
+    "authorGithub": "https://github.com/Ivan666jjj",
+    "date": "2026 年 11 月 26 号添加",
+    "category": "main"
+  },
+  {
+    "name": "AI Img2Img",
+    "url": "https://aiimg2img.net",
+    "status": "online",
+    "description": "AI 图片生成与编辑工具，集成多种主流 AI 图像模型，无需登录、无需设计技能，通过自然语言描述即可生成、编辑图片和转换图片风格",
+    "author": "DDC（南昌） - [GitHub](https://github.com/tangde2025)",
+    "authorGithub": "",
+    "date": "2026 年 11 月 25 号添加",
+    "category": "main"
+  },
+  {
     "name": "刺猬关系",
     "url": "https://hilingge.redboook.cn/",
     "status": "online",
@@ -1413,7 +1543,7 @@
     "name": "inspace",
     "url": "https://opctoai.com/inspace",
     "status": "online",
-    "description": "地点攻略与故事网站，按地点查阅内容，并用一个空间链接分享攻略和记录 - [更多介绍](https://gist.github.com/lhq1363511234/fa7deee0b07eb516ddd03f4fd6b8cce1)",
+    "description": "地点攻略与互动庭院网站，在山寺漫游、进入殿堂、听钟点灯，也能浏览中英文攻略和分享空间链接；漫游与浏览无需注册 - [体验山寺](https://opctoai.com/inspace/lives?tab=temple) - [更多介绍](https://gist.github.com/lhq1363511234/fa7deee0b07eb516ddd03f4fd6b8cce1)",
     "author": "lhq1363511234",
     "authorGithub": "https://github.com/lhq1363511234",
     "date": "2026 年 11 月 13 号添加",
@@ -16040,183 +16170,13 @@
     "category": "main"
   },
   {
-    "name": "Floaty",
-    "url": "https://www.floatytool.com/",
-    "status": "online",
-    "description": "让 macOS 任意窗口保持置顶的工具",
-    "author": "fayecat",
-    "authorGithub": "https://github.com/fayecat",
-    "date": "2025 年 11 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "banana-pro.com",
-    "url": "https://banana-pro.com/",
-    "status": "offline",
-    "description": "Banana Pro AI 图像、视频创作平台。整合了 Nano Banana Pro、Nano Banana 以及 Sora2 模型。它可以高效生成高分辨率图像（最高 4K）和流畅的视频，同时提供智能提示优化、角色一致性、对复杂场景的上下文理解等功能",
-    "author": "amierhan",
-    "authorGithub": "https://github.com/amierhan",
-    "date": "2025 年 11 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "免费在线硬件测试平台",
-    "url": "https://volumeshader.org/zh",
-    "status": "online",
-    "description": "GPU 测试，屏幕测试，FPS 测试，网络测试，摄像头检测，声音测试，鼠标测试，键盘测试",
-    "author": "huashengjieguo",
-    "authorGithub": "",
-    "date": "2025 年 11 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "今天记了么",
-    "url": "https://flingyp.online/posts/%E4%BB%8A%E5%A4%A9%E8%AE%B0%E4%BA%86%E4%B9%88.html",
-    "status": "online",
-    "description": "日常记录打卡目标的微信小程序。用科学打卡，让自律变成简单的日常",
-    "author": "flingyp(上海)",
-    "authorGithub": "https://github.com/flingyp",
-    "date": "2025 年 11 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "online-timer",
-    "url": "https://icebreaker-games.org/online-timer",
-    "status": "online",
-    "description": "会议计时器，让您的站会、研讨会和演讲保持高效，按时进行。",
-    "author": "lucen",
-    "authorGithub": "",
-    "date": "2025 年 11 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "可愛い絵文字と顔文字",
-    "url": "https://kawaiiemoji.com/",
-    "status": "online",
-    "description": "可愛い絵文字と顔文字网站，精选的可爱表情符号和表情文字合集，用于SNS社交媒体和聊天消息。",
-    "author": "SoftRoyals",
-    "authorGithub": "",
-    "date": "2025 年 11 月 25 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Nano Banana Pro",
-    "url": "https://nanobananapro.art/",
-    "status": "online",
-    "description": "AI 图像生成和编辑工具，支持4k画质生成,集成多种图像风格模版.",
-    "author": "rosicky(杭州)",
-    "authorGithub": "",
-    "date": "2025 年 11 月 23 号添加",
-    "category": "main"
-  },
-  {
-    "name": "公共网络记事本",
-    "url": "https://share-text.org/",
-    "status": "online",
-    "description": "网络记事本，支持创建，以及链接和二维码分享",
-    "author": "zhugezifang",
-    "authorGithub": "",
-    "date": "2025 年 11 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Word to Time Calculator",
-    "url": "https://wordtotime.org",
-    "status": "online",
-    "description": "根据稿子字数快速计算阅读，演讲，汇报时间的小工具",
-    "author": "pandaupup(广州)",
-    "authorGithub": "https://github.com/pandaupup",
-    "date": "2025 年 11 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "屿乐春城邮",
-    "url": "https://www.springcitypost.cn",
-    "status": "online",
-    "description": "真实信箱代理，轻松管理您的信件 - [更多介绍](https://www.springcitypost.cn/zh-CN/qna)",
-    "author": "Eminlin(厦门)",
-    "authorGithub": "https://github.com/eminlin",
-    "date": "2025 年 11 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Compare Two Word",
-    "url": "https://compare2word.com/",
-    "status": "online",
-    "description": "Word 文档在线对比工具，支持 Word, Excel, PDF, PPT, TXT，让文档比对变得简单、安全",
-    "author": "JL",
-    "authorGithub": "",
-    "date": "2025 年 11 月 20 号添加",
-    "category": "main"
-  },
-  {
-    "name": "批量域名检查",
-    "url": "https://domainschecker.top/",
-    "status": "offline",
-    "description": "提供域名年龄、可用性、历史记录，DNS 解析等功能的免费工具，支持 1000+ 顶级域名，可批量检查域名, 无需注册的综合域名分析平台",
-    "author": "Ronald",
-    "authorGithub": "",
-    "date": "2025 年 11 月 19 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Gif To Frames",
-    "url": "https://giftoframes.com/",
-    "status": "online",
-    "description": "将 GIF 图转换为每一帧，支持生成雪碧图，支持反向合成多张图片为 GIF 图，可控制时间间隔及尺寸",
-    "author": "basulee(上海)",
-    "authorGithub": "https://github.com/BasuLee",
-    "date": "2025 年 11 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "trygempix2.pro",
-    "url": "https://trygempix2.pro",
-    "status": "offline",
-    "description": "Gempix2、nanobanana2、flux、veo3.1 视频工具站（Free）",
-    "author": "levan(深圳)",
-    "authorGithub": "https://github.com/L-Evan",
-    "date": "2025 年 11 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "veo-ai.cloud",
-    "url": "https://veo-ai.cloud",
-    "status": "offline",
-    "description": "Veo 视频站（Free）",
-    "author": "levan(深圳)",
-    "authorGithub": "https://github.com/L-Evan",
-    "date": "2025 年 11 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "iaiapp.org",
-    "url": "https://iaiapp.org",
-    "status": "developing",
-    "description": "AI App 导航站 + 工具站（开发中，Free）",
-    "author": "levan(深圳)",
-    "authorGithub": "https://github.com/L-Evan",
-    "date": "2025 年 11 月 18 号添加",
-    "category": "main"
-  },
-  {
-    "name": "nanobanana2ai.art",
-    "url": "https://nanobanana2ai.art",
-    "status": "developing",
-    "description": "nanobanana2 模型壁纸工具站（开发中，Free）",
-    "author": "levan(深圳)",
-    "authorGithub": "https://github.com/L-Evan",
-    "date": "2025 年 11 月 18 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "levan(深圳)",
-    "authorGithub": "https://github.com/L-Evan",
-    "date": "2025 年 11 月 18 号添加",
+    "author": "klemperer",
+    "authorGithub": "https://github.com/klemperer/binglish",
+    "date": "2025 年 11 月 26 号添加",
     "category": "main"
   },
   {
@@ -16224,9 +16184,9 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "levan(深圳)",
-    "authorGithub": "https://github.com/L-Evan",
-    "date": "2025 年 11 月 18 号添加",
+    "author": "klemperer",
+    "authorGithub": "https://github.com/klemperer/binglish",
+    "date": "2025 年 11 月 26 号添加",
     "category": "main"
   },
   {
@@ -16234,9 +16194,9 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "levan(深圳)",
-    "authorGithub": "https://github.com/L-Evan",
-    "date": "2025 年 11 月 18 号添加",
+    "author": "klemperer",
+    "authorGithub": "https://github.com/klemperer/binglish",
+    "date": "2025 年 11 月 26 号添加",
     "category": "main"
   },
   {
@@ -16244,9 +16204,9 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "levan(深圳)",
-    "authorGithub": "https://github.com/L-Evan",
-    "date": "2025 年 11 月 18 号添加",
+    "author": "klemperer",
+    "authorGithub": "https://github.com/klemperer/binglish",
+    "date": "2025 年 11 月 26 号添加",
     "category": "main"
   }
 ]
