@@ -16,6 +16,19 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 28 号添加
+
+#### Exam Cram Coach 团队 - [GitHub](https://github.com/ZeKaiNie/universal-examprep-skill)
+* :white_check_mark: [期末极速备考教练](https://github.com/ZeKaiNie/universal-examprep-skill)：装进 Claude Code、Codex、Cursor 等编程智能体的复习技能，用你自己的课件、作业和往年卷一道一道讲题，每道解答从公式表写起，讲完出一道只改一个条件的变形题，再逐行对照得分步骤检查你的答案；句句标出处，离线运行，免费开源
+
+#### Qiaohan - [GitHub](https://github.com/porcelaintech)
+* :white_check_mark: [Pararepo](https://github.com/porcelaintech/pararepo-releases)：在同一仓库并行使用多个编程 Agent 时，每项任务在独立 Git 工作树中完成；在 Mac 看板上核对哪些改动已经接收，在原对话查看结果；支持 Apple 芯片 Mac，提供简体中文和英文版本 - [当前版本与安装说明](https://github.com/porcelaintech/pararepo-releases/releases/tag/v0.2.0)
+
+### 2026 年 11 月 27 号添加
+
+#### Jerry - [Github](https://github.com/jerry-token)
+* :white_check_mark: [SerialBot](https://github.com/jerry-token/serialbot)：内置 MCP 的跨平台串口调试助手，Claude Code、Codex 等 AI 编程工具可直接打开串口收发、等待设备输出，写入前可逐条确认；支持 TCP/UDP、波形、XMODEM/YMODEM 发固件和命令行版 — 免费开源 - [更多介绍](https://serialbot.aiany.cc)
+
 ### 2026 年 11 月 26 号添加
 
 #### zhayujie - [GitHub](https://github.com/zhayujie)
